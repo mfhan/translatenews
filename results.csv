@@ -1,0 +1,21 @@
+,language,text,label,score
+0,chinese,"""Live Broadcast: Press Conference of the Second Session of the 14th National Committee of the Chinese People's Political Consultative Conference""",neutral,0.9065374732017517
+1,chinese,The 14th National People's Congress will hold a press conference at 12:00 on March 4th.,neutral,0.8165149688720703
+2,chinese,"""CPPCC Member Zhang Xingying: China Takes Multiple Measures to Promote the Construction of a Fair, Reasonable, and Win-Win Global Climate Governance System""",positive,0.5733625888824463
+3,chinese,"""Scientific research in the Three-River-Source Region will bring wild animals back into the public eye""",positive,0.5725695490837097
+4,chinese,"""Kaili, Guizhou: Miao People Celebrate ""Gannang Xiang"" Reed Pipe Festival""",positive,0.5600460767745972
+5,chinese,"Ministry of Agriculture and Rural Affairs: Pearl River, Huai River and other basins enter a four-month spring fishing ban period",negative,0.5484834313392639
+6,chinese,"""Tax Cuts and Fee Reduction Benefits ""in the Bag"" to Support Enterprise Innovation and Development""",neutral,0.65398770570755
+7,chinese,"""Two Sessions"" Attracts Attention, International Experts Believe Chinese-style Modernization Will Bring More Benefits to the World",positive,0.684257984161377
+8,chinese,"""Strong, Fast, and Warm: Multiple Fields Release Positive Signals of Stable and Positive Development""",positive,0.6648572683334351
+9,chinese,"""Why is ""New Chinese Style"" Clothing in High Demand?""",negative,0.661514401435852
+10,arabic,"""War on Gaza: Intense Bombing in the Southern Region and Anticipated Talks in Cairo Regarding Ceasefire""",negative,0.8140579462051392
+11,arabic,"""Despite Netanyahu's Anger, Harris Meets with Gantz Tomorrow to Discuss the Gaza War""",neutral,0.7233844995498657
+12,arabic,"""Despite Netanyahu's Anger, Harris to Meet with Gantz Tomorrow to Discuss the Gaza War""",neutral,0.7123147249221802
+13,arabic,"""Occupation Admits Killing 3 Soldiers in Gaza and Continues to Bomb Crowds Awaiting Aid""",negative,0.7867329120635986
+14,arabic,"""Trump Wins Republican Nomination in Missouri and Michigan States""",neutral,0.4794178009033203
+15,arabic,"""Washington: Gaza Aid Quantity is Insufficient and Airlifting is Not a Substitute for Land Delivery""",negative,0.800542414188385
+16,arabic,"""Discussions between the Emir of Qatar and the Iranian President in Algeria""",negative,0.6700534224510193
+17,arabic,"""Clashes between Palestinian security forces and resistance fighters in Jenin camp""",negative,0.6705206632614136
+18,arabic,"""Security Council expresses concern over the massacre at Al-Nabulsi Roundabout in Gaza""",negative,0.7151389718055725
+19,arabic,"""Germany Attracts Doctors from Southern Countries to Address Shortage in its Healthcare Sector""",neutral,0.6103370785713196
