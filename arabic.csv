@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score
-0,arabic,"""War on Gaza.. New Massacres and Hamas Accuses Occupation of Confusion and Disarray""",negative,0.8731556534767151,-2
-1,arabic,"""Watch... Israeli Fire Hours on October 7th""",neutral,0.8772227168083191,1
-2,arabic,"""Watch... Israeli Fire Hours on October 7th""",neutral,0.8772227168083191,1
-3,arabic,"""Hamas affirms its seriousness in negotiations and reports of Israel boycotting the Cairo meeting""",negative,0.6726555228233337,-1
-4,arabic,"""Latest of it is what happened in Jenin.. Why does the security of the authority insist on pursuing resistance in the West Bank?""",negative,0.8939123749732971,-2
-5,arabic,"""Telegraph: Ben Ghafir banned from intelligence meetings after multiple leaks""",negative,0.7817686200141907,-2
-6,arabic,"""Watch... Al-Quds Brigades Blow Up Tank and Lure Israeli Forces into Ambush in Khan Yunis""",negative,0.45618706941604614,-1
-7,arabic,"""Two Massacres in Gaza Against Flour Seekers and Occupation Suffers New Losses""",negative,0.7924500703811646,-2
-8,arabic,"""10% of Casualties in Gaza Occupation are Americans... Information Ignites Social Media Sites""",neutral,0.4974104166030884,1
-9,arabic,"""Miner Al-Akash: The Fate of Native Americans and the Israeli Significance of America""",negative,0.7987781167030334,-2
+0,arabic,"""War on Gaza: Occupation intensifies shelling of Rafah and escalates in the West Bank""",negative,0.7897250652313232,-2
+1,arabic,"""Audio Recording Shows Israeli Soldiers Killing Two Prisoners in Gaza Despite Their Pleas for Help""",negative,0.7105048894882202,-2
+2,arabic,"""Audio Recording Shows Israeli Soldiers Killing Two Prisoners in Gaza Despite Their Pleas for Help""",negative,0.7105048894882202,-2
+3,arabic,"""US Vice President: What We See in Gaza is Devastating and a Ceasefire Must Be Declared...""",negative,0.9096364378929138,-2
+4,arabic,"""Hamas confirms its seriousness in negotiations and reports of Israel's boycott of the Cairo meeting""",negative,0.7062647342681885,-2
+5,arabic,"""The Latest Incident in Jenin.. Why Does the Authority Insist on Pursuing Resistance in the West Bank?""",negative,0.8271576166152954,-2
+6,arabic,"""Watch... Israeli Fire Hours on October 7th""",neutral,0.8772227168083191,1
+7,arabic,"""Telegraph: Ben Ghafir Banned from Intelligence Meetings After Several Leaks""",negative,0.7467102408409119,-2
+8,arabic,"""Watch... Al-Quds Brigades Blow Up Tank and Lure Israeli Forces into Ambush in Khan Yunis""",negative,0.45618706941604614,-1
+9,arabic,"""Miner Al-Akash: The Fate of Native Americans and the Israeli Meaning of America""",negative,0.7792729139328003,-2
