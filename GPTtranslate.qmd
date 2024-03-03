@@ -1,0 +1,232 @@
+---
+jupyter: python3
+---
+
+```{python}
+import pathlib
+import textwrap
+
+import google.generativeai as genai
+
+from IPython.display import display
+from IPython.display import Markdown
+
+
+def to_markdown(text):
+  text = text.replace('•', '  *')
+  return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
+```
+
+```{python}
+import openai
+import os
+import requests
+import bs4
+```
+
+```{python}
+os.environ['API_KEY'] = "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"
+```
+
+```{python}
+openai.api_key = os.getenv("API_KEY")
+```
+
+```{python}
+news_sites = {
+    "chinese" : ("https://cn.chinadaily.com.cn", "div.Home_content_Item_Text h1 a"),
+    "arabic": ("https://aljazeera.net", "h3.article-card__title")
+}
+print(news_sites["arabic"])
+```
+
+##DO NOT USE CELL BELOW
+
+```{python}
+# user_language = input("In what language are you interested in getting your news?")
+# selected_url = news_sites.get(user_language, "Language not supported")
+# print(selected_url)
+```
+
+```{python}
+#| scrolled: true
+# def fetch_headlines(language): 
+#     url, tag = news_sites.get(language, (None, None))
+#     response = requests.get(url)
+#     soup = bs4.BeautifulSoup(response.text, 'lxml')
+#     headlines = [h.getText() for h in soup.select(tag)[:10]]
+#     return headlines
+# selected_headlines = fetch_headlines(user_language)
+# print(selected_headlines)
+```
+
+```{python}
+
+def fetch_headlines():
+    headlines_by_language = {}
+    for language, (url, tag) in news_sites.items():
+        response = requests.get(url)
+        soup = bs4.BeautifulSoup(response.text, 'lxml')
+        headlines = [h.getText() for h in soup.select(tag)[:10]]
+        headlines_by_language[language] = headlines
+    return headlines_by_language
+fetch_headlines()
+```
+
+```{python}
+def translate_headlines(headlines_by_language):
+    translated_headlines = {}
+    for language, headlines in headlines_by_language.items():
+        translated_headlines[language] = []
+        for headline in headlines:
+            response = openai.Completion.create(
+                model="gpt-3.5-turbo-instruct",
+                prompt=f"Translate the following {language} headline into English: \"{headline}\"",
+                temperature=0.3,
+                max_tokens=60
+            )
+            translated_headline = response.choices[0].text.strip()
+            translated_headlines[language].append(translated_headline)
+    return translated_headlines
+headlines_by_language = fetch_headlines()
+translated_headlines = translate_headlines(headlines_by_language)
+```
+
+```{python}
+print(translated_headlines)
+```
+
+```{python}
+type(translated_headlines)
+```
+
+```{python}
+from transformers import pipeline
+
+def analyze_sentiment(translated_headlines):
+    sentiment_pipeline = pipeline("sentiment-analysis", model="cardiffnlp/twitter-xlm-roberta-base-sentiment")
+    sentiment_results = {}
+    
+    for language, headlines in translated_headlines.items():
+        language_results = []
+        for headline in headlines:
+            sentiment = sentiment_pipeline(headline)
+            sentiment_result = {
+                'text': headline,
+                'label': sentiment[0]['label'],
+                'score': sentiment[0]['score']
+            }
+            language_results.append(sentiment_result)
+        sentiment_results[language] = language_results
+    
+    return sentiment_results
+
+# Example usage:
+# translated_headlines = translate_headlines(headlines_by_language)
+# sentiment_analysis_results = analyze_sentiment(translated_headlines)
+```
+
+```{python}
+from transformers import pipeline
+
+def analyze_sentiment_and_print(translated_headlines):
+    sentiment_pipeline = pipeline("sentiment-analysis", model="cardiffnlp/twitter-xlm-roberta-base-sentiment")
+    
+    for language, headlines in translated_headlines.items():
+        print(f"Language: {language}")
+        for headline in headlines:
+            sentiment = sentiment_pipeline(headline)
+            print(f"Headline: '{headline}'")
+            print(f"Label: {sentiment[0]['label']}, Score: {sentiment[0]['score']:.2f}")
+            print("---")  # Separator for readability
+
+# Assuming translated_headlines is your dictionary of translated headlines
+analyze_sentiment_and_print(translated_headlines)
+```
+
+```{python}
+#turn each set of translated headlines into a dataframe that can be saved as CSV  
+#consider AUTOMATING the scraping and translating every hour (GitHub Actions)
+#visualize 
+```
+
+
+
+
+
+
+```{python}
+#pseudocode:
+# "fetch_headlines" function should take the news_sites object
+# then take the first part of the tuple for each key-value pair 
+# for url in news_list:
+# response = requests.get(url)
+#   soup = bs4.BeautifulSoup(response.text, 'lxml')
+#   headlines = [h.getText() for h in soup.select(tag)[:10]]
+#   return headlines with the language (key) prepended 
+```
+
+```{python}
+#let's write the function to LOOP thru the news_sites, find the headlines and SPIT OUT several arrays of headlines 
+# def fetch_headlines(news_sites): 
+#     url, tag = news_sites.get(language, (None, None))
+#     if not url:
+#         print('language not supported')
+#         return
+#     response = requests.get(url)
+#     soup = bs4.BeautifulSoup(response.text, 'lxml')
+
+#     headlines = [h.getText() for h in soup.select(tag)[:10]]
+#     return headlines
+# selected_headlines = fetch_headlines(user_language)
+# #print(selected_headlines)
+```
+
+```{python}
+#translate headlines into English using OpenAI
+def create_prompt(headlines):
+    joined_headlines = "\n".join(headlines)
+    prompt = f"Translate the following headlines into English: \n{joined_headlines}"
+    return prompt
+print(create_prompt(selected_headlines))
+
+```
+
+```{python}
+prompt = create_prompt(selected_headlines)
+response = openai.Completion.create(
+    model = 'gpt-3.5-turbo-instruct',
+    prompt = prompt, 
+    temperature = 0.1,
+    max_tokens =200
+)
+
+#previously used: text-davinci-003
+#then: gpt-3.5-turbo-instruct
+#then: gpt-4 -- not appropriate 
+
+#temp == the output should be similar in tone to the original
+body = response['choices'][0]['text']
+type(body)
+print(body)
+```
+
+
+```{python}
+# What I'm going to work next: 
+# Find free websites in German, French, Spanigh, Russian
+# Create openai prompt to find tags
+# Test the prompts 
+```
+
+```{python}
+# What I'm going to work next: 
+# Find free websites in German, French, Spanish, Russian
+# Translate all the main headlines 
+# Do a sentiment analysis on the headlines using a LLM
+# calculate the avg and median scores for each language
+#COMPARE the total score for each language's website 
+```
+
+
+

@@ -1,0 +1,11 @@
+.env
+.venv 
+GPTdf-gemini.ipynb       
+GPTdf-manual.ipynb       
+GPTtranslate.ipynb       
+clean_GPTscrape.ipynb   
+GPTscrape.ipynb         
+GPTviz-gemini.ipynb      
+wider_GPTscrape.ipynb
+GPTviz-mistral.ipynb
+GPTtrans-sentiment.ipynb
