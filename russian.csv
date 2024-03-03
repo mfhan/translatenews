@@ -1,0 +1,11 @@
+,language,text,label,score,categ_score
+0,russian,"""Assad declares that Syria's preferences in the Russian presidential election are evident""",neutral,0.5216777324676514,1
+1,russian,"""Shehbaz Sharif chosen as Pakistan's new prime minister — PTV News""",neutral,0.5745922923088074,1
+2,russian,"""Hamas claims possibility of truce agreement with Israel in 24-48 hours, according to agency""",neutral,0.7492167353630066,1
+3,russian,"""Russian forces have eliminated more than 250 Ukrainian troops in the southern Donetsk area in the past day""",negative,0.6883344650268555,-1
+4,russian,"""Six Militants Killed in Special Counter-Terrorist Operation in Russia's Ingushetia Region""",negative,0.7176731824874878,-2
+5,russian,"""Germany hopes for quick results of investigation into leaked military conversation""",neutral,0.5460392236709595,1
+6,russian,"""38 Drones Destroyed by Air Defense Systems Overnight in Crimea""",negative,0.8075833916664124,-2
+7,russian,"""UNSC approves statement condemning Israeli attack on civilians in Gaza Strip""",negative,0.6078254580497742,-1
+8,russian,"""85% of Russians Say Putin Has a Clear Plan for the Country's Development""",neutral,0.5530210137367249,1
+9,russian,"""Press review: Putin outlines Russia's future vision and Kiev rejects possibility of peace""",negative,0.7937116026878357,-2
