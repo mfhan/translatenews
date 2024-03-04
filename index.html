@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Headlines Visualization</title>
+    <style>
+      #visualizationContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+      }
+
+      iframe {
+        margin: 10px;
+        width: calc(33% - 20px);
+        /* Adjust the width percentage as needed */
+        max-width: 400px;
+        /* Maximum width to prevent distortion */
+        height: auto;
+      }
+
+      .btn-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+      }
+
+      button {
+        margin: 5px;
+        padding: 8px 12px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+
+      .btn-container button {
+        display: inline-block;
+        /* Ensure the "CLEAR" button is displayed inline */
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>News, Languages and Sentiment</h1>
+    <div class="intro" contenteditable="true">
+      <h3>Your Quick Introduction Here</h3>
+    </div>
+    <div class="sources" contenteditable="true">
+      <h3>Sources:</h3>
+      <ul>
+        <li>Source 1</li>
+        <li>Source 2</li>
+        <li>Source 3</li>
+      </ul>
+    </div>
+
+    <div class="super-div">
+      <div class="btn-container">
+        <button onclick="loadVisualization('5zkma')">Chinese</button>
+        <button onclick="loadVisualization('sb07L')">Arabic</button>
+        <button onclick="loadVisualization('1vL1d')">Russian</button>
+        <button onclick="loadAllVisualizations(['5zkma', 'sb07L', '1vL1d'])">ALL</button>
+        <button onclick="clearVisualizations()">CLEAR</button>
+      </div>
+      <div id="visualizationContainer"></div>
+    </div>
+    <script>
+      function loadVisualization(chartId) {
+        const container = document.getElementById('visualizationContainer');
+        const iframe = document.createElement('iframe');
+        iframe.title = 'News Sentiment Visualization';
+        iframe.setAttribute('aria-label', 'Bar Chart');
+        iframe.id = `datawrapper-chart-${chartId}`;
+        iframe.src = `https://datawrapper.dwcdn.net/${chartId}/1/`;
+        iframe.scrolling = 'no';
+        iframe.frameBorder = 0;
+        iframe.style.height = '495px';  // Adjust height as needed
+
+        container.appendChild(iframe);
+
+        // Auto-adjust height of the iframe based on content
+        window.addEventListener('message', (event) => {
+          if (event.data['datawrapper-height']) {
+            const height = event.data['datawrapper-height'][chartId] + 'px';
+            iframe.style.height = height;
+          }
+        });
+      }
+
+      function loadAllVisualizations(chartIds) {
+        const container = document.getElementById('visualizationContainer');
+        container.innerHTML = '';  // Clear previous visualizations if any
+
+        chartIds.forEach((chartId) => {
+          loadVisualization(chartId);
+        });
+      }
+
+      function clearVisualizations() {
+        const container = document.getElementById('visualizationContainer');
+        container.innerHTML = '';  // Clear all visualizations
+      }
+    </script>
+  </body>
+
+</html>

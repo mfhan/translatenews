@@ -1,33 +1,40 @@
+YAML
+
 name: daily
+
+# Schedule to run every 6 hours:
 on:
-  # Schedule to run every 6 hours:
   schedule:
-    - cron: "0 */6 * * *" # Runs at the beginning of every 6th hour (0, 6, 12, 18)
+    - cron: "0 */6 * * *"  # Runs at the beginning of every 6th hour
 
 permissions:
-  contents: write
+  contents: write  # Request write permissions to the repository
 
 jobs:
   daily:
     runs-on: ubuntu-latest
 
-    # Use the latest version of actions/checkout instead of "v2"
+    # Install dependencies
     steps:
-      - uses: actions/checkout@latest
-      - uses: actions/setup-python@latest
+      - uses: actions/checkout@v3  # Use a specific version for stable behavior
+      - uses: actions/setup-python@v3  # Use a specific version for stable behavior
         with:
-          python-version: "3.10"
+          python-version: "3.10"  # Specify the required Python version
       - run: pip install openai dotenv pathlib textwrap jupyter lxml pandas requests beautifulsoup4 playwright html5lib
-      # Remove unnecessary "install" step for beautifulsoup4
-      #- run: beautifulsoup4 install  # Already installed in the previous step
-      # Use jupyter notebook directly instead of converting to notebooks first
-      - run: jupyter notebook GPTdf-bylanguage.ipynb --execute
-      - run: jupyter notebook GPTdf-russian.ipynb --execute
-      # Updated commit and push commands
-      - run: |
-          git config user.name "Automated"
-          git config user.email "actions@users.noreply.github.com"
-          git add -A
-          timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || true
-          git push
+
+    # Execute Jupyter notebooks
+    - run: jupyter notebook GPTdf-bylanguage.ipynb --execute
+    - run: jupyter notebook GPTdf-russian.ipynb --execute
+
+    # Commit and push changes (optional)
+    - name: Commit and push changes (if any)
+      run: 
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || true
+        git push origin main  
+      # Push to main branch (replace with desired branch)
+      env:
+        SENTIMENT_ACCESS: ${{ secrets.SENTIMENT_ACCESS }}
