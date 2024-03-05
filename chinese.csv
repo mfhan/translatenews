@@ -1,11 +1,11 @@
-,language,text,label,score,categ_score
-0,chinese,"""Special Topic: Press Conference for the Second Session of the 14th National Committee of the Chinese People's Political Consultative Conference""",neutral,0.9126659035682678,1
-1,chinese,The 14th National People's Congress will hold a press conference at 12:00 on March 4th.,neutral,0.8165149688720703,1
-2,chinese,"""International Community Focused on China's Two Sessions, Awaiting Greater Contribution to Global Development""",positive,0.6414292454719543,2
-3,chinese,"""Shaanxi National Committee Members Shoulder the Heavy Responsibility of Representing the People of Qin, Eagerly Attending the National Conference in Beijing""",positive,0.5980495810508728,2
-4,chinese,"""Seize the Opportunities of the Era, Draw a Unified Circle Together - National Committee Members of the CPPCC Actively Fulfill their Duties, Providing Suggestions and Proposals""",positive,0.6313087940216064,2
-5,chinese,"""Li Jieyi: CPPCC Will Continue to Focus on Providing Suggestions and Efforts for China's Modernization Goals""",positive,0.6443715691566467,2
-6,chinese,"""Highlights of the first press conference of this year's two sessions have been announced""",positive,0.6359477639198303,2
-7,chinese,"""National Ear Care Day: 6 Questions and Answers to Help You Understand How to ""Love Your Ears""""",neutral,0.5507015585899353,1
-8,chinese,Liu Jieyi: China's Long-Term Positive Economic Trend Will Continue to Consolidate and Strengthen,positive,0.7818118333816528,3
-9,chinese,"The 14th National Committee of the Chinese People's Political Consultative Conference will hold three ""Member Channels"" during the 6-day session of the Second Session.",neutral,0.8381708860397339,1
+,language,text,label,score,categ_score,positive,negative,neutral
+0,chinese,"""Special Topic: Opening Ceremony of the Second Session of the 14th National Committee of the Chinese People's Political Consultative Conference""",neutral,0.9023157954216003,1,3,0,7
+1,chinese,Special Topic: Press Conference of the Second Session of the 14th National People's Congress,neutral,0.8832544684410095,1,3,0,7
+2,chinese,"""The 14th National People's Congress Second Session Opens on March 5th, Lasting 7 Days""",neutral,0.8371132612228394,1,3,0,7
+3,chinese,"""Two Sessions World Eye | Observing the Important Window of People's Democracy in China's Entire Process""",neutral,0.7583746314048767,1,3,0,7
+4,chinese,Ministry of Foreign Affairs: Welcome the business communities of all countries to continue strengthening cooperation with China.,positive,0.740382969379425,3,3,0,7
+5,chinese,"The first ""Committee Channel"" collective interview activity of the 14th National Committee of the Chinese People's Political Consultative Conference was held.",neutral,0.8889985680580139,1,3,0,7
+6,chinese,"""【100 Seconds of ""Seeing"" the Two Sessions】Arab Journalist Shows Off Chinese, Does Homework for Reporting on the Two Sessions""",neutral,0.7552474737167358,1,3,0,7
+7,chinese,"""World Watches Two Sessions: Foreign Media Views China's Two Sessions as a Vivid Display of Good Governance and Prosperity in Economy and Society""",positive,0.5655466914176941,2,3,0,7
+8,chinese,"""Executive of Chinese Companies: Cooperation in China's Green Economy and Low-Carbon Field has Become the ""Focus"" of Foreign Investment""",neutral,0.5626124739646912,1,3,0,7
+9,chinese,"""China's Two Sessions Gather Global Attention and Expectations, Experiencing China's Economic Vitality and Resilience""",positive,0.8117597699165344,3,3,0,7

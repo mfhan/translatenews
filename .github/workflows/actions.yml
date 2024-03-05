@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: "3.10" # Specify the required Python version
       - name: Install all necessary packages
-        run: pip install openai dotenv pathlib textwrap jupyter lxml pandas requests beautifulsoup4 playwright html5lib
+        run: pip install openai python-dotenv pathlib textwrap jupyter lxml pandas requests beautifulsoup4 playwright html5lib
 
       # Execute Jupyter notebooks
       - name: run notebook1
