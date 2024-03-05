@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Headlines Visualization</title>
+  </head>
+
+  <body>
+    <h1>News Headline Sentiments</h1>
+    <div>
+      <button onclick="loadVisualization('5zkma')">Chinese</button>
+      <button onclick="loadVisualization('sb07L')">Arabic</button>
+      <button onclick="loadVisualization('1vL1d')">Russian</button>
+      <button onclick="loadAllVisualizations(['5zkma', 'sb07L', '1vL1d'])">ALL</button>
+    </div>
+    <div id="visualizationContainer"></div>
+    <script>
+      function loadVisualization(chartId) {
+        const container = document.getElementById('visualizationContainer');
+        const iframe = document.createElement('iframe');
+        iframe.title = 'News Sentiment Visualization';
+        iframe.setAttribute('aria-label', 'Bar Chart');
+        iframe.id = `datawrapper-chart-${chartId}`;
+        iframe.src = `https://datawrapper.dwcdn.net/${chartId}/1/`;
+        iframe.scrolling = 'no';
+        iframe.frameBorder = 0;
+        iframe.style.width = '100%';
+        iframe.style.minWidth = '100% !important';
+        iframe.style.border = 'none';
+        iframe.height = '495';  // Adjust height as needed
+
+        container.appendChild(iframe);
+
+        // Auto-adjust height of the iframe based on content
+        window.addEventListener('message', (event) => {
+          if (event.data['datawrapper-height']) {
+            const height = event.data['datawrapper-height'][chartId] + 'px';
+            iframe.style.height = height;
+            console.log('Visualization height adjusted:', height);
+          }
+        });
+        iframe.onload = () => {
+          console.log('Visualization loaded successfully:', chartId);
+        };
+        iframe.onerror = (error) => {
+          console.error('An error occurred while loading the visualization:', error);
+        };
+      }
+
+      function loadAllVisualizations(chartIds) {
+        const container = document.getElementById('visualizationContainer');
+        container.innerHTML = '';  // Clear previous visualizations if any
+
+        chartIds.forEach((chartId) => {
+          loadVisualization(chartId);
+        });
+      }
+    </script>
+  </body>
+
+</html>
