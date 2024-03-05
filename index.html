@@ -7,6 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Headlines Visualization</title>
     <style>
+      html {
+        font-family: Arial, sans-serif;
+        /* Set Arial as the default font globally */
+      }
+
       #visualizationContainer {
         display: flex;
         flex-wrap: wrap;
@@ -46,15 +51,19 @@
 
   <body>
     <h1>News, Languages and Sentiment</h1>
-    <div class="intro" contenteditable="true">
-      <h3>Your Quick Introduction Here</h3>
+    <div class="intro" contenteditable="true" style="font-family: Arial, sans-serif; font-size: 14px; color: black;">
+      <h3>The news doesn't convey the same feeling across languages and countries.Click on any or all of the languages
+        below to compare the first 10 headlines scraped on major news sites. </h3>
     </div>
+
+
     <div class="sources" contenteditable="true">
-      <h3>Sources:</h3>
+      <h4>Sources:</h4>
       <ul>
-        <li>Source 1</li>
-        <li>Source 2</li>
-        <li>Source 3</li>
+        <li> Chinese: <a href="https://cn.chinadaily.com.cn" title="China Daily">China Daily</a>
+        </li>
+        <li>Arabic: <a href="https://aljazeera.net" title="Al Jazeera">Al Jazeera</a></li>
+        <li>Russian: <a href="https://tass.ru/" title="TASS">TASS</a></li>
       </ul>
     </div>
 
@@ -69,6 +78,52 @@
       <div id="visualizationContainer"></div>
     </div>
     <script>
+      // Update intro text on button click
+
+      // function updateIntroText() {
+      //   const intro = document.querySelector('.intro');
+      //   intro.textContent = 'Here are the results';
+      // }
+
+      // function updateIntroText() {
+      //   const intro = document.querySelector('.intro');
+      //   // Store the original styles before modifying the content
+      //   const originalStyles = window.getComputedStyle(intro);
+      //   // Update the content with the new text
+      //   intro.textContent = 'Here are the results';
+      //   // Apply the original styles to the updated content
+      //   intro.style.cssText = originalStyles.cssText;
+      // }
+
+
+      // function updateIntroText() {
+      //   const intro = document.querySelector('.intro');
+      //   // Update content
+      //   intro.textContent = 'Here are the results';
+      //   // Override conflicting styles (replace with actual conflicting properties)
+      //   intro.style.fontFamily = 'Arial, sans-serif'; // Ensure it matches the original font
+      //   intro.style.fontSize = '16px'; // Adjust if needed
+      //   intro.style.color = 'black'; // Set desired color
+      // }
+
+
+      // Define a global variable to store the intro text
+      let introText = '';
+      function updateIntroText() {
+        const intro = document.querySelector('.intro');
+        // Get the current intro text (if any)
+        introText = intro.textContent;
+        // Update the content with the new text
+        intro.textContent = 'Here are the results: the sentiments are vastly different depending on the news source';
+      }
+      // Access the introText variable outside the function
+      console.log('Intro text before update:', introText);
+      // Call the function to update the text
+      // updateIntroText();
+      // console.log('Intro text after update:', introText);
+
+
+
       function loadVisualization(chartId) {
         const container = document.getElementById('visualizationContainer');
         const iframe = document.createElement('iframe');
@@ -104,6 +159,12 @@
         const container = document.getElementById('visualizationContainer');
         container.innerHTML = '';  // Clear all visualizations
       }
+
+      // Call updateIntroText inside each button's onclick event handler:
+      document.querySelectorAll('.btn-container button').forEach(button => {
+        button.addEventListener('click', updateIntroText);
+      });
+
     </script>
   </body>
 
