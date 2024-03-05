@@ -26,9 +26,9 @@ jobs:
 
       # Execute Jupyter notebooks
       - name: run notebook1
-        run: jupyter notebook GPTdf-bylanguage.ipynb --execute
+        run: jupyter notebook GPTdf-bylang_count_totals.ipynb
       - name: run notebook2
-        run: jupyter notebook GPTdf-russian.ipynb --execute
+        run: jupyter notebook GPTdf-russian.ipynb 
 
       # Commit and push changes (optional)
       - name: Commit and push changes (if any)
