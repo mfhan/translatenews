@@ -4,7 +4,7 @@ name: daily scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: "35 */1 * * *" # Runs at the beginning of every 6th hour
+    - cron: "35 * * * *" # Runs at the beginning of every 6th hour
 
 permissions:
   contents: write # Request write permissions to the repository
