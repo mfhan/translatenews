@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily Interviews Supreme People's Court President Zhang Jun: Promoting Improved Governance Efficiency and Supporting Victims of Online Bullying with State Power""",neutral,0.5576910376548767,1,2,0,8
-1,chinese,"""China Daily Interviews Procurator-General of Supreme People's Procuratorate, Ying Yong: Insisting on Combating and Controlling Telecommunications and Internet Fraud, Deepening International Law Enforcement and Judicial Cooperation""",neutral,0.5957536101341248,1,2,0,8
-2,chinese,"""Gansu Provincial Party Secretary and Chairman of the Provincial People's Congress Standing Committee, Hu Changsheng: Supporting High-Quality Economic and Social Development with First-Class Business Environment""",positive,0.5747933983802795,2,2,0,8
-3,chinese,"Liu Jieyi: Negotiations should be promoted to resolve regional conflicts, not add fuel to the fire.",neutral,0.44912782311439514,1,2,0,8
-4,chinese,"""Press Conference Concerning Livelihood Issues Involving Education, Employment, and Social Security Affects You and Me""",neutral,0.8085784912109375,1,2,0,8
-5,chinese,Liu Jieyi: The United States should fulfill its commitments in US-China relations,neutral,0.45577508211135864,1,2,0,8
-6,chinese,"""Academician Liu Zhongfan of Chinese Academy of Sciences: Enterprises Must Be the Main Force of Innovation""",neutral,0.6258681416511536,1,2,0,8
-7,chinese,"""National Committee Member of the Chinese People's Political Consultative Conference, He Han: Accelerating the Deep Integration of Large-Scale Model Technology and Traditional Industries""",neutral,0.6763339638710022,1,2,0,8
-8,chinese,"""Supreme Procuratorate: Outstanding Results in Public Interest Litigation Cases, 5.289 Million Tons of Solid Waste from Production Cleared""",positive,0.6393991112709045,2,2,0,8
-9,chinese,"""Ministry of Human Resources and Social Security: Social Security Card to Gradually Achieve ""National One-Card"" System""",neutral,0.5910380482673645,1,2,0,8
+0,chinese,"""China Daily Interviews Chief Justice of the Supreme People's Court Zhang Jun: Promoting the Improvement of Governance Efficiency and Supporting Victims of Online Abuse with State Power""",neutral,0.5605199933052063,1,3,0,7
+1,chinese,"""China Daily Interviews Chief Procurator of Supreme People's Procuratorate, Ying Yong: Insisting on Combating Telecom and Internet Fraud, Deepening International Law Enforcement and Judicial Cooperation""",neutral,0.6254773139953613,1,3,0,7
+2,chinese,"""Gansu Provincial Party Secretary and Chairman of the Provincial People's Congress Standing Committee Hu Changsheng: Supporting High-Quality Economic and Social Development with First-Class Business Environment""",positive,0.5361169576644897,2,3,0,7
+3,chinese,"Liu Jieyi: Promote Negotiations to Resolve Regional Conflicts, Do Not Add Fuel to the Fire",neutral,0.522173285484314,1,3,0,7
+4,chinese,"""Involving Livelihood Issues such as Education, Employment, and Social Security, This Press Conference Concerns You and Me""",neutral,0.7215010523796082,1,3,0,7
+5,chinese,Liu Jieyi: The United States should fulfill its commitments in Sino-US relations,positive,0.4545239210128784,2,3,0,7
+6,chinese,Academician Liu Zhongfan of the Chinese Academy of Sciences: Enterprises Must Be the Main Body of Innovation,neutral,0.6296762824058533,1,3,0,7
+7,chinese,"""National Committee Member of the Chinese People's Political Consultative Conference, He Han: Accelerating the Deep Integration of Large-scale Model Technology and Traditional Industries""",neutral,0.6699625253677368,1,3,0,7
+8,chinese,"""Supreme Procuratorate: Outstanding Results in Public Interest Litigation Prosecution, 5.289 Million Tons of Solid Waste from Production Cleared""",positive,0.6190093159675598,2,3,0,7
+9,chinese,"""Livelihood Themed Press Conference | Ministry of Human Resources and Social Security: Social Security Cards Will Gradually Achieve ""National One Card"" Status""",neutral,0.6138618588447571,1,3,0,7
