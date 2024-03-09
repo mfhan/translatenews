@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Special Topic: Opening Ceremony of the Second Session of the 14th National Committee of the Chinese People's Political Consultative Conference""",neutral,0.9023157954216003,1,3,0,7
-1,chinese,Special Topic: Press Conference of the Second Session of the 14th National People's Congress,neutral,0.8832544684410095,1,3,0,7
-2,chinese,"""The 14th National People's Congress Second Session Opens on March 5th, Lasting 7 Days""",neutral,0.8371132612228394,1,3,0,7
-3,chinese,"""Two Sessions World Eye | Observing the Important Window of People's Democracy in China's Entire Process""",neutral,0.7583746314048767,1,3,0,7
-4,chinese,Ministry of Foreign Affairs: Welcome the business communities of all countries to continue strengthening cooperation with China.,positive,0.740382969379425,3,3,0,7
-5,chinese,"The first ""Committee Channel"" collective interview activity of the 14th National Committee of the Chinese People's Political Consultative Conference was held.",neutral,0.8889985680580139,1,3,0,7
-6,chinese,"""【100 Seconds of ""Seeing"" the Two Sessions】Arab Journalist Shows Off Chinese, Does Homework for Reporting on the Two Sessions""",neutral,0.7552474737167358,1,3,0,7
-7,chinese,"""World Watches Two Sessions: Foreign Media Views China's Two Sessions as a Vivid Display of Good Governance and Prosperity in Economy and Society""",positive,0.5655466914176941,2,3,0,7
-8,chinese,"""Executive of Chinese Companies: Cooperation in China's Green Economy and Low-Carbon Field has Become the ""Focus"" of Foreign Investment""",neutral,0.5626124739646912,1,3,0,7
-9,chinese,"""China's Two Sessions Gather Global Attention and Expectations, Experiencing China's Economic Vitality and Resilience""",positive,0.8117597699165344,3,3,0,7
+0,chinese,"""China Daily Interviews Supreme People's Court President Zhang Jun: Promoting Improved Governance Efficiency and Supporting Victims of Online Bullying with State Power""",neutral,0.5576910376548767,1,2,0,8
+1,chinese,"""China Daily Interviews Procurator-General of Supreme People's Procuratorate, Ying Yong: Insisting on Combating and Controlling Telecommunications and Internet Fraud, Deepening International Law Enforcement and Judicial Cooperation""",neutral,0.5957536101341248,1,2,0,8
+2,chinese,"""Gansu Provincial Party Secretary and Chairman of the Provincial People's Congress Standing Committee, Hu Changsheng: Supporting High-Quality Economic and Social Development with First-Class Business Environment""",positive,0.5747933983802795,2,2,0,8
+3,chinese,"Liu Jieyi: Negotiations should be promoted to resolve regional conflicts, not add fuel to the fire.",neutral,0.44912782311439514,1,2,0,8
+4,chinese,"""Press Conference Concerning Livelihood Issues Involving Education, Employment, and Social Security Affects You and Me""",neutral,0.8085784912109375,1,2,0,8
+5,chinese,Liu Jieyi: The United States should fulfill its commitments in US-China relations,neutral,0.45577508211135864,1,2,0,8
+6,chinese,"""Academician Liu Zhongfan of Chinese Academy of Sciences: Enterprises Must Be the Main Force of Innovation""",neutral,0.6258681416511536,1,2,0,8
+7,chinese,"""National Committee Member of the Chinese People's Political Consultative Conference, He Han: Accelerating the Deep Integration of Large-Scale Model Technology and Traditional Industries""",neutral,0.6763339638710022,1,2,0,8
+8,chinese,"""Supreme Procuratorate: Outstanding Results in Public Interest Litigation Cases, 5.289 Million Tons of Solid Waste from Production Cleared""",positive,0.6393991112709045,2,2,0,8
+9,chinese,"""Ministry of Human Resources and Social Security: Social Security Card to Gradually Achieve ""National One-Card"" System""",neutral,0.5910380482673645,1,2,0,8

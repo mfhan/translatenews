@@ -1,42 +1,36 @@
-name: daily scrape
-
-# Schedule to run every 6 hours:
+name: daily
 on:
   workflow_dispatch:
+  push:
   schedule:
     - cron: "35 * * * *" # Runs at the beginning of every 6th hour
 
 permissions:
-  contents: write # Request write permissions to the repository
-
+  contents: write
 jobs:
   daily:
     runs-on: ubuntu-latest
-
-    # Install dependencies
     steps:
       - name: Check out this repo
-        uses: actions/checkout@v3 # Use a specific version for stable behavior
+        uses: actions/checkout@v2
       - name: Set up Python
-        uses: actions/setup-python@v3 # Use a specific version for stable behavior
+        uses: actions/setup-python@v2
         with:
-          python-version: "3.10" # Specify the required Python version
+          python-version: "3.10"
       - name: Install all necessary packages
         run: pip install openai python-dotenv pathlib jupyter lxml pandas requests beautifulsoup4 playwright html5lib
 
       # Execute Jupyter notebooks
-      - name: run notebook1
-        run: jupyter notebook GPTdf-bylang_count_totals.ipynb
-      - name: run notebook2
-        run: jupyter notebook GPTdf-russian.ipynb 
 
-      # Commit and push changes (optional)
-      - name: Commit and push changes (if any)
+      - name: Scraping today's data and create csvs for visualization
+        run: jupyter nbconvert --to notebook --execute "GPTdf-bylang_count_totals.ipynb" --stdout
+      - name: Adding today's data to larger csv
+        run: jupyter nbconvert --to notebook --execute "GPTdf-russian.ipynb" --stdout
+      - name: Commit and push any changes
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || true
-          git push origin main
-      # Push to main branch (replace with desired branch)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push

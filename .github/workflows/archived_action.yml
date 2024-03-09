@@ -1,0 +1,42 @@
+name: daily scrape
+
+# Schedule to run every 6 hours:
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 */1 * * *" # Runs at the beginning of every 6th hour
+
+permissions:
+  contents: write # Request write permissions to the repository
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+
+    # Install dependencies
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v3 # Use a specific version for stable behavior
+      - name: Set up Python
+        uses: actions/setup-python@v3 # Use a specific version for stable behavior
+        with:
+          python-version: "3.10" # Specify the required Python version
+      - name: Install all necessary packages
+        run: pip install openai python-dotenv pathlib jupyter lxml pandas requests beautifulsoup4 playwright html5lib
+
+      # Execute Jupyter notebooks
+      - name: run notebook1
+        run: jupyter notebook GPTdf-bylanguage.ipynb --execute
+      - name: run notebook2
+        run: jupyter notebook GPTdf-russian.ipynb --execute
+
+      # Commit and push changes (optional)
+      - name: Commit and push changes (if any)
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || true
+          git push origin main
+      # Push to main branch (replace with desired branch)
