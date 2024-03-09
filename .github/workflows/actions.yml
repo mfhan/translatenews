@@ -23,8 +23,12 @@ jobs:
       # Execute Jupyter notebooks
 
       - name: Scraping today's data and create csvs for visualization
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: jupyter nbconvert --to notebook --execute "GPTdf-bylang_count_totals.ipynb" --stdout
       - name: Adding today's data to larger csv
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: jupyter nbconvert --to notebook --execute "GPTdf-russian.ipynb" --stdout
       - name: Commit and push any changes
         run: |-
