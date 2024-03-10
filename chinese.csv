@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Looks at Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story and the Promising Youth Power""",neutral,0.6138017177581787,1,4,1,5
-1,chinese,"""Tanzania's Bustling Tazara Railway Appears Desolate Under BBC Filter""",negative,0.8440903425216675,-2,4,1,5
+0,chinese,"""World Watches Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading the Story of China, Youth Power is Promising""",neutral,0.5795121192932129,1,4,1,5
+1,chinese,"""Desolate Scenes of the TanZan Railway Under BBC Filters Amidst Bustling Traffic""",negative,0.8114653825759888,-2,4,1,5
 2,chinese,"""CPPCC Standing Committee Member Wei Zhaohui: Building a High-level Open Pattern, Inviting Global Guests to Attend the China-ASEAN Expo""",positive,0.5559918284416199,2,4,1,5
 3,chinese,"""Setting a Good Start and Making Progress! Accelerating Major Project Construction in Various Regions""",positive,0.9063476324081421,3,4,1,5
-4,chinese,"National People's Congress Representative: Revitalizing remote mountainous areas must start with road construction, most concerned about issues of left-behind children and elderly in rural areas.",neutral,0.6912583708763123,1,4,1,5
-5,chinese,"""2928 Trains of China-Europe Freight Trains Operated in the First Two Months, Transporting 317,000 TEUs of Goods""",neutral,0.64747154712677,1,4,1,5
+4,chinese,"National People's Congress Representative: Revitalization of Remote Mountainous Areas Must Start with Road Construction, Most Concerned about Issues of Left-behind Children and Elderly in Rural Areas",neutral,0.7370444536209106,1,4,1,5
+5,chinese,"""2928 Trains of China-Europe Freight Trains Operated in the First Two Months, Sending 317,000 TEUs of Cargo""",neutral,0.6856602430343628,1,4,1,5
 6,chinese,"""Why is this ""Happiness List"" so valuable?""",neutral,0.43047386407852173,1,4,1,5
-7,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference, Wei Gejun: Fiscal and Monetary Policies Can Better Utilize Synergies""",positive,0.48283693194389343,2,4,1,5
+7,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference Wei Gejun: Fiscal and Monetary Policies Can Better Utilize Combination Effects""",positive,0.5029770135879517,2,4,1,5
 8,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Hits Record High Thanks to Fujian's Good Ecological Environment""",positive,0.5350605845451355,2,4,1,5
-9,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,4,1,5
+9,chinese,"""China Red Cross Celebrates 120th Anniversary with Official Release of Commemorative Stamps""",neutral,0.5744521617889404,1,4,1,5
