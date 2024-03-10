@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily Interviews Chief Justice of the Supreme People's Court Zhang Jun: Promoting the Improvement of Governance Efficiency and Supporting Victims of Online Abuse with State Power""",neutral,0.5605199933052063,1,3,0,7
-1,chinese,"""China Daily Interviews Chief Procurator of Supreme People's Procuratorate, Ying Yong: Insisting on Combating Telecom and Internet Fraud, Deepening International Law Enforcement and Judicial Cooperation""",neutral,0.6254773139953613,1,3,0,7
-2,chinese,"""Gansu Provincial Party Secretary and Chairman of the Provincial People's Congress Standing Committee Hu Changsheng: Supporting High-Quality Economic and Social Development with First-Class Business Environment""",positive,0.5361169576644897,2,3,0,7
-3,chinese,"Liu Jieyi: Promote Negotiations to Resolve Regional Conflicts, Do Not Add Fuel to the Fire",neutral,0.522173285484314,1,3,0,7
-4,chinese,"""Involving Livelihood Issues such as Education, Employment, and Social Security, This Press Conference Concerns You and Me""",neutral,0.7215010523796082,1,3,0,7
-5,chinese,Liu Jieyi: The United States should fulfill its commitments in Sino-US relations,positive,0.4545239210128784,2,3,0,7
-6,chinese,Academician Liu Zhongfan of the Chinese Academy of Sciences: Enterprises Must Be the Main Body of Innovation,neutral,0.6296762824058533,1,3,0,7
-7,chinese,"""National Committee Member of the Chinese People's Political Consultative Conference, He Han: Accelerating the Deep Integration of Large-scale Model Technology and Traditional Industries""",neutral,0.6699625253677368,1,3,0,7
-8,chinese,"""Supreme Procuratorate: Outstanding Results in Public Interest Litigation Prosecution, 5.289 Million Tons of Solid Waste from Production Cleared""",positive,0.6190093159675598,2,3,0,7
-9,chinese,"""Livelihood Themed Press Conference | Ministry of Human Resources and Social Security: Social Security Cards Will Gradually Achieve ""National One Card"" Status""",neutral,0.6138618588447571,1,3,0,7
+0,chinese,"""China Daily Interviews Chief Justice of the Supreme People's Court Zhang Jun: Promoting Improved Governance Efficiency and Supporting Victims of Online Bullying with State Power""",neutral,0.6342304348945618,1,2,0,8
+1,chinese,"""China Daily Interviews Procurator-General of the Supreme People's Procuratorate, Ying Yong: Persisting in Combating and Controlling Telecommunications and Internet Fraud, Deepening International Law Enforcement and Judicial Cooperation""",neutral,0.5373386144638062,1,2,0,8
+2,chinese,"""Gansu Provincial Party Secretary and Chairman of the Provincial People's Congress Standing Committee Hu Changsheng: Supporting High-Quality Economic and Social Development with First-Class Business Environment""",positive,0.5361169576644897,2,2,0,8
+3,chinese,"""Zhang Bolin Represents Discussion on Modernization of Traditional Chinese Medicine: New Drug Development Should Be Guided by Clinical Value""",neutral,0.7410401701927185,1,2,0,8
+4,chinese,"""National Railway Completes Fixed Asset Investment of 65.2 Billion Yuan in First Two Months""",neutral,0.5386086106300354,1,2,0,8
+5,chinese,"""Hong Kong Cars Heading North"" Breaks 500,000 Trips, Exceeds 100,000 Trips in a Single Month for the First Time",neutral,0.629926323890686,1,2,0,8
+6,chinese,"""February 2nd: Hoping for a Lucky Year, Enjoying Spring Outings with Joy""",positive,0.8375828862190247,3,2,0,8
+7,chinese,"""National Bureau of Statistics: CPI Rose 0.7% Year-on-Year in February""",neutral,0.8455237150192261,1,2,0,8
+8,chinese,"""National Railways Completes Fixed Asset Investment of 65.2 Billion Yuan in First Two Months""",neutral,0.5281919240951538,1,2,0,8
+9,chinese,"""Liu Jieyi: Efforts should be made to promote negotiations to resolve regional conflicts, instead of adding fuel to the fire""",neutral,0.4659974277019501,1,2,0,8
