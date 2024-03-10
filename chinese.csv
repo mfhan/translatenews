@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Bureau of Statistics: CPI Rose by 0.7% Year-on-Year in February""",neutral,0.787675142288208,1,3,0,7
-1,chinese,"Liu Jieyi: Negotiations should be promoted to resolve regional conflicts, not fuel the fire.",neutral,0.4833047688007355,1,3,0,7
-2,chinese,"""2928 China-Europe Freight Trains Run in the First Two Months, Delivering 317,000 TEUs of Goods""",neutral,0.49452313780784607,1,3,0,7
-3,chinese,"""Why is this ""Happiness List"" so valuable?""",neutral,0.43047386407852173,1,3,0,7
-4,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference Wei Gejun: Fiscal and Monetary Policies Can Better Achieve Synergy""",positive,0.5108157396316528,2,3,0,7
-5,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Reaches Record High, Thanks to Fujian's Good Ecological Environment""",positive,0.5830751657485962,2,3,0,7
-6,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,3,0,7
-7,chinese,"""Looking Back a Thousand Years, Meeting Dongpo - ""Poetic Memories of Dongpo"" Successfully Premieres in the United States""",positive,0.7445608973503113,3,3,0,7
-8,chinese,"""【100 Seconds of ""Observing"" the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference member and national first-class actor Jin Dong: Portraying a foreign aid doctor, moved to tears multiple times, telling China's story starts with telling our own story",neutral,0.5907910466194153,1,3,0,7
-9,chinese,"""NPC deputies promote Guizhou's cultural tourism and claim that the time is ripe for ethnic art to go global""",neutral,0.3942222595214844,1,3,0,7
+0,chinese,"""World Watches Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story, Youth Power Can Be Expected""",neutral,0.6108885407447815,1,3,0,7
+1,chinese,"""Setting a Good Start and Making Progress! Accelerating the Construction of Major Projects in Various Regions""",positive,0.9079936146736145,3,3,0,7
+2,chinese,"National People's Congress Representative: Revitalizing remote mountain areas must start with building roads, most concerned about issues of left-behind children and elderly in rural areas.",neutral,0.6758027672767639,1,3,0,7
+3,chinese,"""2928 Trains of China-Europe Freight Trains Operated in the First Two Months, Sending 317,000 TEUs of Goods""",neutral,0.5910587906837463,1,3,0,7
+4,chinese,"""Why is this ""Happiness List"" so valuable?""",neutral,0.43047386407852173,1,3,0,7
+5,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference, Wei Gejun: Fiscal and Monetary Policies Can Better Play a Complementary Role""",neutral,0.5651390552520752,1,3,0,7
+6,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Reaches Record High, Thanks to Fujian's Good Ecological Environment""",positive,0.5830751657485962,2,3,0,7
+7,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,3,0,7
+8,chinese,"""Looking back a thousand years, encountering Dongpo - ""Poetry Memories of Dongpo"" successfully premiered in the United States""",positive,0.6714093089103699,2,3,0,7
+9,chinese,"""【100 Seconds of ""Seeing"" the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference member and national first-class actor Jin Dong: Portraying foreign aid doctors, moved to tears multiple times, telling China's story starts with telling our own story""",neutral,0.5603377819061279,1,3,0,7
