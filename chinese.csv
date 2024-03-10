@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Bureau of Statistics: CPI Rose 0.7% Year-on-Year in February""",neutral,0.8455237150192261,1,3,0,7
-1,chinese,"Liu Jieyi: Negotiations should be promoted to resolve regional conflicts, not add fuel to the fire.",neutral,0.4491279125213623,1,3,0,7
-2,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference Wei Gejun: Fiscal and Monetary Policies Can Achieve Better Synergy""",neutral,0.4777688980102539,1,3,0,7
-3,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Hits Record High, Thanks to Fujian's Good Ecological Environment""",positive,0.5060039162635803,2,3,0,7
-4,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,3,0,7
-5,chinese,"""Looking Back a Thousand Years, Meeting Dongpo - ""Poetic Memories of Dongpo"" Successfully Debuts in the United States""",positive,0.7273039817810059,3,3,0,7
-6,chinese,"""【100 Seconds of ""Observing"" the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference member and national first-class actor Jin Dong: Playing the role of a foreign aid doctor, moved to tears multiple times. To tell a good Chinese story, one must",neutral,0.5641124248504639,1,3,0,7
-7,chinese,"""National People's Congress delegates promote Guizhou's cultural tourism, saying the time is ripe for ethnic art to go global""",positive,0.3863171339035034,2,3,0,7
-8,chinese,"""CPPCC National Committee Member Li Qun: Strengthening Systematic Protection and Rational Utilization of Cultural Relics""",neutral,0.7460324764251709,1,3,0,7
-9,chinese,"""Representative Zhang Boli Talks about Modernization of Traditional Chinese Medicine: New Drug Development Should be Guided by Clinical Value""",neutral,0.7533952593803406,1,3,0,7
+0,chinese,"""National Bureau of Statistics: CPI Rose by 0.7% Year-on-Year in February""",neutral,0.787675142288208,1,3,0,7
+1,chinese,"Liu Jieyi: Negotiations should be promoted to resolve regional conflicts, not fuel the fire.",neutral,0.4833047688007355,1,3,0,7
+2,chinese,"""2928 China-Europe Freight Trains Run in the First Two Months, Delivering 317,000 TEUs of Goods""",neutral,0.49452313780784607,1,3,0,7
+3,chinese,"""Why is this ""Happiness List"" so valuable?""",neutral,0.43047386407852173,1,3,0,7
+4,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference Wei Gejun: Fiscal and Monetary Policies Can Better Achieve Synergy""",positive,0.5108157396316528,2,3,0,7
+5,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Reaches Record High, Thanks to Fujian's Good Ecological Environment""",positive,0.5830751657485962,2,3,0,7
+6,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,3,0,7
+7,chinese,"""Looking Back a Thousand Years, Meeting Dongpo - ""Poetic Memories of Dongpo"" Successfully Premieres in the United States""",positive,0.7445608973503113,3,3,0,7
+8,chinese,"""【100 Seconds of ""Observing"" the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference member and national first-class actor Jin Dong: Portraying a foreign aid doctor, moved to tears multiple times, telling China's story starts with telling our own story",neutral,0.5907910466194153,1,3,0,7
+9,chinese,"""NPC deputies promote Guizhou's cultural tourism and claim that the time is ripe for ethnic art to go global""",neutral,0.3942222595214844,1,3,0,7
