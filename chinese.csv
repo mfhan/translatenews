@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Bureau of Statistics: CPI Rose by 0.7% Year-on-Year in February""",neutral,0.787675142288208,1,3,0,7
-1,chinese,"Liu Jieyi: Promote Negotiations to Resolve Regional Conflicts, Don't Add Fuel to the Fire",neutral,0.4911220967769623,1,3,0,7
-2,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference, Wei Gejun: Fiscal and Monetary Policies Can Better Utilize Complementary Effects""",positive,0.47394850850105286,2,3,0,7
-3,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Sets New Record, Thanks to Fujian's Excellent Ecology""",positive,0.644980251789093,2,3,0,7
-4,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,3,0,7
-5,chinese,"""Looking Back a Thousand Years, Meeting Dongpo - ""Poetic Memories of Dongpo"" Successfully Debuts in the United States""",positive,0.7273039817810059,3,3,0,7
-6,chinese,"""【100 Seconds to See the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference member and national first-class actor Jin Dong: Portraying a Foreign Aid Doctor Moved to Tears Multiple Times, Telling China's Story Starts with Telling Our Own Story""",neutral,0.544708788394928,1,3,0,7
-7,chinese,"""NPC deputies promote Guizhou's cultural tourism on site, saying the time is ripe for ethnic art to go global""",neutral,0.4030153453350067,1,3,0,7
-8,chinese,"""National Committee Member of the Chinese People's Political Consultative Conference Li Qun: Strengthening Systematic Protection and Reasonable Utilization of Cultural Relics""",neutral,0.6887590885162354,1,3,0,7
-9,chinese,"""Representative Zhang Boli Discusses Modernization of Traditional Chinese Medicine: New Drug Development Should Be Guided by Clinical Value""",neutral,0.7940108776092529,1,3,0,7
+0,chinese,"""National Bureau of Statistics: CPI Rose 0.7% Year-on-Year in February""",neutral,0.8455237150192261,1,4,0,6
+1,chinese,"Liu Jieyi: Negotiations should be promoted to resolve regional conflicts, not fuel the fire",neutral,0.4774005115032196,1,4,0,6
+2,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference, Wei Gejun: Fiscal and Monetary Policies Can Better Utilize Synergies""",positive,0.48283693194389343,2,4,0,6
+3,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Hits Historic High, Thanks to Fujian's Good Ecological Environment""",positive,0.5544905662536621,2,4,0,6
+4,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,4,0,6
+5,chinese,"""Retracing a Thousand Years, Meeting Dongpo - ""Poetic Memories of Dongpo"" Successfully Premieres in the United States""",positive,0.7691730260848999,3,4,0,6
+6,chinese,"""【100 Seconds to See the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference member and national first-class actor Jin Dong: Playing the role of foreign aid doctor moved to tears multiple times, telling China's story starts with telling our own story first""",neutral,0.6338961720466614,1,4,0,6
+7,chinese,"""NPC deputies promote Guizhou's cultural tourism on site, saying the timing is right for ethnic art to go global""",positive,0.606840968132019,2,4,0,6
+8,chinese,"""CPPCC National Committee Member Li Qun: Strengthening Systematic Protection and Rational Utilization of Cultural Relics""",neutral,0.7460324764251709,1,4,0,6
+9,chinese,"""Representative Zhang Boli discusses the modernization of traditional Chinese medicine: New drug development should be guided by clinical value""",neutral,0.6403777003288269,1,4,0,6
