@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Bureau of Statistics: CPI Rose by 0.7% Year-on-Year in February""",neutral,0.787675142288208,1,2,0,8
-1,chinese,"""Liu Jieyi: Efforts should be made to promote negotiations to resolve regional conflicts, instead of adding fuel to the fire""",neutral,0.4659974277019501,1,2,0,8
-2,chinese,"""Retracing a Thousand Years, Meeting Dongpo - ""Poetry Remembers Dongpo"" Successfully Debuts in the United States""",positive,0.7625744938850403,3,2,0,8
-3,chinese,"""【100 Seconds of ""Insight"" into the Two Sessions】14th National Committee of the CPPCC member and national first-class actor Jin Dong: Portraying a foreign aid doctor moved to tears multiple times, telling a good Chinese story first requires telling one's own story well.""",neutral,0.5248568058013916,1,2,0,8
-4,chinese,"""NPC deputies promote Guizhou's cultural tourism and claim that the time is ripe for ethnic art to go global""",neutral,0.3942222595214844,1,2,0,8
-5,chinese,"""CPPCC National Committee Member Li Qun: Strengthening Systematic Protection and Rational Utilization of Cultural Relics""",neutral,0.7460324764251709,1,2,0,8
-6,chinese,"""Zhang Bolin Represents on the Modernization of Traditional Chinese Medicine: New Drug Development Should Be Guided by Clinical Value""",neutral,0.7527828216552734,1,2,0,8
-7,chinese,"""National Railways Completes Fixed Asset Investment of 65.2 Billion Yuan in First Two Months""",neutral,0.5281919240951538,1,2,0,8
-8,chinese,"""Hong Kong Cars Heading North"" Breaks 500,000 Trips, Monthly Total Exceeds 100,000 Trips for the First Time",neutral,0.639934241771698,1,2,0,8
-9,chinese,"""February 2nd: Hoping for a year of good luck, enjoying the joy of spring and going on a leisurely outing""",positive,0.8524973392486572,3,2,0,8
+0,chinese,"""National Bureau of Statistics: CPI Rose 0.7% Year-on-Year in February""",neutral,0.8455237150192261,1,2,0,8
+1,chinese,"Liu Jieyi: We should promote negotiations to resolve regional conflicts, not add fuel to the fire.",neutral,0.42226442694664,1,2,0,8
+2,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,2,0,8
+3,chinese,"""Retracing a Thousand Years, Meeting Dongpo - ""Poetic Memories of Dongpo"" Successfully Premieres in the United States""",positive,0.7691730260848999,3,2,0,8
+4,chinese,"""【100 Seconds: A Glimpse of the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference Member and National First-Class Actor Jin Dong: Portraying Foreign Aid Doctors, Moved to Tears Multiple Times. To Tell China's Story, One Must First",neutral,0.6140378713607788,1,2,0,8
+5,chinese,"""NPC deputies promote Guizhou's cultural and tourism development, saying the timing is right for ethnic art to go global""",positive,0.644693911075592,2,2,0,8
+6,chinese,"""CPPCC National Committee Member Li Qun: Strengthening Systematic Protection and Rational Utilization of Cultural Relics""",neutral,0.7460324764251709,1,2,0,8
+7,chinese,"""Representative Zhang Boli discusses modernization of traditional Chinese medicine: New drug development should be guided by clinical value""",neutral,0.6322896480560303,1,2,0,8
+8,chinese,"""National Railway Completes Fixed Asset Investment of 65.2 Billion Yuan in First Two Months""",neutral,0.5386086106300354,1,2,0,8
+9,chinese,"""Hong Kong Cars Head North: Surpassing 500,000 Trips, Monthly Total Exceeds 100,000 Trips for the First Time""",neutral,0.52341228723526,1,2,0,8
