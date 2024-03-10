@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Watches Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story, Youth Power Can Be Expected""",neutral,0.6108885407447815,1,3,0,7
-1,chinese,"""Setting a Good Start and Making Progress! Accelerating the Construction of Major Projects in Various Regions""",positive,0.9079936146736145,3,3,0,7
-2,chinese,"National People's Congress Representative: Revitalizing remote mountain areas must start with building roads, most concerned about issues of left-behind children and elderly in rural areas.",neutral,0.6758027672767639,1,3,0,7
-3,chinese,"""2928 Trains of China-Europe Freight Trains Operated in the First Two Months, Sending 317,000 TEUs of Goods""",neutral,0.5910587906837463,1,3,0,7
-4,chinese,"""Why is this ""Happiness List"" so valuable?""",neutral,0.43047386407852173,1,3,0,7
-5,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference, Wei Gejun: Fiscal and Monetary Policies Can Better Play a Complementary Role""",neutral,0.5651390552520752,1,3,0,7
-6,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Reaches Record High, Thanks to Fujian's Good Ecological Environment""",positive,0.5830751657485962,2,3,0,7
-7,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,3,0,7
-8,chinese,"""Looking back a thousand years, encountering Dongpo - ""Poetry Memories of Dongpo"" successfully premiered in the United States""",positive,0.6714093089103699,2,3,0,7
-9,chinese,"""【100 Seconds of ""Seeing"" the Two Sessions】14th National Committee of the Chinese People's Political Consultative Conference member and national first-class actor Jin Dong: Portraying foreign aid doctors, moved to tears multiple times, telling China's story starts with telling our own story""",neutral,0.5603377819061279,1,3,0,7
+0,chinese,"""World Looks at Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story and the Promising Youth Power""",neutral,0.6138017177581787,1,4,1,5
+1,chinese,"""Tanzania's Bustling Tazara Railway Appears Desolate Under BBC Filter""",negative,0.8440903425216675,-2,4,1,5
+2,chinese,"""CPPCC Standing Committee Member Wei Zhaohui: Building a High-level Open Pattern, Inviting Global Guests to Attend the China-ASEAN Expo""",positive,0.5559918284416199,2,4,1,5
+3,chinese,"""Setting a Good Start and Making Progress! Accelerating Major Project Construction in Various Regions""",positive,0.9063476324081421,3,4,1,5
+4,chinese,"National People's Congress Representative: Revitalizing remote mountainous areas must start with road construction, most concerned about issues of left-behind children and elderly in rural areas.",neutral,0.6912583708763123,1,4,1,5
+5,chinese,"""2928 Trains of China-Europe Freight Trains Operated in the First Two Months, Transporting 317,000 TEUs of Goods""",neutral,0.64747154712677,1,4,1,5
+6,chinese,"""Why is this ""Happiness List"" so valuable?""",neutral,0.43047386407852173,1,4,1,5
+7,chinese,"""China Daily Interviews National Committee Member of the Chinese People's Political Consultative Conference, Wei Gejun: Fiscal and Monetary Policies Can Better Utilize Synergies""",positive,0.48283693194389343,2,4,1,5
+8,chinese,"""Fujian Provincial Party Secretary Zhou Zuyi: 2024 Spring Festival Holiday Tourism Revenue Hits Record High Thanks to Fujian's Good Ecological Environment""",positive,0.5350605845451355,2,4,1,5
+9,chinese,"""China Red Cross Celebrates 120th Anniversary with Commemorative Stamp Release""",neutral,0.5835061073303223,1,4,1,5
