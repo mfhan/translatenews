@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Looks at the Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story, Youth Power Can Be Expected""",neutral,0.550568163394928,1,2,1,7
-1,chinese,"""First National-level Agricultural Opening-up and Cooperation Experimental Zone Established in Northwest Region""",neutral,0.6513291597366333,1,2,1,7
-2,chinese,"""Exposing the Truth: America Lost the ""Game"" and Still Tries to Pull the Opponent's Clothes""",negative,0.8322083950042725,-2,2,1,7
-3,chinese,"""Taiwan Issue Expert Li Yihu: Cultural Exchange between Compatriots on Both Sides of the Strait is Natural and Indispensable""",neutral,0.5447599291801453,1,2,1,7
-4,chinese,"""Uncovering the Bustling TanZan Railway: A Deserted Landscape Under BBC's Filter""",neutral,0.5688916444778442,1,2,1,7
-5,chinese,"""CPPCC Standing Committee Member Wei Zhaohui: Building a High-level Open Pattern, Inviting Global Guests to Attend the China-ASEAN Expo""",positive,0.5559918284416199,2,2,1,7
-6,chinese,"""Setting a Good Start and Making Progress! Accelerating the Construction of Major Projects in Various Regions""",positive,0.9079936146736145,3,2,1,7
-7,chinese,"National People's Congress Representative: Revitalizing remote mountain areas must start with road construction, most concerned about issues of left-behind children and elderly in rural areas.",neutral,0.6935330629348755,1,2,1,7
-8,chinese,"""2928 trains of China-Europe freight trains were operated in the first two months, delivering 317,000 TEUs of cargo""",neutral,0.7010967135429382,1,2,1,7
-9,chinese,"""Why is this ""Happiness List"" so valuable?""",neutral,0.43047386407852173,1,2,1,7
+0,chinese,"""World Watches the Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading the Story of China, Promising Youth Power""",neutral,0.571788489818573,1,2,2,6
+1,chinese,"""The First National-level Agricultural Opening-up and Cooperation Experimental Zone Established in Northwest Region""",neutral,0.6965733766555786,1,2,2,6
+2,chinese,"""Exposed | America Lost the ""Ball Game"" and Still Pulled the Opponent's Clothes""",negative,0.8091750741004944,-2,2,2,6
+3,chinese,"""Taiwan Issue Expert Li Yihu: Cultural Exchange between Compatriots on Both Sides of the Strait is Natural and Indispensable""",neutral,0.5447599291801453,1,2,2,6
+4,chinese,"""Uncovering the Bustling TanZan Railway: A Desolate Scene Under BBC's Filter""",negative,0.8476596474647522,-2,2,2,6
+5,chinese,"""CPPCC Standing Committee Member Wei Zhaohui: Building a High-level Open Pattern, Inviting Guests from Around the World to Attend the China-ASEAN Expo""",positive,0.538118839263916,2,2,2,6
+6,chinese,"""Setting a Good Start and Making Progress! Accelerating the Construction of Major Projects in Various Regions""",positive,0.9079936146736145,3,2,2,6
+7,chinese,"""National People's Congress Representative: Revitalization of Remote Mountainous Areas Must Start with Road Construction, Most Concerned about Issues of Left-behind Children and Elderly in Rural Areas""",neutral,0.7435011267662048,1,2,2,6
+8,chinese,"""2928 Trains of China-Europe Freight Trains Operated in the First Two Months, Transporting 317,000 TEUs of Goods""",neutral,0.64747154712677,1,2,2,6
+9,chinese,"""Why is this 'Happiness List' so valuable?""",neutral,0.39689645171165466,1,2,2,6
