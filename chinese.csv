@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Watches Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story, Youth Power Can Be Expected""",neutral,0.6108885407447815,1,2,1,7
-1,chinese,"""Schedule Announcement for the Two Sessions | March 11th""",neutral,0.8792014718055725,1,2,1,7
-2,chinese,"""Hungary Holds Inauguration Ceremony for New President""",neutral,0.7295822501182556,1,2,1,7
-3,chinese,"""Little Knowledge about ""Rising Dragon"": What are the Auspicious Meanings? What is a Dragon Scale Cake?""",neutral,0.7756773829460144,1,2,1,7
-4,chinese,"""Significant Progress Made in Archaeological Discovery of Palace Courtyards and Water Systems in the Ming Dynasty Capital City""",positive,0.7631403207778931,3,2,1,7
-5,chinese,"""What does the issuance of 1 trillion yuan ultra-long-term government bonds mean?""",neutral,0.7976043224334717,1,2,1,7
-6,chinese,"""Institutional Investors Increase Market Participation and Play a Leading Role in Equity Investment""",positive,0.5668954253196716,2,2,1,7
-7,chinese,The First National-level Agricultural Opening-up and Cooperation Experimental Zone in Northwest China Established,neutral,0.6482640504837036,1,2,1,7
-8,chinese,"""Exposing the Truth: America Lost the ""Game"" and Still Tries to Pull the Opponent's Clothes""",negative,0.8322083950042725,-2,2,1,7
-9,chinese,"""Taiwan Issue Expert Li Yihu: Cultural Exchange between Compatriots on Both Sides of the Strait is Natural and Indispensable""",neutral,0.5447599291801453,1,2,1,7
+0,chinese,"""World Watches the Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading the Chinese Story, Youth Power is Promising""",neutral,0.5180498361587524,1,2,2,6
+1,chinese,"""Schedule Preview for the Two Sessions | March 11th""",neutral,0.9092064499855042,1,2,2,6
+2,chinese,Father of Fallen American Soldier Arrested for Protesting Injustice,negative,0.7958675026893616,-2,2,2,6
+3,chinese,"""Hungary Holds Inauguration Ceremony for New President""",neutral,0.7295822501182556,1,2,2,6
+4,chinese,"""The Little Knowledge of ""Raising the Dragon's Head"": What Are Its Auspicious Meanings? What Is a Dragon Scale Cake?""",neutral,0.6658491492271423,1,2,2,6
+5,chinese,"""Significant Progress Made in Archaeological Study of Palace and Water System Remains in the Imperial City of Ming Dynasty""",positive,0.7776097059249878,3,2,2,6
+6,chinese,"""What Does the Issuance of 1 Trillion Yuan Ultra-Long-Term Government Bonds Mean?""",neutral,0.8392825126647949,1,2,2,6
+7,chinese,"""Institutional Investors Increase Market Entry Efforts and Play a Leading Role in Equity Investment""",positive,0.6340823769569397,2,2,2,6
+8,chinese,"""The First National-level Agricultural Opening-up and Cooperation Pilot Zone Established in Northwest Region""",neutral,0.655699610710144,1,2,2,6
+9,chinese,"""Exposed | America Loses ""Ball Game"" and Still Tries to Pull Opponent's Clothes""",negative,0.8328729271888733,-2,2,2,6
