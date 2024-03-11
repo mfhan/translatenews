@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,7,0,3
-1,chinese,"""Overseas Experts: Two Sessions Boost Confidence, Future Looks Bright for China""",positive,0.8118748068809509,3,7,0,3
-2,chinese,"""World Looks at the Two Sessions: University of Cape Town Professor: Trust between China and Africa is a Valuable Asset""",neutral,0.6051689982414246,1,7,0,3
-3,chinese,"""Insight into Foreign Companies' Perspective on the Two Sessions: Economic Boost and New Opportunities through Opening Up""",neutral,0.6507412195205688,1,7,0,3
-4,chinese,CPPCC member Lu Jian suggests strengthening basic research on green and efficient development of gold resources.,positive,0.5976763963699341,2,7,0,3
-5,chinese,"""NPC Deputy Xu Ance: Increase Development of China-Laos Railway for Better Benefits to Both Countries' People""",positive,0.5953150987625122,2,7,0,3
-6,chinese,"""Foreign Companies Observe the Two Sessions: Royal Caribbean Group's Liu Zinan: China's Economic Development Provides Vast Space and Opportunities for Foreign Enterprises in China""",positive,0.5719181299209595,2,7,0,3
-7,chinese,"""Foreign Companies Observe the Two Sessions: AstraZeneca's Wang Lei: China is an Important Engine for Winning the Future""",positive,0.5952080488204956,2,7,0,3
-8,chinese,"""February 2nd, Dragon Raising its Head: Old Barber Shop Offers Free Haircuts to Sanitation Workers as an Act of Kindness""",positive,0.47466138005256653,2,7,0,3
-9,chinese,"""17th Asian Film Awards Held in Hong Kong, Featuring a Variety of Films from China, Japan, South Korea, and Thailand""",neutral,0.7734752297401428,1,7,0,3
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,8,0,2
+1,chinese,"""Overseas Experts: Two Sessions Boost Confidence, Future Looks Bright for China""",positive,0.8118748068809509,3,8,0,2
+2,chinese,"""World Watches Two Sessions: University of Cape Town Professor: Trust between China and Africa is a Valuable Asset""",neutral,0.6257579922676086,1,8,0,2
+3,chinese,"""Special Report: Foreign Companies Observe the Two Sessions: Economic Boost and New Opportunities for Opening Up""",positive,0.5843380689620972,2,8,0,2
+4,chinese,CPPCC member Lu Jian suggests strengthening the basic research for green and efficient development of gold resources,positive,0.6027304530143738,2,8,0,2
+5,chinese,"""National People's Congress representative Xu Ance: Increase development of China-Laos railway for better benefits to both countries' people""",positive,0.5419685244560242,2,8,0,2
+6,chinese,"""Foreign Companies Observe the Two Sessions: Royal Caribbean Group's Liu Zinan: China's Economic Development Provides Vast Space and Opportunities for Foreign Companies in China""",positive,0.556011974811554,2,8,0,2
+7,chinese,"""Foreign Companies Observe the Two Sessions: AstraZeneca's Wang Lei: China is an Important Engine for Winning the Future""",positive,0.5952080488204956,2,8,0,2
+8,chinese,"""February 2nd, Dragon Raising its Head: Time-Honored Hair Salon Offers Free Haircuts to Sanitation Workers as an Act of Kindness""",positive,0.557889461517334,2,8,0,2
+9,chinese,"""The 17th Asian Film Awards Held in Hong Kong, with Multiple Countries including China, Japan, South Korea, and Thailand Showcasing their Best Works""",neutral,0.5852611064910889,1,8,0,2
