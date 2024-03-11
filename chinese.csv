@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Watches Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story, Promising Youth Power""",neutral,0.6459999680519104,1,3,1,6
-1,chinese,"""Schedule Announcement for the Two Sessions | March 11th""",neutral,0.8792014718055725,1,3,1,6
-2,chinese,"""February 2nd, Dragon Raises Its Head: Time-Honored Barber Shop Offers Free Haircuts to Sanitation Workers as a Gesture of Love""",positive,0.713569700717926,3,3,1,6
-3,chinese,"""The 17th Asian Film Awards Held in Hong Kong, with Diverse Films from China, Japan, South Korea, and Thailand""",neutral,0.8119744062423706,1,3,1,6
-4,chinese,"""Father Arrested for Protesting the Injustice of His Son's Death in the US Military""",negative,0.7926517128944397,-2,3,1,6
-5,chinese,"""Hungary Holds Inauguration Ceremony for New President""",neutral,0.7295822501182556,1,3,1,6
-6,chinese,"""Little Facts about ""Rising Dragon"": What are the Auspicious Meanings? What is a Dragon Scale Pastry?""",neutral,0.8462920784950256,1,3,1,6
-7,chinese,"""Significant Progress Made in Archaeological Study of Palace Courtyards and Water Systems in the Ming Dynasty Capital""",positive,0.7368390560150146,3,3,1,6
-8,chinese,"""What does the issuance of 1 trillion yuan ultra-long-term government bonds mean?""",neutral,0.7976043224334717,1,3,1,6
-9,chinese,"""Institutional Investors Increase Market Entry Efforts and Play a Leading Role in Equity Investment""",positive,0.6340823769569397,2,3,1,6
+0,chinese,"""World Looks at the Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story, Promising Youth Power""",neutral,0.5488665103912354,1,3,1,6
+1,chinese,"""Schedule Preview of the Two Sessions | March 11th""",neutral,0.9136664271354675,1,3,1,6
+2,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,3,1,6
+3,chinese,"""February 2nd, Dragon Raises Its Head: Old Barber Shop Offers Free Haircuts to Sanitation Workers as a Kind Gesture""",neutral,0.5467596054077148,1,3,1,6
+4,chinese,"""The 17th Asian Film Awards Held in Hong Kong, Multiple Countries Including China, Japan, South Korea, and Thailand Shine Brightly""",positive,0.5022950172424316,2,3,1,6
+5,chinese,Father of Fallen American Soldier Arrested for Protesting Injustice,negative,0.7958675026893616,-2,3,1,6
+6,chinese,"""Hungary Holds Inauguration Ceremony for New President""",neutral,0.7295822501182556,1,3,1,6
+7,chinese,"""Little Knowledge about ""Raising the Dragon's Head"": What are the Auspicious Meanings? What is a Dragon Scale Cake?""",neutral,0.7487500905990601,1,3,1,6
+8,chinese,"""Important Progress Made in Archaeological Study of Palace Courtyards and Water Systems in the Ming Dynasty Capital""",positive,0.8185914754867554,3,3,1,6
+9,chinese,"""What does issuing ultra-long-term national bonds worth 1 trillion yuan mean?""",neutral,0.7151811122894287,1,3,1,6
