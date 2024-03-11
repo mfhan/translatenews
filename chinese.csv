@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Watches the Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading the Chinese Story, Youth Power is Promising""",neutral,0.5180498361587524,1,2,2,6
-1,chinese,"""Schedule Preview for the Two Sessions | March 11th""",neutral,0.9092064499855042,1,2,2,6
-2,chinese,Father of Fallen American Soldier Arrested for Protesting Injustice,negative,0.7958675026893616,-2,2,2,6
+0,chinese,"""World Watches Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading the Story of China, Youth Power Can Be Expected""",neutral,0.5471959710121155,1,2,2,6
+1,chinese,"""Schedule Announcement for the Two Sessions | March 11th""",neutral,0.8792014718055725,1,2,2,6
+2,chinese,"""Father of Fallen American Soldier Arrested for Protesting Injustice""",negative,0.7657209634780884,-2,2,2,6
 3,chinese,"""Hungary Holds Inauguration Ceremony for New President""",neutral,0.7295822501182556,1,2,2,6
-4,chinese,"""The Little Knowledge of ""Raising the Dragon's Head"": What Are Its Auspicious Meanings? What Is a Dragon Scale Cake?""",neutral,0.6658491492271423,1,2,2,6
-5,chinese,"""Significant Progress Made in Archaeological Study of Palace and Water System Remains in the Imperial City of Ming Dynasty""",positive,0.7776097059249878,3,2,2,6
+4,chinese,"""Little Knowledge about ""Raising the Dragon's Head"": What are the Auspicious Meanings? What is a Dragon Scale Cake?""",neutral,0.7487500905990601,1,2,2,6
+5,chinese,"""Significant Progress Made in Archaeological Study of Palaces, Courtyards, and Water Systems in the Ming Dynasty Capital""",positive,0.7282512784004211,3,2,2,6
 6,chinese,"""What Does the Issuance of 1 Trillion Yuan Ultra-Long-Term Government Bonds Mean?""",neutral,0.8392825126647949,1,2,2,6
 7,chinese,"""Institutional Investors Increase Market Entry Efforts and Play a Leading Role in Equity Investment""",positive,0.6340823769569397,2,2,2,6
-8,chinese,"""The First National-level Agricultural Opening-up and Cooperation Pilot Zone Established in Northwest Region""",neutral,0.655699610710144,1,2,2,6
-9,chinese,"""Exposed | America Loses ""Ball Game"" and Still Tries to Pull Opponent's Clothes""",negative,0.8328729271888733,-2,2,2,6
+8,chinese,"""First National-level Agricultural Opening-up and Cooperation Experimental Zone Established in Northwest China Region""",neutral,0.6746941804885864,1,2,2,6
+9,chinese,"""Exposing the Truth: USA Loses ""Ball Game"" and Tries to Strip Opponent's Clothes""",negative,0.8097481727600098,-2,2,2,6
