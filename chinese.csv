@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,7,0,3
 1,chinese,"""Overseas Experts: Two Sessions Boost Confidence, Future Looks to China""",positive,0.5555282235145569,2,7,0,3
-2,chinese,"""World Watches Two Sessions: University of Cape Town Professor: Trust between China and Africa is a Valuable Asset""",neutral,0.6257579922676086,1,7,0,3
-3,chinese,"""Insight into Foreign Companies' Perspective on the Two Sessions: Economic Boost and New Opportunities for Opening Up""",neutral,0.5723690986633301,1,7,0,3
-4,chinese,CPPCC member Lu Jian suggests strengthening the basic research of green and efficient development of gold resources,positive,0.5922318696975708,2,7,0,3
+2,chinese,"""World Watches the Two Sessions: University of Cape Town Professor Says Trust between China and Africa is a Valuable Asset""",neutral,0.6117673516273499,1,7,0,3
+3,chinese,"""Insight into Foreign Companies' Perspective on the Two Sessions: Economic Boost and New Opportunities through Openness""",neutral,0.6587321758270264,1,7,0,3
+4,chinese,CPPCC member Lu Jian suggests strengthening basic research for green and efficient development of gold resources,positive,0.5982410907745361,2,7,0,3
 5,chinese,"""NPC Deputy Xu Ance: Increase Development of China-Laos Railway for the Benefit of Both Countries' People""",positive,0.5258049964904785,2,7,0,3
-6,chinese,"""Foreign Companies Observe the Two Sessions: Royal Caribbean Group's Liu Zinan: China's Economic Development Provides Vast Space and Opportunities for Foreign Enterprises in China""",positive,0.5719181299209595,2,7,0,3
-7,chinese,"""Foreign Companies' Perspective on the Two Sessions: AstraZeneca's Wang Lei: China is an Important Engine for Winning the Future""",positive,0.5738393664360046,2,7,0,3
-8,chinese,"""February 2nd, Dragon Raising its Head: Time-honored Barbershop Offers Free Haircuts to Sanitation Workers as a Gesture of Love""",positive,0.6977849006652832,2,7,0,3
-9,chinese,"""17th Asian Film Awards Held in Hong Kong, Showcasing a Variety of Films from China, Japan, South Korea, and Thailand""",neutral,0.7392193078994751,1,7,0,3
+6,chinese,"""Foreign Companies Observe the Two Sessions: Royal Caribbean Group's Liu Zinan: China's Economic Development Provides Vast Space and Opportunities for Foreign Companies in China""",positive,0.556011974811554,2,7,0,3
+7,chinese,"""[Foreign Companies Observe the Two Sessions] AstraZeneca's Wang Lei: China is an Important Engine for Winning the Future""",positive,0.5860896706581116,2,7,0,3
+8,chinese,"""February 2nd, Dragon Raising its Head: Old Barber Shop Offers Free Haircuts to Sanitation Workers as an Act of Kindness""",positive,0.47466138005256653,2,7,0,3
+9,chinese,"""The 17th Asian Film Awards Held in Hong Kong, Multiple Countries including China, Japan, South Korea, and Thailand Shine Together""",neutral,0.574091911315918,1,7,0,3
