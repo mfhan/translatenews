@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Looks at the Two Sessions: Foreign Journalist Fang Haoming on ""Subject Three"": Spreading China's Story, Promising Youth Power""",neutral,0.5488665103912354,1,3,1,6
-1,chinese,"""Schedule Preview of the Two Sessions | March 11th""",neutral,0.9136664271354675,1,3,1,6
-2,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,3,1,6
-3,chinese,"""February 2nd, Dragon Raises Its Head: Old Barber Shop Offers Free Haircuts to Sanitation Workers as a Kind Gesture""",neutral,0.5467596054077148,1,3,1,6
-4,chinese,"""The 17th Asian Film Awards Held in Hong Kong, Multiple Countries Including China, Japan, South Korea, and Thailand Shine Brightly""",positive,0.5022950172424316,2,3,1,6
-5,chinese,Father of Fallen American Soldier Arrested for Protesting Injustice,negative,0.7958675026893616,-2,3,1,6
-6,chinese,"""Hungary Holds Inauguration Ceremony for New President""",neutral,0.7295822501182556,1,3,1,6
-7,chinese,"""Little Knowledge about ""Raising the Dragon's Head"": What are the Auspicious Meanings? What is a Dragon Scale Cake?""",neutral,0.7487500905990601,1,3,1,6
-8,chinese,"""Important Progress Made in Archaeological Study of Palace Courtyards and Water Systems in the Ming Dynasty Capital""",positive,0.8185914754867554,3,3,1,6
-9,chinese,"""What does issuing ultra-long-term national bonds worth 1 trillion yuan mean?""",neutral,0.7151811122894287,1,3,1,6
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,4,1,5
+1,chinese,"""Insight into Foreign Companies' Perspective on the Two Sessions: Economic Boost and New Opportunities for Opening Up""",neutral,0.5723690986633301,1,4,1,5
+2,chinese,CPPCC member Lu Jian suggests strengthening basic research for green and efficient development of gold resources.,positive,0.6120458245277405,2,4,1,5
+3,chinese,"""NPC Deputy Xu Ance: Increase Development of China-Laos Railway for the Benefit of Both Countries' People""",positive,0.5258049964904785,2,4,1,5
+4,chinese,"""Foreign Companies Observe Two Sessions: AstraZeneca's Wang Lei: China is an Important Engine for Winning the Future""",positive,0.5645894408226013,2,4,1,5
+5,chinese,"""February 2nd, Dragon Raising its Head: Time-Honored Barber Shop Offers Free Haircuts to Sanitation Workers as a Kind Gesture""",neutral,0.524987518787384,1,4,1,5
+6,chinese,"""The 17th Asian Film Awards Held in Hong Kong: A Multinational Showcase of China, Japan, South Korea, and Thailand""",neutral,0.8413774371147156,1,4,1,5
+7,chinese,Father of Fallen American Soldier Arrested for Protesting Injustice,negative,0.7958675026893616,-2,4,1,5
+8,chinese,"""Hungary Holds Inauguration Ceremony for New President""",neutral,0.7295822501182556,1,4,1,5
+9,chinese,"""Little Knowledge about ""Rising Dragon"": What Are Its Auspicious Meanings? What Is a Dragon Scale Cake?""",neutral,0.8181450963020325,1,4,1,5
