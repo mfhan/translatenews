@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,5,0,5
-1,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promoting High-level Opening-up, Accelerating the Construction of a High-level Open Gateway Hub for Internal and External Connectivity""",positive,0.7875553369522095,3,5,0,5
-2,chinese,"""Eastern European Experts: China's Advancement of High-Quality Development is Crucial for the World""",positive,0.7308512330055237,3,5,0,5
-3,chinese,"""Navigation Warning! Live Ammunition Shooting Training in East China Sea Waters""",neutral,0.8051849007606506,1,5,0,5
-4,chinese,"""Planting Trees Awaits Spring | The Era's Painting Scroll""",neutral,0.7323557138442993,1,5,0,5
-5,chinese,"""Multinational Corporations Discuss the Two Sessions | Striving for Quality through Innovation: China's Economy Continues to Move Forward Against the Waves""",positive,0.6849629282951355,2,5,0,5
-6,chinese,"""The 14th China-Europe Defense Department Security Policy Dialogue Held in Beijing""",neutral,0.8872959017753601,1,5,0,5
-7,chinese,"""Satisfaction of Journalists from Various Countries at the Two Sessions""",positive,0.6639795899391174,2,5,0,5
-8,chinese,"""February CPI Rose 0.7% Year-on-Year""",neutral,0.8623539805412292,1,5,0,5
-9,chinese,"""British Media: New Data Strengthens Determination of European and American Central Banks to Cut Interest Rates""",neutral,0.6208359003067017,1,5,0,5
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,6,1,3
+1,chinese,"""Foreign Experts: China's Technological Innovation Capability Takes a Qualitative Leap""",positive,0.620415210723877,2,6,1,3
+2,chinese,"""Efforts being made nationwide to promote the construction of the ""Three Major Projects"" in cities""",positive,0.5516167283058167,2,6,1,3
+3,chinese,"""Red Sea Shipping Blocked, Multiple Countries Shift Focus to China-Europe Freight Train""",negative,0.6836146116256714,-1,6,1,3
+4,chinese,"""Belgians Speak Fluent Shanghai Dialect""",neutral,0.6359866261482239,1,6,1,3
+5,chinese,"""Accelerating Rural Economic Transformation, Promoting Farmers' Income Growth, and Achieving Common Prosperity""",positive,0.7651850581169128,3,6,1,3
+6,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promoting High-level Opening-up, Accelerating the Construction of a High-level Open Gateway Hub for Internal and External Connectivity""",positive,0.7875553369522095,3,6,1,3
+7,chinese,"""Eastern European Experts: China's Promotion of High-Quality Development is Crucial for the World""",positive,0.5237890481948853,2,6,1,3
+8,chinese,"""Navigation Warning! Live Ammunition Shooting Training in East China Sea""",neutral,0.7874446511268616,1,6,1,3
+9,chinese,"""Planting Trees Awaits Spring | The Era's Scroll""",neutral,0.7592887878417969,1,6,1,3
