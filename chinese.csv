@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choose China"" - The World Reads Confidence and Opportunities from China's Two Sessions",neutral,0.7267966270446777,1,6,2,2
-1,chinese,"""World Watches Two Sessions: Egyptian Scholar States Significance of Two Sessions in Enhancing China's International Influence""",negative,0.50754714012146,-1,6,2,2
-2,chinese,"""Dual-language Financial News: Overseas Economists: China's New Development Pattern is Crucial for the World""",positive,0.4496712386608124,2,6,2,2
-3,chinese,"""Foreign Experts: China's Technological Innovation Capability Takes a Qualitative Leap""",positive,0.620415210723877,2,6,2,2
-4,chinese,"""Efforts Being Made Across the Country to Promote the Construction of the Three Major Urban Projects""",positive,0.5082324743270874,2,6,2,2
-5,chinese,"""Red Sea Shipping Blocked, Multiple Countries Turn Their Attention to China-Europe Freight Train""",negative,0.7227834463119507,-2,6,2,2
-6,chinese,"""Belgians Speak Shanghai Dialect Fluently""",neutral,0.5036625862121582,1,6,2,2
-7,chinese,"""Accelerating Rural Economic Transformation, Promoting Farmers' Income Growth, and Achieving Common Prosperity""",positive,0.7651850581169128,3,6,2,2
-8,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promoting High-level Opening-up, Accelerating the Construction of a High-level Open Gateway Hub for Internal and External Connectivity""",positive,0.7875553369522095,3,6,2,2
-9,chinese,"""Eastern European Experts: China's Promotion of High-Quality Development is Crucial for the World""",positive,0.5237890481948853,2,6,2,2
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,6,1,3
+1,chinese,"""World Observes the Two Sessions: Egyptian Scholar States the Significance of the Two Sessions in Enhancing China's International Influence""",neutral,0.5036354660987854,1,6,1,3
+2,chinese,"""Dual-Language Financial News: Overseas Economists Say China's New Development Pattern is Crucial for the World""",neutral,0.421668142080307,1,6,1,3
+3,chinese,"""Foreign Experts: China's Technological Innovation Capability Takes a Qualitative Leap""",positive,0.620415210723877,2,6,1,3
+4,chinese,"""Efforts Being Made Across the Country to Promote Construction of the Three Major Urban Projects""",positive,0.5201795697212219,2,6,1,3
+5,chinese,"""Red Sea Shipping Blocked, Multiple Countries Turn Their Attention to China-Europe Freight Trains""",negative,0.7046083211898804,-2,6,1,3
+6,chinese,"""Belgians Speak Shanghainese Fluently""",neutral,0.5000894069671631,1,6,1,3
+7,chinese,"Accelerate Rural Economic Transformation, Promote Farmers' Income Growth, and Achieve Common Prosperity",positive,0.7648555636405945,3,6,1,3
+8,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promoting High-level Opening to the Outside World, Accelerating the Construction of a High-level Open Gateway Hub with Smooth Internal and External Connections""",positive,0.8178754448890686,3,6,1,3
+9,chinese,"""Eastern European Experts: China's Promotion of High-Quality Development is Crucial for the World""",positive,0.5237890481948853,2,6,1,3
