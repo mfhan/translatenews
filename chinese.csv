@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,8,1,1
-1,chinese,"""World Watches Two Sessions: Egyptian Scholar States Two Sessions Have Significant International Significance, Beneficial for Enhancing China's International Influence""",positive,0.5198400616645813,2,8,1,1
-2,chinese,"""Bilingual Financial News: Overseas Economists: China's New Development Pattern is Crucial for the World""",positive,0.39631497859954834,2,8,1,1
-3,chinese,"""Foreign Experts: China's Technological Innovation Capability Takes a Qualitative Leap""",positive,0.620415210723877,2,8,1,1
-4,chinese,"""Efforts are being made nationwide to promote the construction of the ""Three Major Projects"" in cities""",positive,0.5650717616081238,2,8,1,1
-5,chinese,"""Red Sea Shipping Hindered, Multiple Countries Turn Their Attention to China-Europe Freight Trains""",negative,0.7543532848358154,-2,8,1,1
-6,chinese,"""Belgians Speak Fluent Shanghai Dialect""",neutral,0.6359866261482239,1,8,1,1
-7,chinese,"""Accelerating Rural Economic Transformation, Promoting Farmers' Income Growth, and Achieving Common Prosperity""",positive,0.7651850581169128,3,8,1,1
-8,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promoting High-level Opening-up and Accelerating the Construction of a High-level Open Gateway Hub with Smooth Internal and External Connections""",positive,0.7808852195739746,3,8,1,1
-9,chinese,"""Eastern European Experts: China's Advancement of High-Quality Development is Crucial for the World""",positive,0.7308512330055237,3,8,1,1
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,6,1,3
+1,chinese,"""World Observes the Two Sessions: Egyptian Scholar States the Significance of the Two Sessions in Enhancing China's International Influence""",neutral,0.5036354660987854,1,6,1,3
+2,chinese,"""Bilingual Financial News: Overseas Economists: China's New Development Pattern is Crucial to the World""",neutral,0.4134242534637451,1,6,1,3
+3,chinese,"""Foreign Experts: China's Technological Innovation Capability Takes a Qualitative Leap""",positive,0.620415210723877,2,6,1,3
+4,chinese,"""Various regions actively promote the construction of the ""Three Major Projects"" in cities""",positive,0.5261054635047913,2,6,1,3
+5,chinese,"""Red Sea Shipping Hindered, Attention Shifts to China-Europe Freight Trains""",negative,0.7281307578086853,-2,6,1,3
+6,chinese,"""Belgians Speak Fluent Shanghainese""",neutral,0.5520483255386353,1,6,1,3
+7,chinese,"""Accelerating Rural Economic Transformation, Promoting Farmers' Income Growth, and Achieving Common Prosperity""",positive,0.7651850581169128,3,6,1,3
+8,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promote High-level Opening-up, Accelerate the Construction of a High-level Open Gateway Hub with Smooth Internal and External Connections""",positive,0.7505579590797424,3,6,1,3
+9,chinese,"""Eastern European Experts: China's Advancement of High-Quality Development is Crucial for the World""",positive,0.7308512330055237,3,6,1,3
