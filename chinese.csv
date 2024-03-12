@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,7,1,2
-1,chinese,"""World Observes the Two Sessions: Egyptian Scholar States that the Two Sessions Have Significant International Significance and Contribute to Enhancing China's International Influence""",positive,0.4957893490791321,2,7,1,2
-2,chinese,[Bilingual Financial News] Overseas Economists: China's New Development Pattern is Crucial to the World,neutral,0.3815471827983856,1,7,1,2
+1,chinese,"""World Watches the Two Sessions: Egyptian Scholar States the Significance of the Two Sessions in Enhancing China's International Influence""",neutral,0.5057203769683838,1,7,1,2
+2,chinese,"""Bilingual Financial News: Overseas Economists: China's New Development Pattern is Crucial for the World""",positive,0.39631497859954834,2,7,1,2
 3,chinese,"""Foreign Experts: China's Technological Innovation Capability Takes a Qualitative Leap""",positive,0.620415210723877,2,7,1,2
-4,chinese,"""Various regions actively promote the construction of the ""Three Major Projects"" in cities""",positive,0.5261054635047913,2,7,1,2
-5,chinese,"""Red Sea Shipping Blocked, Multiple Countries Turn to China-Europe Freight Trains""",negative,0.726385772228241,-2,7,1,2
-6,chinese,"""Belgians Speak Fluent Shanghai Dialect""",neutral,0.6359866261482239,1,7,1,2
+4,chinese,"""Efforts made across the country to promote the construction of the ""Three Major Projects"" in cities""",positive,0.5590149760246277,2,7,1,2
+5,chinese,"""Red Sea Shipping Obstructed, Multiple Countries Shift Focus to China-Europe Freight Trains""",negative,0.741492509841919,-2,7,1,2
+6,chinese,"""Belgians Speak Shanghainese Fluently""",neutral,0.5000894069671631,1,7,1,2
 7,chinese,"Accelerate Rural Economic Transformation, Promote Farmers' Income Growth, and Achieve Common Prosperity",positive,0.7648555636405945,3,7,1,2
 8,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promoting High-level Opening-up, Accelerating the Construction of a High-level Open Gateway Hub with Smooth Internal and External Connections""",positive,0.799921452999115,3,7,1,2
 9,chinese,"""Eastern European Experts: China's Advancement of High-Quality Development is Crucial for the World""",positive,0.7308512330055237,3,7,1,2
