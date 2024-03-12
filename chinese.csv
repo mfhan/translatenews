@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from the Two Sessions in China",positive,0.5541867017745972,2,5,1,4
-1,chinese,"""US ""Dragon"" spacecraft carrying 4 astronauts departs for return to Earth""",neutral,0.7756378054618835,1,5,1,4
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,5,1,4
+1,chinese,"""American ""Dragon"" spacecraft carrying 4 astronauts departs for return to Earth""",neutral,0.7540760636329651,1,5,1,4
 2,chinese,"""New Study: These Factors Make Animals More Susceptible to Extinction Due to Climate Change""",negative,0.5691771507263184,-1,5,1,4
-3,chinese,"""China's Automobile Production and Sales Volume Increase by 8.1% and 11.1% respectively from January to February""",neutral,0.6583588123321533,1,5,1,4
-4,chinese,"""Overseas Experts: Two Sessions Boost Confidence, Future Looks to China""",positive,0.5555282235145569,2,5,1,4
-5,chinese,Ministry of Foreign Affairs: Looking forward to and encouraging more exchanges between the people of China and the United States,positive,0.8002001047134399,3,5,1,4
-6,chinese,"""[World Looks at Two Sessions] University of Cape Town Professor: Trust between China and Africa is a Valuable Asset""",neutral,0.5993508696556091,1,5,1,4
-7,chinese,"""Insight into Foreign Enterprises' Perspective on the Two Sessions: Economic Boost and New Opportunities for Opening Up""",neutral,0.6002116203308105,1,5,1,4
+3,chinese,"""China's Automobile Production and Sales Increase by 8.1% and 11.1% Respectively in January and February""",neutral,0.5644955635070801,1,5,1,4
+4,chinese,"""Overseas Experts: Two Sessions Boost Confidence, Future Looks Bright for China""",positive,0.8118748068809509,3,5,1,4
+5,chinese,"""Ministry of Foreign Affairs: Looking Forward to and Encouraging More Exchanges Between the People of China and the United States""",positive,0.6244598031044006,2,5,1,4
+6,chinese,"""World Looks at the Two Sessions: University of Cape Town Professor: Trust between China and Africa is a Valuable Asset""",neutral,0.6051689982414246,1,5,1,4
+7,chinese,"""Insight into Foreign Companies' Perspective on the Two Sessions: Economy Boosts and New Opportunities through Opening Up""",neutral,0.5108609199523926,1,5,1,4
 8,chinese,CPPCC member Lu Jian suggests strengthening basic research for green and efficient development of gold resources,positive,0.5982410907745361,2,5,1,4
-9,chinese,"""NPC Deputy Xu Ance: Increase Development of China-Laos Railway for Better Benefits of Both Countries' People""",positive,0.5858195424079895,2,5,1,4
+9,chinese,"""NPC Deputy Xu Ance: Increase Development of China-Laos Railway for the Benefit of Both Countries' People""",positive,0.5258049964904785,2,5,1,4
