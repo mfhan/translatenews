@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,4,1,5
-1,chinese,"""Planting Trees Awaits Spring | The Era's Canvas""",neutral,0.7722138166427612,1,4,1,5
-2,chinese,"""Multinational Corporations Discuss the Two Sessions | Striving for ""New"" Quality, China's Economy Moves Forward Against the Tide""",positive,0.5509459972381592,2,4,1,5
-3,chinese,"""The 14th China-Europe Defense Department Security Policy Dialogue Held in Beijing""",neutral,0.8872959017753601,1,4,1,5
-4,chinese,"""Satisfaction of Journalists from Various Countries at the Two Sessions""",positive,0.6639795899391174,2,4,1,5
-5,chinese,"""February CPI Rose 0.7% Year-on-Year""",neutral,0.8623539805412292,1,4,1,5
-6,chinese,"""British Media: New Data Strengthens Determination of European and American Central Banks to Cut Interest Rates""",neutral,0.6208359003067017,1,4,1,5
-7,chinese,"""Japanese Car Companies Accelerate Investment in Electric Vehicles""",positive,0.5216766595840454,2,4,1,5
-8,chinese,"""China's Accumulated Number of Charging Infrastructure Reaches 9.023 Million""",neutral,0.7286484837532043,1,4,1,5
-9,chinese,"""British Media Misinterprets Foreign Investment Data in China, Chinese Embassy in the UK Refutes""",negative,0.7657317519187927,-2,4,1,5
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,3,1,6
+1,chinese,"""Planting Trees Awaits Spring | The Era's Scroll""",neutral,0.7592887878417969,1,3,1,6
+2,chinese,"""Multinational Corporations Discuss the Two Sessions | Striving for ""New"" Quality, China's Economy Moves Forward Against the Tide""",positive,0.5509459972381592,2,3,1,6
+3,chinese,"""The 14th China-EU Defense Department Security Policy Dialogue Held in Beijing""",neutral,0.8805286288261414,1,3,1,6
+4,chinese,"""Sense of Achievement"" of Journalists from Various Countries at the Two Sessions",neutral,0.8593652844429016,1,3,1,6
+5,chinese,"""February CPI Increases by 0.7% Year-on-Year""",neutral,0.7498235702514648,1,3,1,6
+6,chinese,"""British Media: New Data Strengthens Determination of European and American Central Banks to Cut Interest Rates""",neutral,0.6208359003067017,1,3,1,6
+7,chinese,"""Japanese Car Companies Accelerate Investment in Electric Vehicles""",positive,0.5216766595840454,2,3,1,6
+8,chinese,"""China's cumulative number of charging infrastructure has reached 9.023 million units""",neutral,0.7292584776878357,1,3,1,6
+9,chinese,"""British media misinterprets foreign investment data in China, Chinese Embassy in UK refutes""",negative,0.7054380178451538,-2,3,1,6
