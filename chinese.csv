@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,7,1,2
-1,chinese,"""World Watches the Two Sessions: Egyptian Scholar States the Significance of the Two Sessions in Enhancing China's International Influence""",neutral,0.5057203769683838,1,7,1,2
-2,chinese,"""Bilingual Financial News: Overseas Economists: China's New Development Pattern is Crucial for the World""",positive,0.39631497859954834,2,7,1,2
-3,chinese,"""Foreign Experts: China's Technological Innovation Capability Takes a Leap Towards Quality""",positive,0.5871341824531555,2,7,1,2
-4,chinese,"""Efforts to Promote the Construction of ""Three Major Projects"" in Cities Across the Country""",positive,0.5577645897865295,2,7,1,2
-5,chinese,"""Red Sea Shipping Blocked, Attention Shifts to China-Europe Freight Trains""",negative,0.6930962204933167,-1,7,1,2
-6,chinese,"""Belgians Speak Shanghai Dialect Fluently""",neutral,0.5036625862121582,1,7,1,2
-7,chinese,"""Accelerate Rural Economic Transformation, Promote Farmers' Income Growth, and Achieve Common Prosperity""",positive,0.7308984994888306,3,7,1,2
-8,chinese,"""Dalian Mayor Chen Shaowang: Firmly Promoting High-level Opening-up, Accelerating the Construction of a High-level Open Gateway Hub for Internal and External Connectivity""",positive,0.7875553369522095,3,7,1,2
-9,chinese,"""Eastern European Experts: China's Advancement of High-Quality Development is Crucial for the World""",positive,0.7308512330055237,3,7,1,2
+0,chinese,"""Choosing China"" - The World Reads Confidence and Opportunities from China's Two Sessions",neutral,0.7005188465118408,1,4,1,5
+1,chinese,"""Biden's ""Secret Documents Gate"" Special Prosecutor Faces Questioning from Bipartisan Members of Congress""",neutral,0.7615275382995605,1,4,1,5
+2,chinese,"""Biden Secures Democratic Presidential Nomination for 2024 US Presidential Election""",positive,0.5737893581390381,2,4,1,5
+3,chinese,"""China urges G20 to promote global economic growth""",positive,0.6555431485176086,2,4,1,5
+4,chinese,"""What are the main tax incentives for supporting technological innovation? This guideline from the Ministry of Finance provides clarity.""",neutral,0.5571779012680054,1,4,1,5
+5,chinese,"""Foreign Retail Giants Optimistic about Chinese Market""",positive,0.6066708564758301,2,4,1,5
+6,chinese,"""Online Literature Market Exceeds 4 Billion Yuan in Scale for Overseas Expansion""",neutral,0.7028441429138184,1,4,1,5
+7,chinese,"""Boeing's Frequent Safety Accidents, Who is Gambling with Passengers' Lives?""",negative,0.7523527145385742,-2,4,1,5
+8,chinese,"""New Study Reveals How to Develop New Drugs Using Artificial Intelligence""",neutral,0.6512267589569092,1,4,1,5
+9,chinese,"""World Observes the Two Sessions: Egyptian Scholar States that the Two Sessions Have Significant International Significance and Contribute to Strengthening China's International Influence""",positive,0.5671611428260803,2,4,1,5
