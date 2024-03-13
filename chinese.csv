@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,3,3,4
-1,chinese,State Council Taiwan Affairs Office: The central government's major policy towards Taiwan is clear and consistent.,neutral,0.48589926958084106,1,3,3,4
-2,chinese,"""Trump Secures Republican Nomination for 2024 US Presidential Election""",neutral,0.5267815589904785,1,3,3,4
-3,chinese,"""China's New Performance in the Global Innovation Landscape""",neutral,0.6387104988098145,1,3,3,4
-4,chinese,"""Breaking News! Small Rocket Launch in Japan Fails and Explodes""",negative,0.8411570191383362,-2,3,3,4
-5,chinese,"""Brazilian Scholar: Russian-Ukrainian and Israeli-Palestinian Conflicts Expose the Double Standards of the US and the West""",negative,0.6105992197990417,-1,3,3,4
-6,chinese,"""Gold prices continue to hit new highs, how long can the ""gold fever"" last?""",negative,0.6339480876922607,-1,3,3,4
-7,chinese,"""Biden's ""Secret Document Gate"" Special Prosecutor Faces Questioning from Both Parties in Congressional Hearing""",neutral,0.7274577021598816,1,3,3,4
-8,chinese,"""Biden Secures Democratic Presidential Nomination for 2024 US Presidential Election""",positive,0.5737893581390381,2,3,3,4
-9,chinese,"""China Calls on G20 to Promote Global Economic Growth""",positive,0.6370440721511841,2,3,3,4
+0,chinese,"""Choosing China"" - The World Finds Confidence and Opportunities from China's Two Sessions",positive,0.4962582290172577,2,3,2,5
+1,chinese,"""Ministry of Foreign Affairs: International Community Has Greater Confidence in China's Economic and Social Development Potential""",positive,0.7184874415397644,3,3,2,5
+2,chinese,"""China Consumers Association Releases Report on Prepaid Consumer Rights Protection""",neutral,0.8734901547431946,1,3,2,5
+3,chinese,"""China is the largest source country for international patent applications""",positive,0.5278408527374268,2,3,2,5
+4,chinese,"""Trump and Biden to Compete for US Presidency Again""",neutral,0.6945669054985046,1,3,2,5
+5,chinese,"""State Council Taiwan Affairs Office: Central Government's Major Policy Towards Taiwan is Clear and Consistent""",neutral,0.5003340244293213,1,3,2,5
+6,chinese,"""Trump Secures Republican Nomination for the 2024 US Presidential Election""",neutral,0.5406787395477295,1,3,2,5
+7,chinese,"""China's New Performance in the Global Innovation Landscape""",neutral,0.6387104988098145,1,3,2,5
+8,chinese,"""Breaking News! Small Japanese Rocket Launch Fails and Explodes""",negative,0.8149313926696777,-2,3,2,5
+9,chinese,"""Brazilian Scholar: Russian-Ukrainian and Israeli-Palestinian Conflicts Expose the Double Standards of the US and the West Again""",negative,0.7468886971473694,-2,3,2,5
