@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,5,1,4
-1,chinese,"""Biden's ""Secret Files Gate"" Special Prosecutor Faces Questioning from Bipartisan Members of Congress""",neutral,0.7399777770042419,1,5,1,4
-2,chinese,"""Biden Secures Democratic Presidential Nomination for 2024 US Presidential Election""",positive,0.5737893581390381,2,5,1,4
-3,chinese,"""China Calls on G20 to Promote Global Economic Growth""",positive,0.6370440721511841,2,5,1,4
-4,chinese,"""What are the main tax incentives for supporting technological innovation? This guidance from the Ministry of Finance provides clarity.""",neutral,0.5345147848129272,1,5,1,4
-5,chinese,"""Foreign Retail Giants Optimistic about Chinese Market""",positive,0.6066708564758301,2,5,1,4
-6,chinese,"""Online Literature Market Exceeds 4 Billion Yuan in Size""",neutral,0.7675189971923828,1,5,1,4
-7,chinese,"""Boeing's Frequent Safety Accidents, Who is Gambling with Passengers' Lives?""",negative,0.7523527145385742,-2,5,1,4
-8,chinese,"""New Study Reveals How to Use Artificial Intelligence to Develop New Drugs""",neutral,0.6372647285461426,1,5,1,4
-9,chinese,"""World Watches the Two Sessions: Egyptian Scholar States that the Two Sessions Have Significant International Significance and Contribute to Strengthening China's International Influence""",positive,0.6770942211151123,2,5,1,4
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,4,1,5
+1,chinese,"""Biden's ""Secret Documents Gate"" Special Prosecutor Faces Questioning from Members of Both Parties at Congressional Hearing""",neutral,0.77751624584198,1,4,1,5
+2,chinese,"""Biden Secures Democratic Presidential Nomination for 2024 US Presidential Election""",positive,0.5737893581390381,2,4,1,5
+3,chinese,"""China Calls for G20 to Promote Global Economic Growth""",positive,0.6603728532791138,2,4,1,5
+4,chinese,"""What are the main tax incentives for supporting technological innovation? This guidance from the Ministry of Finance provides clarity.""",neutral,0.5345147848129272,1,4,1,5
+5,chinese,"""Foreign Supermarkets Optimistic about Chinese Market""",neutral,0.46293866634368896,1,4,1,5
+6,chinese,"""Online Literature Market Exceeds 4 Billion Yuan in Scale for Overseas Expansion""",neutral,0.7028441429138184,1,4,1,5
+7,chinese,"""Boeing's Frequent Safety Accidents, Who is Gambling with Passengers' Lives?""",negative,0.7523527145385742,-2,4,1,5
+8,chinese,"""New Study Reveals How to Use Artificial Intelligence to Develop New Drugs""",neutral,0.6372647285461426,1,4,1,5
+9,chinese,"""World Watches the Two Sessions: Egyptian Scholar States that the Two Sessions Have Significant International Significance and Contribute to Strengthening China's International Influence""",positive,0.6770942211151123,2,4,1,5
