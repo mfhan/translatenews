@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,4,1,5
-1,chinese,"""Biden's ""Secret File Gate"" Special Prosecutor Faces Questioning from Both Parties in Congressional Hearing""",neutral,0.6922506093978882,1,4,1,5
-2,chinese,"""Biden Secures Democratic Presidential Nomination for the 2024 US Presidential Election""",positive,0.5689325928688049,2,4,1,5
-3,chinese,"""China Calls on G20 to Promote Global Economic Growth""",positive,0.6370440721511841,2,4,1,5
-4,chinese,"""What are the main tax incentives for supporting technological innovation? This guidance from the Ministry of Finance provides clarity.""",neutral,0.5345147848129272,1,4,1,5
-5,chinese,"""Foreign Retail Giants Optimistic about Chinese Market""",positive,0.6066708564758301,2,4,1,5
-6,chinese,"""Online Literature Market Exceeds 4 Billion Yuan in Size for Overseas Expansion""",neutral,0.6804515719413757,1,4,1,5
-7,chinese,"""Boeing's Frequent Safety Accidents, Who is Gambling with Passengers' Lives?""",negative,0.7523527145385742,-2,4,1,5
-8,chinese,"""New Study Reveals How to Develop New Drugs Using Artificial Intelligence""",neutral,0.6512267589569092,1,4,1,5
-9,chinese,"""World Watches the Two Sessions: Egyptian Scholar States the Significance of the Two Sessions in Enhancing China's International Influence""",neutral,0.5057203769683838,1,4,1,5
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,3,3,4
+1,chinese,"""State Council Taiwan Affairs Office: Central Government's Major Policy Towards Taiwan is Clear and Consistent""",neutral,0.5003340244293213,1,3,3,4
+2,chinese,"""Trump Secures Republican Nomination for 2024 US Presidential Election""",neutral,0.5267815589904785,1,3,3,4
+3,chinese,"""China's New Performance in the Global Innovation Landscape""",neutral,0.6387104988098145,1,3,3,4
+4,chinese,"""Breaking News! Small Rocket Launch in Japan Fails and Explodes""",negative,0.8411570191383362,-2,3,3,4
+5,chinese,"""Brazilian Scholar: Russian-Ukrainian and Israeli-Palestinian Conflicts Expose the Double Standards of the US and the West Once Again""",negative,0.7016221284866333,-2,3,3,4
+6,chinese,"""Gold prices continue to hit new highs, how long will the ""gold fever"" last?""",negative,0.5738648176193237,-1,3,3,4
+7,chinese,"""Biden's ""Secret File Gate"" Special Prosecutor Faces Questioning from Both Parties in Congressional Hearing""",neutral,0.6922506093978882,1,3,3,4
+8,chinese,"""Biden Secures Democratic Presidential Nomination for 2024 US Presidential Election""",positive,0.5737893581390381,2,3,3,4
+9,chinese,"""China calls for G20 to promote global economic growth""",positive,0.674726665019989,2,3,3,4
