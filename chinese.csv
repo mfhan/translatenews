@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" with High Debt as One of the Main Causes",negative,0.6165614724159241,-1,2,4,4
-1,chinese,"""11 Years on the Run! A Key Suspect of Red Notice Crime Returned to China from Indonesia""",neutral,0.5451982021331787,1,2,4,4
-2,chinese,"""Shanxi Zhongyang ""3·11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Investigation Team Established""",negative,0.7180034518241882,-2,2,4,4
-3,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Achieves Cumulative Power Generation of Over 1 Trillion Kilowatt Hours""",positive,0.5348691344261169,2,2,4,4
-4,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Housing Purchases""",neutral,0.5184978246688843,1,2,4,4
-5,chinese,"""Hebei Sanhe Officially Reports ""CCTV Reporter's Obstruction in Yanjiao Interview"": Expresses Apologies, Welcomes Supervision""",negative,0.8384039402008057,-2,2,4,4
+0,chinese,"""Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" High Debt is One of the Main Reasons""",neutral,0.6568596959114075,1,2,4,4
+1,chinese,"""11 Years on the Run! An Important Red Notice Suspect Returned to China from Indonesia""",positive,0.5160707235336304,2,2,4,4
+2,chinese,"""Shanxi Zhongyang ""3·11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established for Further Investigation""",negative,0.7036849856376648,-2,2,4,4
+3,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 1 Trillion Kilowatt-Hours in Cumulative Power Generation""",neutral,0.5447962284088135,1,2,4,4
+4,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Home Purchases""",negative,0.4881938099861145,-1,2,4,4
+5,chinese,"""Hebei Sanhe Officially Reports ""CCTV Reporter Encounters Obstacles During Yanjiao Interview"": Apologizes and Welcomes Supervision""",negative,0.6678305864334106,-1,2,4,4
 6,chinese,"""32.73 Million New Business Entities Established in 2023""",neutral,0.7028828263282776,1,2,4,4
-7,chinese,"""Risk Prevention and Strong Supervision: China Securities Regulatory Commission to Focus on Four Aspects this Year""",neutral,0.5719648003578186,1,2,4,4
-8,chinese,"""Explosion in Yanjiao Town, Sanhe City, Hebei Province, results in 7 deaths and 27 injuries""",negative,0.7470443844795227,-2,2,4,4
-9,chinese,"""6 More Countries Added! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.8122073411941528,3,2,4,4
+7,chinese,"""Risk Prevention and Strict Regulation: China Securities Regulatory Commission to Focus on Four Aspects This Year""",neutral,0.7114161849021912,1,2,4,4
+8,chinese,"""Explosion in Yanjiao Town, Sanhe City, Hebei Province, Results in 7 Deaths and 27 Injuries""",negative,0.7211452722549438,-2,2,4,4
+9,chinese,"""Adding 6 More Countries! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.799371600151062,3,2,4,4
