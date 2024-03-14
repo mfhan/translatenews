@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" with High Debt as One of the Main Causes",negative,0.6165614724159241,-1,1,5,4
-1,chinese,"""11 Years on the Run! An Important Red Notice Criminal Suspect Returned to China from Indonesia""",neutral,0.5733126997947693,1,1,5,4
-2,chinese,"""Shanxi Zhongyang ""3.11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established""",negative,0.6966493725776672,-1,1,5,4
-3,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 1 Trillion Kilowatt-Hours in Cumulative Power Generation""",neutral,0.5447962284088135,1,1,5,4
-4,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Home Purchases""",negative,0.4881938099861145,-1,1,5,4
-5,chinese,"""Hebei Sanhe Officially Reports ""CCTV Reporter Encounters Obstacles During Yanjiao Interview"": Expresses Apologies, Welcomes Supervision""",negative,0.7882623076438904,-2,1,5,4
-6,chinese,"""32.73 Million New Business Entities Established in 2023""",neutral,0.7028828263282776,1,1,5,4
-7,chinese,"""Risk Prevention and Strong Regulation: China Securities Regulatory Commission to Focus on Four Aspects This Year""",neutral,0.6098724007606506,1,1,5,4
-8,chinese,"""Seven Dead and 27 Injured in Explosion Accident in Yanjiao Town, Sanhe City, Hebei Province""",negative,0.7404162883758545,-2,1,5,4
-9,chinese,"""6 More Countries Added! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.8122073411941528,3,1,5,4
+0,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" with High Debt as One of the Main Causes",negative,0.6165614724159241,-1,2,4,4
+1,chinese,"""11 Years on the Run! A Key Suspect of Red Notice Crime Returned to China from Indonesia""",neutral,0.5451982021331787,1,2,4,4
+2,chinese,"""Shanxi Zhongyang ""3·11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Investigation Team Established""",negative,0.7180034518241882,-2,2,4,4
+3,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Achieves Cumulative Power Generation of Over 1 Trillion Kilowatt Hours""",positive,0.5348691344261169,2,2,4,4
+4,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Housing Purchases""",neutral,0.5184978246688843,1,2,4,4
+5,chinese,"""Hebei Sanhe Officially Reports ""CCTV Reporter's Obstruction in Yanjiao Interview"": Expresses Apologies, Welcomes Supervision""",negative,0.8384039402008057,-2,2,4,4
+6,chinese,"""32.73 Million New Business Entities Established in 2023""",neutral,0.7028828263282776,1,2,4,4
+7,chinese,"""Risk Prevention and Strong Supervision: China Securities Regulatory Commission to Focus on Four Aspects this Year""",neutral,0.5719648003578186,1,2,4,4
+8,chinese,"""Explosion in Yanjiao Town, Sanhe City, Hebei Province, results in 7 deaths and 27 injuries""",negative,0.7470443844795227,-2,2,4,4
+9,chinese,"""6 More Countries Added! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.8122073411941528,3,2,4,4
