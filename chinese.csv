@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,4,2,4
-1,chinese,Ministry of Public Security: More than 800 Chinese nationals involved in gambling and fraud in Myanmar have been repatriated through Thailand.,negative,0.588975191116333,-1,4,2,4
-2,chinese,"""Sri Lankan Expert: China's Diplomatic Achievements Remarkable, Global Influence Growing Day by Day""",positive,0.7586990594863892,3,4,2,4
-3,chinese,"""Ministry of Foreign Affairs: International Community Has More Confidence in China's Economic and Social Development Potential""",positive,0.6530483365058899,2,4,2,4
-4,chinese,"""China Consumers Association Releases Report on Prepaid Consumer Rights Protection""",neutral,0.8734901547431946,1,4,2,4
-5,chinese,"""China is the largest source country for international patent applications""",positive,0.5278408527374268,2,4,2,4
-6,chinese,"""Explosion in Yanjiao, Hebei Province has caused 2 deaths and 26 injuries""",negative,0.7540109753608704,-2,4,2,4
-7,chinese,"""Trump and Biden to Compete for US Presidency Again""",neutral,0.6945669054985046,1,4,2,4
-8,chinese,"""State Council Taiwan Affairs Office: Central Government's Major Policy Towards Taiwan is Clear and Consistent""",neutral,0.5003340244293213,1,4,2,4
-9,chinese,"""Trump Secures Republican Nomination for 2024 US Presidential Election""",neutral,0.5267815589904785,1,4,2,4
+0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,3,4,3
+1,chinese,"""Hebei Sanhe Officially Reports on ""CCTV Reporter Encounters Obstacles During Yanjiao Interview"": Apologizes and Welcomes Supervision""",negative,0.6005457639694214,-1,3,4,3
+2,chinese,"""32.73 Million New Business Entities Established in 2023""",neutral,0.7028828263282776,1,3,4,3
+3,chinese,"""Risk Prevention and Strong Supervision: China Securities Regulatory Commission to Focus on Four Areas this Year""",neutral,0.5793575048446655,1,3,4,3
+4,chinese,"""Explosion in Yanjiao Town, Sanhe City, Hebei Province leaves 7 dead and 27 injured""",negative,0.8007827997207642,-2,3,4,3
+5,chinese,"""Six More Countries Added! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.7851565480232239,3,3,4,3
+6,chinese,"""11 Departments Deploy Second Batch of National Digital Village Pilot Work""",neutral,0.7889862656593323,1,3,4,3
+7,chinese,"""Hong Kong's ""Highly Skilled Talent Admission Scheme"" has approved nearly 59,000 applications""",positive,0.5007457733154297,2,3,4,3
+8,chinese,"""State Council Taiwan Affairs Office Re-evaluates the ""2·14"" Malicious Collision Incident: Taiwan Side Shows No Compassion, Morality, or Reason""",negative,0.8605040311813354,-2,3,4,3
+9,chinese,Ministry of Public Security: More than 800 Chinese nationals involved in gambling and fraud in Myanmar have been repatriated through Thailand.,negative,0.588975191116333,-1,3,4,3
