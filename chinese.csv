@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" High Debt is One of the Main Reasons",neutral,0.6518852710723877,1,1,4,5
-1,chinese,"""11 Years on the Run! An Important Fugitive Suspect on the Red Notice List is Repatriated from Indonesia""",neutral,0.4381064474582672,1,1,4,5
-2,chinese,"""Shanxi Zhongyang ""3·11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established for Further Investigation""",negative,0.7036849856376648,-2,1,4,5
-3,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base's Cumulative Power Generation Breaks Through 1 Trillion Kilowatt-hours""",neutral,0.6592885255813599,1,1,4,5
-4,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Home Purchases""",negative,0.4881938099861145,-1,1,4,5
-5,chinese,"""Hebei's Sanhe Officially Reports on ""CCTV Reporter Encounters Obstacles During Yanjiao Interview"": Apologizes and Welcomes Supervision""",negative,0.5995678901672363,-1,1,4,5
-6,chinese,"""32.73 Million New Business Entities Established in 2023""",neutral,0.7028828263282776,1,1,4,5
-7,chinese,"""Risk Prevention and Strong Regulation: China Securities Regulatory Commission to Focus on Four Areas this Year""",neutral,0.6021075248718262,1,1,4,5
-8,chinese,"""Explosion in Yanjiao Town, Sanhe City, Hebei Province results in 7 deaths and 27 injuries""",negative,0.7480873465538025,-2,1,4,5
-9,chinese,"""Addition of 6 More Countries! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.7449032664299011,3,1,4,5
+0,chinese,"""Brazilian Experts: China Sets an Example for the World by Promoting High-Quality Development""",positive,0.6864140629768372,2,3,3,4
+1,chinese,"""Multiple regions release results of 2023 digital RMB pilot program: New features added, scenarios expanded""",positive,0.5487373471260071,2,3,3,4
+2,chinese,"""Reviewing the National Budget: How Money was Spent This Year""",neutral,0.8598324656486511,1,3,3,4
+3,chinese,"""Australian Scholars: Empty Talk of Cooperation Development, Actually Self-Promotion, Can Australia Convince ASEAN to Buy In?""",neutral,0.4431163966655731,1,3,3,4
+4,chinese,"""Important Red Notice Suspect Returned to Country from Indonesia""",positive,0.5080616474151611,2,3,3,4
+5,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" with High Debt as One of the Main Causes",negative,0.6165614724159241,-1,3,3,4
+6,chinese,"""Shanxi Zhongyang ""3.11"" Warehouse Collapse Incident Has Caused 6 Fatalities, Provincial Accident Investigation Team Established for Further Investigation""",negative,0.7322900295257568,-2,3,3,4
+7,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 1 Trillion Kilowatt-hours of Cumulative Power Generation""",neutral,0.5414369106292725,1,3,3,4
+8,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Housing Purchases""",neutral,0.5184978246688843,1,3,3,4
+9,chinese,"""Hebei Sanhe Officially Announces ""CCTV Reporter Encounters Obstacles During Yanjiao Interview"": Expresses Apologies, Welcomes Supervision""",negative,0.5102487802505493,-1,3,3,4
