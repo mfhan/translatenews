@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""【China News】International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8619621396064758,3,3,1,6
-1,chinese,"""Brazilian Experts: China Sets an Example for the World by Promoting High-Quality Development""",positive,0.6864140629768372,2,3,1,6
-2,chinese,"""Multiple Regions Release 2023 Digital RMB Pilot Results: New Features and Expanded Scenarios""",neutral,0.8559205532073975,1,3,1,6
-3,chinese,"""Examining the National Budget: How Money is Spent This Year""",neutral,0.860278844833374,1,3,1,6
-4,chinese,"""Australian Scholar: Empty Talk of Cooperation Development, Actually Self-Promotion, Can Australia Win ASEAN's Approval?""",positive,0.5032632350921631,2,3,1,6
-5,chinese,"""Key Red Notice Individual Returned to Country from Indonesia""",neutral,0.8101556301116943,1,3,1,6
-6,chinese,"""Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" with High Debt as One of the Main Reasons""",neutral,0.505132794380188,1,3,1,6
-7,chinese,"""Shanxi Zhongyang ""3·11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established for Further Investigation""",negative,0.7036849856376648,-2,3,1,6
-8,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base's Cumulative Power Generation Surpasses 1 Trillion Kilowatt Hours""",neutral,0.6044452786445618,1,3,1,6
+0,chinese,"""[China's Affairs] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8366971611976624,3,3,1,6
+1,chinese,"""Brazilian Experts: China Sets an Example for the World in Promoting High-Quality Development""",positive,0.6558651924133301,2,3,1,6
+2,chinese,"""Multiple regions release results of 2023 digital RMB pilot program, with new features and expanded scenarios""",positive,0.4891633689403534,2,3,1,6
+3,chinese,"""Examining the National Budget: How Money is Spent this Year""",neutral,0.8619174957275391,1,3,1,6
+4,chinese,"""Australian Scholar: Talking About Cooperation Development, But Actually Self-Promotion, Can Australia Win Over ASEAN?""",neutral,0.6074475646018982,1,3,1,6
+5,chinese,"""Important Red Notice Individual Deported from Indonesia and Returned to Country""",neutral,0.5000853538513184,1,3,1,6
+6,chinese,"""Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" High Debt is One of the Main Reasons""",neutral,0.6568596959114075,1,3,1,6
+7,chinese,"""Shanxi Zhongyang ""3.11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established""",negative,0.6966493725776672,-1,3,1,6
+8,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 1 Trillion Kilowatt-hours in Cumulative Power Generation""",neutral,0.5392435193061829,1,3,1,6
 9,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Housing Purchases""",neutral,0.5184978246688843,1,3,1,6
