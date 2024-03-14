@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""【China News】International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8619621396064758,3,3,2,5
+0,chinese,"""【China's Affairs】International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8349537253379822,3,3,2,5
 1,chinese,"""Brazilian Experts: China Sets an Example for the World by Promoting High-Quality Development""",positive,0.6864140629768372,2,3,2,5
-2,chinese,"""Multiple regions release results of 2023 digital RMB pilot program, with new features and expanded scenarios""",positive,0.4891633689403534,2,3,2,5
-3,chinese,"""Examining the National Budget: How Money is Spent This Year""",neutral,0.860278844833374,1,3,2,5
-4,chinese,"""Australian Scholar: Talking about Cooperation and Development, but Actually Self-Promoting, Can Australia Make ASEAN Buy It?""",neutral,0.5472636222839355,1,3,2,5
-5,chinese,"""Important Red Notice Individual Returned to Country from Indonesia""",neutral,0.43619784712791443,1,3,2,5
-6,chinese,"Bilingual News: 60% of American Consumers are ""Moonlight Clan"" with High Debt as One of the Main Causes",negative,0.7253721952438354,-2,3,2,5
-7,chinese,"""Shanxi Zhongyang ""3.11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established""",negative,0.6966493725776672,-1,3,2,5
-8,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 1 Trillion Kilowatt-Hours of Cumulative Power Generation""",neutral,0.5489895939826965,1,3,2,5
+2,chinese,"""Multiple regions release results of 2023 digital RMB pilot program: New features and expanded scenarios""",neutral,0.576926589012146,1,3,2,5
+3,chinese,"""Reviewing the National Budget: How Money Was Spent This Year""",neutral,0.8609870672225952,1,3,2,5
+4,chinese,"""Australian Scholar: Talk of Cooperation and Development, but Actually Self-Promotion, Can Australia Win Over ASEAN?""",neutral,0.5402466058731079,1,3,2,5
+5,chinese,"""Important Red Notice Suspect Returned to Country from Indonesia""",positive,0.5080616474151611,2,3,2,5
+6,chinese,"""Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" with High Debt Being One of the Main Causes""",negative,0.5916020274162292,-1,3,2,5
+7,chinese,"""Shanxi Zhongyang ""3.11"" Warehouse Collapse Incident Results in 6 Deaths, Provincial Accident Investigation Team Established for Further Investigation""",negative,0.6164022088050842,-1,3,2,5
+8,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 10 Trillion Kilowatt-Hours in Cumulative Power Generation""",neutral,0.5373369455337524,1,3,2,5
 9,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Housing Purchases""",neutral,0.5184978246688843,1,3,2,5
