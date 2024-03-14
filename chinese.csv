@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Choosing China"" - The World Gains Confidence and Opportunities from China's Two Sessions",positive,0.5488231182098389,2,3,4,3
-1,chinese,"""Hebei Sanhe Officially Reports ""CCTV Reporter Encounters Obstacles in Yanjiao Interview"": Expresses Apologies, Welcomes Supervision""",negative,0.7954165935516357,-2,3,4,3
-2,chinese,"""32.73 Million New Business Entities Established in 2023""",neutral,0.7028828263282776,1,3,4,3
-3,chinese,"""Risk Prevention and Strong Supervision: China Securities Regulatory Commission to Focus on Four Aspects this Year""",neutral,0.5719648003578186,1,3,4,3
-4,chinese,"""Explosion in Yanjiao Town, Sanhe City, Hebei Province, results in 7 deaths and 27 injuries""",negative,0.7470443844795227,-2,3,4,3
-5,chinese,"""Adding 6 More Countries! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.799371600151062,3,3,4,3
-6,chinese,"""11 Departments Deploy Second Batch of National Digital Village Pilot Work""",neutral,0.7889862656593323,1,3,4,3
-7,chinese,"""Hong Kong's ""Highly Skilled Program"" has approved nearly 59,000 applications""",positive,0.5513272881507874,2,3,4,3
-8,chinese,"""State Council Taiwan Affairs Office Re-evaluates ""2.14"" Malicious Collision Incident: Taiwan Side Shows No Compassion, Morality, or Reason""",negative,0.8728730082511902,-2,3,4,3
-9,chinese,Ministry of Public Security: More than 800 Chinese nationals involved in gambling and fraud in Myanmar have been repatriated through Thailand.,negative,0.588975191116333,-1,3,4,3
+0,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" with High Debt as One of the Main Causes",negative,0.6165614724159241,-1,1,5,4
+1,chinese,"""11 Years on the Run! An Important Red Notice Criminal Suspect Returned to China from Indonesia""",neutral,0.5733126997947693,1,1,5,4
+2,chinese,"""Shanxi Zhongyang ""3.11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established""",negative,0.6966493725776672,-1,1,5,4
+3,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 1 Trillion Kilowatt-Hours in Cumulative Power Generation""",neutral,0.5447962284088135,1,1,5,4
+4,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Home Purchases""",negative,0.4881938099861145,-1,1,5,4
+5,chinese,"""Hebei Sanhe Officially Reports ""CCTV Reporter Encounters Obstacles During Yanjiao Interview"": Expresses Apologies, Welcomes Supervision""",negative,0.7882623076438904,-2,1,5,4
+6,chinese,"""32.73 Million New Business Entities Established in 2023""",neutral,0.7028828263282776,1,1,5,4
+7,chinese,"""Risk Prevention and Strong Regulation: China Securities Regulatory Commission to Focus on Four Aspects This Year""",neutral,0.6098724007606506,1,1,5,4
+8,chinese,"""Seven Dead and 27 Injured in Explosion Accident in Yanjiao Town, Sanhe City, Hebei Province""",negative,0.7404162883758545,-2,1,5,4
+9,chinese,"""6 More Countries Added! Visa-Free ""Circle of Friends"" Expands Again, Sending a Strong Signal of China's Openness""",positive,0.8122073411941528,3,1,5,4
