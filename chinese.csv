@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""【China's Affairs】International Figures: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8257320523262024,3,2,2,6
+0,chinese,"""[China News] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8623697757720947,3,2,2,6
 1,chinese,"""Brazilian Experts: China Sets an Example for the World by Promoting High-Quality Development""",positive,0.6864140629768372,2,2,2,6
-2,chinese,"""Multiple regions release results of 2023 digital RMB pilot, with new features and expanded scenarios""",neutral,0.5496350526809692,1,2,2,6
-3,chinese,"""Reviewing the National Budget: How Money is Spent This Year""",neutral,0.8581090569496155,1,2,2,6
-4,chinese,"""Australian Scholar: Talk of Cooperation and Development is Actually Self-Promotion, Can Australia Win Over ASEAN?""",neutral,0.4716043174266815,1,2,2,6
-5,chinese,"""Key Red Notice Individual Deported from Indonesia and Returned to Country""",neutral,0.8410943150520325,1,2,2,6
-6,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" High Debt is One of the Main Causes",negative,0.5497409105300903,-1,2,2,6
-7,chinese,"""Shanxi Zhongyang ""3·11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established""",negative,0.7027072310447693,-2,2,2,6
+2,chinese,"""Multiple regions release 2023 digital RMB pilot results, new functions added, scenarios expanded""",neutral,0.5154742002487183,1,2,2,6
+3,chinese,"""Examining the National Budget: How Money is Spent This Year""",neutral,0.860278844833374,1,2,2,6
+4,chinese,"""Australian Scholars: Empty Talk of Cooperation, Actually Self-Promotion, Can Australia Convince ASEAN to Buy In?""",neutral,0.4375235438346863,1,2,2,6
+5,chinese,"""Important Red Notice Individual Returned to Country from Indonesia""",neutral,0.43619784712791443,1,2,2,6
+6,chinese,"""Bilingual News: 60% of American Consumers Become ""Moonlight Clan"", High Debt is One of the Main Reasons""",neutral,0.6110637784004211,1,2,2,6
+7,chinese,"""Shanxi Zhongyang ""3·11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established for Further Investigation""",negative,0.7036849856376648,-2,2,2,6
 8,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base Surpasses 1 Trillion Kilowatt-Hours in Cumulative Power Generation""",neutral,0.5447962284088135,1,2,2,6
-9,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Housing Purchases""",neutral,0.5184978246688843,1,2,2,6
+9,chinese,"""Hangzhou Fully Cancels Restrictions on Second-Hand Housing Purchases""",negative,0.726100742816925,-2,2,2,6
