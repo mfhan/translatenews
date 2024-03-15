@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China News] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8623697757720947,3,5,2,3
-1,chinese,"""Cold Air Will Affect Most Parts of China, Xinjiang, Gansu, Inner Mongolia, and Other Areas Will Experience Sandstorms""",negative,0.5631832480430603,-1,5,2,3
+0,chinese,"""China's Development: International Experts Look Forward to High-Quality Growth Bringing More Opportunities to the World""",positive,0.8143737316131592,3,5,2,3
+1,chinese,"""Cold air will affect most areas of our country, Xinjiang, Gansu, Inner Mongolia and other regions will experience sand and dust""",negative,0.74153071641922,-2,5,2,3
 2,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,5,2,3
 3,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,5,2,3
-4,chinese,"""3 Dead, 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7545969486236572,-2,5,2,3
-5,chinese,"""Expanding Channels to Promote Connection: Multiple Parties Help Boost Employment for College Graduates""",positive,0.765804648399353,3,5,2,3
+4,chinese,"""3 Dead and 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7585238218307495,-2,5,2,3
+5,chinese,"""Expanding Channels to Promote Connections: Multiple Parties Assist in Boosting Employment for College Graduates""",positive,0.7350687384605408,3,5,2,3
 6,chinese,"""Multiple regions implement policies to promote stable development of the real estate market""",positive,0.7158831357955933,3,5,2,3
-7,chinese,"""What is the water supply capacity? How is the total water consumption? Ministry of Water Resources discusses water security guarantee""",neutral,0.860350489616394,1,5,2,3
+7,chinese,"""What is the water supply capacity? How is the total water consumption? Ministry of Water Resources discusses water security protection""",neutral,0.8527051210403442,1,5,2,3
 8,chinese,"""Green Technology Brings Strong Momentum to China's Economic Growth""",positive,0.8820189833641052,3,5,2,3
 9,chinese,"""Brazilian Experts: China Sets an Example for the World by Promoting High-Quality Development""",positive,0.6864140629768372,2,5,2,3
