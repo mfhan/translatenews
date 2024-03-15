@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Development: International Experts Anticipate High-Quality Growth to Bring More Opportunities to the World""",positive,0.4005160331726074,2,4,2,4
-1,chinese,"""Guangzhan High-speed Rail Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",neutral,0.5613992810249329,1,4,2,4
-2,chinese,"""Cold air will affect most parts of our country, Xinjiang, Gansu, Inner Mongolia and other areas will experience sand and dust""",negative,0.7179585695266724,-2,4,2,4
+0,chinese,"""【China's Affairs】International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8349537253379822,3,4,2,4
+1,chinese,"""Guangzhan High-speed Rail Zhhanjiang Bay Undersea Tunnel Successfully Connected Today""",neutral,0.5371450185775757,1,4,2,4
+2,chinese,"""Cold air will affect most parts of our country, Xinjiang, Gansu, Inner Mongolia, and other regions will experience sandstorms""",negative,0.6985792517662048,-1,4,2,4
 3,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,4,2,4
 4,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,4,2,4
 5,chinese,"""3 Dead and 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7585238218307495,-2,4,2,4
-6,chinese,"""Expanding Channels to Promote Connections: Multiple Parties Help Boost Employment for College Graduates""",positive,0.7624074220657349,3,4,2,4
-7,chinese,"""Multiple regions implement measures to promote stable development of the real estate market""",positive,0.7241518497467041,3,4,2,4
-8,chinese,"""What is the water supply capacity? How about the total water consumption? Ministry of Water Resources discusses water security guarantee""",neutral,0.8294557929039001,1,4,2,4
+6,chinese,"""Expanding Channels to Promote Connection: Multi-party Efforts to Boost Employment for College Graduates""",positive,0.6581358909606934,2,4,2,4
+7,chinese,"""Multiple Regions Implement Measures to Promote Stable Development of the Real Estate Market""",positive,0.6627663373947144,2,4,2,4
+8,chinese,"""What is the water supply capacity? How is the total water consumption? Ministry of Water Resources discusses water security guarantee""",neutral,0.860350489616394,1,4,2,4
 9,chinese,"""Green Technology Brings Strong Momentum to China's Economic Growth""",positive,0.8820189833641052,3,4,2,4
