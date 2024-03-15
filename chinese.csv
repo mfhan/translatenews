@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China News] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8623697757720947,3,3,3,4
-1,chinese,"""China never acknowledges India's so-called Arunachal Pradesh""",negative,0.752027690410614,-2,3,3,4
-2,chinese,"""March MLF Operation Interest Rate Unchanged, Monetary Policy Strongly Supports Real Economy""",positive,0.700688362121582,3,3,3,4
-3,chinese,"""Top 10 Consumer Rights Protection Hot Topics in 2023: Takeaway Packaging ""Assassins"", Homestay ""Price Hikes and Refunds"" Named""",neutral,0.781042754650116,1,3,3,4
-4,chinese,"""Guangzhan High-speed Rail Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",neutral,0.5613992810249329,1,3,3,4
-5,chinese,"""Cold air will affect most parts of our country, Xinjiang, Gansu, Inner Mongolia, and other areas will have sandstorms""",negative,0.6820651888847351,-1,3,3,4
-6,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,3,3,4
-7,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,3,3,4
-8,chinese,"""3 Dead, 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7545969486236572,-2,3,3,4
-9,chinese,"""Expanding Channels to Promote Connections: Multiple Parties Help Boost Employment for College Graduates""",positive,0.7624074220657349,3,3,3,4
+0,chinese,"""[China News] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8623697757720947,3,4,3,3
+1,chinese,"""China Never Acknowledges India's So-Called Arunachal Pradesh""",negative,0.799990177154541,-2,4,3,3
+2,chinese,"""March MLF Operation Interest Rate Unchanged, Monetary Policy Strongly Supports Real Economy""",positive,0.700688362121582,3,4,3,3
+3,chinese,"""Top 10 Consumer Rights Protection Hot Topics in 2023: Takeout Packaging ""Assassins"", Homestay ""Price Hikes and Refunds"" Named""",neutral,0.7905371785163879,1,4,3,3
+4,chinese,"""Guangzhan High-speed Railway's Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",positive,0.5008775591850281,2,4,3,3
+5,chinese,"""Cold air will affect most areas of China, Xinjiang, Gansu, Inner Mongolia and other regions will experience sandstorms""",negative,0.6918272972106934,-1,4,3,3
+6,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,4,3,3
+7,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,4,3,3
+8,chinese,"""3 Dead and 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7585238218307495,-2,4,3,3
+9,chinese,"""Expanding Channels to Promote Coordination: Multiple Parties Help Boost Employment for College Graduates""",positive,0.7492091059684753,3,4,3,3
