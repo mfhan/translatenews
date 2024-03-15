@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Development: International Experts Hope for High-Quality Growth to Bring More Opportunities to the World""",positive,0.764710009098053,3,3,3,4
-1,chinese,China never acknowledges India's so-called Arunachal Pradesh.,negative,0.7432457208633423,-2,3,3,4
-2,chinese,"""March MLF Interest Rates Remain Unchanged, Strong Support for Real Economy in Monetary Policy""",positive,0.7066225409507751,3,3,3,4
-3,chinese,"""Top 10 Consumer Rights Protection Hot Topics in 2023: Takeaway Packaging ""Assassins"", Airbnb ""Price Hikes and Cancellations"" Named""",neutral,0.8466970920562744,1,3,3,4
-4,chinese,"""Guangzhan High-speed Railway Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",neutral,0.5118551850318909,1,3,3,4
-5,chinese,"""Cold air will affect most areas of our country, Xinjiang, Gansu, Inner Mongolia, and other regions will experience sand and dust""",negative,0.6964032053947449,-1,3,3,4
+0,chinese,"""[China News] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8623697757720947,3,3,3,4
+1,chinese,China never recognizes India's so-called Arunachal Pradesh.,negative,0.6934947967529297,-1,3,3,4
+2,chinese,"""March MLF Interest Rate Unchanged, Monetary Policy Strongly Supports Real Economy""",positive,0.6845149993896484,2,3,3,4
+3,chinese,"""Top 10 Consumer Rights Protection Hot Topics in 2023: Takeaway Packaging ""Assassins"", Homestay ""Price Hikes and Refunds"" Named""",neutral,0.781042754650116,1,3,3,4
+4,chinese,"""Guangzhan High-speed Rail Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",neutral,0.5613992810249329,1,3,3,4
+5,chinese,"""Cold air will affect most parts of our country, Xinjiang, Gansu, Inner Mongolia and other areas will have sand and dust""",negative,0.7259808778762817,-2,3,3,4
 6,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,3,3,4
 7,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,3,3,4
-8,chinese,"""3 Dead, 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7545969486236572,-2,3,3,4
+8,chinese,"""3 Dead and 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7585238218307495,-2,3,3,4
 9,chinese,"""Expanding Channels to Promote Connections: Multiple Parties Help Boost Employment for College Graduates""",positive,0.7624074220657349,3,3,3,4
