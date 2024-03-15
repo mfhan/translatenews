@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China News] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8623697757720947,3,5,2,3
-1,chinese,"""Guangzhan High-Speed Rail's Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",positive,0.49356865882873535,2,5,2,3
-2,chinese,"""Cold air will affect most areas of our country, Xinjiang, Gansu, Inner Mongolia, and other places will experience sandstorms""",negative,0.7144923806190491,-2,5,2,3
-3,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,5,2,3
-4,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,5,2,3
-5,chinese,"""3 Dead, 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7545969486236572,-2,5,2,3
-6,chinese,"""Expanding Channels to Promote Connection: Multiple Parties Help Boost Employment for College Graduates""",positive,0.765804648399353,3,5,2,3
-7,chinese,"""Multiple regions implement policies to promote stable development of the real estate market""",positive,0.7158831357955933,3,5,2,3
-8,chinese,"""What is the Water Supply Capacity? How is the Total Water Consumption? Ministry of Water Resources Discusses Water Security Guarantee""",neutral,0.7925499081611633,1,5,2,3
-9,chinese,"""Green Technology Brings Strong Momentum to China's Economic Growth""",positive,0.8820189833641052,3,5,2,3
+0,chinese,"""China's Development: International Community Anticipates High-Quality Growth to Bring More Opportunities to the World""",neutral,0.40317240357398987,1,3,2,5
+1,chinese,"""Guangzhan High-Speed Rail Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",neutral,0.5719212889671326,1,3,2,5
+2,chinese,"""Cold air will affect most parts of our country, Xinjiang, Gansu, Inner Mongolia, and other regions will experience sandstorms""",negative,0.6985792517662048,-1,3,2,5
+3,chinese,"""Palestinian President Authorizes Mohammad Mustafa to Form New Government""",neutral,0.531227707862854,1,3,2,5
+4,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,3,2,5
+5,chinese,"""3 Dead, 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7545969486236572,-2,3,2,5
+6,chinese,"""Expanding Channels to Promote Connections: Multiple Parties Help Boost Employment for College Graduates""",positive,0.7624074220657349,3,3,2,5
+7,chinese,"""Multiple Regions Implement Measures to Promote Stable Development of the Real Estate Market""",positive,0.6627663373947144,2,3,2,5
+8,chinese,"""What is the water supply capacity? How is the total water consumption? Ministry of Water Resources discusses water security guarantee""",neutral,0.860350489616394,1,3,2,5
+9,chinese,"""Green Technology Brings Strong Momentum to China's Economic Growth""",positive,0.8820189833641052,3,3,2,5
