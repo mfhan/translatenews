@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Development: International Figures Look Forward to High-Quality Growth Bringing More Opportunities to the World""",positive,0.825187623500824,3,2,3,5
-1,chinese,"""Brazilian Experts: China's Promotion of High-Quality Development Sets an Example for the World""",positive,0.5259995460510254,2,2,3,5
-2,chinese,"""Multiple regions release 2023 digital RMB pilot results: New features and expanded scenarios""",neutral,0.6309438347816467,1,2,3,5
-3,chinese,"""Examining the ""National Ledger"": How Money is Spent This Year""",neutral,0.8772514462471008,1,2,3,5
-4,chinese,"""Australian Scholar: Talk of Cooperation and Development is Actually Self-Promotion, Can Australia Win Over ASEAN?""",neutral,0.4716043174266815,1,2,3,5
-5,chinese,"""Important Red Notice Individual Returned to Country from Indonesia""",neutral,0.43619784712791443,1,2,3,5
-6,chinese,"Bilingual News: 60% of American Consumers Become ""Moonlight Clan"" High Debt is One of the Main Causes",negative,0.5497409105300903,-1,2,3,5
-7,chinese,"""Shanxi Zhongyang ""3.11"" Warehouse Collapse Incident Has Caused 6 Deaths, Provincial Accident Investigation Team Established for Further Investigation""",negative,0.6995276212692261,-1,2,3,5
-8,chinese,"""Sichuan Yalong River Basin Integrated Water and Scenery Base's Cumulative Power Generation Exceeds 1 Trillion Kilowatt Hours""",neutral,0.697048008441925,1,2,3,5
-9,chinese,"""Hangzhou Fully Lifts Restrictions on Second-Hand Home Purchases""",negative,0.4881938099861145,-1,2,3,5
+0,chinese,"""[China News] International Figures: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8567315340042114,3,5,2,3
+1,chinese,"""Cold air will affect most parts of our country, Xinjiang, Gansu, Inner Mongolia and other areas will experience sandstorms""",negative,0.7118375897407532,-2,5,2,3
+2,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,5,2,3
+3,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,5,2,3
+4,chinese,"""3 Dead, 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7545969486236572,-2,5,2,3
+5,chinese,"""Expanding Channels to Promote Connection: Multi-party Efforts to Boost Employment for College Graduates""",positive,0.6581358909606934,2,5,2,3
+6,chinese,"""Multiple regions implement policies to promote stable development of the real estate market""",positive,0.7158831357955933,3,5,2,3
+7,chinese,"""How is the Water Supply Capacity? What is the Total Water Consumption? Ministry of Water Resources Discusses Water Security Guarantee""",neutral,0.8187203407287598,1,5,2,3
+8,chinese,"""Green Technology Brings Strong Momentum to China's Economic Growth""",positive,0.8820189833641052,3,5,2,3
+9,chinese,"""Brazilian Experts: China Sets an Example for the World by Promoting High-Quality Development""",positive,0.6864140629768372,2,5,2,3
