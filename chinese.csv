@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Development: International Community Anticipates High-Quality Growth to Bring More Opportunities to the World""",neutral,0.40317240357398987,1,3,2,5
-1,chinese,"""Guangzhan High-Speed Rail Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",neutral,0.5719212889671326,1,3,2,5
-2,chinese,"""Cold air will affect most parts of our country, Xinjiang, Gansu, Inner Mongolia, and other regions will experience sandstorms""",negative,0.6985792517662048,-1,3,2,5
-3,chinese,"""Palestinian President Authorizes Mohammad Mustafa to Form New Government""",neutral,0.531227707862854,1,3,2,5
-4,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,3,2,5
-5,chinese,"""3 Dead, 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7545969486236572,-2,3,2,5
-6,chinese,"""Expanding Channels to Promote Connections: Multiple Parties Help Boost Employment for College Graduates""",positive,0.7624074220657349,3,3,2,5
-7,chinese,"""Multiple Regions Implement Measures to Promote Stable Development of the Real Estate Market""",positive,0.6627663373947144,2,3,2,5
-8,chinese,"""What is the water supply capacity? How is the total water consumption? Ministry of Water Resources discusses water security guarantee""",neutral,0.860350489616394,1,3,2,5
-9,chinese,"""Green Technology Brings Strong Momentum to China's Economic Growth""",positive,0.8820189833641052,3,3,2,5
+0,chinese,"""[China's Affairs] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8366971611976624,3,4,2,4
+1,chinese,"""March MLF Operation Interest Rate Unchanged, Monetary Policy Supports Strong Efforts for Real Economy""",positive,0.6822144389152527,2,4,2,4
+2,chinese,"""Top 10 Consumer Rights Protection Hot Topics in 2023: Takeout Packaging ""Assassins"", Homestay ""Price Hikes and Refunds"" Named""",neutral,0.7905371785163879,1,4,2,4
+3,chinese,"""Guangzhan High-Speed Rail Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",neutral,0.5719212889671326,1,4,2,4
+4,chinese,"""Cold air will affect most regions of China, Xinjiang, Gansu, Inner Mongolia, and other areas will experience sandstorms""",negative,0.6663213968276978,-1,4,2,4
+5,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,4,2,4
+6,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,4,2,4
+7,chinese,"""3 Dead and 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7585238218307495,-2,4,2,4
+8,chinese,"""Expanding Channels to Promote Coordination: Multiple Parties Help Boost Employment for College Graduates""",positive,0.7492091059684753,3,4,2,4
+9,chinese,"""Multiple Regions Implement Measures to Promote Stable Development of Real Estate Market""",positive,0.665564775466919,2,4,2,4
