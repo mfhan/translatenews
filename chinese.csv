@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""American Scholar: No ""Ghosts"" in Chinese Electric Cars, but ""Demons"" in the Minds of American Politicians""",neutral,0.5408760905265808,1,2,4,4
-1,chinese,"""Former Deputy Prime Minister of Poland: In this unbalanced world, we need inclusive and mutually beneficial globalization""",neutral,0.4929450750350952,1,2,4,4
-2,chinese,"Former UN Official Admits It Took a Long Time to Overcome Western Prejudice: ""I Was Taught to Hate China Since I Was Young""",negative,0.7861309051513672,-2,2,4,4
+1,chinese,"""Former Deputy Prime Minister of Poland: In this Imbalanced World, We Need Inclusive and Win-Win Globalization""",neutral,0.6315479874610901,1,2,4,4
+2,chinese,"Former United Nations Official Admits It Took a Long Time to Overcome Western Prejudice: ""I Was Taught to Hate China Since I Was Young""",negative,0.7743049263954163,-2,2,4,4
 3,chinese,"""Foreign Trade's Strong Start Reflects China's Economic Resilience""",positive,0.6030850410461426,2,2,4,4
-4,chinese,"""Promoting Large-Scale Equipment Upgrades and Trade-Ins for Consumer Goods - Trillion-Dollar Market Receives Favorable Policies""",positive,0.6599815487861633,2,2,4,4
-5,chinese,"""3.15 Evening Gala | Production Fraud! Qualification Fraud in Inspection! Sampling Fraud! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.9275302886962891,-2,2,4,4
-6,chinese,"""3.15 Evening Gala | Terrifying! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.9453503489494324,-2,2,4,4
-7,chinese,"""3.15 Evening Gala | A Bottle for 58,600 Yuan! Can It Bring You Back to Life? The Miraculous and Illegal Listening Flower Wine""",neutral,0.4867544174194336,1,2,4,4
-8,chinese,"""China Consumer Association Releases Top 10 Typical Judicial Cases for Consumer Rights Protection in 2023""",neutral,0.8183116912841797,1,2,4,4
-9,chinese,"""Japan Resumes Discharge of Nuclear Polluted Water, Previously Suspended Due to Sudden Earthquake""",negative,0.7156260013580322,-2,2,4,4
+4,chinese,"""Promoting Large-Scale Equipment Upgrades and Trade-Ins for Consumer Goods - Trillion-Dollar Market Receives Policy Boost""",positive,0.5626486539840698,2,2,4,4
+5,chinese,"""3.15 Evening Gala | Production Counterfeiting! Qualification Falsification! Inspection Falsification! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.8782543540000916,-2,2,4,4
+6,chinese,"""3.15 Evening Gala | Heart-stopping! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.5723127126693726,-1,2,4,4
+7,chinese,"""3.15 Evening Gala | A Bottle of 58,600 Yuan! Can It Bring You Back to Life? The Illegal and Miraculous Listening Flower Wine""",neutral,0.5029547214508057,1,2,4,4
+8,chinese,"""China Consumers Association Releases Top 10 Typical Judicial Cases for Consumer Rights Protection in 2023""",neutral,0.8180691599845886,1,2,4,4
+9,chinese,"""Japan Resumes Discharging Nuclear Polluted Water After Temporary Suspension Due to Sudden Earthquake""",negative,0.7473029494285583,-2,2,4,4
