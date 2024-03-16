@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Song Zhaoxiang Secures China's Sixth Entry Ticket for the Beijing Olympics in Taekwondo""",neutral,0.5084988474845886,1,3,3,4
-1,chinese,"""Xinhua International ""Screen"" Forum | Where Does China's Rapid Increase in Soft Power Come From?""",neutral,0.8319706916809082,1,3,3,4
-2,chinese,"""American Scholar: There are No ""Ghosts"" in Chinese Electric Cars, but ""Demons"" in the Minds of American Politicians""",neutral,0.5397173166275024,1,3,3,4
-3,chinese,"""Former Deputy Prime Minister of Poland: In this Imbalanced World, We Need Inclusive and Win-Win Globalization""",neutral,0.6315479874610901,1,3,3,4
-4,chinese,"Former UN Official Admits It Took a Long Time to Overcome Western Prejudice: ""I Was Taught to Hate China Since I Was Young""",negative,0.7861309051513672,-2,3,3,4
-5,chinese,"""Foreign Trade's Strong Start Reflects China's Economic Resilience""",positive,0.6030850410461426,2,3,3,4
-6,chinese,"""Promoting Large-Scale Equipment Upgrades and Trade-In of Consumer Goods - Trillion-Dollar Market Receives Policy Boost""",positive,0.5022678375244141,2,3,3,4
-7,chinese,"""3.15 Evening Gala | Production Counterfeiting! Qualification Fraud! Inspection Fraud! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.915336549282074,-2,3,3,4
-8,chinese,"""3·15 Evening Gala | Terrifying! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.9454881548881531,-2,3,3,4
-9,chinese,"""3.15 Evening Gala | A Bottle of 58,600 Yuan! Can It Bring You Back to Youth? The Miraculous and Illegal Listening Flower Wine!""",positive,0.4946722090244293,2,3,3,4
+0,chinese,"""Song Zhaoxiang Secures China's Sixth Entry Ticket for Taekwondo Team at Paris Olympics""",neutral,0.500922679901123,1,1,3,6
+1,chinese,"""Xinhua International ""Screen"" Forum | Where Does China's Rapidly Increasing Soft Power Come From?""",neutral,0.7986254692077637,1,1,3,6
+2,chinese,"""American Scholar: There are No ""Ghosts"" in Chinese Electric Cars, but ""Demons"" in the Minds of American Politicians""",neutral,0.5397173166275024,1,1,3,6
+3,chinese,"""Former Deputy Prime Minister of Poland: In this unbalanced world, we need inclusive and mutually beneficial globalization""",neutral,0.4929450750350952,1,1,3,6
+4,chinese,"Former UN Official Admits It Took a Long Time to Overcome Western Bias: ""I Was Taught to Hate China Since I Was Young""",negative,0.8041260242462158,-2,1,3,6
+5,chinese,"""Foreign Trade's Strong Start Reflects China's Economic Resilience""",positive,0.6030850410461426,2,1,3,6
+6,chinese,"""Promoting Large-scale Equipment Upgrades and Consumer Goods Trade-ins - Trillion-dollar Market Receives Policy Boost""",neutral,0.49031102657318115,1,1,3,6
+7,chinese,"""3.15 Evening Gala | Production Fraud! Qualification Fraud in Inspection! Sampling Fraud! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.9275302886962891,-2,1,3,6
+8,chinese,"""3.15 Evening Gala | Terrified! Fire extinguishers that cannot extinguish fire are being openly sold!""",negative,0.9431909322738647,-2,1,3,6
+9,chinese,"""3.15 Evening Event | A Bottle of 58,600 Yuan! Can It Bring You Back to Life? The Miraculous and Illegal Listening Flower Wine""",neutral,0.49024754762649536,1,1,3,6
