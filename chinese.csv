@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China's Affairs] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8366971611976624,3,4,3,3
-1,chinese,"""China never acknowledges India's so-called Arunachal Pradesh""",negative,0.752027690410614,-2,4,3,3
-2,chinese,"""March MLF Operation Interest Rate Unchanged, Strong Support for Real Economy in Monetary Policy""",positive,0.7545590400695801,3,4,3,3
-3,chinese,"""Top 10 Consumer Rights Protection Hot Topics in 2023: Takeaway Packaging ""Assassins"", Homestay ""Price Hikes and Refunds"" Named""",neutral,0.781042754650116,1,4,3,3
-4,chinese,"""Guangzhan High-speed Railway's Zhanjiang Bay Undersea Tunnel Successfully Completed Today""",positive,0.5008775591850281,2,4,3,3
-5,chinese,"""Cold air will affect most areas of our country, Xinjiang, Gansu, Inner Mongolia and other regions will experience sandstorms""",negative,0.7323843836784363,-2,4,3,3
-6,chinese,"""Palestinian President Authorizes Mohammed Mustafa to Form New Government""",neutral,0.49756354093551636,1,4,3,3
-7,chinese,"""Russian Presidential Election Voting Officially Begins""",neutral,0.8045907020568848,1,4,3,3
-8,chinese,"""3 Dead and 1 Injured in the Fushun Gold Mine Tank Accident in Liaoning Province""",negative,0.7585238218307495,-2,4,3,3
-9,chinese,"""Expanding Channels to Promote Connection: Multiple Parties Help Boost Employment for College Graduates""",positive,0.765804648399353,3,4,3,3
+0,chinese,"""[China's Affairs] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8366971611976624,3,2,3,5
+1,chinese,"""China Consumers Association Releases Top 10 Typical Judicial Cases for Consumer Rights Protection in 2023""",neutral,0.8180691599845886,1,2,3,5
+2,chinese,"""Japan resumes discharge of nuclear contaminated water, previously suspended due to a sudden earthquake""",negative,0.7903797030448914,-2,2,3,5
+3,chinese,"In February, the overall decline in sales prices of commodity residential properties continued to narrow.",neutral,0.5397288799285889,1,2,3,5
+4,chinese,"""First Central Asia Grain Import Train Arrives at China-Europe Freight Train (Changsha)""",neutral,0.8943306803703308,1,2,3,5
+5,chinese,"""Blue Book: China's Prefabricated Vegetable Market Size to Reach 516.5 Billion Yuan in 2023""",neutral,0.6310195326805115,1,2,3,5
+6,chinese,"""German Expert: Global Civilization Initiative Promotes Cultural Exchange and Mutual Learning""",positive,0.627750813961029,2,2,3,5
+7,chinese,"""Analysis | The American ""Umbrella of Protection"" Cannot Provide the Security that South Korea Desires""",negative,0.8721898794174194,-2,2,3,5
+8,chinese,"""Reasoning with America | US Draws Big Picture for the Philippines, Covering for ""Indo-Pacific Strategy""""",neutral,0.670434832572937,1,2,3,5
+9,chinese,China never recognizes India's so-called Arunachal Pradesh,negative,0.6837052702903748,-1,2,3,5
