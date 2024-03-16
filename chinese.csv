@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Affairs: International Experts Look Forward to High-Quality Development in China Bringing More Opportunities to the World""",positive,0.8143892884254456,3,3,3,4
-1,chinese,"""3.15 Evening Gala | Production Fraud! Qualification Fraud in Inspection! Sampling Fraud! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.9275302886962891,-2,3,3,4
-2,chinese,"""3.15 Evening Party | Fear and Panic! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.902587354183197,-2,3,3,4
-3,chinese,"""3.15 Evening Party | A Bottle of 58,600 Yuan! Can It Bring You Back to Life? The Illegal and Miraculous ""Listening to Flowers"" Wine!""",positive,0.4943065643310547,2,3,3,4
-4,chinese,"""China Consumer Association Releases Top 10 Typical Judicial Cases for Consumer Rights Protection in 2023""",neutral,0.8183116912841797,1,3,3,4
-5,chinese,"""Japan Resumes Discharging Nuclear Contaminated Water, Previously Suspended Due to Sudden Earthquake""",negative,0.7293387055397034,-2,3,3,4
-6,chinese,"""In February, the overall decline in sales prices of commodity residential properties continued to narrow.""",neutral,0.5681657195091248,1,3,3,4
-7,chinese,"""First Central Asia Grain Import Special Train of China-Europe Freight Train (Changsha) Arrives""",neutral,0.9034403562545776,1,3,3,4
-8,chinese,"""Blue Book: China's Prefabricated Vegetable Market Size Expected to Reach 516.5 Billion Yuan in 2023""",neutral,0.6096740365028381,1,3,3,4
-9,chinese,"""German Expert: Global Civilization Initiative Promotes Cultural Exchange and Mutual Learning""",positive,0.627750813961029,2,3,3,4
+0,chinese,"""American Scholar: No ""Ghosts"" in Chinese Electric Cars, but ""Demons"" in the Minds of American Politicians""",neutral,0.5408760905265808,1,2,4,4
+1,chinese,"""Former Deputy Prime Minister of Poland: In this unbalanced world, we need inclusive and mutually beneficial globalization""",neutral,0.4929450750350952,1,2,4,4
+2,chinese,"Former UN Official Admits It Took a Long Time to Overcome Western Biases: ""I Was Taught to Hate China Since I Was Young""",negative,0.797177255153656,-2,2,4,4
+3,chinese,"""Foreign Trade's Strong Start Reflects China's Economic Resilience""",positive,0.6030850410461426,2,2,4,4
+4,chinese,"""Promoting Large-Scale Equipment Upgrades and Trade-In Programs for Consumer Goods - Trillion-Dollar Market Receives Policy Boost""",positive,0.586529552936554,2,2,4,4
+5,chinese,"""3.15 Evening Gala | Production Fraud! Qualification Fraud in Inspection! Sampling Fraud! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.9275302886962891,-2,2,4,4
+6,chinese,"""3.15 Evening Gala | Terrifying! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.9453503489494324,-2,2,4,4
+7,chinese,"""3.15 Evening Gala | A Bottle of 58,600 Yuan! Can It Bring You Back to Life? The Mysterious and Illegal ""Listening to Flowers"" Wine!""",neutral,0.5504986047744751,1,2,4,4
+8,chinese,"""China Consumers Association Releases Top 10 Typical Judicial Cases for Consumer Rights Protection in 2023""",neutral,0.8180691599845886,1,2,4,4
+9,chinese,"""Japan Resumes Discharge of Nuclear Contaminated Water, Previously Suspended Due to Sudden Earthquake""",negative,0.6992684006690979,-1,2,4,4
