@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Development: International Experts Look Forward to High-Quality Growth Bringing More Opportunities to the World""",positive,0.8143737316131592,3,2,3,5
-1,chinese,"""3.15 Evening Gala | Production Fraud! Qualification Fraud in Inspection! Sampling Fraud! Exposing the Fake Fire-Resistant Glass Black Market Chain...""",negative,0.9279467463493347,-2,2,3,5
-2,chinese,"""3.15 Evening Gala | Heart-stopping! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.5723127126693726,-1,2,3,5
-3,chinese,"""3.15 Evening Party | A Bottle of 58,600 Yuan! Can It Bring You Back to Life? The Illegal and Miraculous 'Listening to Flowers' Liquor!""",neutral,0.4798491597175598,1,2,3,5
-4,chinese,"""China Consumer Association Releases Top 10 Typical Judicial Cases for Consumer Rights Protection in 2023""",neutral,0.8183116912841797,1,2,3,5
-5,chinese,"""Japan Resumes Discharging Nuclear Contaminated Water After Temporary Suspension Due to Sudden Earthquake""",negative,0.7251391410827637,-2,2,3,5
-6,chinese,"""In February, the overall decline in sales prices of commodity residential properties continued to narrow.""",neutral,0.5681657195091248,1,2,3,5
-7,chinese,"""First Central Asia Grain Import Special Train of China-Europe Express (Changsha) Arrives""",neutral,0.9154173135757446,1,2,3,5
-8,chinese,"""Blue Book: China's Prefabricated Vegetable Market Size to Reach 516.5 Billion Yuan in 2023""",neutral,0.6310195326805115,1,2,3,5
-9,chinese,"""German Expert: Global Civilization Initiative Promotes Cultural Exchange and Mutual Learning""",positive,0.627750813961029,2,2,3,5
+0,chinese,"""【China's Matters】International Figures: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8042818307876587,3,3,3,4
+1,chinese,"""3.15 Evening Gala | Production Fraud! Qualification Fraud in Inspection! Sampling Fraud! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.9275302886962891,-2,3,3,4
+2,chinese,"""3.15 Evening Gala | Terrifying! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.9453503489494324,-2,3,3,4
+3,chinese,"""3.15 Evening Gala | A Bottle of 58,600 Yuan! Can Drinking It Bring You Back to Life? The Miraculous and Illegal Listening Flower Wine!""",positive,0.6176620721817017,2,3,3,4
+4,chinese,"""China Consumer Association Releases ""Top Ten Typical Judicial Cases for National Consumer Rights Protection"" for 2023""",neutral,0.814407229423523,1,3,3,4
+5,chinese,"""Japan Resumes Discharging Nuclear Polluted Water, Previously Suspended Due to Sudden Earthquake""",negative,0.7469385266304016,-2,3,3,4
+6,chinese,"""In February, the overall decline in sales prices of commodity residential properties continued to narrow.""",neutral,0.5681657195091248,1,3,3,4
+7,chinese,"""First Central Asia Grain Import Special Train Arrives at Changsha China-Europe Freight Train (Changsha)""",neutral,0.9120394587516785,1,3,3,4
+8,chinese,"""Blue Book: China's Prefabricated Vegetable Market Expected to Reach 516.5 Billion Yuan in 2023""",neutral,0.5816568732261658,1,3,3,4
+9,chinese,"""German Expert: Global Civilization Initiative Promotes Cultural Exchange and Mutual Learning""",positive,0.627750813961029,2,3,3,4
