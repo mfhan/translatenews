@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China News] International Experts: Looking Forward to China's High-Quality Development Bringing More Opportunities to the World""",positive,0.8623697757720947,3,2,3,5
+0,chinese,"""China's Development: International Experts Look Forward to High-Quality Growth Bringing More Opportunities to the World""",positive,0.8143737316131592,3,2,3,5
 1,chinese,"""China Consumers Association Releases Top 10 Typical Judicial Cases for Consumer Rights Protection in 2023""",neutral,0.8180691599845886,1,2,3,5
-2,chinese,"""Japan Resumes Discharging Nuclear Contaminated Water After Temporary Suspension Due to Sudden Earthquake""",negative,0.7251391410827637,-2,2,3,5
-3,chinese,"In February, the overall decline in sales prices of commodity residential properties continued to narrow.",neutral,0.5397288799285889,1,2,3,5
-4,chinese,"""First Central Asia Grain Import Train Arrives at China-Europe Freight Train (Changsha)""",neutral,0.8943306803703308,1,2,3,5
+2,chinese,"""Japan Resumes Discharging Nuclear Contaminated Water, Previously Suspended Due to Sudden Earthquake""",negative,0.7293387055397034,-2,2,3,5
+3,chinese,"""Overall Decrease in February's Sales Prices of Commodity Residential Properties Continues to Narrow""",neutral,0.6561280488967896,1,2,3,5
+4,chinese,"""First Central Asia Grain Import Special Train Arrives at Changsha China-Europe Freight Train Station""",neutral,0.910590648651123,1,2,3,5
 5,chinese,"""Blue Book: China's Prefabricated Vegetable Market Size to Reach 516.5 Billion Yuan in 2023""",neutral,0.6310195326805115,1,2,3,5
-6,chinese,"""German Expert: Global Civilization Initiative Promotes Cultural Exchange and Mutual Learning""",positive,0.627750813961029,2,2,3,5
-7,chinese,"""Analysis | The American ""Umbrella of Protection"" Cannot Provide South Korea with the Desired Sense of Security""",negative,0.8775519728660583,-2,2,3,5
-8,chinese,"""Analysis | US Draws Illusions for the Philippines, Using ""Indo-Pacific Strategy"" as a Cover""",neutral,0.7949448823928833,1,2,3,5
-9,chinese,"""China Never Acknowledges India's So-Called Arunachal Pradesh""",negative,0.799990177154541,-2,2,3,5
+6,chinese,"""German Expert: Global Civilizations Initiative Promotes Cultural Exchange and Mutual Learning""",positive,0.6267127394676208,2,2,3,5
+7,chinese,"""Opinion | The American ""Umbrella of Protection"" Cannot Provide the Sense of Security That South Korea Desires""",negative,0.8747087121009827,-2,2,3,5
+8,chinese,"""Analysis | US Draws Big Picture for the Philippines, Covering Up for ""Indo-Pacific Strategy""""",neutral,0.7695861458778381,1,2,3,5
+9,chinese,"""China Never Acknowledges India's So-called Arunachal Pradesh""",negative,0.757527768611908,-2,2,3,5
