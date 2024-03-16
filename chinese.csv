@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Song Zhaoxiang Secures China's Sixth Entry Ticket for the Beijing Olympics in Taekwondo""",neutral,0.5084988474845886,1,2,3,5
-1,chinese,"""Xinhua International ""Screen"" Forum | Where Does China's Rapidly Increasing Soft Power Come From?""",neutral,0.7986254692077637,1,2,3,5
-2,chinese,"""American Scholar: There Are No ""Ghosts"" in Chinese Electric Cars, But ""Demons"" in the Minds of American Politicians""",neutral,0.5561433434486389,1,2,3,5
+0,chinese,"""Song Zhaoxiang Secures Sixth Entry Ticket for Chinese Taekwondo Team at Paris Olympics""",neutral,0.5942912101745605,1,2,3,5
+1,chinese,"""Xinhua International ""Screen"" Forum | Where Does China's Rapid Increase in Soft Power Come From?""",neutral,0.8319706916809082,1,2,3,5
+2,chinese,"""American Scholar: There is No ""Ghost"" in Chinese Electric Cars, but ""Demons"" in the Minds of American Politicians""",neutral,0.520531415939331,1,2,3,5
 3,chinese,"""Former Deputy Prime Minister of Poland: In this unbalanced world, we need inclusive and mutually beneficial globalization""",neutral,0.4929450750350952,1,2,3,5
-4,chinese,"Former UN Official Admits It Took a Long Time to Overcome Western Biases: ""I Was Taught to Hate China Since I Was Young""",negative,0.797177255153656,-2,2,3,5
+4,chinese,"Former UN Official Admits It Took a Long Time to Overcome Western Bias: ""I Was Taught to Hate China Since I Was Young""",negative,0.8041260242462158,-2,2,3,5
 5,chinese,"""Foreign Trade's Strong Start Reflects China's Economic Resilience""",positive,0.6030850410461426,2,2,3,5
-6,chinese,"""Promoting Large-Scale Equipment Upgrades and Trade-In Programs for Consumer Goods - Trillion-Dollar Market Receives Favorable Policies""",positive,0.6228749752044678,2,2,3,5
+6,chinese,"""Promoting Large-scale Equipment Upgrades and Consumer Goods Trade-ins - Trillion-dollar Market Receives Policy Boost""",neutral,0.49031102657318115,1,2,3,5
 7,chinese,"""3.15 Evening Gala | Production Fraud! Qualification Fraud in Inspection! Sampling Fraud! Exposing the Fake Fireproof Glass Black Market Chain...""",negative,0.9275302886962891,-2,2,3,5
-8,chinese,"""3.15 Evening Gala | Terrifying! Fire extinguishers that cannot put out fires are being openly sold!""",negative,0.9453503489494324,-2,2,3,5
-9,chinese,"""3.15 Evening Party | A Bottle of 58,600 Yuan! Can It Bring You Back to Life? The Mysterious and Illegal ""Listening to Flowers"" Liquor!""",neutral,0.5668193101882935,1,2,3,5
+8,chinese,"""3.15 Evening Gala | Nervous and Frightened! Fire Extinguishers That Can't Extinguish Fire Are Being Publicly Sold!""",negative,0.9255351424217224,-2,2,3,5
+9,chinese,"""3.15 Evening Gala | A Bottle of 58,600 Yuan! Can it Bring You Back to Life? The Miraculous and Illegal Listening Flower Wine!""",positive,0.5907819867134094,2,2,3,5
