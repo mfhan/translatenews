@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Over 2000 Sea-Rail Intermodal Trains to Operate on New Western Land and Sea Channel This Year""",neutral,0.6274850368499756,1,1,2,7
-1,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Transported Vertically to Launch Area""",neutral,0.8727956414222717,1,1,2,7
-2,chinese,"""Sichuan Ya Jiang Forest Fire Has Relocated 3396 People""",neutral,0.7275859117507935,1,1,2,7
-3,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Pollution Water Reduction""",neutral,0.6316320896148682,1,1,2,7
+0,chinese,"""Over 2000 Sea-Rail Intermodal Trains to be Launched on New Western Land and Sea Channel This Year""",neutral,0.6420881152153015,1,1,2,7
+1,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket and Satellite Combination Vertically Transported to Launch Area""",neutral,0.845548689365387,1,1,2,7
+2,chinese,"""Sichuan Ya Jiang Forest Fire Has Relocated 3,396 People""",neutral,0.7136039733886719,1,1,2,7
+3,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Contamination Water Reduction""",neutral,0.6166333556175232,1,1,2,7
 4,chinese,"""Gun Shooting Incident in Washington, USA Leaves 2 Dead and 5 Injured""",negative,0.7448616027832031,-2,1,2,7
-5,chinese,"""Shen Tie Launches the First ""Self-Guided Tour"" Tourist Train for Domestic and Overseas Travel""",neutral,0.7127571105957031,1,1,2,7
+5,chinese,"""Shen Tie Launches the First ""Self-Guided Tour"" Tourist Train for Domestic and Overseas Destinations""",neutral,0.7282416224479675,1,1,2,7
 6,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,1,2,7
-7,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,1,2,7
+7,chinese,"""China's Cross-border Capital Flows Become More Stable in February""",negative,0.7856768369674683,-2,1,2,7
 8,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,2,7
-9,chinese,"""Prominent Peruvian Patriot Overseas Leader He Lianxiang Passes Away""",neutral,0.6478859186172485,1,1,2,7
+9,chinese,"""Prominent Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.6098237633705139,1,1,2,7
