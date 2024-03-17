@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Tokyo Electric Power Company of Japan Announces Completion of Fourth Round of Reducing Nuclear Polluted Water""",neutral,0.6055687069892883,1,1,2,7
-1,chinese,"""ShenTie Launches the First Domestic and International ""Self-Guided Tour"" Tourist Train""",neutral,0.7194044589996338,1,1,2,7
+0,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Polluted Water Reduction""",neutral,0.6289909482002258,1,1,2,7
+1,chinese,"""ShenTie Launches First Domestic and International ""Self-Guided Tour"" Tourist Train""",neutral,0.7370535135269165,1,1,2,7
 2,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,1,2,7
 3,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,1,2,7
-4,chinese,"""Venezuelan ruling party officially nominates Maduro as presidential candidate""",neutral,0.5107787251472473,1,1,2,7
+4,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,2,7
 5,chinese,"""Renowned Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.5903229117393494,1,1,2,7
-6,chinese,"""Haitian Police Engage in Gunfight with Gangs""",negative,0.6650915741920471,-1,1,2,7
+6,chinese,"""Haitian Police Engage in Gunfire with Gangs""",negative,0.6997858285903931,-1,1,2,7
 7,chinese,"""National Rifle and Pistol Shooting Team's Final Olympic Qualifying Match Begins""",neutral,0.8635626435279846,1,1,2,7
 8,chinese,"""Member of the Standing Committee of the Heilongjiang Provincial People's Congress and Deputy Director Li Xianguang Undergoes Review and Investigation""",neutral,0.827801525592804,1,1,2,7
-9,chinese,"""Qinghai Rescues and Protects Damaged Lajia Archaeological Site Artifacts During Earthquake""",neutral,0.5160494446754456,1,1,2,7
+9,chinese,"""Qinghai Rescues and Protects Cultural Relics of Damaged Lajia Site During Earthquake""",neutral,0.3954842686653137,1,1,2,7
