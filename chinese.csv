@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Over 2000 Sea-Rail Intermodal Freight Trains to Operate on New Western Land-Sea Corridor This Year""",neutral,0.6546872854232788,1,1,3,6
-1,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Vertically Transported to Launch Area""",neutral,0.8602656722068787,1,1,3,6
-2,chinese,"""Sichuan Ya Jiang forest fire has relocated 3396 people""",negative,0.5939785242080688,-1,1,3,6
-3,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Contamination Water Reduction""",neutral,0.6166333556175232,1,1,3,6
-4,chinese,"""Gun Shooting Incident in Washington, USA Leaves 2 Dead and 5 Injured""",negative,0.7448616027832031,-2,1,3,6
-5,chinese,"""Shen Tie Launches First ""Self-Guided Tour"" Tourist Train for Domestic and Overseas Travelers""",neutral,0.7244682312011719,1,1,3,6
-6,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,1,3,6
-7,chinese,"""China's Cross-Border Capital Flow Becomes More Stable in February""",negative,0.727277934551239,-2,1,3,6
-8,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,3,6
-9,chinese,"""Prominent Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.6098237633705139,1,1,3,6
+0,chinese,"""Over 2000 Sea-Rail Intermodal Trains to be Launched on the New Western Land-Sea Corridor this Year""",neutral,0.6430354118347168,1,1,2,7
+1,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket and Satellite Combination Vertically Transported to Launch Area""",neutral,0.845548689365387,1,1,2,7
+2,chinese,"""Sichuan Yajiang Forest Fire Has Relocated 3,396 People""",neutral,0.7069393992424011,1,1,2,7
+3,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Contamination Water Reduction""",neutral,0.6166333556175232,1,1,2,7
+4,chinese,"""Gunshot incident in Washington, USA leaves 2 dead and 5 injured""",negative,0.802178680896759,-2,1,2,7
+5,chinese,"""Shen Iron Launches First Domestic and Overseas ""Self-Guided Tour"" Tourist Train""",neutral,0.7953651547431946,1,1,2,7
+6,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,1,2,7
+7,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,1,2,7
+8,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,2,7
+9,chinese,"""Prominent Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.6098237633705139,1,1,2,7
