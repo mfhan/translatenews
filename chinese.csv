@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,2,3,5
-1,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,2,3,5
-2,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,2,3,5
-3,chinese,"""Renowned Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.5903229117393494,1,2,3,5
-4,chinese,"""Haitian Police Clash with Gangs""",negative,0.5672188401222229,-1,2,3,5
-5,chinese,"""National Rifle and Pistol Shooting Team's Final Olympic Qualifying Match Begins""",neutral,0.8635626435279846,1,2,3,5
-6,chinese,"""Member of the Standing Committee of the Heilongjiang Provincial People's Congress and Deputy Director Li Xianguang Undergoes Review and Investigation""",neutral,0.827801525592804,1,2,3,5
-7,chinese,"""Qinghai Rescues and Protects Damaged Lajia Ruins Artifacts During Earthquake""",negative,0.46134889125823975,-1,2,3,5
-8,chinese,"""Civil Aviation Industry Achieves Record High in Transportation Scale""",positive,0.5759207606315613,2,2,3,5
-9,chinese,"""In 2023, the number of foreign trade operators exceeds 600,000 for the first time""",neutral,0.6352283954620361,1,2,3,5
+0,chinese,"""Tokyo Electric Power Company of Japan Announces Completion of Fourth Round of Nuclear Pollution Water Reduction""",neutral,0.6170052886009216,1,1,2,7
+1,chinese,"""Shen Iron Launches the First ""Self-Guided Tour"" Special Train for Domestic and Overseas Travel""",neutral,0.710668683052063,1,1,2,7
+2,chinese,"""Significant Achievements in Rural Road Construction""",positive,0.8200901746749878,3,1,2,7
+3,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,1,2,7
+4,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,2,7
+5,chinese,"""Renowned Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.5903229117393494,1,1,2,7
+6,chinese,"""Haitian Police Engage in Gunfight with Gangs""",negative,0.6650915741920471,-1,1,2,7
+7,chinese,"""National Rifle and Pistol Shooting Team's Final Olympic Qualifying Match Begins""",neutral,0.8635626435279846,1,1,2,7
+8,chinese,"""Member of the Standing Committee of the Heilongjiang Provincial People's Congress and Deputy Director Li Xianguang Undergoes Review and Investigation""",neutral,0.827801525592804,1,1,2,7
+9,chinese,"""Qinghai's Rescue Efforts to Protect Damaged La Family Ruins from Earthquake""",neutral,0.46678435802459717,1,1,2,7
