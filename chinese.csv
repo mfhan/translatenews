@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,2,7
 1,chinese,"""Prominent Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.6098237633705139,1,1,2,7
-2,chinese,"""Haitian Police Engage in Gunfire with Gangs""",negative,0.6997858285903931,-1,1,2,7
-3,chinese,"""National Rifle and Pistol Shooting Team's Final Olympic Selection Match Begins""",neutral,0.8669363856315613,1,1,2,7
-4,chinese,"""Member of the Standing Committee and Deputy Director of the Party Group of Heilongjiang Provincial People's Congress, Li Xianguang, Undergoes Review and Investigation""",neutral,0.8366347551345825,1,1,2,7
-5,chinese,"""Qinghai Salvages and Protects Damaged Lajia Ruins Artifacts During Earthquake""",negative,0.521077036857605,-1,1,2,7
+2,chinese,"""Haitian Police Engage in Shootout with Gangs""",negative,0.6119140386581421,-1,1,2,7
+3,chinese,"""National Rifle and Pistol Shooting Team's Final Olympic Qualifying Match Begins""",neutral,0.8635626435279846,1,1,2,7
+4,chinese,"""Member of the Standing Committee of the Heilongjiang Provincial People's Congress and Deputy Director Li Xianguang Undergoes Review and Investigation""",neutral,0.827801525592804,1,1,2,7
+5,chinese,"""Qinghai Rescues and Protects Damaged Lajia Archaeological Site Artifacts During Earthquake""",neutral,0.5160494446754456,1,1,2,7
 6,chinese,"""Civil Aviation Industry Achieves Record High in Transportation Scale""",positive,0.5759207606315613,2,1,2,7
-7,chinese,"""In 2023, the number of foreign trade operators exceeds 600,000 for the first time""",neutral,0.6352283954620361,1,1,2,7
-8,chinese,"""From Cold and Unpopular to Popular and Admired, How Museums Keep the Heat On""",neutral,0.49733150005340576,1,1,2,7
-9,chinese,"""City Real Estate Financing Coordination Mechanism Accelerates Implementation""",neutral,0.6305205225944519,1,1,2,7
+7,chinese,"""Number of Foreign Trade Operators Exceeds 600,000 for the First Time in 2023""",neutral,0.7418943643569946,1,1,2,7
+8,chinese,"""From being cold to being popular, how do museums ""keep warm""?""",negative,0.6644465327262878,-1,1,2,7
+9,chinese,"""Accelerating the Implementation of Urban Real Estate Financing Coordination Mechanism""",neutral,0.5711800456047058,1,1,2,7
