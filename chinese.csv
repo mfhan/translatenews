@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Over 2000 Sea-Rail Intermodal Trains to be Launched on the New Western Land and Sea Corridor this Year""",neutral,0.6393837928771973,1,1,2,7
-1,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Vertically Transported to Launch Area""",neutral,0.8602656722068787,1,1,2,7
-2,chinese,"""Sichuan Yajiang Forest Fire Has Relocated 3,396 People""",neutral,0.7069393992424011,1,1,2,7
-3,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Pollution Water Reduction""",neutral,0.6316320896148682,1,1,2,7
-4,chinese,"""2 Dead, 5 Injured in Shooting Incident in Washington, USA""",negative,0.7112617492675781,-2,1,2,7
-5,chinese,"""Shen Tie Launches the First Domestic and Overseas ""Self-Guided Tour"" Tourist Train""",neutral,0.7805778384208679,1,1,2,7
-6,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,1,2,7
-7,chinese,"""China's Cross-Border Capital Flow Becomes More Stable in February""",negative,0.727277934551239,-2,1,2,7
-8,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,2,7
-9,chinese,"""Prominent Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.6098237633705139,1,1,2,7
+0,chinese,"""Over 2000 Sea-Rail Intermodal Freight Trains to Operate on New Western Land and Sea Route This Year""",neutral,0.6183107495307922,1,2,2,6
+1,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Vertically Transported to Launch Area""",neutral,0.8602656722068787,1,2,2,6
+2,chinese,"""Sichuan Ya Jiang Forest Fire Has Relocated 3,396 People""",neutral,0.7136039733886719,1,2,2,6
+3,chinese,"""Japan's Tokyo Electric Power Company announces completion of fourth round of nuclear pollution water reduction""",positive,0.5115649104118347,2,2,2,6
+4,chinese,"""Gunshot Incident in Washington, USA Leaves 2 Dead and 5 Injured""",negative,0.7444754838943481,-2,2,2,6
+5,chinese,"""Shen Tie Launches the First Domestic and International ""Self-Guided Tour"" Tourist Train""",neutral,0.7600800395011902,1,2,2,6
+6,chinese,"""Remarkable Achievements in Rural Road Construction""",positive,0.9232869744300842,3,2,2,6
+7,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,2,2,6
+8,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,2,2,6
+9,chinese,"""Renowned Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.5903229117393494,1,2,2,6
