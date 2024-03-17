@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Polluted Water Reduction""",neutral,0.6289909482002258,1,1,2,7
-1,chinese,"""ShenTie Launches First Domestic and International ""Self-Guided Tour"" Tourist Train""",neutral,0.7370535135269165,1,1,2,7
-2,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,1,2,7
-3,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,1,2,7
-4,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,2,7
-5,chinese,"""Renowned Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.5903229117393494,1,1,2,7
-6,chinese,"""Haitian Police Engage in Gunfire with Gangs""",negative,0.6997858285903931,-1,1,2,7
-7,chinese,"""National Rifle and Pistol Shooting Team's Final Olympic Qualifying Match Begins""",neutral,0.8635626435279846,1,1,2,7
-8,chinese,"""Member of the Standing Committee of the Heilongjiang Provincial People's Congress and Deputy Director Li Xianguang Undergoes Review and Investigation""",neutral,0.827801525592804,1,1,2,7
-9,chinese,"""Qinghai Rescues and Protects Cultural Relics of Damaged Lajia Site During Earthquake""",neutral,0.3954842686653137,1,1,2,7
+0,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket and Payload Combination Vertically Transported to Launch Area""",neutral,0.8363645076751709,1,1,3,6
+1,chinese,"""Gunshot incident in Washington, USA leaves 2 dead and 5 injured""",negative,0.802178680896759,-2,1,3,6
+2,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Pollution Water Reduction""",neutral,0.6316320896148682,1,1,3,6
+3,chinese,"""Shen Tie Launches the First ""Self-Guided Tour"" Tourist Train for Domestic and Overseas Destinations""",neutral,0.7282416224479675,1,1,3,6
+4,chinese,"""Significant Achievements Made in Rural Road Construction""",positive,0.8085958361625671,3,1,3,6
+5,chinese,"""China's Cross-border Capital Flow Becomes More Stable in February""",negative,0.7230352163314819,-2,1,3,6
+6,chinese,"""Venezuela's ruling party officially nominates Maduro as presidential candidate""",neutral,0.4775044918060303,1,1,3,6
+7,chinese,"""Renowned Peruvian Patriotic Overseas Leader He Lianxiang Passes Away""",neutral,0.5903229117393494,1,1,3,6
+8,chinese,"""Haitian Police Engage in Firefight with Gangs""",negative,0.6456398367881775,-1,1,3,6
+9,chinese,"""National Rifle and Pistol Shooting Team's Final Olympic Qualifying Match Begins""",neutral,0.8635626435279846,1,1,3,6
