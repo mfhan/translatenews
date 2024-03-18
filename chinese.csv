@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Vocational Education Supports Talent Development in Cambodia""",positive,0.6861739158630371,2,2,4,4
-1,chinese,"""South Korean Medical University Professor Plans to Resign Collectively, Government Refuses to Compromise on Expansion Plan""",negative,0.6572567224502563,-1,2,4,4
-2,chinese,"""UN Special Envoy for Syria: Current Situation in Syria Extremely Difficult""",negative,0.80299973487854,-2,2,4,4
-3,chinese,"Ministry of Education: Since the beginning of the spring semester, over 1.854 million job opportunities have been provided for college students.",positive,0.5287021398544312,2,2,4,4
-4,chinese,"""Supreme Court and Supreme Procuratorate Issue Judicial Interpretation, First Time Explicitly Listing Signing ""Yin-Yang Contracts"" as Tax Evasion Method""",neutral,0.6761689186096191,1,2,4,4
-5,chinese,"""Putin Wins Russian Presidential Election""",neutral,0.5712118148803711,1,2,4,4
-6,chinese,"""International Observation: ""Democracy Summit"" Unrelated to Democracy""",neutral,0.7877342700958252,1,2,4,4
-7,chinese,"""Macron: France does not rule out future involvement in the Russia-Ukraine conflict""",neutral,0.5798672437667847,1,2,4,4
-8,chinese,"""Yunnan Lincang Forest Fire Report: 3 Firefighters Sacrificed, 1 Injured""",negative,0.695237934589386,-1,2,4,4
-9,chinese,"""Handan City's Feixiang District Reports Murder of Junior High School Student""",negative,0.7195321321487427,-2,2,4,4
+0,chinese,"""Pakistani Expert: What is the Intention of the US-led ""Democracy Summit""?""",neutral,0.6820297241210938,1,2,3,5
+1,chinese,"""New Spokesperson Lin Jian of the Ministry of Foreign Affairs Hosts First Regular Press Conference""",neutral,0.8364681601524353,1,2,3,5
+2,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,2,3,5
+3,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,2,3,5
+4,chinese,"This year, the market supervision department will fully implement the ""reassuring consumption action"" to optimize the consumption environment and strengthen consumer rights protection.",positive,0.5516208410263062,2,2,3,5
+5,chinese,"""Number of Foreign Trade Operators Exceeds 600,000 for the First Time in 2023""",neutral,0.7418943643569946,1,2,3,5
+6,chinese,"""Chinese Vocational Education Aids in Talent Development in Cambodia""",neutral,0.8290552496910095,1,2,3,5
+7,chinese,"""South Korean Medical University Professor Plans to Resign Collectively, Government Refuses to Compromise on Expansion Plan""",negative,0.6572567224502563,-1,2,3,5
+8,chinese,"""UN Special Envoy for Syria: Current Situation in Syria Extremely Difficult""",negative,0.80299973487854,-2,2,3,5
+9,chinese,"Ministry of Education: Since the Beginning of Spring Semester, Over 1.854 Million Job Opportunities Provided for College Students",positive,0.5471107363700867,2,2,3,5
