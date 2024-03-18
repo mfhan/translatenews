@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""5G User Penetration Rate Exceeds 50%, Digital China Marches Forward""",neutral,0.48231545090675354,1,1,2,7
-1,chinese,"""South-to-North Water Diversion Project has accumulated a total of 70 billion cubic meters of water diversion""",neutral,0.6929413676261902,1,1,2,7
-2,chinese,"""Pakistani Expert: What is the Purpose of the US-led ""Democracy Summit""?""",neutral,0.855388879776001,1,1,2,7
-3,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Hosts Routine Press Conference for the First Time""",neutral,0.7834761142730713,1,1,2,7
-4,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,1,2,7
-5,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,1,2,7
-6,chinese,"""This year, the market supervision department will fully implement the ""reassuring consumption action"" to optimize the consumption environment and strengthen consumer rights protection.""",positive,0.5639289021492004,2,1,2,7
-7,chinese,"""In 2023, the number of foreign trade operators exceeded 600,000 for the first time.""",neutral,0.5954014658927917,1,1,2,7
-8,chinese,"""Chinese Vocational Education Aids in Developing Cambodian Talent""",neutral,0.8092869520187378,1,1,2,7
-9,chinese,"""South Korean Medical University Professor Plans to Resign Collectively, Government Refuses to Compromise on Expansion Plan""",negative,0.6572567224502563,-1,1,2,7
+0,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First 2 Months of This Year""",neutral,0.5188227295875549,1,1,1,8
+1,chinese,"""Central Bank Releases Digital RMB Payment Guide for Overseas Visitors to China""",neutral,0.8541471362113953,1,1,1,8
+2,chinese,"""South Korean Citizen Groups Gather to Protest the So-Called ""Democracy Summit"" Held in South Korea""",neutral,0.6089199781417847,1,1,1,8
+3,chinese,"""5G User Penetration Rate Exceeds 50%, Digital China Moves Forward""",neutral,0.49403315782546997,1,1,1,8
+4,chinese,"""South-to-North Water Diversion Project has Transferred a Cumulative Total of 70 Billion Cubic Meters of Water""",neutral,0.7365098595619202,1,1,1,8
+5,chinese,"""Pakistani Expert: What is the Purpose of the US-led ""Democracy Summit""?""",neutral,0.855388879776001,1,1,1,8
+6,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Holds First Regular Press Conference""",neutral,0.8548114895820618,1,1,1,8
+7,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" it Preaches at Home""",neutral,0.5808815360069275,1,1,1,8
+8,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,1,1,8
+9,chinese,"""This year, the market supervision department will fully implement the ""Trustworthy Consumption Action"" to optimize the consumption environment and strengthen consumer rights protection.""",positive,0.5699656009674072,2,1,1,8
