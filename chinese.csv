@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Securities Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6969490051269531,1,1,1,8
-1,chinese,"""China's Industrial Electricity Generation Increased by 8.3% Year-on-Year in the First 2 Months of this Year""",neutral,0.537814199924469,1,1,1,8
-2,chinese,"""Central Bank Releases Guide for Overseas Visitors to Use Digital RMB Payments in China""",neutral,0.7316737174987793,1,1,1,8
-3,chinese,"""South Korean Civic Groups Gather to Protest the So-Called ""Democracy Summit"" Held in South Korea""",neutral,0.6220225095748901,1,1,1,8
-4,chinese,"""5G User Penetration Rate Exceeds 50%, China's Digital Advancement Continues""",positive,0.6154347062110901,2,1,1,8
-5,chinese,"""South-to-North Water Diversion Project has Accumulated a Total of 70 Billion Cubic Meters of Water Transfer""",neutral,0.7196061015129089,1,1,1,8
-6,chinese,"""Pakistani Expert: What is the Purpose of the US-led ""Democracy Summit""?""",neutral,0.855388879776001,1,1,1,8
-7,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Hosts Routine Press Conference for the First Time""",neutral,0.7834761142730713,1,1,1,8
-8,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,1,1,8
-9,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,1,1,8
+0,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Implement Lifetime Securities Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6465309262275696,1,0,1,9
+1,chinese,"""China's Industrial Electricity Generation Increased by 8.3% Year-on-Year in the First 2 Months of this Year""",neutral,0.537814199924469,1,0,1,9
+2,chinese,"""Central Bank Releases Digital RMB Payment Guide for Overseas Visitors to China""",neutral,0.8541471362113953,1,0,1,9
+3,chinese,"""South Korean Civic Groups Gather to Protest the So-Called ""Democracy Summit"" Held in South Korea""",neutral,0.6220225095748901,1,0,1,9
+4,chinese,"""5G User Penetration Rate Exceeds 50%, Digital China Marches Forward""",neutral,0.48231545090675354,1,0,1,9
+5,chinese,"""South-to-North Water Diversion Project has accumulated 70 billion cubic meters of water diverted""",neutral,0.7612291574478149,1,0,1,9
+6,chinese,"""Pakistani Expert: What is the Purpose of the US-led ""Democracy Summit""?""",neutral,0.855388879776001,1,0,1,9
+7,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Hosts First Regular Press Conference""",neutral,0.8337429761886597,1,0,1,9
+8,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,0,1,9
+9,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,0,1,9
