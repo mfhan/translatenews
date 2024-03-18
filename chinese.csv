@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Pakistani Expert: What is the Purpose of the US-led ""Democracy Summit""?""",neutral,0.855388879776001,1,3,3,4
-1,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Holds First Regular Press Conference""",neutral,0.8548114895820618,1,3,3,4
-2,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,3,3,4
-3,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,3,3,4
-4,chinese,"This year, the market supervision department will fully implement the ""reassuring consumption action"" to optimize the consumption environment and strengthen consumer rights protection.",positive,0.5516208410263062,2,3,3,4
-5,chinese,"""Number of Foreign Trade Entities Exceeds 600,000 for the First Time in 2023""",neutral,0.7337044477462769,1,3,3,4
-6,chinese,"""Chinese Vocational Education Supports Talent Development in Cambodia""",positive,0.6861739158630371,2,3,3,4
-7,chinese,"""South Korean Medical University Professor Plans to Resign Collectively, Government Refuses to Compromise on Expansion Plan""",negative,0.6572567224502563,-1,3,3,4
-8,chinese,"""UN Special Envoy for Syria: Current Situation in Syria Extremely Difficult""",negative,0.80299973487854,-2,3,3,4
-9,chinese,"Ministry of Education: Since the Start of Spring Semester, Over 1.854 Million Job Opportunities Provided for College Students",positive,0.5870087742805481,2,3,3,4
+0,chinese,"""5G User Penetration Rate Exceeds 50%, Digital China Marches Forward""",neutral,0.48231545090675354,1,1,2,7
+1,chinese,"""South-to-North Water Diversion Project has accumulated a total of 70 billion cubic meters of water diversion""",neutral,0.6929413676261902,1,1,2,7
+2,chinese,"""Pakistani Expert: What is the Purpose of the US-led ""Democracy Summit""?""",neutral,0.855388879776001,1,1,2,7
+3,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Hosts Routine Press Conference for the First Time""",neutral,0.7834761142730713,1,1,2,7
+4,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,1,2,7
+5,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,1,2,7
+6,chinese,"""This year, the market supervision department will fully implement the ""reassuring consumption action"" to optimize the consumption environment and strengthen consumer rights protection.""",positive,0.5639289021492004,2,1,2,7
+7,chinese,"""In 2023, the number of foreign trade operators exceeded 600,000 for the first time.""",neutral,0.5954014658927917,1,1,2,7
+8,chinese,"""Chinese Vocational Education Aids in Developing Cambodian Talent""",neutral,0.8092869520187378,1,1,2,7
+9,chinese,"""South Korean Medical University Professor Plans to Resign Collectively, Government Refuses to Compromise on Expansion Plan""",negative,0.6572567224502563,-1,1,2,7
