@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Putin Wins Russian Presidential Election""",neutral,0.5712118148803711,1,0,3,7
-1,chinese,"""International Observation: ""Democracy Summit"" Unrelated to Democracy""",neutral,0.7877342700958252,1,0,3,7
-2,chinese,"""Macron: France does not rule out future involvement in the Russia-Ukraine conflict""",neutral,0.5798672437667847,1,0,3,7
-3,chinese,"""Yunnan Lincang Forest Fire Report: 3 Firefighters Sacrificed, 1 Injured""",negative,0.695237934589386,-1,0,3,7
-4,chinese,"""Feixiang District of Handan City Reports on the Murder of a Junior High School Student""",negative,0.6906213164329529,-1,0,3,7
-5,chinese,"""Over 2000 Sea-Rail Intermodal Freight Trains to be Launched on New Western Land and Sea Transportation Route This Year""",neutral,0.6680328845977783,1,0,3,7
-6,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Vertically Transported to Launch Area""",neutral,0.8602656722068787,1,0,3,7
-7,chinese,"""Sichuan Ya Jiang Forest Fire Has Relocated 3,396 People""",neutral,0.7136039733886719,1,0,3,7
-8,chinese,"""Japan's Tokyo Electric Power Company Completes Fourth Round of Reducing Nuclear Polluted Water""",neutral,0.6758703589439392,1,0,3,7
-9,chinese,"""2 Dead, 5 Injured in Shooting Incident in Washington, USA""",negative,0.7112617492675781,-2,0,3,7
+0,chinese,"""Chinese Vocational Education Aids in Cambodian Talent Development""",neutral,0.8513604998588562,1,1,4,5
+1,chinese,"""South Korean Medical University Professor Plans to Resign as a Group, Government Refuses to Compromise on Expansion Plan""",negative,0.6460086107254028,-1,1,4,5
+2,chinese,"""UN Special Envoy for Syria: Current Situation in Syria Extremely Difficult""",negative,0.80299973487854,-2,1,4,5
+3,chinese,"Ministry of Education: Since the start of the spring semester, over 1.854 million job opportunities have been provided for college students.",positive,0.5396779775619507,2,1,4,5
+4,chinese,"""Supreme Court and Supreme Procuratorate Issue Judicial Interpretation, First Time Explicitly Listing Signing ""Yin-Yang Contracts"" as Tax Evasion Method""",neutral,0.6761689186096191,1,1,4,5
+5,chinese,"""Putin Wins Russian Presidential Election""",neutral,0.5712118148803711,1,1,4,5
+6,chinese,"""International Observation | ""Democratic Summit"" Unrelated to Democracy""",neutral,0.7955013513565063,1,1,4,5
+7,chinese,"""Macron: France does not rule out future involvement in the Russia-Ukraine conflict""",neutral,0.5798672437667847,1,1,4,5
+8,chinese,"""Yunnan Lincang Forest Fire Report: 3 Firefighters Sacrificed, 1 Injured""",negative,0.695237934589386,-1,1,4,5
+9,chinese,"""Handan City Feixiang District Reports on the Murder Case of Middle School Student""",negative,0.5924872159957886,-1,1,4,5
