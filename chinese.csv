@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Putin Wins Russian Presidential Election""",neutral,0.5712118148803711,1,0,3,7
-1,chinese,"""International Observation | ""Democracy Summit"" Unrelated to Democracy""",neutral,0.8261237740516663,1,0,3,7
+1,chinese,"""International Observation: ""Democracy Summit"" Unrelated to Democracy""",neutral,0.7877342700958252,1,0,3,7
 2,chinese,"""Macron: France does not rule out future involvement in the Russia-Ukraine conflict""",neutral,0.5798672437667847,1,0,3,7
-3,chinese,"Yunnan Lincang Forest Fire Report: 3 Firefighters Sacrificed, 1 Injured",negative,0.692095160484314,-1,0,3,7
-4,chinese,"""Handan City Feixiang District Reports Murder of Middle School Student""",negative,0.6993522047996521,-1,0,3,7
-5,chinese,"""Over 2000 Sea-Rail Intermodal Trains to Operate on New Western Land and Sea Channel This Year""",neutral,0.6274850368499756,1,0,3,7
-6,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket and Satellite Combination Vertically Transported to Launch Area""",neutral,0.845548689365387,1,0,3,7
-7,chinese,"""Sichuan Ya Jiang Forest Fire Has Relocated 3396 People""",neutral,0.7275859117507935,1,0,3,7
-8,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Pollution Water Reduction""",neutral,0.6316320896148682,1,0,3,7
-9,chinese,"""Gunshot Incident in Washington, USA Leaves 2 Dead and 5 Injured""",negative,0.7444754838943481,-2,0,3,7
+3,chinese,"""Yunnan Lincang Forest Fire Report: 3 Firefighters Sacrificed, 1 Injured""",negative,0.695237934589386,-1,0,3,7
+4,chinese,"""Feixiang District of Handan City Reports on the Murder of a Junior High School Student""",negative,0.6906213164329529,-1,0,3,7
+5,chinese,"""Over 2000 Sea-Rail Intermodal Freight Trains to be Launched on New Western Land and Sea Transportation Route This Year""",neutral,0.6680328845977783,1,0,3,7
+6,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Vertically Transported to Launch Area""",neutral,0.8602656722068787,1,0,3,7
+7,chinese,"""Sichuan Ya Jiang Forest Fire Has Relocated 3,396 People""",neutral,0.7136039733886719,1,0,3,7
+8,chinese,"""Japan's Tokyo Electric Power Company Completes Fourth Round of Reducing Nuclear Polluted Water""",neutral,0.6758703589439392,1,0,3,7
+9,chinese,"""2 Dead, 5 Injured in Shooting Incident in Washington, USA""",negative,0.7112617492675781,-2,0,3,7
