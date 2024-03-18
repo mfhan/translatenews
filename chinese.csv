@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Securities Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6969490051269531,1,1,1,8
-1,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First 2 Months of This Year""",neutral,0.5188227295875549,1,1,1,8
-2,chinese,"""Central Bank Releases Digital RMB Payment Guide for Overseas Visitors to China""",neutral,0.8541471362113953,1,1,1,8
-3,chinese,"""South Korean Civic Groups Gather to Protest the So-Called ""Democracy Summit"" Being Held in South Korea""",neutral,0.5148370265960693,1,1,1,8
+0,chinese,"""CSRC: Plans to impose a fine of 4.175 billion yuan on Evergrande Real Estate, and impose lifetime securities market entry ban on Xu Jiayin and Xia Haijun""",neutral,0.4675559401512146,1,1,1,8
+1,chinese,"""China's Industrial Electricity Generation Increased by 8.3% in the First 2 Months of this Year""",neutral,0.5704843401908875,1,1,1,8
+2,chinese,"""Central Bank Releases Guide for Overseas Visitors to Use Digital RMB Payment in China""",neutral,0.7330891489982605,1,1,1,8
+3,chinese,"Korean Citizens' Group Holds Protest Against the So-Called ""Democracy Summit"" Held in Korea",neutral,0.5307610034942627,1,1,1,8
 4,chinese,"""5G User Penetration Rate Exceeds 50%, Digital China Continues to Move Forward""",positive,0.5975391864776611,2,1,1,8
-5,chinese,"""South-to-North Water Diversion Project has Transferred a Total of 70 Billion Cubic Meters of Water""",neutral,0.741358757019043,1,1,1,8
+5,chinese,"""South-to-North Water Diversion Project has Transferred a Cumulative Total of 70 Billion Cubic Meters of Water""",neutral,0.7365098595619202,1,1,1,8
 6,chinese,"""Pakistani Expert: What is the Purpose of the US-led ""Democracy Summit""?""",neutral,0.855388879776001,1,1,1,8
-7,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Hosts Routine Press Conference for the First Time""",neutral,0.7834761142730713,1,1,1,8
-8,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" it Preaches at Home""",neutral,0.5808815360069275,1,1,1,8
+7,chinese,"""New Spokesperson Lin Jian of the Ministry of Foreign Affairs Holds First Regular Press Conference""",neutral,0.8740704655647278,1,1,1,8
+8,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,1,1,8
 9,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,1,1,8
