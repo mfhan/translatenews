@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Putin Wins Russian Presidential Election""",neutral,0.5712118148803711,1,0,3,7
-1,chinese,"""International Observation | ""Democracy Summit"" Unrelated to Democracy""",neutral,0.8261237740516663,1,0,3,7
-2,chinese,"""Macron: France does not rule out future involvement in Russian-Ukrainian conflict""",neutral,0.48797956109046936,1,0,3,7
-3,chinese,"""Yunnan Lincang Forest Fire Report: 3 Firefighters Sacrificed, 1 Injured""",negative,0.695237934589386,-1,0,3,7
-4,chinese,"""Handan City Feixiang District Reports Murder Case of Middle School Student""",negative,0.6678313612937927,-1,0,3,7
-5,chinese,"""Over 2000 Sea-Rail Intermodal Trains to Operate on New Western Land and Sea Channel this Year""",neutral,0.6262688636779785,1,0,3,7
-6,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Vertically Transported to Launch Area""",neutral,0.8602656722068787,1,0,3,7
-7,chinese,"""Sichuan Yajiang Forest Fire Has Relocated 3396 People""",neutral,0.7126154899597168,1,0,3,7
-8,chinese,"""Japan's Tokyo Electric Power Company Announces Completion of Fourth Round of Nuclear Pollution Water Reduction""",neutral,0.6316320896148682,1,0,3,7
-9,chinese,"""Gun Shooting Incident in Washington, USA Leaves 2 Dead and 5 Injured""",negative,0.7448616027832031,-2,0,3,7
+0,chinese,"""Putin Wins Russian Presidential Election""",neutral,0.5712118148803711,1,1,3,6
+1,chinese,"""International Observation: ""Democratic Summit"" Unrelated to Democracy""",neutral,0.7520115971565247,1,1,3,6
+2,chinese,"""Macron: France does not rule out future involvement in Russian-Ukrainian conflict""",neutral,0.48797956109046936,1,1,3,6
+3,chinese,"""Yunnan Lincang Forest Fire Report: 3 Firefighters Sacrificed, 1 Injured""",negative,0.695237934589386,-1,1,3,6
+4,chinese,"""Handan City's Feixiang District Reports Murder of Junior High School Student""",negative,0.7195321321487427,-2,1,3,6
+5,chinese,"""Over 2000 Sea-Rail Intermodal Trains to Operate on New Western Land and Sea Channel This Year""",neutral,0.6274850368499756,1,1,3,6
+6,chinese,"""Magpie Bridge II Relay Satellite Mission Rocket Assembly Vertically Transported to Launch Area""",neutral,0.8602656722068787,1,1,3,6
+7,chinese,"""Sichuan Ya Jiang Forest Fire Has Relocated 3396 People""",neutral,0.7275859117507935,1,1,3,6
+8,chinese,"""Japan's Tokyo Electric Power Company announces completion of fourth round of reduction of nuclear contaminated water""",positive,0.5023282170295715,2,1,3,6
+9,chinese,"""Gunshot Incident in Washington, USA Leaves 2 Dead and 5 Injured""",negative,0.7444754838943481,-2,1,3,6
