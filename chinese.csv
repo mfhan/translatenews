@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchases, Starting a Business... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.6912544369697571,2,4,4,2
-1,chinese,"""Croatian Expert: US Exporting ""Democracy"" Causes Harm to the World""",negative,0.8731816411018372,-2,4,4,2
-2,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set New Records in 2023""",neutral,0.7926839590072632,1,4,4,2
-3,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan's Yajiang and other areas in fighting forest fires""",neutral,0.4529762864112854,1,4,4,2
-4,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Enduring and Rock-Solid Friendship between China and Pakistan""",positive,0.8028348684310913,3,4,4,2
+0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchasing, Starting a Business... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.6760909557342529,2,4,4,2
+1,chinese,"""Croatian Expert: US Exporting ""Democracy"" is Harming the World""",negative,0.9115709066390991,-2,4,4,2
+2,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set to Break Records in 2023""",neutral,0.8378499150276184,1,4,4,2
+3,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support disaster relief for forest fires in Yajiang and other areas in Sichuan.""",neutral,0.4805324673652649,1,4,4,2
+4,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Long-lasting and Rock-solid Friendship between China and Pakistan""",positive,0.840910017490387,3,4,4,2
 5,chinese,"""Building Regional Industrial Advantages: Many Places Take the Lead in Attracting Talents""",positive,0.5177504420280457,2,4,4,2
 6,chinese,"""China's Private Investment Growth Rate Turns Positive in First 2 Months of This Year""",positive,0.6865084767341614,2,4,4,2
-7,chinese,"""Negotiating with Reason | Threatening the EU with WTO Reform, US Reveals True Intentions""",negative,0.7941967844963074,-2,4,4,2
-8,chinese,"""World Opinion: US Media: Partisan Strife Trumps National Interest, American Public Losing Confidence in Government""",negative,0.8564435839653015,-2,4,4,2
-9,chinese,"""Spring Pollen Allergy Outbreak: How Can ""Allergy Sufferers"" Effectively Protect and Cope?""",negative,0.6474143266677856,-1,4,4,2
+7,chinese,"""Negotiation and Justice | Threatening the EU with WTO Reform, US Exposes True Intentions""",negative,0.8345751166343689,-2,4,4,2
+8,chinese,"""World Opinion: US Media: Partisan Strife Overrides National Interests, American Public Losing Confidence in Government""",negative,0.8453837037086487,-2,4,4,2
+9,chinese,"""Spring Pollen Allergy Peaks: How Can ""Allergy Sufferers"" Effectively Protect and Cope?""",negative,0.6393378973007202,-1,4,4,2
