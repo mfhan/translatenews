@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchase, Business Establishment... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.7321359515190125,3,4,3,3
-1,chinese,"""Croatian Expert: US Exporting ""Democracy"" Causes Harm to the World""",negative,0.8731816411018372,-2,4,3,3
-2,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set to Break Records in 2023""",neutral,0.8378499150276184,1,4,3,3
-3,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan's Yajiang and other areas in fighting forest fires""",neutral,0.4529762864112854,1,4,3,3
-4,chinese,"""【Overseas Perspective】Pakistani Ambassador to China: Proud of the Long-Lasting and Rock-Solid Friendship between China and Pakistan""",positive,0.7820335626602173,3,4,3,3
-5,chinese,"""Building Regional Industrial Advantages: Many Places Take the Lead in Attracting Talents""",positive,0.5177504420280457,2,4,3,3
-6,chinese,"""China's Private Investment Growth Rate Turns Positive in First 2 Months of This Year""",positive,0.6865084767341614,2,4,3,3
-7,chinese,"""Debate and Reasoning | Threatening the EU with WTO Reform, the US Exposes its True Intentions""",negative,0.8051294088363647,-2,4,3,3
-8,chinese,"""World Opinion: US Media: Partisan Strife Overrides National Interests, American Public Losing Confidence in Government""",negative,0.8453837037086487,-2,4,3,3
-9,chinese,"""How to Effectively Protect and Cope with Spring Allergies: Tips for ""Allergy Sufferers""""",neutral,0.6705003976821899,1,4,3,3
+0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchases, Starting Businesses... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.6833375692367554,2,4,4,2
+1,chinese,"""Croatian Expert: US Exporting ""Democracy"" is Harmful to the World""",negative,0.9260977506637573,-2,4,4,2
+2,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set New Records in 2023""",neutral,0.7926839590072632,1,4,4,2
+3,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan's Yajiang and other areas in fighting forest fires""",neutral,0.4529762864112854,1,4,4,2
+4,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Long-Lasting and Rock-Solid Friendship between China and Pakistan""",positive,0.7955659627914429,3,4,4,2
+5,chinese,"""Building Regional Industrial Advantages: Many Places Take the Lead in Attracting Talents""",positive,0.5177504420280457,2,4,4,2
+6,chinese,"""China's Private Investment Growth Rate Turns Positive in First Two Months of This Year""",positive,0.6943432092666626,2,4,4,2
+7,chinese,"""Negotiating with Reason | Using WTO Reform as Leverage to Threaten the European Union, US Reveals True Intentions""",negative,0.8379238247871399,-2,4,4,2
+8,chinese,"""World Opinion: US Media: Partisan Strife Overrides National Interests, American Public Losing Confidence in Government""",negative,0.8453837037086487,-2,4,4,2
+9,chinese,"""Spring Pollen Allergy Peak: How Can ""Allergy Sufferers"" Effectively Protect and Respond?""",negative,0.5849083662033081,-1,4,4,2
