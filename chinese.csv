@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments by US Ambassador to China""",negative,0.535281777381897,-1,0,1,9
-1,chinese,"""Ministry of Foreign Affairs: Will Provide Assistance to Cuba to Overcome Current Difficulties""",neutral,0.5830073952674866,1,0,1,9
-2,chinese,"""Taiwan Affairs Office: Mutual Assistance between Both Sides is the Way to Respond to Maritime Emergencies""",neutral,0.5183013677597046,1,0,1,9
-3,chinese,"""Two departments require the implementation of safety management for Qingming Festival tomb-sweeping""",neutral,0.49537354707717896,1,0,1,9
-4,chinese,"""A Bowl of Tian Shui's ""Spicy Hot Pot"" Brings Out a Boiling Culture IP""",neutral,0.6613872051239014,1,0,1,9
-5,chinese,"""China's Bohai Sea Region in the North Receives Another Billion-Ton Oilfield""",neutral,0.5318718552589417,1,0,1,9
-6,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6918679475784302,1,0,1,9
-7,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First 2 Months of this Year""",neutral,0.5217455625534058,1,0,1,9
-8,chinese,"""Central Bank Releases Guide for Overseas Visitors to Use Digital RMB Payments in China""",neutral,0.7316737174987793,1,0,1,9
-9,chinese,"""South Korean Civic Groups Gather to Protest the So-Called ""Democracy Summit"" Held in South Korea""",neutral,0.6220225095748901,1,0,1,9
+0,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,1,2,7
+1,chinese,"""Studio Ghibli-style AI animation released with heartwarming charm!""",positive,0.9174768328666687,3,1,2,7
+2,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments Made by US Ambassador to China""",negative,0.49486663937568665,-1,1,2,7
+3,chinese,Ministry of Foreign Affairs: Will Provide Assistance for Cuba to Overcome Current Difficulties,neutral,0.5715875625610352,1,1,2,7
+4,chinese,"""Taiwan Affairs Office: Mutual Assistance between Both Sides of the Strait is the Right Way to Deal with Sudden Maritime Emergencies""",neutral,0.46470725536346436,1,1,2,7
+5,chinese,"""Two departments require the implementation of safety management for Qingming Festival tomb-sweeping""",neutral,0.49537354707717896,1,1,2,7
+6,chinese,"""A Bowl of Tian Shui's ""Spicy Hot Pot"" Brings Out the Boiling Culture IP""",neutral,0.6773392558097839,1,1,2,7
+7,chinese,"""China's Bohai Sea Region in the North Central Area Acquires Another Billion-Ton Oil Field""",neutral,0.5695608258247375,1,1,2,7
+8,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Securities Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6969490051269531,1,1,2,7
+9,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First 2 Months of This Year""",neutral,0.5188227295875549,1,1,2,7
