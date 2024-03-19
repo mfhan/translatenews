@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,1,2,7
-1,chinese,"""Studio Ghibli-style AI animation released with heartwarming charm!""",positive,0.9174768328666687,3,1,2,7
-2,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments Made by US Ambassador to China""",negative,0.49486663937568665,-1,1,2,7
-3,chinese,Ministry of Foreign Affairs: Will Provide Assistance for Cuba to Overcome Current Difficulties,neutral,0.5715875625610352,1,1,2,7
-4,chinese,"""Taiwan Affairs Office: Mutual Assistance between Both Sides of the Strait is the Right Way to Deal with Sudden Maritime Emergencies""",neutral,0.46470725536346436,1,1,2,7
-5,chinese,"""Two departments require the implementation of safety management for Qingming Festival tomb-sweeping""",neutral,0.49537354707717896,1,1,2,7
-6,chinese,"""A Bowl of Tian Shui's ""Spicy Hot Pot"" Brings Out the Boiling Culture IP""",neutral,0.6773392558097839,1,1,2,7
-7,chinese,"""China's Bohai Sea Region in the North Central Area Acquires Another Billion-Ton Oil Field""",neutral,0.5695608258247375,1,1,2,7
-8,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Securities Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6969490051269531,1,1,2,7
-9,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First 2 Months of This Year""",neutral,0.5188227295875549,1,1,2,7
+0,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,2,2,6
+1,chinese,"""Studio Ghibli-style AI animation launched with heartwarming themes!""",positive,0.8915495872497559,3,2,2,6
+2,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments Made by US Ambassador to China""",negative,0.49486663937568665,-1,2,2,6
+3,chinese,"""Ministry of Foreign Affairs: Will Provide Assistance to Help Cuba Overcome Current Difficulties""",neutral,0.5456497669219971,1,2,2,6
+4,chinese,"""State Council Taiwan Affairs Office: Mutual Assistance between Both Sides of the Strait is the Proper Way to Respond to Sudden Maritime Emergencies""",positive,0.4859410524368286,2,2,2,6
+5,chinese,"""Two departments require the implementation of safety management for Qingming Festival tomb-sweeping""",neutral,0.49537354707717896,1,2,2,6
+6,chinese,"""A Bowl of TianShui ""Spicy Hot Pot"" Brings Out the Boiling Culture IP""",neutral,0.6403640508651733,1,2,2,6
+7,chinese,"""China's Bohai Sea Region in the North Central Area Gains Another Billion-Ton Oilfield""",neutral,0.5544106364250183,1,2,2,6
+8,chinese,"""China Securities Regulatory Commission: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Securities Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6726483106613159,1,2,2,6
+9,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First 2 Months of this Year""",neutral,0.5217455625534058,1,2,2,6
