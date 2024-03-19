@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Live Broadcast: Journey into the Hungarian-Serbian Railway,neutral,0.8881305456161499,1,3,4,3
-1,chinese,"""Croatian Expert: US Export of ""Democracy"" is Harming the World""",negative,0.9122412204742432,-2,3,4,3
-2,chinese,"""New Zealand Scholar: Honest Dialogue, Pragmatic Cooperation, Injecting Stability into the Asia-Pacific Economy""",positive,0.5440493226051331,2,3,4,3
-3,chinese,"""National Economy Steadily Rises in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.7875270843505859,3,3,4,3
-4,chinese,"""Former Prime Minister of Kyrgyzstan: The world does not need the US to play the role of ""financial police""""",negative,0.4992489814758301,-1,3,4,3
-5,chinese,"""Wang Yi Meets with New Zealand Minister of Trade, David Parker""",neutral,0.8600932955741882,1,3,4,3
-6,chinese,"""Chinese Permanent Representative to the United Nations: Countries Should Resist Cold War Mentality and Work Together to Promote Nuclear Disarmament and Non-Proliferation Process""",neutral,0.4990616738796234,1,3,4,3
-7,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,3,4,3
-8,chinese,"""Studio Ghibli-style AI animation released with heartwarming themes!""",positive,0.8970438838005066,3,3,4,3
-9,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments by US Ambassador to China""",negative,0.535281777381897,-1,3,4,3
+0,chinese,"""Spring Pollen Allergy Peak: How Can ""Allergy Sufferers"" Effectively Protect and Cope?""",negative,0.6487576961517334,-1,3,4,3
+1,chinese,"""1456 New Undergraduate Majors Added to Ordinary Higher Education Institutions in 2023""",neutral,0.6478093862533569,1,3,4,3
+2,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchase, Business Establishment... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.7321359515190125,3,3,4,3
+3,chinese,"""Croatian Expert: US Export of ""Democracy"" Causes Harm to the World""",negative,0.8742870092391968,-2,3,4,3
+4,chinese,"""New Zealand Scholar: Open Dialogue and Pragmatic Cooperation Bring Stability to the Asia-Pacific Economy""",positive,0.6137872338294983,2,3,4,3
+5,chinese,"""National Economy Shows Steady Growth in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8160746097564697,3,3,4,3
+6,chinese,"""Former Prime Minister of Kyrgyzstan: The World Does Not Need the US to Play the Role of ""Financial Policeman""""",negative,0.4913389980792999,-1,3,4,3
+7,chinese,"""Wang Yi Meets with New Zealand Minister of Trade, David Macrae""",neutral,0.8514335751533508,1,3,4,3
+8,chinese,"""Chinese Permanent Representative to the United Nations: Countries Should Resist Cold War Mentality and Work Together to Promote Nuclear Disarmament and Non-Proliferation Process""",neutral,0.4990616738796234,1,3,4,3
+9,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,3,4,3
