@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Securities Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6969490051269531,1,1,1,8
-1,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First Two Months of this Year""",neutral,0.5262656211853027,1,1,1,8
-2,chinese,"""Central Bank Releases Guide for Overseas Visitors to Use Digital RMB Payments in China""",neutral,0.7316737174987793,1,1,1,8
-3,chinese,"""South Korean Civic Group Holds Protest Against So-called ""Democracy Summit"" Held in South Korea""",neutral,0.5735218524932861,1,1,1,8
-4,chinese,"""5G User Penetration Rate Exceeds 50%, China's Digital Advancement Continues""",positive,0.6154347062110901,2,1,1,8
-5,chinese,"""South-to-North Water Diversion Project has Transferred a Cumulative Total of 70 Billion Cubic Meters of Water""",neutral,0.7365098595619202,1,1,1,8
-6,chinese,"""Pakistani Expert: What is the Intention Behind the US-led ""Democracy Summit""?""",neutral,0.7706568241119385,1,1,1,8
-7,chinese,"""New Spokesperson of the Ministry of Foreign Affairs, Lin Jian, Hosts First Regular Press Conference""",neutral,0.8337429761886597,1,1,1,8
-8,chinese,"""Former US Diplomat: America Should Practice the ""Democracy"" It Preaches at Home""",neutral,0.5858208537101746,1,1,1,8
-9,chinese,"""Kenyan Newspaper: ""Democracy Summit"" Betrays Democracy, Revealing American Arrogance""",negative,0.8078158497810364,-2,1,1,8
+0,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments by US Ambassador to China""",negative,0.535281777381897,-1,0,1,9
+1,chinese,"""Ministry of Foreign Affairs: Will Provide Assistance to Cuba to Overcome Current Difficulties""",neutral,0.5830073952674866,1,0,1,9
+2,chinese,"""Taiwan Affairs Office: Mutual Assistance between Both Sides is the Way to Respond to Maritime Emergencies""",neutral,0.5183013677597046,1,0,1,9
+3,chinese,"""Two departments require the implementation of safety management for Qingming Festival tomb-sweeping""",neutral,0.49537354707717896,1,0,1,9
+4,chinese,"""A Bowl of Tian Shui's ""Spicy Hot Pot"" Brings Out a Boiling Culture IP""",neutral,0.6613872051239014,1,0,1,9
+5,chinese,"""China's Bohai Sea Region in the North Receives Another Billion-Ton Oilfield""",neutral,0.5318718552589417,1,0,1,9
+6,chinese,"""CSRC: Plans to Impose a Fine of 4.175 Billion Yuan on Evergrande Real Estate, and Lifetime Market Ban on Xu Jiayin and Xia Haijun""",neutral,0.6918679475784302,1,0,1,9
+7,chinese,"""China's Industrial Power Generation Increased by 8.3% Year-on-Year in the First 2 Months of this Year""",neutral,0.5217455625534058,1,0,1,9
+8,chinese,"""Central Bank Releases Guide for Overseas Visitors to Use Digital RMB Payments in China""",neutral,0.7316737174987793,1,0,1,9
+9,chinese,"""South Korean Civic Groups Gather to Protest the So-Called ""Democracy Summit"" Held in South Korea""",neutral,0.6220225095748901,1,0,1,9
