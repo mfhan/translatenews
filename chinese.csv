@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchase, Business Establishment... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.7321359515190125,3,3,5,2
-1,chinese,"""Croatian Experts: US Export of ""Democracy"" Causes Harm to the World""",negative,0.8660022616386414,-2,3,5,2
-2,chinese,"""Debate and Reasoning | Using WTO Reform as a Bargaining Chip to Threaten the European Union, US Exposes True Intentions""",negative,0.8738078474998474,-2,3,5,2
-3,chinese,"""World Opinion: US Media: Partisan Strife Trumps National Interests, American Public Losing Confidence in Government""",negative,0.8514036536216736,-2,3,5,2
-4,chinese,"""Spring Pollen Allergies on the Rise: How Can ""Allergy Sufferers"" Effectively Protect and Cope?""",negative,0.5950145125389099,-1,3,5,2
-5,chinese,"""1456 New Undergraduate Majors Added to Ordinary Higher Education Institutions in 2023""",neutral,0.6478093862533569,1,3,5,2
-6,chinese,"""New Zealand Scholar: Honest Dialogue and Pragmatic Cooperation Inject Stability into Asia-Pacific Economy""",positive,0.4858055114746094,2,3,5,2
-7,chinese,"""National Economy Shows Steady Growth in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8160746097564697,3,3,5,2
-8,chinese,"""Former Prime Minister of Kyrgyzstan: The World Does Not Need the US to Play the Role of ""Financial Policeman""""",negative,0.4913389980792999,-1,3,5,2
-9,chinese,"""Wang Yi Meets with New Zealand Minister of Trade, David Parker""",neutral,0.8600932955741882,1,3,5,2
+0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchase, Starting a Business... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.6945885419845581,2,3,4,3
+1,chinese,"""Croatian Expert: US Export of ""Democracy"" Causes Harm to the World""",negative,0.8742870092391968,-2,3,4,3
+2,chinese,"""Debate and Reasoning | Using WTO Reform as a Bargaining Chip to Threaten the European Union, US Exposes True Intentions""",negative,0.8738078474998474,-2,3,4,3
+3,chinese,"""World Opinion: US Media: Partisan Strife Overrides National Interests, American Public Losing Confidence in Government""",negative,0.8453837037086487,-2,3,4,3
+4,chinese,"""Spring Pollen Allergies on the Rise: How Can Allergy Sufferers Effectively Protect and Cope?""",negative,0.5342663526535034,-1,3,4,3
+5,chinese,"""1456 New Undergraduate Programs Added to Ordinary Colleges and Universities in 2023""",neutral,0.6229625344276428,1,3,4,3
+6,chinese,"""New Zealand Scholar: Honest Dialogue and Pragmatic Cooperation Inject Stability into the Asia-Pacific Economy""",positive,0.474125474691391,2,3,4,3
+7,chinese,"""National Economy Shows Steady Growth in January and February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8079246282577515,3,3,4,3
+8,chinese,"""Former Prime Minister of Kyrgyzstan: The World Doesn't Need the US to Play the Role of ""Financial Police""""",neutral,0.5374866127967834,1,3,4,3
+9,chinese,"""Wang Yi Meets with New Zealand Minister of Trade McClay""",neutral,0.8753791451454163,1,3,4,3
