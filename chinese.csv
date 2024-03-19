@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Economy Shows Steady Growth in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8160746097564697,3,4,3,3
-1,chinese,"""Former Prime Minister of Kyrgyzstan: The World Does Not Need the US to Play the Role of ""Financial Policeman""""",negative,0.4913389980792999,-1,4,3,3
-2,chinese,"""Wang Yi Meets with New Zealand Minister of Trade McClay""",neutral,0.8753791451454163,1,4,3,3
-3,chinese,"""Chinese Permanent Representative to the United Nations: Countries should resist Cold War mentality and work together to promote nuclear disarmament and non-proliferation process""",neutral,0.44272640347480774,1,4,3,3
-4,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,4,3,3
-5,chinese,"""Studio Ghibli-style AI Animation Released with Heartwarming Themes!""",positive,0.8017804622650146,3,4,3,3
-6,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments by US Ambassador to China""",negative,0.535281777381897,-1,4,3,3
-7,chinese,"""Rapid Development of New Consumption Provides New Momentum""",positive,0.5532963275909424,2,4,3,3
-8,chinese,Ministry of Foreign Affairs: Will provide assistance to help Cuba overcome current difficulties,neutral,0.5157910585403442,1,4,3,3
-9,chinese,"""Taiwan Affairs Office: Cross-Strait Cooperation in Responding to Sudden Maritime Emergencies is the Right Way""",positive,0.49677297472953796,2,4,3,3
+0,chinese,"""New Zealand Scholar: Honest Dialogue and Pragmatic Cooperation Bring Stability to Asia-Pacific Economy""",positive,0.6026639342308044,2,4,1,5
+1,chinese,"""National Economy Shows Steady Growth in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8160746097564697,3,4,1,5
+2,chinese,"""Former Prime Minister of Kyrgyzstan: The World Does Not Need the US to Play the Role of ""Financial Police""""",neutral,0.5258994698524475,1,4,1,5
+3,chinese,"""Wang Yi Meets with New Zealand Minister of Trade McClay""",neutral,0.8753791451454163,1,4,1,5
+4,chinese,"""Chinese Permanent Representative to the United Nations: Countries Should Resist Cold War Mentality and Work Together to Promote Nuclear Disarmament and Non-Proliferation Process""",neutral,0.4990616738796234,1,4,1,5
+5,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Exercise""",neutral,0.8398239016532898,1,4,1,5
+6,chinese,"""Studio Ghibli-style AI Animation Debuts with Heartwarming Themes!""",positive,0.835496187210083,3,4,1,5
+7,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments Made by US Ambassador to China""",negative,0.49486663937568665,-1,4,1,5
+8,chinese,"""Rapid Development of New Consumption Provides New Momentum""",positive,0.5532963275909424,2,4,1,5
+9,chinese,"""Foreign Ministry: Will Provide Assistance to Help Cuba Overcome Current Difficulties""",neutral,0.510095477104187,1,4,1,5
