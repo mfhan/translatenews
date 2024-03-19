@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Area Ticket Purchase, Business Establishment... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.7321359515190125,3,3,3,4
-1,chinese,"""Croatian Experts: US Exporting ""Democracy"" is Harming the World""",negative,0.9077407121658325,-2,3,3,4
-2,chinese,"""Debate and Justice | Threatening the EU with WTO Reform, US Exposes True Intentions""",negative,0.8412884473800659,-2,3,3,4
-3,chinese,"""World Speaks: US Media: Partisan Strife Supersedes National Interests, American Public Losing Confidence in Government""",negative,0.855954647064209,-2,3,3,4
-4,chinese,"""Spring Pollen Allergies on the Rise: How Can ""Allergy Warriors"" Effectively Protect and Respond?""",neutral,0.4821763038635254,1,3,3,4
-5,chinese,"""1456 New Undergraduate Programs Added to Regular Higher Education Institutions in 2023""",neutral,0.6005934476852417,1,3,3,4
-6,chinese,"""New Zealand Scholar: Honest Dialogue and Pragmatic Cooperation Inject Stability into Asia-Pacific Economy""",positive,0.4858055114746094,2,3,3,4
-7,chinese,"""National Economy Shows Steady Growth in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8160746097564697,3,3,3,4
-8,chinese,"Former Prime Minister of Kyrgyzstan: The World Does Not Need the US to Play the Role of ""Financial Police""",neutral,0.49479711055755615,1,3,3,4
-9,chinese,"""Wang Yi Meets with New Zealand Minister of Trade, David Parker""",neutral,0.8600932955741882,1,3,3,4
+0,chinese,"""Promoting High-Quality Development: Hospital Registration, Scenic Spot Ticket Purchase, Business Establishment... Allowing Foreigners to Enjoy Convenient Services in Beijing""",positive,0.7388549447059631,3,4,4,2
+1,chinese,"""Croatian Expert: US Exporting ""Democracy"" Causes Harm to the World""",negative,0.8731816411018372,-2,4,4,2
+2,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Everlasting and Rock-Solid Friendship between China and Pakistan""",positive,0.8355791568756104,3,4,4,2
+3,chinese,"""Building Regional Industrial Advantages: Many Places Take the Lead in Attracting Talents""",positive,0.5177504420280457,2,4,4,2
+4,chinese,"""China's Private Investment Growth Rate Turns Positive in First 2 Months of This Year""",positive,0.6865084767341614,2,4,4,2
+5,chinese,"""Dealing with Justice | Threatening the EU with WTO Reform, US Exposes True Intentions""",negative,0.8725707530975342,-2,4,4,2
+6,chinese,"""World Opinion: US Media: Partisan Strife Overrides National Interests, American Public Losing Confidence in Government""",negative,0.8453837037086487,-2,4,4,2
+7,chinese,"""Spring Pollen Allergy Peak: How Can ""Allergy Sufferers"" Effectively Protect and Cope?""",negative,0.6487576961517334,-1,4,4,2
+8,chinese,"""1456 New Undergraduate Programs Added to Regular Higher Education Institutions in 2023""",neutral,0.6005934476852417,1,4,4,2
+9,chinese,"""New Zealand Scholar: Open Dialogue and Pragmatic Cooperation Inject Stability into the Asia-Pacific Economy""",neutral,0.525519073009491,1,4,4,2
