@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Economy Steady with an Upward Trend in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8197047114372253,3,4,2,4
-1,chinese,"""Former Prime Minister of Kyrgyzstan: The World Does Not Need the US to Play the Role of ""Financial Police""""",neutral,0.5258994698524475,1,4,2,4
-2,chinese,"""Wang Yi Meets with New Zealand Minister of Trade, David Macleay""",neutral,0.8370798230171204,1,4,2,4
-3,chinese,"""Chinese Permanent Representative to the United Nations: Countries should resist Cold War mentality and work together to promote nuclear disarmament and non-proliferation process""",neutral,0.44272640347480774,1,4,2,4
-4,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,4,2,4
-5,chinese,"""Miyazaki-style AI animation brings heartwarming content online!""",positive,0.924066960811615,3,4,2,4
-6,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments by US Ambassador to China""",negative,0.535281777381897,-1,4,2,4
-7,chinese,"""Rapid Development of New Consumption Provides New Momentum""",positive,0.5532963275909424,2,4,2,4
-8,chinese,Ministry of Foreign Affairs: Will Provide Assistance to Cuba in Overcoming Current Difficulties,neutral,0.6218513250350952,1,4,2,4
-9,chinese,"""Taiwan Affairs Office: Mutual Assistance between Both Sides of the Strait is the Proper Way to Respond to Sudden Maritime Emergencies""",positive,0.505764901638031,2,4,2,4
+0,chinese,"""National Economy Shows Steady Growth in January-February! Liu Qiao: China is the Undisputed Candidate for Creating Growth Miracles""",positive,0.8160746097564697,3,4,3,3
+1,chinese,"""Former Prime Minister of Kyrgyzstan: The World Does Not Need the US to Play the Role of ""Financial Policeman""""",negative,0.4913389980792999,-1,4,3,3
+2,chinese,"""Wang Yi Meets with New Zealand Minister of Trade McClay""",neutral,0.8753791451454163,1,4,3,3
+3,chinese,"""Chinese Permanent Representative to the United Nations: Countries should resist Cold War mentality and work together to promote nuclear disarmament and non-proliferation process""",neutral,0.44272640347480774,1,4,3,3
+4,chinese,"""Zhangjiajie Tianmen Mountain Cableway Conducts High-altitude Rescue Drill""",negative,0.5832479596138,-1,4,3,3
+5,chinese,"""Studio Ghibli-style AI Animation Released with Heartwarming Themes!""",positive,0.8017804622650146,3,4,3,3
+6,chinese,"""Foreign Ministry Spokesperson Responds to Negative Comments by US Ambassador to China""",negative,0.535281777381897,-1,4,3,3
+7,chinese,"""Rapid Development of New Consumption Provides New Momentum""",positive,0.5532963275909424,2,4,3,3
+8,chinese,Ministry of Foreign Affairs: Will provide assistance to help Cuba overcome current difficulties,neutral,0.5157910585403442,1,4,3,3
+9,chinese,"""Taiwan Affairs Office: Cross-Strait Cooperation in Responding to Sudden Maritime Emergencies is the Right Way""",positive,0.49677297472953796,2,4,3,3
