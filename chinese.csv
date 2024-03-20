@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,4,2,4
-1,chinese,"""World Commentary: Pakistani Media Criticizes US' So-called ""Democracy Summit"" for Using Democracy as a Means to Consolidate American Hegemony""",negative,0.7707518935203552,-2,4,2,4
-2,chinese,"""In the New Era, My First Experience in the ""Magic City"" of China|The Charisma of German Executives""",positive,0.6565395593643188,2,4,2,4
-3,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Initiatives to Follow!""",positive,0.8156338334083557,3,4,2,4
-4,chinese,Ministry of Education Deploys Spring Employment Action for 2024 College Graduates,neutral,0.5865162014961243,1,4,2,4
-5,chinese,"""Qingming holiday train tickets will be on sale, official releases ticket purchasing calendar""",neutral,0.8548619151115417,1,4,2,4
-6,chinese,"""Cuban Ministry of Foreign Affairs Summons US Interim Chargé d'Affaires, Strongly Protests US Interference in Internal Affairs""",negative,0.5163378119468689,-1,4,2,4
-7,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,4,2,4
-8,chinese,"""Spring Equinox Brings Spectacular Scene as Beijing CBD Shines in the Morning Fog""",positive,0.7619789242744446,3,4,2,4
-9,chinese,"""First National Conference on Recognizing Advanced Collectives and Individuals in Promoting Harmonious Labor Relations Held in Beijing, Speech Given by Wang Dongming and Chen Yiqin""",neutral,0.6647855639457703,1,4,2,4
+0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,5,3,2
+1,chinese,Ministry of Foreign Affairs: Urges the US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relations,negative,0.7740551233291626,-2,5,3,2
+2,chinese,"""World Voices: Pakistani Media Criticizes US's So-Called ""Democracy Summit"" for Using Democracy as a Means to Consolidate American Hegemony""",negative,0.771108090877533,-2,5,3,2
+3,chinese,"""In the New Era, My First Experience in the ""Magic City"" of China | The Charm of German Executives""",positive,0.6992838978767395,2,5,3,2
+4,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with More New Actions to Come!""",positive,0.831684947013855,3,5,3,2
+5,chinese,Ministry of Education Deploys Action Plan to Promote Employment for 2024 College Graduates in Spring,positive,0.6152504086494446,2,5,3,2
+6,chinese,"""Qingming holiday train tickets will go on sale, official ticketing calendar released""",neutral,0.834461510181427,1,5,3,2
+7,chinese,"""Cuban Foreign Ministry Summons US Interim Charge d'Affaires, Strongly Protesting US Interference in Internal Affairs""",negative,0.6005191206932068,-1,5,3,2
+8,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,5,3,2
+9,chinese,"""Spring Equinox Brings Spectacular Views as Beijing CBD Shines in the Morning Fog""",positive,0.8091162443161011,3,5,3,2
