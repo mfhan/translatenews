@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,4,1,5
-1,chinese,"""In the New Era, My First Experience in the ""Magic City"" of China and Germany's Executive Charm""",positive,0.4860576093196869,2,4,1,5
-2,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Actions to Come!""",positive,0.8244114518165588,3,4,1,5
-3,chinese,"""Ministry of Education Deploys Action Plan for Promoting Employment for 2024 College Graduates""",positive,0.5264687538146973,2,4,1,5
-4,chinese,"""Qingming holiday train tickets to go on sale, official release of ticket purchasing calendar""",neutral,0.825511634349823,1,4,1,5
-5,chinese,"""Cuban Foreign Ministry Summons US Interim Charge d'Affaires, Strongly Protests US Interference in Internal Affairs""",negative,0.581974983215332,-1,4,1,5
-6,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,4,1,5
-7,chinese,"""Spring Equinox Marvel and Beijing CBD Shine in the Morning Fog""",neutral,0.7906707525253296,1,4,1,5
-8,chinese,"""First National Conference on Recognizing Outstanding Collective and Individual Contributions in Promoting Harmonious Labor Relations Held in Beijing, Speeches by Wang Dongming and Chen Yiqin""",neutral,0.5266130566596985,1,4,1,5
-9,chinese,"""Chinese Football Association Seeks to Hire Female National Team Head Coach from Domestic and Overseas Candidates""",neutral,0.769759476184845,1,4,1,5
+0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,4,2,4
+1,chinese,"""World Commentary: Pakistani Media Criticizes US' So-called ""Democracy Summit"" for Using Democracy as a Means to Consolidate American Hegemony""",negative,0.7707518935203552,-2,4,2,4
+2,chinese,"""In the New Era, My First Experience in the ""Magic City"" of China|The Charisma of German Executives""",positive,0.6565395593643188,2,4,2,4
+3,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Initiatives to Follow!""",positive,0.8156338334083557,3,4,2,4
+4,chinese,Ministry of Education Deploys Spring Employment Action for 2024 College Graduates,neutral,0.5865162014961243,1,4,2,4
+5,chinese,"""Qingming holiday train tickets will be on sale, official releases ticket purchasing calendar""",neutral,0.8548619151115417,1,4,2,4
+6,chinese,"""Cuban Ministry of Foreign Affairs Summons US Interim Chargé d'Affaires, Strongly Protests US Interference in Internal Affairs""",negative,0.5163378119468689,-1,4,2,4
+7,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,4,2,4
+8,chinese,"""Spring Equinox Brings Spectacular Scene as Beijing CBD Shines in the Morning Fog""",positive,0.7619789242744446,3,4,2,4
+9,chinese,"""First National Conference on Recognizing Advanced Collectives and Individuals in Promoting Harmonious Labor Relations Held in Beijing, Speech Given by Wang Dongming and Chen Yiqin""",neutral,0.6647855639457703,1,4,2,4
