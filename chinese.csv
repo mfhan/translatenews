@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,4,2,4
-1,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,4,2,4
-2,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,4,2,4
-3,chinese,Ministry of Foreign Affairs: Urges US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relations,negative,0.7592152953147888,-2,4,2,4
-4,chinese,"""Tianhe-1 and 2 Communication Satellite Successfully Launched for Technical Testing""",positive,0.5170590281486511,2,4,2,4
-5,chinese,"The 3rd ""Democracy: Common Values for All Humanity"" International Forum Successfully Held",positive,0.5376673936843872,2,4,2,4
-6,chinese,"""In the New Era, My First Experience of the Charm of Chinese-German Executives in the ""Magic City""",positive,0.5394263863563538,2,4,2,4
-7,chinese,"""World Voices: Pakistani Media Criticizes US's So-Called ""Democracy Summit"" for Using Democracy as a Means to Consolidate American Hegemony""",negative,0.771108090877533,-2,4,2,4
-8,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Actions to Follow!""",positive,0.8026419878005981,3,4,2,4
-9,chinese,"""Ministry of Education Deploys Spring Employment Action Plan for 2024 College Graduates""",neutral,0.6537817120552063,1,4,2,4
+0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,4,2,4
+1,chinese,"""China Launches Work to Revise the Catalogue Encouraging Foreign Investment in Industries""",positive,0.6370469927787781,2,4,2,4
+2,chinese,"""Federal Reserve Keeps Interest Rates Unchanged, May Cut Three Times Within the Year""",neutral,0.6994088292121887,1,4,2,4
+3,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,4,2,4
+4,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,4,2,4
+5,chinese,"""Ministry of Foreign Affairs: Urges US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship""",negative,0.7092198133468628,-2,4,2,4
+6,chinese,"""Tianhe-1 and 2 Communication Technology Test Satellites Successfully Launched""",positive,0.535706639289856,2,4,2,4
+7,chinese,"""The Third ""Democracy: Shared Values of Humanity"" International Forum Successfully Held""",positive,0.5669150352478027,2,4,2,4
+8,chinese,"""In the New Era, My First Experience in the ""Magic City"" of China | The Charm of German Executives""",positive,0.6992838978767395,2,4,2,4
+9,chinese,"""World Voices: Pakistani Media Criticizes US' So-Called ""Democracy Summit"" for Using Democracy as a Means to Consolidate American Hegemony""",negative,0.7776039838790894,-2,4,2,4
