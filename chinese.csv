@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,5,2,3
-1,chinese,Ministry of Foreign Affairs: Urges the US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship,negative,0.7541024684906006,-2,5,2,3
-2,chinese,"""Tianhe-1 and 2 Communication Technology Test Satellites Successfully Launched""",positive,0.535706639289856,2,5,2,3
-3,chinese,"""World Voices: Pakistani Media Criticizes US-Backed ""Democracy Summit"" for Consolidating American Hegemony in the Name of Democracy""",neutral,0.4038812816143036,1,5,2,3
-4,chinese,"""In the New Era, My First Experience of the Charm of Chinese and German Executives in ""Magic City"" Shanghai""",positive,0.6161687970161438,2,5,2,3
-5,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Moves to Come!""",positive,0.8322161436080933,3,5,2,3
-6,chinese,Ministry of Education Deploys Action Plan to Promote Employment for 2024 College Graduates in Spring,positive,0.6152504086494446,2,5,2,3
-7,chinese,"""Qingming holiday train tickets will go on sale, official releases ticket purchasing calendar""",neutral,0.8423120975494385,1,5,2,3
-8,chinese,"""Cuban Ministry of Foreign Affairs Summons US Interim Chargé d'Affaires, Strongly Protests US Interference in Internal Affairs""",negative,0.5163378119468689,-1,5,2,3
-9,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,5,2,3
+0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,3,3,4
+1,chinese,Ministry of Foreign Affairs: Urges the US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship,negative,0.7541024684906006,-2,3,3,4
+2,chinese,"""Tianhe-1 and Tianhe-2 Communication Technology Test Satellites Successfully Launched""",neutral,0.4947217106819153,1,3,3,4
+3,chinese,"""World Voices: Pakistani Media Criticizes US-Backed ""Democracy Summit"" for Using Democracy as a Means to Solidify American Hegemony""",negative,0.7885560989379883,-2,3,3,4
+4,chinese,"""In the New Era, My First Experience in the ""Magic City"" of China and Germany Executives' Charm""",neutral,0.4826715886592865,1,3,3,4
+5,chinese,"""Advancing High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Actions to Follow!""",positive,0.796271800994873,3,3,3,4
+6,chinese,Ministry of Education Deploys Action Plan for Promoting Employment for the 2024 College Graduates in Spring,positive,0.5418462753295898,2,3,3,4
+7,chinese,"""Qingming holiday train tickets to go on sale, official release of ticket purchasing calendar""",neutral,0.825511634349823,1,3,3,4
+8,chinese,"""Cuban Ministry of Foreign Affairs Summons US Interim Chargé d'Affaires, Strongly Protests US Interference in Internal Affairs""",negative,0.5163378119468689,-1,3,3,4
+9,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,3,3,4
