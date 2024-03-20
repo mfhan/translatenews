@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches Into Space""",neutral,0.8229360580444336,1,5,2,3
-1,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,5,2,3
-2,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,5,2,3
-3,chinese,"""Ministry of Foreign Affairs: Urges US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship""",negative,0.7092198133468628,-2,5,2,3
-4,chinese,"""Tianhe-1 and 2 Communication Technology Test Satellites Successfully Launched""",positive,0.535706639289856,2,5,2,3
-5,chinese,"The 3rd ""Democracy: Shared Values for All Humanity"" International Forum Successfully Held",positive,0.6073774695396423,2,5,2,3
-6,chinese,"""In the New Era, My First Experience in the ""Magic City"" of China | The Charm of German Executives""",positive,0.6992838978767395,2,5,2,3
-7,chinese,"""World Voices: Pakistani Media Criticizes US's So-Called ""Democracy Summit"" for Using Democracy as a Means to Consolidate American Hegemony""",negative,0.771108090877533,-2,5,2,3
-8,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Actions to Follow!""",positive,0.8026419878005981,3,5,2,3
-9,chinese,Ministry of Education Deploys Action Plan to Promote Employment for 2024 College Graduates in Spring,positive,0.6152504086494446,2,5,2,3
+0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,4,2,4
+1,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,4,2,4
+2,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,4,2,4
+3,chinese,"""Ministry of Foreign Affairs: Urges US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship""",negative,0.7092198133468628,-2,4,2,4
+4,chinese,"""Tianhe-1 and 2 Communication Satellite Successfully Launched for Technical Testing""",positive,0.5170590281486511,2,4,2,4
+5,chinese,"The 3rd ""Democracy: Shared Values of All Humanity"" International Forum Successfully Held",positive,0.534392237663269,2,4,2,4
+6,chinese,"""In the New Era, My First Experience of the Charm of Shanghai, China | German Executives""",neutral,0.6417133808135986,1,4,2,4
+7,chinese,"""World Voices: Pakistani Media Criticizes US' So-called ""Democracy Summit"" for Using Democracy as a Means to Consolidate American Hegemony""",negative,0.8125805854797363,-2,4,2,4
+8,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Actions to Follow!""",positive,0.8026419878005981,3,4,2,4
+9,chinese,Ministry of Education Deploys Action Plan to Promote Employment for 2024 College Graduates in Spring,positive,0.6152504086494446,2,4,2,4
