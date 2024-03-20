@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,4,0,6
-1,chinese,"""The First National Conference on Commendation and Experience Exchange for Advanced Collective and Individual in the Creation of Harmonious Labor Relations Held in Beijing, Wang Dongming and Chen Yiqin Attend and Deliver Speeches""",neutral,0.6554326415061951,1,4,0,6
-2,chinese,"""China Football Association Recruits Female National Team Head Coach from Domestic and Overseas Candidates""",neutral,0.8130491971969604,1,4,0,6
+0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,4,0,6
+1,chinese,"""First National Conference on Advanced Collective and Individual Recognition for Promoting Harmonious Labor Relations Held in Beijing, Speech Delivered by Wang Dongming and Chen Yiqin""",neutral,0.6894180178642273,1,4,0,6
+2,chinese,"""Chinese Football Association Seeks to Recruit Head Coach for Women's National Team from Domestic and Overseas Candidates""",neutral,0.7557281851768494,1,4,0,6
 3,chinese,"""Scientific and orderly promotion of industrial transfer""",neutral,0.6167232394218445,1,4,0,6
 4,chinese,"""Stimulating Greater Potential for Rural Tourism""",positive,0.732752799987793,3,4,0,6
 5,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set to Break Records in 2023""",neutral,0.8378499150276184,1,4,0,6
-6,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan's Yajiang and other areas' forest fire disaster relief""",neutral,0.5069299936294556,1,4,0,6
-7,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Everlasting and Rock-Solid Friendship between China and Pakistan""",positive,0.8355791568756104,3,4,0,6
+6,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan's Yajiang and other areas in fighting forest fires""",neutral,0.4529762864112854,1,4,0,6
+7,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Enduring and Rock-Solid Friendship between China and Pakistan""",positive,0.8028348684310913,3,4,0,6
 8,chinese,"""Building Regional Industrial Advantages: Many Places Take the Lead in Attracting Talents""",positive,0.5177504420280457,2,4,0,6
-9,chinese,"""China's Private Investment Growth Rate Turns Positive in First 2 Months of This Year""",positive,0.6865084767341614,2,4,0,6
+9,chinese,"""China's Private Investment Growth Rate Turns Positive in First Two Months of This Year""",positive,0.6943432092666626,2,4,0,6
