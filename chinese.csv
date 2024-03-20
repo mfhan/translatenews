@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,2,1,7
-1,chinese,"""Cuban Foreign Ministry Summons US Interim Charge d'Affaires, Strongly Protests US Interference in Internal Affairs""",negative,0.581974983215332,-1,2,1,7
-2,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,2,1,7
-3,chinese,"""Spring Equinox Spectacle Shines in the Morning Mist with Beijing's CBD""",neutral,0.6485708951950073,1,2,1,7
-4,chinese,"""First National Conference on Recognizing and Exchanging Experiences of Advanced Collective and Individuals in Promoting Harmonious Labor Relations Held in Beijing, Speech Given by Wang Dongming and Chen Yiqin""",neutral,0.6039930582046509,1,2,1,7
-5,chinese,"""Chinese Football Association Recruits Female National Team Head Coach from Domestic and Overseas Candidates""",neutral,0.7976666688919067,1,2,1,7
-6,chinese,"""Scientific and orderly promotion of industrial transfer""",neutral,0.6167232394218445,1,2,1,7
-7,chinese,"""Stimulating Greater Potential for Rural Tourism""",positive,0.732752799987793,3,2,1,7
-8,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set New Records in 2023""",neutral,0.7926839590072632,1,2,1,7
-9,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan's Yajiang and other areas in fighting forest fires""",neutral,0.4529762864112854,1,2,1,7
+0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,3,1,6
+1,chinese,"""In the New Era, My First Experience of the Charm of Shanghai, China and Germany's Executives""",neutral,0.5813605189323425,1,3,1,6
+2,chinese,"""Promoting High-Quality Development: Beijing Takes Solid Steps Towards High-Quality Development, with These New Initiatives to Follow!""",positive,0.8156338334083557,3,3,1,6
+3,chinese,Ministry of Education Deploys Action Plan to Promote Employment for 2024 College Graduates in Spring,positive,0.6152504086494446,2,3,1,6
+4,chinese,"""Qingming Holiday Train Tickets to Go on Sale, Officially Releases Ticket Purchase Calendar""",neutral,0.8519186973571777,1,3,1,6
+5,chinese,"""Cuban Foreign Ministry Summons US Interim Charge d'Affaires, Strongly Protests US Interference in Internal Affairs""",negative,0.581974983215332,-1,3,1,6
+6,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,3,1,6
+7,chinese,"""Spring Equinox Spectacle Shines in the Morning Fog with Beijing's CBD""",neutral,0.6622064709663391,1,3,1,6
+8,chinese,"The First National Conference on Commending Advanced Collective and Individuals in the Creation of Harmonious Labor Relations and Experience Exchange Held in Beijing, Speech Delivered by Wang Dongming and Chen Yiqin",neutral,0.7261636853218079,1,3,1,6
+9,chinese,"""Chinese Football Association Seeks to Hire Women's National Team Head Coach from Domestic and Overseas Candidates""",neutral,0.7580375075340271,1,3,1,6
