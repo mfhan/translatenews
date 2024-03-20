@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,4,0,6
-1,chinese,"""Spring Equinox Brings Spectacular Scenery as Beijing's CBD Shines in the Morning Fog""",positive,0.7373891472816467,3,4,0,6
-2,chinese,"""First National Conference on Commendation and Experience Exchange for Advanced Collective and Individuals in Promoting Harmonious Labor Relations Held in Beijing, Attended and Addressed by Wang Dongming and Chen Yiqin""",neutral,0.5797586441040039,1,4,0,6
-3,chinese,"""China Football Association Seeks to Recruit Female National Team Head Coach from Both Domestic and Overseas Candidates""",neutral,0.7448632121086121,1,4,0,6
-4,chinese,"""Scientific and orderly promotion of industrial transfer""",neutral,0.6167232394218445,1,4,0,6
-5,chinese,"""Stimulating Greater Potential for Rural Tourism""",positive,0.732752799987793,3,4,0,6
-6,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set to Break Records in 2023""",neutral,0.8378499150276184,1,4,0,6
-7,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief materials to support Sichuan Yajiang and other areas in fighting forest fires""",neutral,0.47037503123283386,1,4,0,6
-8,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Enduring and Rock-Solid Friendship between China and Pakistan""",positive,0.8028348684310913,3,4,0,6
-9,chinese,"""Building Regional Industrial Advantages: Multiple Areas Take the Lead in Securing Talents""",positive,0.5382710099220276,2,4,0,6
+0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,2,1,7
+1,chinese,"""Cuban Foreign Ministry Summons US Interim Charge d'Affaires, Strongly Protesting US Interference in Internal Affairs""",negative,0.6005191206932068,-1,2,1,7
+2,chinese,"""China Successfully Launches Queqiao-2 Relay Satellite""",positive,0.6428421139717102,2,2,1,7
+3,chinese,"""Spring Equinox Spectacle Shines in the Morning Mist with Beijing's CBD""",neutral,0.6485708951950073,1,2,1,7
+4,chinese,"""First National Conference on Recognizing Advanced Teams and Individuals in Promoting Harmonious Labor Relations Held in Beijing, Speech Given by Wang Dongming and Chen Yiqin""",neutral,0.6383297443389893,1,2,1,7
+5,chinese,"""Chinese Football Association Recruiting Female National Team Head Coach from Domestic and Overseas Candidates""",neutral,0.8527764678001404,1,2,1,7
+6,chinese,"""Scientific and orderly promotion of industrial transfer""",neutral,0.6167232394218445,1,2,1,7
+7,chinese,"""Stimulating Greater Potential for Rural Tourism""",positive,0.732752799987793,3,2,1,7
+8,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set to Break Records in 2023""",neutral,0.8378499150276184,1,2,1,7
+9,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan Yajiang and other areas in fighting forest fires""",neutral,0.44978252053260803,1,2,1,7
