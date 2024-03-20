@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,3,0,7
-1,chinese,"""Spring Equinox Spectacle Shines in the Morning Mist with Beijing's CBD""",neutral,0.6485708951950073,1,3,0,7
-2,chinese,"""First National Conference on Recognizing and Exchanging Experiences of Advanced Collectives and Individuals in Promoting Harmonious Labor Relations Held in Beijing, Speech by Wang Dongming and Chen Yiqin""",neutral,0.6130160093307495,1,3,0,7
+0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,3,0,7
+1,chinese,"""Spring Equinox Spectacle Shines in the Morning Mist with Beijing CBD""",neutral,0.665423572063446,1,3,0,7
+2,chinese,"""The First National Conference on Commendation and Experience Exchange for Advanced Collective and Individuals in Promoting Harmonious Labor Relations Held in Beijing, Speech Given by Wang Dongming and Chen Yiqin""",neutral,0.6453102231025696,1,3,0,7
 3,chinese,"""Chinese Football Association Seeks to Recruit Female National Team Head Coach from Domestic and Overseas Candidates""",neutral,0.7392781376838684,1,3,0,7
 4,chinese,"""Scientific and orderly promotion of industrial transfer""",neutral,0.6167232394218445,1,3,0,7
 5,chinese,"""Stimulating Greater Potential for Rural Tourism""",positive,0.732752799987793,3,3,0,7
 6,chinese,"""World Meteorological Organization: Multiple Climate Change Indicators Set to Break Records in 2023""",neutral,0.8378499150276184,1,3,0,7
-7,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan's Yajiang and other areas in fighting forest fires""",neutral,0.4529762864112854,1,3,0,7
-8,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the enduring and rock-solid friendship between China and Pakistan""",positive,0.8283231854438782,3,3,0,7
-9,chinese,"""Building Regional Industrial Advantages: Many Places Take the Lead in Attracting Talents""",positive,0.5177504420280457,2,3,0,7
+7,chinese,"""Three departments urgently allocate 19,500 pieces of central disaster relief supplies to support Sichuan Ya Jiang and other areas in fighting forest fires""",neutral,0.45253321528434753,1,3,0,7
+8,chinese,"""[Overseas Perspective] Pakistani Ambassador to China: Proud of the Long-lasting and Rock-solid Friendship between China and Pakistan""",positive,0.840910017490387,3,3,0,7
+9,chinese,"""Building Regional Industrial Advantages: Many Places Take the Lead in Cultivating Talents""",positive,0.5834609270095825,2,3,0,7
