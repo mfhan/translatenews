@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Spokesperson of the Chinese Embassy in the US Answers Questions Regarding Negative Comments by US Officials on Hong Kong National Security Law""",neutral,0.5785703659057617,1,4,1,5
-1,chinese,"""2024 College Entrance Examination Schedule Announced""",neutral,0.8722399473190308,1,4,1,5
-2,chinese,"""Traditional Culture Incorporated into Dining Experience, Chinese Pastries Become the New Favorite in the Market""",positive,0.509781539440155,2,4,1,5
-3,chinese,"""China Launches Revision Work on Encouraging Foreign Investment Industry Catalogue""",positive,0.5147944092750549,2,4,1,5
-4,chinese,"""Federal Reserve Maintains Interest Rates Unchanged, May Have Three Rate Cuts Within the Year""",neutral,0.6976260542869568,1,4,1,5
-5,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,4,1,5
-6,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,4,1,5
-7,chinese,Ministry of Foreign Affairs: Urges US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship,negative,0.7380034327507019,-2,4,1,5
-8,chinese,"""Tianhe-1 and 2 Communication Technology Test Satellites Successfully Launched""",positive,0.535706639289856,2,4,1,5
-9,chinese,"""The 3rd ""Democracy: Shared Values for All Humanity"" International Forum Successfully Held""",positive,0.659507155418396,2,4,1,5
+0,chinese,Spokesperson of the Chinese Embassy in the United States responds to questions from reporters regarding negative comments from US officials on Hong Kong's national security law,negative,0.6258646249771118,-1,3,2,5
+1,chinese,"""2024 College Entrance Exam Schedule Announced""",neutral,0.8854029178619385,1,3,2,5
+2,chinese,"""Traditional Culture Infused into Dining Experience, Chinese Pastries Become the New Favorite in the Market""",neutral,0.4355148375034332,1,3,2,5
+3,chinese,"""China Launches Work on Revising the Catalogue for Encouraging Foreign Investment in Industries""",positive,0.6290714144706726,2,3,2,5
+4,chinese,"""Federal Reserve Maintains Interest Rates Unchanged, Possible Three Rate Cuts This Year""",neutral,0.7401650547981262,1,3,2,5
+5,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,3,2,5
+6,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,3,2,5
+7,chinese,"""Ministry of Foreign Affairs: Urges the US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship""",negative,0.7401270866394043,-2,3,2,5
+8,chinese,"""Tianhe-1 and 2 Communication Technology Test Satellites Successfully Launched""",positive,0.535706639289856,2,3,2,5
+9,chinese,"The 3rd ""Democracy: Shared Values for All Humanity"" International Forum Successfully Held",positive,0.6073774695396423,2,3,2,5
