@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Spokesperson of the Chinese Embassy in the United States responds to questions from reporters regarding negative comments from US officials on Hong Kong's national security law,negative,0.6258646249771118,-1,3,2,5
-1,chinese,"""2024 College Entrance Exam Schedule Announced""",neutral,0.8854029178619385,1,3,2,5
-2,chinese,"""Traditional Culture Infused into Dining Experience, Chinese Pastries Become the New Favorite in the Market""",neutral,0.4355148375034332,1,3,2,5
-3,chinese,"""China Launches Work on Revising the Catalogue for Encouraging Foreign Investment in Industries""",positive,0.6290714144706726,2,3,2,5
-4,chinese,"""Federal Reserve Maintains Interest Rates Unchanged, Possible Three Rate Cuts This Year""",neutral,0.7401650547981262,1,3,2,5
-5,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,3,2,5
-6,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,3,2,5
-7,chinese,"""Ministry of Foreign Affairs: Urges the US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship""",negative,0.7401270866394043,-2,3,2,5
-8,chinese,"""Tianhe-1 and 2 Communication Technology Test Satellites Successfully Launched""",positive,0.535706639289856,2,3,2,5
-9,chinese,"The 3rd ""Democracy: Shared Values for All Humanity"" International Forum Successfully Held",positive,0.6073774695396423,2,3,2,5
+0,chinese,"""World Sleep Day: Healthy Sleep, Away from ""Sleep"" Disturbances""",neutral,0.6110470294952393,1,2,1,7
+1,chinese,Industry Calls for Establishment of Long-term Mechanism to Dispose of Expired Household Medicines,neutral,0.6362905502319336,1,2,1,7
+2,chinese,"""Winning the First Battle in Grain Production: Laying a Solid Foundation for a Bountiful Harvest throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7613993883132935,3,2,1,7
+3,chinese,"""Spokesperson of the Chinese Embassy in the United States Answers Questions on Negative Comments by American Officials Regarding Hong Kong National Security Law""",neutral,0.5371714234352112,1,2,1,7
+4,chinese,"""Announcement of 2024 College Entrance Exam Schedule""",neutral,0.8979585766792297,1,2,1,7
+5,chinese,"""Traditional Culture Infused into Dining Experience, Chinese Pastries Become the New Favorite in the Market""",neutral,0.4355148375034332,1,2,1,7
+6,chinese,"""China Launches Work on Revising the Catalogue for Encouraging Foreign Investment in Industries""",positive,0.6290714144706726,2,2,1,7
+7,chinese,"""Federal Reserve Keeps Interest Rates Unchanged, May Lower Three Times This Year""",neutral,0.6464201807975769,1,2,1,7
+8,chinese,"""Uncovering America's ""Three Major Political Deficits""""",negative,0.5324191451072693,-1,2,1,7
+9,chinese,"""China Daily and Shanxi Provincial Party Committee's Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.813992440700531,1,2,1,7
