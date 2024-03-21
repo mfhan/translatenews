@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Sowing the Seeds of Friendship between Chinese and American Youth in the Fields of Hope""",positive,0.5630467534065247,2,4,1,5
-1,chinese,"""Our coast guard responds to the illegal landing of 34 people from the Philippines on the South China Sea's Scarborough Shoal""",negative,0.7400683164596558,-2,4,1,5
-2,chinese,"""Foreign Ministry Spokesperson Discusses Solomon Islands Prime Minister's Positive Attitude Towards China: Friendship Knows No Order""",neutral,0.47281041741371155,1,4,1,5
-3,chinese,"""Continuous Improvement of Mechanisms for Protecting the Rights and Interests of Foreign Investment, Fully Ensuring National Treatment for Foreign-Invested Enterprises""",positive,0.6064115762710571,2,4,1,5
-4,chinese,"""LPR Remains Unchanged in March, Industry Experts: There is Still Room for Future Reduction""",neutral,0.6286911964416504,1,4,1,5
-5,chinese,"""China has been the world's largest exporter of intermediate goods for 12 consecutive years""",positive,0.44328826665878296,2,4,1,5
-6,chinese,"""Shaanxi Launches First International Rail-Sea Intermodal Train to South American Countries""",neutral,0.6851792335510254,1,4,1,5
-7,chinese,"""World Sleep Day: Healthy Sleep, Away from ""Tired"" Troubles""",neutral,0.48150718212127686,1,4,1,5
-8,chinese,Industry Calls for Establishment of Long-term Mechanism to Dispose of Expired Household Medicines,neutral,0.6362905502319336,1,4,1,5
-9,chinese,"""Winning the First Battle of Grain Production and Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation Across Various Regions""",positive,0.7882480025291443,3,4,1,5
+0,chinese,"""Promoting Fairness | Planting the Seeds of Friendship between Chinese and American Youth in the Fields of Hope""",positive,0.57457035779953,2,3,1,6
+1,chinese,"""Ministry of Commerce Responds to US Providing Huge Subsidies and Tax Incentives for Domestic Chip Industry""",neutral,0.5773704051971436,1,3,1,6
+2,chinese,"""Our coast guard responds to 34 Filipinos illegally landing on the iron reef of the Nansha Islands""",negative,0.7553473114967346,-2,3,1,6
+3,chinese,"""Spokesperson of the Ministry of Foreign Affairs Discusses Solomon Islands Prime Minister's Positive Attitude towards China: Friendship Knows No Order""",neutral,0.4775007963180542,1,3,1,6
+4,chinese,"""Continuously Improving Mechanisms for Protecting the Rights and Interests of Foreign Investment, Fully Guaranteeing National Treatment for Foreign-Invested Enterprises""",positive,0.5973731875419617,2,3,1,6
+5,chinese,"""March LPR remains unchanged, industry experts say there is still room for future cuts""",neutral,0.5952431559562683,1,3,1,6
+6,chinese,"""China Remains the World's Top Exporter of Intermediate Goods for 12 Consecutive Years""",positive,0.6372319459915161,2,3,1,6
+7,chinese,"""Shaanxi Launches First International Rail-Sea Intermodal Train to South American Countries""",neutral,0.6851792335510254,1,3,1,6
+8,chinese,"""World Sleep Day: Healthy Sleep, Away from ""Sleep"" Troubles""",neutral,0.5059792399406433,1,3,1,6
+9,chinese,Industry Calls for Establishment of Long-Term Mechanism for Disposal of Expired Household Medicines,neutral,0.7384836673736572,1,3,1,6
