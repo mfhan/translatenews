@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting Fairness | Planting the Seeds of Friendship Between Chinese and American Youth in the Field of Hope""",positive,0.5843632221221924,2,4,1,5
-1,chinese,"""March LPR remains unchanged, industry experts say there is still room for future cuts""",neutral,0.5952431559562683,1,4,1,5
-2,chinese,"""China has been the world's largest exporter of intermediate goods for 12 consecutive years""",positive,0.44328826665878296,2,4,1,5
+0,chinese,"""Harmony and Reasoning | Planting the Seeds of Friendship between Chinese and American Youth in the Fields of Hope""",neutral,0.5492182374000549,1,4,1,5
+1,chinese,"""March LPR remains unchanged, industry experts say there is still room for future reduction""",neutral,0.5618517398834229,1,4,1,5
+2,chinese,"""China has been the world's top exporter of intermediate goods for 12 consecutive years""",positive,0.536613941192627,2,4,1,5
 3,chinese,"""Shaanxi Launches First International Rail-Sea Intermodal Train to South American Countries""",neutral,0.6851792335510254,1,4,1,5
-4,chinese,"""World Sleep Day: Healthy Sleep, Away from ""Tired"" Troubles""",neutral,0.48150718212127686,1,4,1,5
-5,chinese,Industry Calls for Establishment of Long-Term Mechanism for Disposing of Expired Household Medicines,neutral,0.7024375200271606,1,4,1,5
-6,chinese,"""Winning the First Battle of Grain Production and Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7846068739891052,3,4,1,5
+4,chinese,"""World Sleep Day: Healthy Sleep, Away from Troubles of ""Drowsiness""""",positive,0.47002217173576355,2,4,1,5
+5,chinese,Industry Calls for Establishment of Long-Term Mechanism to Dispose of Expired Household Medicines,neutral,0.6649801731109619,1,4,1,5
+6,chinese,"""Winning the First Battle in Grain Production and Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7947534322738647,3,4,1,5
 7,chinese,"""Explosion Occurs in Kandahar Province, Southern Afghanistan on the 21st, Casualties Unknown at Present""",negative,0.49653223156929016,-1,4,1,5
-8,chinese,"""Strong Magnetic Field ""Attracts"" Practical Measures to Attract Foreign Investment and Boost Economic Development Vitality""",positive,0.6236596703529358,2,4,1,5
-9,chinese,"""Spokesperson of the US Embassy Addresses Journalists' Questions Regarding Negative Comments by American Officials on Hong Kong National Security Law""",neutral,0.6018051505088806,1,4,1,5
+8,chinese,"""Strong Magnetic Field ""Attracts"" Practical Measures to Attract Foreign Investment and Boost Economic Development""",positive,0.6300107836723328,2,4,1,5
+9,chinese,"""Spokesperson of the US Embassy Responds to Reporter's Questions Regarding Negative Comments from US Officials on Hong Kong National Security Law""",neutral,0.5494689345359802,1,4,1,5
