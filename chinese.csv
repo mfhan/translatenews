@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Sleep Day: Healthy Sleep, Away from ""Sleep"" Disturbances""",neutral,0.6110470294952393,1,2,1,7
-1,chinese,Industry Calls for Establishment of Long-term Mechanism to Dispose of Expired Household Medicines,neutral,0.6362905502319336,1,2,1,7
-2,chinese,"""Winning the First Battle in Grain Production: Laying a Solid Foundation for a Bountiful Harvest throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7613993883132935,3,2,1,7
-3,chinese,"""Spokesperson of the Chinese Embassy in the United States Answers Questions on Negative Comments by American Officials Regarding Hong Kong National Security Law""",neutral,0.5371714234352112,1,2,1,7
-4,chinese,"""Announcement of 2024 College Entrance Exam Schedule""",neutral,0.8979585766792297,1,2,1,7
-5,chinese,"""Traditional Culture Infused into Dining Experience, Chinese Pastries Become the New Favorite in the Market""",neutral,0.4355148375034332,1,2,1,7
-6,chinese,"""China Launches Work on Revising the Catalogue for Encouraging Foreign Investment in Industries""",positive,0.6290714144706726,2,2,1,7
-7,chinese,"""Federal Reserve Keeps Interest Rates Unchanged, May Lower Three Times This Year""",neutral,0.6464201807975769,1,2,1,7
-8,chinese,"""Uncovering America's ""Three Major Political Deficits""""",negative,0.5324191451072693,-1,2,1,7
-9,chinese,"""China Daily and Shanxi Provincial Party Committee's Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.813992440700531,1,2,1,7
+0,chinese,"""World Sleep Day: Healthy Sleep, Away from Troubles of Fatigue""",neutral,0.47116222977638245,1,3,2,5
+1,chinese,Industry Calls for Establishment of Long-Term Mechanism to Dispose of Expired Household Medicines,neutral,0.6649801731109619,1,3,2,5
+2,chinese,"""Winning the First Battle of Grain Production and Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7846068739891052,3,3,2,5
+3,chinese,"""Explosion Occurs in Kandahar Province, Southern Afghanistan on the 21st, Casualties Unknown at Present""",negative,0.49653223156929016,-1,3,2,5
+4,chinese,"""Strong Magnetic Field ""Brings Out"" Practical Measures to Attract Foreign Investment and Boost Economic Development Vitality""",positive,0.6201132535934448,2,3,2,5
+5,chinese,"""Spokesperson of the Chinese Embassy in the United States responds to questions from reporters regarding negative comments from American officials on Hong Kong's national security law""",negative,0.693869411945343,-1,3,2,5
+6,chinese,"""Announcement of 2024 National College Entrance Examination Schedule""",neutral,0.8854623436927795,1,3,2,5
+7,chinese,"""Traditional Culture Infused into Dining Experience, Chinese Pastries Become New Favorite in the Market""",neutral,0.41323819756507874,1,3,2,5
+8,chinese,"""China Launches Work on Revising the Catalogue for Encouraging Foreign Investment in Industries""",positive,0.6290714144706726,2,3,2,5
+9,chinese,"""Federal Reserve Keeps Interest Rates Unchanged, Three Rate Cuts Possible Within the Year""",neutral,0.7225311398506165,1,3,2,5
