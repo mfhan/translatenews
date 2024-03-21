@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magpie Bridge II Launches into the Sky""",neutral,0.8102813363075256,1,2,1,7
+0,chinese,"""Magpie Bridge II Launches into Space""",neutral,0.8245328664779663,1,2,1,7
 1,chinese,"""Civil Aviation Administration Releases Update on Investigation Progress of the ""3.21"" China Eastern Airlines MU5735 Aircraft Incident""",neutral,0.7005261778831482,1,2,1,7
 2,chinese,"""2024 College Entrance Exam Schedule Announced""",neutral,0.8854029178619385,1,2,1,7
-3,chinese,"""Traditional Culture Infused into Dining Experience, Chinese Pastries Become the New Favorite in the Market""",neutral,0.4355148375034332,1,2,1,7
-4,chinese,China Launches Work to Revise Catalogue Encouraging Foreign Investment in Industries,positive,0.6403453350067139,2,2,1,7
-5,chinese,"""Federal Reserve Maintains Interest Rates Unchanged, Three Rate Cuts Possible by End of Year""",neutral,0.7471833229064941,1,2,1,7
+3,chinese,"""Traditional Culture Infused into Dining Experience: Chinese Pastries Become the New Favorite in the Market""",neutral,0.46209391951560974,1,2,1,7
+4,chinese,China Launches Work on Revising Catalogue Encouraging Foreign Investment in Industries,positive,0.6658732295036316,2,2,1,7
+5,chinese,"""Federal Reserve Keeps Interest Rates Unchanged, May Cut Three Times Within the Year""",neutral,0.6994088292121887,1,2,1,7
 6,chinese,"""Uncovering the Three Major Political Deficits in the United States""",neutral,0.577329695224762,1,2,1,7
 7,chinese,"""China Daily and Shanxi Provincial Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.804965615272522,1,2,1,7
 8,chinese,"""Ministry of Foreign Affairs: Urges US to Stop Poisoning the Public Opinion Environment of the Two Countries' Relationship""",negative,0.7092198133468628,-2,2,1,7
-9,chinese,"""Tianhe-1 and -2 Communication Technology Test Satellites Successfully Launched""",positive,0.5001114010810852,2,2,1,7
+9,chinese,"""Tianhe-1 and 2 Communication Test Satellites Successfully Launched""",positive,0.4920634925365448,2,2,1,7
