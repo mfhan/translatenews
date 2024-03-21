@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Sowing the Seeds of Friendship Between Chinese and American Youth in the Field of Hope""",positive,0.5674495100975037,2,3,2,5
-1,chinese,"""International Observation: US Relations Appear to be ""Moving"" but Have Yet to ""Move""""",neutral,0.6859498620033264,1,3,2,5
+0,chinese,"""Promoting Harmony | Planting the Seeds of Friendship Between Chinese and American Youth in the Field of Hope""",positive,0.6294137239456177,2,3,2,5
+1,chinese,"""International Observation: US Relations Appear to be ""Moving"" but Actually ""Not Moving""""",neutral,0.5288154482841492,1,3,2,5
 2,chinese,"""Why are German companies so fond of the Chinese market?""",negative,0.7962283492088318,-2,3,2,5
-3,chinese,"""Ministry of Commerce Responds to US Providing Huge Subsidies and Tax Incentives to Domestic Chip Industry""",neutral,0.594331681728363,1,3,2,5
-4,chinese,"""Chinese Coast Guard Responds to 34 Illegal Filipino Visitors on South China Sea's Mischief Reef""",negative,0.6992392539978027,-1,3,2,5
-5,chinese,"""Foreign Ministry Spokesperson Discusses Solomon Islands Prime Minister's Positive Attitude Towards China: Friendship Knows No Order""",neutral,0.47281041741371155,1,3,2,5
-6,chinese,"""Foreign Investment Protection Mechanisms Continuously Improved, Fully Ensuring National Treatment for Foreign-Invested Enterprises""",positive,0.6844565272331238,2,3,2,5
-7,chinese,"""March LPR remains unchanged, industry experts say there is still room for future reduction""",neutral,0.5618517398834229,1,3,2,5
+3,chinese,"""Ministry of Commerce Responds to US Providing Massive Subsidies and Tax Incentives for Domestic Chip Industry""",neutral,0.6088610887527466,1,3,2,5
+4,chinese,"""Our coast guard responds to the illegal landing of 34 people from the Philippines on the iron reef of the Nansha Islands""",negative,0.799028217792511,-2,3,2,5
+5,chinese,"""Foreign Ministry Spokesperson Discusses Solomon Islands Prime Minister's Positive Stance on China: Friendship Knows No Order""",neutral,0.6408293843269348,1,3,2,5
+6,chinese,"""Continuously Improving Mechanisms for Protecting the Rights and Interests of Foreign Investment, Fully Guaranteeing National Treatment for Foreign-Invested Enterprises""",positive,0.5973731875419617,2,3,2,5
+7,chinese,"""March LPR remains unchanged, industry experts: there is still room for future reduction""",neutral,0.5550178289413452,1,3,2,5
 8,chinese,"""China has been the world's largest exporter of intermediate goods for 12 consecutive years""",positive,0.44328826665878296,2,3,2,5
 9,chinese,"""Shaanxi Launches First International Rail-Sea Intermodal Train to South American Countries""",neutral,0.6851792335510254,1,3,2,5
