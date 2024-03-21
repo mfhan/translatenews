@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Planting the Seeds of Friendship between Chinese and American Youth in the Fields of Hope""",neutral,0.5492182374000549,1,4,1,5
-1,chinese,"""March LPR remains unchanged, industry experts say there is still room for future reduction""",neutral,0.5618517398834229,1,4,1,5
-2,chinese,"""China has been the world's top exporter of intermediate goods for 12 consecutive years""",positive,0.536613941192627,2,4,1,5
-3,chinese,"""Shaanxi Launches First International Rail-Sea Intermodal Train to South American Countries""",neutral,0.6851792335510254,1,4,1,5
-4,chinese,"""World Sleep Day: Healthy Sleep, Away from Troubles of ""Drowsiness""""",positive,0.47002217173576355,2,4,1,5
-5,chinese,Industry Calls for Establishment of Long-Term Mechanism to Dispose of Expired Household Medicines,neutral,0.6649801731109619,1,4,1,5
-6,chinese,"""Winning the First Battle in Grain Production and Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7947534322738647,3,4,1,5
-7,chinese,"""Explosion Occurs in Kandahar Province, Southern Afghanistan on the 21st, Casualties Unknown at Present""",negative,0.49653223156929016,-1,4,1,5
-8,chinese,"""Strong Magnetic Field ""Attracts"" Practical Measures to Attract Foreign Investment and Boost Economic Development""",positive,0.6300107836723328,2,4,1,5
-9,chinese,"""Spokesperson of the US Embassy Responds to Reporter's Questions Regarding Negative Comments from US Officials on Hong Kong National Security Law""",neutral,0.5494689345359802,1,4,1,5
+0,chinese,"""Harmony and Justice | Sowing the Seeds of Friendship Between Chinese and American Youth in the Fields of Hope""",positive,0.6346554160118103,2,4,1,5
+1,chinese,"""Our coast guard responds to 34 illegal Filipino visitors on the South China Sea's Mischief Reef""",negative,0.5798109769821167,-1,4,1,5
+2,chinese,"""Continuous Improvement of Mechanisms for Protecting the Rights and Interests of Foreign Investment, Fully Ensuring National Treatment for Foreign-Invested Enterprises""",positive,0.6064115762710571,2,4,1,5
+3,chinese,"""March LPR remains unchanged, industry experts: there is still room for future reduction""",neutral,0.5550178289413452,1,4,1,5
+4,chinese,"""China has been the world's largest exporter of intermediate goods for 12 consecutive years""",positive,0.44328826665878296,2,4,1,5
+5,chinese,"""Shaanxi Launches First International Intermodal Train to South American Countries""",neutral,0.6320293545722961,1,4,1,5
+6,chinese,"""World Sleep Day: Healthy Sleep, Away from ""Tiredness"" Disturbances""",neutral,0.5608295202255249,1,4,1,5
+7,chinese,Industry calls for the establishment of a long-term mechanism to dispose of expired household drugs.,neutral,0.6414093971252441,1,4,1,5
+8,chinese,"""Winning the First Battle of Grain Production: Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7639961838722229,3,4,1,5
+9,chinese,"""Explosion Occurs in Kandahar Province, Southern Afghanistan on the 21st, Casualties Currently Unknown""",neutral,0.5211004018783569,1,4,1,5
