@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Sleep Day: Healthy Sleep, Away from Troubles of Fatigue""",neutral,0.47116222977638245,1,3,2,5
-1,chinese,Industry Calls for Establishment of Long-Term Mechanism to Dispose of Expired Household Medicines,neutral,0.6649801731109619,1,3,2,5
-2,chinese,"""Winning the First Battle of Grain Production and Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7846068739891052,3,3,2,5
-3,chinese,"""Explosion Occurs in Kandahar Province, Southern Afghanistan on the 21st, Casualties Unknown at Present""",negative,0.49653223156929016,-1,3,2,5
-4,chinese,"""Strong Magnetic Field ""Brings Out"" Practical Measures to Attract Foreign Investment and Boost Economic Development Vitality""",positive,0.6201132535934448,2,3,2,5
-5,chinese,"""Spokesperson of the Chinese Embassy in the United States responds to questions from reporters regarding negative comments from American officials on Hong Kong's national security law""",negative,0.693869411945343,-1,3,2,5
-6,chinese,"""Announcement of 2024 National College Entrance Examination Schedule""",neutral,0.8854623436927795,1,3,2,5
-7,chinese,"""Traditional Culture Infused into Dining Experience, Chinese Pastries Become New Favorite in the Market""",neutral,0.41323819756507874,1,3,2,5
-8,chinese,"""China Launches Work on Revising the Catalogue for Encouraging Foreign Investment in Industries""",positive,0.6290714144706726,2,3,2,5
-9,chinese,"""Federal Reserve Keeps Interest Rates Unchanged, Three Rate Cuts Possible Within the Year""",neutral,0.7225311398506165,1,3,2,5
+0,chinese,"""Promoting Fairness | Planting the Seeds of Friendship Between Chinese and American Youth in the Field of Hope""",positive,0.5843632221221924,2,4,1,5
+1,chinese,"""March LPR remains unchanged, industry experts say there is still room for future cuts""",neutral,0.5952431559562683,1,4,1,5
+2,chinese,"""China has been the world's largest exporter of intermediate goods for 12 consecutive years""",positive,0.44328826665878296,2,4,1,5
+3,chinese,"""Shaanxi Launches First International Rail-Sea Intermodal Train to South American Countries""",neutral,0.6851792335510254,1,4,1,5
+4,chinese,"""World Sleep Day: Healthy Sleep, Away from ""Tired"" Troubles""",neutral,0.48150718212127686,1,4,1,5
+5,chinese,Industry Calls for Establishment of Long-Term Mechanism for Disposing of Expired Household Medicines,neutral,0.7024375200271606,1,4,1,5
+6,chinese,"""Winning the First Battle of Grain Production and Laying a Solid Foundation for a Bountiful Harvest Throughout the Year - A Look at Spring Plowing and Preparation in Various Regions""",positive,0.7846068739891052,3,4,1,5
+7,chinese,"""Explosion Occurs in Kandahar Province, Southern Afghanistan on the 21st, Casualties Unknown at Present""",negative,0.49653223156929016,-1,4,1,5
+8,chinese,"""Strong Magnetic Field ""Attracts"" Practical Measures to Attract Foreign Investment and Boost Economic Development Vitality""",positive,0.6236596703529358,2,4,1,5
+9,chinese,"""Spokesperson of the US Embassy Addresses Journalists' Questions Regarding Negative Comments by American Officials on Hong Kong National Security Law""",neutral,0.6018051505088806,1,4,1,5
