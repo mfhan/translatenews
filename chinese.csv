@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Justice and Reasoning | The Rise of Central China Holds Great Potential""",positive,0.7970054149627686,3,4,1,5
-1,chinese,"""American Teacher Visits China and Sings 'On the Fields of Hope'""",neutral,0.5302042365074158,1,4,1,5
-2,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,4,1,5
-3,chinese,"""Hu Ze Hua's Bribery Case Goes to Trial in First Instance!""",neutral,0.6684213280677795,1,4,1,5
-4,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel from Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7040894031524658,-2,4,1,5
-5,chinese,"""Feishi Elementary School Handball Team from Ningbo City Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7107465863227844,3,4,1,5
-6,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,4,1,5
-7,chinese,"""China's Internet User Population Reaches 1.092 Billion People""",neutral,0.7375484704971313,1,4,1,5
-8,chinese,"""2024 Special Action for Facilitating Cross-border Trade Launched in 20 Cities""",neutral,0.4932617247104645,1,4,1,5
-9,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Words""",positive,0.5786538124084473,2,4,1,5
+0,chinese,"""Harmony and Reasoning | The Rise of Central China Has Great Potential""",positive,0.7794784307479858,3,3,3,4
+1,chinese,"""Foreign Exchange Bureau: Total Transaction Volume of 1.686 Trillion RMB in February's Foreign Exchange Market""",neutral,0.865581214427948,1,3,3,4
+2,chinese,"""Two Dead and Eleven Injured in a Bus Rollover Accident in Guangxi""",negative,0.7498738169670105,-2,3,3,4
+3,chinese,"""Apple Inc. Accused of Monopolizing in the United States""",negative,0.7305202484130859,-2,3,3,4
+4,chinese,"""American Teacher Visits China and Sings 'On the Fields of Hope'""",neutral,0.5302042365074158,1,3,3,4
+5,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,3,3,4
+6,chinese,"""Hu Zehua's Bribery Case Goes to Trial for the First Time!""",neutral,0.645681619644165,1,3,3,4
+7,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of the Taiwan Military, the Other Has Been Returned to Kinmen""",negative,0.7573515772819519,-2,3,3,4
+8,chinese,"""Feishi Elementary School Handball Team from Ningbo City Wins U10 National Championship for Third Consecutive Time""",positive,0.5602301955223083,2,3,3,4
+9,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,3,3,4
