@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | The Rise of Central China Holds Great Potential""",positive,0.8022368550300598,3,3,3,4
-1,chinese,"""Foreign Exchange Bureau: Total Transaction Volume in February's Foreign Exchange Market Reaches 16.86 Trillion Yuan""",neutral,0.8080031871795654,1,3,3,4
-2,chinese,"""Two Dead and Eleven Injured in a Bus Rollover in Guangxi""",negative,0.7552295923233032,-2,3,3,4
+0,chinese,"""Reasoning and Evaluation | Central Region's Rise Holds Great Potential""",positive,0.7805383205413818,3,3,3,4
+1,chinese,Foreign Exchange Bureau: Total foreign exchange market transactions in February reached 16.86 trillion yuan.,neutral,0.8102132678031921,1,3,3,4
+2,chinese,"""Bus Overturns in Guangxi, 2 Dead and 11 Injured""",negative,0.7687115669250488,-2,3,3,4
 3,chinese,"""Apple Inc. Accused of Monopolizing in the United States""",negative,0.7305202484130859,-2,3,3,4
 4,chinese,"""American Teacher Visiting China Sings 'On the Fields of Hope'""",neutral,0.6714532375335693,1,3,3,4
 5,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,3,3,4
-6,chinese,"""Hu Zehua's Bribery Case Begins Trial in First Instance!""",neutral,0.6767635345458984,1,3,3,4
-7,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel from Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7040894031524658,-2,3,3,4
-8,chinese,"""Ningbo City Feishi Elementary School Handball Team Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.6968533992767334,2,3,3,4
+6,chinese,"""Hu Zehua's Bribery Case Goes to Trial for the First Time!""",neutral,0.645681619644165,1,3,3,4
+7,chinese,"""Taiwan Affairs Office: Mainland China Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.4820827543735504,-1,3,3,4
+8,chinese,"""Ningbo Feishi Elementary School Handball Team Wins U10 National Championship for Third Consecutive Year""",positive,0.602657675743103,2,3,3,4
 9,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,3,3,4
