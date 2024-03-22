@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Central Region Rising, Great Potential Ahead""",positive,0.7689775228500366,3,4,1,5
-1,chinese,"""American Teacher Visiting China Sings 'On the Fields of Hope'""",neutral,0.6714532375335693,1,4,1,5
+0,chinese,"""Justice and Reasoning | The Rise of Central China Holds Great Potential""",positive,0.7970054149627686,3,4,1,5
+1,chinese,"""American Teacher Visits China and Sings 'On the Fields of Hope'""",neutral,0.5302042365074158,1,4,1,5
 2,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,4,1,5
-3,chinese,"""Huawei Bribery Case Goes to Trial for the First Time!""",neutral,0.6318480372428894,1,4,1,5
-4,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of Taiwan's Military, the Other Has Been Returned to Kinmen""",negative,0.7046707272529602,-2,4,1,5
+3,chinese,"""Hu Ze Hua's Bribery Case Goes to Trial in First Instance!""",neutral,0.6684213280677795,1,4,1,5
+4,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel from Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7040894031524658,-2,4,1,5
 5,chinese,"""Feishi Elementary School Handball Team from Ningbo City Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7107465863227844,3,4,1,5
-6,chinese,"""China's Online Retail Achieves a Strong Start in the First Two Months""",positive,0.8289901614189148,3,4,1,5
+6,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,4,1,5
 7,chinese,"""China's Internet User Population Reaches 1.092 Billion People""",neutral,0.7375484704971313,1,4,1,5
-8,chinese,"""2024 Special Action for Facilitating Cross-border Trade Conducted in 20 Cities""",neutral,0.5710686445236206,1,4,1,5
-9,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Terms""",positive,0.5525055527687073,2,4,1,5
+8,chinese,"""2024 Special Action for Facilitating Cross-border Trade Launched in 20 Cities""",neutral,0.4932617247104645,1,4,1,5
+9,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Words""",positive,0.5786538124084473,2,4,1,5
