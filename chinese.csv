@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Seeking Fairness and Justice | The Rise of Central China Holds Great Potential""",positive,0.7638070583343506,3,4,2,4
-1,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,4,2,4
-2,chinese,"""Hu Zehua's Bribery Case Goes to Trial for the First Time!""",neutral,0.645681619644165,1,4,2,4
-3,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7108264565467834,-2,4,2,4
-4,chinese,"""Feishi Elementary School Handball Team from Ningbo City Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7107465863227844,3,4,2,4
-5,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,4,2,4
-6,chinese,"""China's Internet Users Reach a Scale of 1.092 Billion People""",neutral,0.7514978051185608,1,4,2,4
-7,chinese,"""Special Action for Facilitating Cross-border Trade to be Launched in 20 Cities in 2024""",positive,0.5288897156715393,2,4,2,4
-8,chinese,"""Financial Support Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Keywords""",neutral,0.5105344653129578,1,4,2,4
-9,chinese,"""World Report: Death Toll Continues to Rise at US-Mexico Border... US Media: Large Number of Surveillance Devices Will Lead Asylum Seekers and Immigrants into ""Deadly Traps""""",negative,0.5150771141052246,-1,4,2,4
+0,chinese,"""Harmony and Reasoning | Central Region Rising, Great Potential Ahead""",positive,0.7689775228500366,3,4,1,5
+1,chinese,"""American Teacher Visiting China Sings 'On the Fields of Hope'""",neutral,0.6714532375335693,1,4,1,5
+2,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,4,1,5
+3,chinese,"""Huawei Bribery Case Goes to Trial for the First Time!""",neutral,0.6318480372428894,1,4,1,5
+4,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of Taiwan's Military, the Other Has Been Returned to Kinmen""",negative,0.7046707272529602,-2,4,1,5
+5,chinese,"""Feishi Elementary School Handball Team from Ningbo City Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7107465863227844,3,4,1,5
+6,chinese,"""China's Online Retail Achieves a Strong Start in the First Two Months""",positive,0.8289901614189148,3,4,1,5
+7,chinese,"""China's Internet User Population Reaches 1.092 Billion People""",neutral,0.7375484704971313,1,4,1,5
+8,chinese,"""2024 Special Action for Facilitating Cross-border Trade Conducted in 20 Cities""",neutral,0.5710686445236206,1,4,1,5
+9,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Terms""",positive,0.5525055527687073,2,4,1,5
