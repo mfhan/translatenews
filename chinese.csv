@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Reasoning and Evaluation | The Rise of Central China Holds Great Potential""",positive,0.7819982171058655,3,5,2,3
-1,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7108264565467834,-2,5,2,3
-2,chinese,"""Ningbo Feishi Elementary School Handball Team Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7254126071929932,3,5,2,3
-3,chinese,"""Top 10 National Archaeological Discoveries of 2023 Revealed""",neutral,0.7299561500549316,1,5,2,3
-4,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,5,2,3
-5,chinese,"""China's Internet Users Reach a Scale of 1.092 Billion People""",neutral,0.7514978051185608,1,5,2,3
-6,chinese,"""2024 Special Action for Facilitating Cross-border Trade Launched in 20 Cities""",neutral,0.4932617247104645,1,5,2,3
-7,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Words""",positive,0.5786538124084473,2,5,2,3
-8,chinese,"""World Report: Death Toll Continues to Rise at US-Mexico Border... US Media: Massive Surveillance Equipment Seeks to Lure Asylum Seekers and Immigrants into ""Deadly Traps""""",negative,0.7257769703865051,-2,5,2,3
-9,chinese,"""Shanghai Ruijin Hospital Makes New Breakthrough in the Treatment of ALS""",positive,0.6537699699401855,2,5,2,3
+0,chinese,"""Harmony and Reasoning | Central Region Rising with Great Potential""",positive,0.8548199534416199,3,6,1,3
+1,chinese,"""Mainland China's Taiwan Affairs Office: Mainland rescues a Kinmen stranded person, who is a current member of the Taiwanese military, while another person has been sent back to Kinmen.""",neutral,0.5964221954345703,1,6,1,3
+2,chinese,"""Ningbo City Feishi Elementary School Handball Team Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.6968533992767334,2,6,1,3
+3,chinese,"""Top 10 New Archaeological Discoveries of 2023 Revealed Nationwide""",neutral,0.7294895052909851,1,6,1,3
+4,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,6,1,3
+5,chinese,"""China's Internet User Population Reaches 1.092 Billion People""",neutral,0.7375484704971313,1,6,1,3
+6,chinese,"""2024 Special Action for Promoting Facilitation of Cross-border Trade Launched in 20 Cities""",positive,0.523838222026825,2,6,1,3
+7,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Words""",positive,0.5786538124084473,2,6,1,3
+8,chinese,"""World Report: Death Toll Continues to Rise at US-Mexico Border... US Media: Large Number of Surveillance Devices Will Lead Asylum Seekers and Immigrants into ""Deadly Traps""""",negative,0.5150771141052246,-1,6,1,3
+9,chinese,"""Shanghai Ruijin Hospital Makes New Breakthrough in the Treatment of ALS""",positive,0.6537699699401855,2,6,1,3
