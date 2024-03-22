@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Justice | Sowing the Seeds of Friendship between Chinese and American Youth in the Fields of Hope""",positive,0.6037360429763794,2,3,2,5
-1,chinese,"""Announcement of the List of Outstanding Chinese-American Youth in the United States""",neutral,0.596035897731781,1,3,2,5
-2,chinese,"""International Observation: US Relations Appear to be ""Moving"" but Have Not Yet Moved""",neutral,0.664477527141571,1,3,2,5
-3,chinese,"""Why are German companies so fond of the Chinese market?""",negative,0.7962283492088318,-2,3,2,5
-4,chinese,"""Ministry of Commerce Responds to US Providing Massive Subsidies and Tax Incentives for Domestic Chip Industry""",neutral,0.6088610887527466,1,3,2,5
-5,chinese,"""Our Coast Guard Responds to 34 Illegal Filipino Visitors Landing on the South China Sea's Scarborough Shoal""",negative,0.5127930045127869,-1,3,2,5
-6,chinese,"""Foreign Ministry Spokesperson Discusses Solomon Islands Prime Minister's Positive Stance on China: Friendship Knows No Order""",neutral,0.6408293843269348,1,3,2,5
-7,chinese,"""Continuous Improvement of Mechanisms for Protecting the Rights and Interests of Foreign Investment, Fully Ensuring National Treatment for Foreign-Invested Enterprises""",positive,0.6064115762710571,2,3,2,5
-8,chinese,"""March LPR Remains Unchanged, Industry Experts: There is Still Room for Future Reduction""",neutral,0.5866557359695435,1,3,2,5
-9,chinese,"""China has been the world's top exporter of intermediate goods for 12 consecutive years""",positive,0.536613941192627,2,3,2,5
+0,chinese,"""Promoting Harmony | Sowing the Seeds of Friendship between Chinese and American Youth in the Field of Hope""",positive,0.6735605597496033,2,3,1,6
+1,chinese,"""Discussing the Essence of Democracy and the Path of Mutual Learning""",neutral,0.811026930809021,1,3,1,6
+2,chinese,"""China Welcomes Australia's Decision to Terminate Anti-Dumping Measures Against Chinese Wind Towers""",neutral,0.46285560727119446,1,3,1,6
+3,chinese,"""Consolidating and Strengthening the Positive Trend of Macroeconomic Recovery - Responses from Three Macro Departments to Relevant Hot Issues""",positive,0.5515605807304382,2,3,1,6
+4,chinese,"""Six Departments Issue Document to Clarify the Definition and Scope of Prepackaged Meals, Ensuring Food Safety Bottom Line""",neutral,0.7076244354248047,1,3,1,6
+5,chinese,"""Announcement of the List of Outstanding Chinese-American Youth in the United States""",neutral,0.596035897731781,1,3,1,6
+6,chinese,"""Chinese Representatives Participate in Joint Speech at the Human Rights Council to Promote Cooperation and Friendship for Human Rights""",positive,0.652144730091095,2,3,1,6
+7,chinese,"""International Observation: US Relations Appear to be ""Moving"" but Have Not Yet Moved""",neutral,0.664477527141571,1,3,1,6
+8,chinese,"""Why are German companies so fond of the Chinese market?""",negative,0.7962283492088318,-2,3,1,6
+9,chinese,"""Ministry of Commerce Responds to US Providing Huge Subsidies and Tax Incentives for Local Chip Industry""",neutral,0.5207001566886902,1,3,1,6
