@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Mediating and Reasoning | The Rise of the Central Region Holds Great Potential""",positive,0.812239408493042,3,4,0,6
-1,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,4,0,6
-2,chinese,"""China's Internet Users Reach 1.092 Billion People""",neutral,0.7312068343162537,1,4,0,6
-3,chinese,"""2024 Special Action for Facilitating Cross-Border Trade Launched in 20 Cities""",neutral,0.5050439238548279,1,4,0,6
-4,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Keywords""",neutral,0.5163681507110596,1,4,0,6
-5,chinese,"""Shanghai Ruijin Hospital Makes New Breakthrough in Treatment of ALS""",positive,0.620290994644165,2,4,0,6
-6,chinese,"""Central Meteorological Observatory: Strong rainfall and severe convective weather to begin in southern regions""",neutral,0.5566341876983643,1,4,0,6
-7,chinese,"""Maintaining Global Competitiveness, Multinational Corporations Choose ""In China""""",neutral,0.7724739909172058,1,4,0,6
-8,chinese,"""Expansion and Transformation to Add New Momentum to the ""New Silk Road of the Desert""""",positive,0.49030232429504395,2,4,0,6
-9,chinese,"""Discussing the Essence of Democracy and the Path of Mutual Learning""",neutral,0.811026930809021,1,4,0,6
+0,chinese,"""Reasoning and Evaluation | The Rise of Central China Holds Great Potential""",positive,0.7819982171058655,3,5,2,3
+1,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7108264565467834,-2,5,2,3
+2,chinese,"""Ningbo Feishi Elementary School Handball Team Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7254126071929932,3,5,2,3
+3,chinese,"""Top 10 National Archaeological Discoveries of 2023 Revealed""",neutral,0.7299561500549316,1,5,2,3
+4,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,5,2,3
+5,chinese,"""China's Internet Users Reach a Scale of 1.092 Billion People""",neutral,0.7514978051185608,1,5,2,3
+6,chinese,"""2024 Special Action for Facilitating Cross-border Trade Launched in 20 Cities""",neutral,0.4932617247104645,1,5,2,3
+7,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Words""",positive,0.5786538124084473,2,5,2,3
+8,chinese,"""World Report: Death Toll Continues to Rise at US-Mexico Border... US Media: Massive Surveillance Equipment Seeks to Lure Asylum Seekers and Immigrants into ""Deadly Traps""""",negative,0.7257769703865051,-2,5,2,3
+9,chinese,"""Shanghai Ruijin Hospital Makes New Breakthrough in the Treatment of ALS""",positive,0.6537699699401855,2,5,2,3
