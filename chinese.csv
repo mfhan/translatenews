@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Central Region Rising with Great Potential""",positive,0.8548199534416199,3,6,1,3
-1,chinese,"""Mainland China's Taiwan Affairs Office: Mainland rescues a Kinmen stranded person, who is a current member of the Taiwanese military, while another person has been sent back to Kinmen.""",neutral,0.5964221954345703,1,6,1,3
-2,chinese,"""Ningbo City Feishi Elementary School Handball Team Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.6968533992767334,2,6,1,3
-3,chinese,"""Top 10 New Archaeological Discoveries of 2023 Revealed Nationwide""",neutral,0.7294895052909851,1,6,1,3
-4,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,6,1,3
-5,chinese,"""China's Internet User Population Reaches 1.092 Billion People""",neutral,0.7375484704971313,1,6,1,3
-6,chinese,"""2024 Special Action for Promoting Facilitation of Cross-border Trade Launched in 20 Cities""",positive,0.523838222026825,2,6,1,3
-7,chinese,"""Financial Assistance Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Key Words""",positive,0.5786538124084473,2,6,1,3
-8,chinese,"""World Report: Death Toll Continues to Rise at US-Mexico Border... US Media: Large Number of Surveillance Devices Will Lead Asylum Seekers and Immigrants into ""Deadly Traps""""",negative,0.5150771141052246,-1,6,1,3
-9,chinese,"""Shanghai Ruijin Hospital Makes New Breakthrough in the Treatment of ALS""",positive,0.6537699699401855,2,6,1,3
+0,chinese,"""Seeking Fairness and Justice | The Rise of Central China Holds Great Potential""",positive,0.7638070583343506,3,4,2,4
+1,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,4,2,4
+2,chinese,"""Hu Zehua's Bribery Case Goes to Trial for the First Time!""",neutral,0.645681619644165,1,4,2,4
+3,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel in Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7108264565467834,-2,4,2,4
+4,chinese,"""Feishi Elementary School Handball Team from Ningbo City Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7107465863227844,3,4,2,4
+5,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,4,2,4
+6,chinese,"""China's Internet Users Reach a Scale of 1.092 Billion People""",neutral,0.7514978051185608,1,4,2,4
+7,chinese,"""Special Action for Facilitating Cross-border Trade to be Launched in 20 Cities in 2024""",positive,0.5288897156715393,2,4,2,4
+8,chinese,"""Financial Support Boosts Consumer Spending: ""Credit Increase"" and ""Interest Rate Reduction"" Become Keywords""",neutral,0.5105344653129578,1,4,2,4
+9,chinese,"""World Report: Death Toll Continues to Rise at US-Mexico Border... US Media: Large Number of Surveillance Devices Will Lead Asylum Seekers and Immigrants into ""Deadly Traps""""",negative,0.5150771141052246,-1,4,2,4
