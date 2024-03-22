@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Central Region Rising with Great Potential""",positive,0.8548199534416199,3,3,2,5
-1,chinese,"""Foreign Exchange Bureau: Total Transaction Volume of 1.686 Trillion Yuan in February's Foreign Exchange Market""",neutral,0.8697263598442078,1,3,2,5
-2,chinese,"""Bus Overturns in Guangxi, 2 Dead and 11 Injured""",negative,0.7687115669250488,-2,3,2,5
-3,chinese,"""Apple Inc. Accused of Monopoly in the United States""",negative,0.6399925947189331,-1,3,2,5
-4,chinese,"""American Teacher Visits China and Sings 'On the Fields of Hope'""",neutral,0.5302042365074158,1,3,2,5
-5,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,3,2,5
-6,chinese,"""Hu Ze Hua's Bribery Case Goes to Trial in First Instance!""",neutral,0.6684213280677795,1,3,2,5
-7,chinese,"""Taiwan Affairs Office: Mainland China Rescues Distressed Personnel from Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",neutral,0.5050920248031616,1,3,2,5
-8,chinese,"""Feishi Elementary School Handball Team from Ningbo City Wins U10 National Championship for Third Consecutive Year""",positive,0.5728227496147156,2,3,2,5
-9,chinese,"""China's Online Retail Achieves a ""Strong Start"" in the First Two Months""",positive,0.8044336438179016,3,3,2,5
+0,chinese,"""Harmony and Reasoning | The Rise of Central China Holds Great Potential""",positive,0.8022368550300598,3,3,3,4
+1,chinese,Foreign Exchange Bureau: Total Foreign Exchange Market Transactions in February Reached 16.86 Trillion Yuan.,neutral,0.8016126155853271,1,3,3,4
+2,chinese,"""Bus overturns in Guangxi, 2 dead and 11 injured""",negative,0.8217036128044128,-2,3,3,4
+3,chinese,"""Apple Inc. Accused of Monopolizing in the United States""",negative,0.7305202484130859,-2,3,3,4
+4,chinese,"""American Teacher Visits China and Sings 'On the Fields of Hope'""",neutral,0.5302042365074158,1,3,3,4
+5,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,3,3,4
+6,chinese,"""Hu Zehua's Bribery Case Goes to Trial for the First Time!""",neutral,0.645681619644165,1,3,3,4
+7,chinese,"""Mainland China's Taiwan Affairs Office: Mainland Rescues Distressed Personnel from Kinmen, One of Whom is a Current Member of the Taiwanese Military, the Other Has Been Returned to Kinmen""",negative,0.7040894031524658,-2,3,3,4
+8,chinese,"""Fee City Elementary School Handball Team from Ningbo City Wins U10 National Championship, Achieving Three Consecutive Titles""",positive,0.7142871022224426,3,3,3,4
+9,chinese,"""China's Online Retail Achieves a Strong Start in the First Two Months""",positive,0.8289901614189148,3,3,3,4
