@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Central Region Rising with Great Potential""",positive,0.8548199534416199,3,4,1,5
-1,chinese,"""Shanghai Ruijin Hospital Makes New Breakthrough in the Treatment of ALS""",positive,0.6537699699401855,2,4,1,5
-2,chinese,"""Central Meteorological Observatory: Strong rainfall and severe convective weather to begin in southern regions""",neutral,0.5566341876983643,1,4,1,5
-3,chinese,"""Maintaining Global Competitiveness, Multinational Companies Choose ""In China""""",neutral,0.713921844959259,1,4,1,5
-4,chinese,"""Expansion and Transformation to Add New Momentum to the ""New Silk Road of the Desert""""",positive,0.49030232429504395,2,4,1,5
-5,chinese,"""Discussing the Essence of Democracy and the Path of Mutual Learning""",neutral,0.811026930809021,1,4,1,5
-6,chinese,"""Supreme Procuratorate States: Minors Who Commit Serious Crimes Such as Intentional Homicide Will Be Held Criminally Responsible According to Law""",negative,0.6547031402587891,-1,4,1,5
-7,chinese,"""China Welcomes Australia's Decision to Terminate Anti-Dumping Measures Against Chinese Wind Towers""",neutral,0.46285560727119446,1,4,1,5
-8,chinese,"""Consolidating and Strengthening the Positive Trend of Macroeconomic Recovery - Responses from the Three Macroeconomic Departments on Relevant Hot Issues""",positive,0.5433244109153748,2,4,1,5
-9,chinese,"""Six Departments Issue Document to Clarify the Definition and Scope of Prepackaged Food, Securing the Bottom Line of Food Safety""",neutral,0.7489817142486572,1,4,1,5
+0,chinese,"""Harmony and Reasoning | The Rise of Central China Holds Great Potential""",positive,0.8022368550300598,3,3,1,6
+1,chinese,"""Shanghai Ruijin Hospital Makes New Breakthrough in the Treatment of Amyotrophic Lateral Sclerosis""",neutral,0.4687339961528778,1,3,1,6
+2,chinese,"""Central Meteorological Observatory: Strong rainfall and severe convective weather to begin in southern regions""",neutral,0.5566341876983643,1,3,1,6
+3,chinese,"""Maintaining Global Competitiveness, Multinational Corporations Choose ""In China""""",neutral,0.7724739909172058,1,3,1,6
+4,chinese,"""Expansion and Transformation to Add New Momentum to the ""New Silk Road of the Desert""""",positive,0.49030232429504395,2,3,1,6
+5,chinese,"""Discussing the Essence of Democracy and the Path of Mutual Learning""",neutral,0.811026930809021,1,3,1,6
+6,chinese,"""Supreme Procuratorate States: Juvenile Offenders Who Commit Serious Crimes Such as Intentional Homicide Will Be Held Criminally Responsible According to Law""",negative,0.7016743421554565,-2,3,1,6
+7,chinese,"""China Welcomes Australia's Decision to Terminate Anti-Dumping Measures Against Chinese Wind Towers""",neutral,0.46285560727119446,1,3,1,6
+8,chinese,"""Consolidating and Strengthening the Positive Trend of Macroeconomic Recovery - Responses from the Three Macro Departments to Relevant Hot Issues""",positive,0.5180454850196838,2,3,1,6
+9,chinese,"""Six Departments Issue Document to Clarify the Definition and Scope of Prepackaged Food, Securing the Bottom Line of Food Safety""",neutral,0.7489817142486572,1,3,1,6
