@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Expansion and Transformation to Add New Momentum to the ""New Silk Road of the Desert""""",positive,0.49030232429504395,2,3,1,6
 1,chinese,"""Central Meteorological Observatory: Strong rainfall and severe convective weather to begin in southern regions""",neutral,0.5566341876983643,1,3,1,6
-2,chinese,"""Maintaining Global Competitiveness, Multinational Corporations Choose ""In China""""",neutral,0.7724739909172058,1,3,1,6
+2,chinese,"""Maintaining Global Competitiveness, Multinational Companies Choose ""In China""""",neutral,0.713921844959259,1,3,1,6
 3,chinese,"""Discussing the Essence of Democracy and the Path of Mutual Learning""",neutral,0.811026930809021,1,3,1,6
-4,chinese,"""Supreme Procuratorate Stands Firm: Minors Who Commit Serious Crimes Such as Intentional Homicide Will Be Held Criminally Responsible According to Law""",negative,0.5210516452789307,-1,3,1,6
-5,chinese,"""China Welcomes Australia's Decision to Terminate Anti-Dumping Measures Against Chinese Wind Towers""",neutral,0.46285560727119446,1,3,1,6
-6,chinese,"""Consolidating and Enhancing the Positive Trend of Macroeconomic Recovery - Responses from the Three Macroeconomic Departments to Relevant Hot Issues""",positive,0.5030938982963562,2,3,1,6
+4,chinese,Supreme Procuratorate States: Juveniles Who Commit Serious Crimes Such as Intentional Homicide Will Be Held Criminally Responsible According to Law,negative,0.5136610865592957,-1,3,1,6
+5,chinese,"""China Welcomes Australia's Decision to Terminate Anti-Dumping Measures against Chinese Wind Towers""",neutral,0.44981783628463745,1,3,1,6
+6,chinese,"""Consolidating and Strengthening the Positive Trend of Macroeconomic Recovery - Responses from the Three Macro Departments to Relevant Hot Issues""",positive,0.5180454850196838,2,3,1,6
 7,chinese,"""Six Departments Issue Document to Clarify the Definition and Scope of Prepackaged Food, Securing the Bottom Line of Food Safety""",neutral,0.7489817142486572,1,3,1,6
-8,chinese,"""Announcement of the Top Young Chinese American Elites in the United States""",neutral,0.795154333114624,1,3,1,6
-9,chinese,"""Chinese Representatives Participate in Dialogue and Cooperation to Promote Human Rights with the Friends of the Human Rights Council, Delivering a Joint Statement""",positive,0.6755517721176147,2,3,1,6
+8,chinese,"""Announcement of the List of Outstanding Chinese-American Youth in the United States""",neutral,0.596035897731781,1,3,1,6
+9,chinese,"""Chinese Representatives Participate in Joint Speech at the Human Rights Council to Promote Cooperation and Friendship in Human Rights""",positive,0.6280534863471985,2,3,1,6
