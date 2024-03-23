@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,3,6
-1,chinese,"""From the Plateau to the Deep Sea, How Did They Make the List of Top Ten New Archaeological Discoveries in China?""",neutral,0.7116835713386536,1,1,3,6
-2,chinese,"""Beijing Launches Incentives, Offering Up to 5 Million Yuan Subsidy for Asia's First Store Application""",positive,0.5641891360282898,2,1,3,6
-3,chinese,"""Ministry of Commerce Interprets Negative List for Cross-Border Service Trade: Will Create New Opportunities for Global Service Trade Cooperation""",neutral,0.5474974513053894,1,1,3,6
-4,chinese,"""Foreign Exchange Bureau: Total Transaction Volume of 1.686 Trillion RMB in February's Foreign Exchange Market""",neutral,0.865581214427948,1,1,3,6
-5,chinese,"""2 Dead, 11 Injured in a Bus Rollover in Guangxi""",negative,0.7350682616233826,-2,1,3,6
+0,chinese,Topic: Terrorist Attack in the Suburbs of Moscow,negative,0.7369794249534607,-2,1,3,6
+1,chinese,"""From the Plateau to the Deep Sea, How Did They Make It to the Top 10 National Archaeological Discoveries?""",neutral,0.6632596850395203,1,1,3,6
+2,chinese,"""Beijing Introduces Incentive Measures, Asia's First Store Eligible for Up to 5 Million Yuan Subsidy""",positive,0.5365071892738342,2,1,3,6
+3,chinese,"""Ministry of Commerce Interprets Negative List for Cross-border Trade in Services: Will Create New Opportunities for Global Service Trade Cooperation""",neutral,0.5645552277565002,1,1,3,6
+4,chinese,"""Foreign Exchange Bureau: Total Turnover of 1.686 Trillion Yuan in February's Foreign Exchange Market""",neutral,0.8468891978263855,1,1,3,6
+5,chinese,"""Two Dead and Eleven Injured in a Bus Rollover in Guangxi""",negative,0.7552295923233032,-2,1,3,6
 6,chinese,"""Apple Inc. Accused of Monopoly in the United States""",negative,0.6399925947189331,-1,1,3,6
-7,chinese,"""American Teacher Visits China and Sings 'On the Field of Hope'""",neutral,0.5695777535438538,1,1,3,6
+7,chinese,"""American Teacher Visits China and Sings 'On the Fields of Hope'""",neutral,0.5302042365074158,1,1,3,6
 8,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,1,3,6
-9,chinese,"""Huawei Bribery Case Goes to Trial for the First Time!""",neutral,0.6318480372428894,1,1,3,6
+9,chinese,"""Hu Zehua's Bribery Case Goes to Trial for the First Time!""",neutral,0.645681619644165,1,1,3,6
