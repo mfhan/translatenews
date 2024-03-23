@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Justice | The Rise of the Central Region Holds Great Potential""",positive,0.8333738446235657,3,2,3,5
-1,chinese,"""Terrorist Attack in Suburbs of Moscow Leaves Over 60 Dead""",negative,0.734201967716217,-2,2,3,5
+0,chinese,"""Harmony and Reasoning | The Rise of Central China Holds Great Potential""",positive,0.8022368550300598,3,2,3,5
+1,chinese,"""Terrorist Attack in Suburbs of Moscow Leaves Over 60 People Dead""",negative,0.7362433075904846,-2,2,3,5
 2,chinese,"""From the Plateau to the Deep Sea, How Did They Make It to the Top Ten National Archaeological Discoveries?""",neutral,0.6578273773193359,1,2,3,5
-3,chinese,"""Beijing Launches Incentive Measures, Offering Up to 5 Million Yuan Subsidy for First Asian Store Application""",positive,0.5271527171134949,2,2,3,5
-4,chinese,"""Ministry of Commerce Interprets Negative List for Cross-Border Service Trade: Will Create New Opportunities for Global Service Trade Cooperation""",neutral,0.5474974513053894,1,2,3,5
+3,chinese,"""Beijing Launches Incentive Measures: Asia's First Store Can Receive Up to 5 Million Yuan Subsidy""",positive,0.648624062538147,2,2,3,5
+4,chinese,"""Ministry of Commerce Interprets Negative List for Cross-border Service Trade: Creating New Opportunities for Global Service Trade Cooperation""",neutral,0.5450730919837952,1,2,3,5
 5,chinese,"""Foreign Exchange Bureau: Total Transaction Volume in February's Foreign Exchange Market Reaches 16.86 Trillion Yuan""",neutral,0.8080031871795654,1,2,3,5
-6,chinese,"""Two Dead and Eleven Injured in a Bus Rollover in Guangxi""",negative,0.7552295923233032,-2,2,3,5
-7,chinese,"""Apple Inc. Accused of Monopoly in the United States""",negative,0.6399925947189331,-1,2,3,5
-8,chinese,"""American Teacher Visits China and Sings 'On the Field of Hope'""",neutral,0.5695777535438538,1,2,3,5
+6,chinese,"""Two Dead and Eleven Injured in Guangxi Bus Rollover Accident""",negative,0.7085771560668945,-2,2,3,5
+7,chinese,"""Apple Inc. Accused of Monopolizing in the United States""",negative,0.7305202484130859,-2,2,3,5
+8,chinese,"""American Teacher Visits China and Sings 'On the Fields of Hope'""",neutral,0.5302042365074158,1,2,3,5
 9,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,2,3,5
