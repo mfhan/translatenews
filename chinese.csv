@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,1,7,2
-1,chinese,"""143 Deaths Confirmed! Recap of Moscow Terrorist Attack""",negative,0.6584454774856567,-1,1,7,2
-2,chinese,"""Russian President Putin Delivers TV Speech on Terrorist Attack and Declares March 24th as National Day of Mourning""",negative,0.8308621048927307,-2,1,7,2
-3,chinese,Breaking News: Terrorist Attack in Suburbs of Moscow Leaves 143 Dead,negative,0.7095502018928528,-2,1,7,2
-4,chinese,"""State Council Safety Commission Implements Supervision and Inspection on Major Road Traffic Accidents on the Hubei-North Expressway""",neutral,0.7704624533653259,1,1,7,2
-5,chinese,"""Governor of Moscow State: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.5934199690818787,-1,1,7,2
-6,chinese,"""Giant Panda ""Dream Comes True"" Commemorative Bronze Sculpture Unveiled in France""",positive,0.5317564010620117,2,1,7,2
-7,chinese,"""International School in Moscow Receives Threatening Phone Call on the 22nd, Threatening to Shoot Students""",negative,0.7940429449081421,-2,1,7,2
-8,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Ren'ai Reef""",negative,0.6332732439041138,-1,1,7,2
-9,chinese,"""Foreign Ministry Spokesperson Answers Questions from Reporters Regarding Serious Terrorist Attack in Russia""",neutral,0.602881908416748,1,1,7,2
+0,chinese,Special Report: Terrorist Attack in Suburbs of Moscow,negative,0.7275533676147461,-2,0,7,3
+1,chinese,"""143 Dead in Moscow Terrorist Attack! A Recap of the Incident""",negative,0.6131518483161926,-1,0,7,3
+2,chinese,"""Russian President Putin Delivers TV Speech on Terrorist Attack, Declares March 24th as National Day of Mourning""",negative,0.8334227204322815,-2,0,7,3
+3,chinese,Breaking News: Terrorist Attack in Suburbs of Moscow Leaves 143 Dead,negative,0.7095502018928528,-2,0,7,3
+4,chinese,"""State Council Safety Commission Implements Supervision and Investigation of Major Road Traffic Accidents on Hubei-Beijing Expressway""",neutral,0.7722241282463074,1,0,7,3
+5,chinese,"""Governor of Moscow Region: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.5661823153495789,-1,0,7,3
+6,chinese,"""Giant Panda ""Dream Come True"" Commemorative Bronze Sculpture Unveiled in France""",neutral,0.5418002605438232,1,0,7,3
+7,chinese,"""International School in Moscow Received Threatening Phone Call on the 22nd, Threatening to Shoot Students with a Gun""",negative,0.7865235805511475,-2,0,7,3
+8,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Ren'ai Reef""",negative,0.6332732439041138,-1,0,7,3
+9,chinese,"""Foreign Ministry Spokesperson Answers Questions from Reporters Regarding Serious Terrorist Attack in Russia""",neutral,0.602881908416748,1,0,7,3
