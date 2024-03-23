@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,4,5
-1,chinese,"""Payment Services Welcome Optimization, Foreign Friends Are Happy""",positive,0.7908364534378052,3,1,4,5
-2,chinese,"""UN Passes First Global Resolution on Artificial Intelligence""",neutral,0.6078182458877563,1,1,4,5
-3,chinese,"""From the Plateau to the Deep Sea, How Did They Make It into the Top Ten National Archaeological Discoveries?""",neutral,0.6524088978767395,1,1,4,5
-4,chinese,"""Training Institutions Frequently Engage in ""Taking the Money and Running"" Scams, Urgent Need for Strengthened Supervision""",negative,0.701631486415863,-2,1,4,5
-5,chinese,"""Beijing Launches Incentives: Asia's First Store Eligible for Up to 5 Million Yuan Subsidy""",neutral,0.49146634340286255,1,1,4,5
-6,chinese,Ministry of Commerce Interprets Negative List for Cross-border Service Trade: Will Create New Opportunities for Global Service Trade Cooperation,neutral,0.5548993945121765,1,1,4,5
-7,chinese,Foreign Exchange Bureau: Total Transaction Volume in February's Foreign Exchange Market Reaches 16.86 Trillion Yuan RMB,neutral,0.7887565493583679,1,1,4,5
-8,chinese,"""Two Dead and Eleven Injured in a Bus Rollover in Guangxi""",negative,0.7552295923233032,-2,1,4,5
-9,chinese,"""Apple Inc. Accused of Monopolizing in the United States""",negative,0.7305202484130859,-2,1,4,5
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,3,3,4
+1,chinese,"""Bayer Global CEO: The World Needs New Quality Productivity""",positive,0.4902972877025604,2,3,3,4
+2,chinese,No Chinese Nationals Found on List of Hospitalized Individuals in Moscow State Music Hall Terrorist Attack,negative,0.7186440825462341,-2,3,3,4
+3,chinese,"""National Negative List for Cross-border Service Trade Released for the First Time""",neutral,0.7585785984992981,1,3,3,4
+4,chinese,"""China Attracts 215.09 Billion Yuan in Foreign Investment in First Two Months""",neutral,0.5583925247192383,1,3,3,4
+5,chinese,"""Payment Services Welcome Optimization, Foreign Friends Rejoice""",positive,0.8216489553451538,3,3,3,4
+6,chinese,"""UN Passes First Global Resolution on Artificial Intelligence""",neutral,0.6078182458877563,1,3,3,4
+7,chinese,"""From the Plateau to the Deep Sea, How Did They Make It into the Top Ten National Archaeological Discoveries?""",neutral,0.6524088978767395,1,3,3,4
+8,chinese,"""Training Institutions Frequently Engage in ""Taking the Money and Running"" Scams, Urgent Need for Strengthened Supervision""",negative,0.701631486415863,-2,3,3,4
+9,chinese,"""Beijing Launches Incentive Measures: Asia's First Store to Receive Up to 5 Million Yuan Subsidy""",positive,0.6193919777870178,2,3,3,4
