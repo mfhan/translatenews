@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,3,6
-1,chinese,"""From the Plateau to the Deep Sea, How Did They Make It into the Top Ten National Archaeological Discoveries?""",neutral,0.6524088978767395,1,1,3,6
-2,chinese,"""Beijing Launches Incentive Measures, Highest Subsidy of 5 Million Yuan Available for Application of Asia's First Store""",positive,0.5248975157737732,2,1,3,6
-3,chinese,"""Ministry of Commerce Interprets Negative List for Cross-border Service Trade: Will Create New Opportunities for Global Service Trade Cooperation""",neutral,0.5455806255340576,1,1,3,6
-4,chinese,"""Foreign Exchange Bureau: Total Transaction Volume of 16.86 Trillion Yuan in February Foreign Exchange Market""",neutral,0.8712390661239624,1,1,3,6
-5,chinese,"""Two Dead and Eleven Injured in a Bus Rollover in Guangxi""",negative,0.7552295923233032,-2,1,3,6
-6,chinese,"""Apple Inc. Accused of Monopolizing in the United States""",negative,0.7305202484130859,-2,1,3,6
-7,chinese,"""American Teacher Visiting China Sings 'On the Fields of Hope'""",neutral,0.6714532375335693,1,1,3,6
-8,chinese,"""2024 World Water Day Open Day Event Held in Hangzhou""",neutral,0.8553134202957153,1,1,3,6
-9,chinese,"""Hu Zehua's Bribery Case Begins First Trial!""",neutral,0.6896714568138123,1,1,3,6
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,4,4
+1,chinese,"""Payment Services Welcome Optimization, Foreign Friends are Happy""",positive,0.7748112082481384,3,2,4,4
+2,chinese,"""UN Passes First Global Resolution on Artificial Intelligence""",neutral,0.6078182458877563,1,2,4,4
+3,chinese,"""From the Plateau to the Deep Sea, How Did They Make It to the Top Ten National Archaeological Discoveries?""",neutral,0.6578273773193359,1,2,4,4
+4,chinese,"""Training institutions frequently involved in ""running away with funds"", urgent need for strengthened supervision""",negative,0.6995677947998047,-1,2,4,4
+5,chinese,"""Beijing Launches Incentive Measures, Offering Up to 5 Million Yuan Subsidy for Asia's First Store Application""",positive,0.5909590125083923,2,2,4,4
+6,chinese,"""Ministry of Commerce Interprets Negative List for Cross-border Service Trade: Will Create New Opportunities for Global Service Trade Cooperation""",neutral,0.5455806255340576,1,2,4,4
+7,chinese,"""Foreign Exchange Bureau: Total Foreign Exchange Market Transactions in February Reach 16.86 Trillion Yuan""",neutral,0.846447229385376,1,2,4,4
+8,chinese,"""Two Dead and Eleven Injured in a Bus Rollover in Guangxi""",negative,0.7552295923233032,-2,2,4,4
+9,chinese,"""Apple Inc. Accused of Monopolization in the United States""",negative,0.6771023273468018,-1,2,4,4
