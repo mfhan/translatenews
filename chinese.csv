@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,7,2
-1,chinese,"""143 People Dead! Moscow Terrorist Attack Incident Analysis""",negative,0.6820554137229919,-1,1,7,2
+0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,1,7,2
+1,chinese,"""143 Deaths Confirmed! Recap of Moscow Terrorist Attack""",negative,0.6584454774856567,-1,1,7,2
 2,chinese,"""Russian President Putin Delivers TV Speech on Terrorist Attack and Declares March 24th as National Day of Mourning""",negative,0.8308621048927307,-2,1,7,2
 3,chinese,Breaking News: Terrorist Attack in Suburbs of Moscow Leaves 143 Dead,negative,0.7095502018928528,-2,1,7,2
-4,chinese,"""State Council Safety Committee Implements Supervision and Investigation of Major Road Traffic Accidents on Hubei-North Expressway""",neutral,0.7644333243370056,1,1,7,2
+4,chinese,"""State Council Safety Commission Implements Supervision and Inspection on Major Road Traffic Accidents on the Hubei-North Expressway""",neutral,0.7704624533653259,1,1,7,2
 5,chinese,"""Governor of Moscow State: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.5934199690818787,-1,1,7,2
 6,chinese,"""Giant Panda ""Dream Comes True"" Commemorative Bronze Sculpture Unveiled in France""",positive,0.5317564010620117,2,1,7,2
-7,chinese,"""International School in Moscow Received Threatening Phone Call on the 22nd, Threatening to Shoot Students with a Gun""",negative,0.7865235805511475,-2,1,7,2
-8,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippine Trespassing at Ren'ai Reef""",negative,0.5767890214920044,-1,1,7,2
-9,chinese,"""Foreign Ministry Spokesperson Answers Press Questions on Serious Terrorist Attack in Russia""",neutral,0.49702534079551697,1,1,7,2
+7,chinese,"""International School in Moscow Receives Threatening Phone Call on the 22nd, Threatening to Shoot Students""",negative,0.7940429449081421,-2,1,7,2
+8,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Ren'ai Reef""",negative,0.6332732439041138,-1,1,7,2
+9,chinese,"""Foreign Ministry Spokesperson Answers Questions from Reporters Regarding Serious Terrorist Attack in Russia""",neutral,0.602881908416748,1,1,7,2
