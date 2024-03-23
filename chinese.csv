@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,7,2
-1,chinese,"""143 People Dead in Moscow Terrorist Attack! A Review of the Incident""",negative,0.6500551700592041,-1,1,7,2
+0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,1,7,2
+1,chinese,"""143 People Dead in Moscow Terrorist Attack! A Recap of the Incident""",negative,0.6796609163284302,-1,1,7,2
 2,chinese,"""Russian President Putin Delivers Television Speech on Terrorist Attack, Announces March 24th as National Day of Mourning""",negative,0.8318909406661987,-2,1,7,2
 3,chinese,Breaking News: Terrorist Attack in Suburbs of Moscow Leaves 143 Dead,negative,0.7095502018928528,-2,1,7,2
-4,chinese,"""State Council's Work Safety Committee Implements Supervision and Management of Major Road Traffic Accidents on Hubei North Expressway""",neutral,0.7798032760620117,1,1,7,2
-5,chinese,"""Governor of Moscow Region: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.5661823153495789,-1,1,7,2
+4,chinese,"""State Council Safety Commission Implements Supervision and Management on Investigation of Major Road Traffic Accidents on Hubei-North Expressway""",neutral,0.7716384530067444,1,1,7,2
+5,chinese,"""Governor of Moscow Oblast: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.6084185242652893,-1,1,7,2
 6,chinese,"""Giant Panda ""Dream Comes True"" Commemorative Bronze Sculpture Unveiled in France""",positive,0.5317564010620117,2,1,7,2
-7,chinese,"""Moscow International School Received Threatening Phone Call on the 22nd, Threatening to 'Shoot and Kill Students'""",negative,0.800696849822998,-2,1,7,2
+7,chinese,"""Moscow International School Received Threatening Phone Call on the 22nd, Threatening to ""Shoot and Kill Students""",negative,0.7750595808029175,-2,1,7,2
 8,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Ren'ai Reef""",negative,0.6332732439041138,-1,1,7,2
-9,chinese,"""Spokesperson of the Ministry of Foreign Affairs Answers Reporter's Questions Regarding Serious Terrorist Attack in Russia""",neutral,0.5819817185401917,1,1,7,2
+9,chinese,"""Foreign Ministry spokesperson answers questions from reporters regarding serious terrorist attack in Russia""",neutral,0.506555438041687,1,1,7,2
