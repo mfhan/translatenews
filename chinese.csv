@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,6,2
+0,chinese,Special Report: Terrorist Attack near Moscow Outskirts,negative,0.6767130494117737,-1,2,6,2
 1,chinese,Breaking News: Terrorist Attack in Suburbs of Moscow Leaves 143 Dead,negative,0.7095502018928528,-2,2,6,2
-2,chinese,"""State Council Safety Commission Implements Supervision and Investigation of Major Road Traffic Accidents on Hubei-North Expressway""",neutral,0.7737195491790771,1,2,6,2
-3,chinese,"""Governor of Moscow State: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.5934199690818787,-1,2,6,2
+2,chinese,"""State Council's Work Safety Committee Implements Supervision and Investigation of Major Road Traffic Accidents on Hubei-North Expressway""",neutral,0.7740547060966492,1,2,6,2
+3,chinese,"""Governor of Moscow Region: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.5661823153495789,-1,2,6,2
 4,chinese,"""Giant Panda ""Dream Comes True"" Commemorative Bronze Sculpture Unveiled in France""",positive,0.5317564010620117,2,2,6,2
-5,chinese,"""International School in Moscow Receives Threatening Phone Call on the 22nd, Threatening to Shoot Students with a Gun""",negative,0.7833748459815979,-2,2,6,2
-6,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippine Intrusion into Ren'ai Reef""",negative,0.6111248731613159,-1,2,6,2
-7,chinese,"""Foreign Ministry Spokesperson Answers Reporter's Questions Regarding Severe Terrorist Attack in Russia""",neutral,0.5428169369697571,1,2,6,2
+5,chinese,"""International School in Moscow Received Threatening Phone Call on the 22nd, Threatening to ""Shoot and Kill Students""""",negative,0.8121765851974487,-2,2,6,2
+6,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Ren'ai Reef""",negative,0.6332732439041138,-1,2,6,2
+7,chinese,"""Foreign Ministry Spokesperson Answers Questions from Reporters Regarding Serious Terrorist Attack in Russia""",neutral,0.602881908416748,1,2,6,2
 8,chinese,"""Bayer Global CEO: The World Needs New Quality Productivity""",positive,0.4902972877025604,2,2,6,2
-9,chinese,"""No Chinese Citizens Found on List of Injured in Moscow State Music Hall Terrorist Attack""",negative,0.7014101147651672,-2,2,6,2
+9,chinese,"""No Chinese Citizens Found on List of Hospitalized Individuals in Moscow State Music Hall Terrorist Attack""",negative,0.712225615978241,-2,2,6,2
