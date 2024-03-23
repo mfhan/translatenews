@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,5,4
-1,chinese,"""State Council Safety Commission Implements Supervision and Inspection on Investigation of Major Road Traffic Accidents on Hubei North Expressway""",neutral,0.742681622505188,1,1,5,4
-2,chinese,"""Governor of Moscow Region: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.5661823153495789,-1,1,5,4
-3,chinese,"""Giant Panda ""Dreams Come True"" Commemorative Bronze Sculpture Unveiled in France""",neutral,0.5246114134788513,1,1,5,4
-4,chinese,"""International School in Moscow Receives Threatening Phone Call on the 22nd, Threatening to Shoot Students""",negative,0.7940429449081421,-2,1,5,4
-5,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Ren'ai Reef""",negative,0.6332732439041138,-1,1,5,4
-6,chinese,"""Foreign Ministry Spokesperson Answers Questions from Reporters Regarding Serious Terrorist Attack in Russia""",neutral,0.602881908416748,1,1,5,4
-7,chinese,"""Bayer Global CEO: The World Needs New Quality Productivity""",positive,0.4902972877025604,2,1,5,4
-8,chinese,"""No Chinese Citizens Found on List of Injured in Moscow State Music Hall Terrorist Attack""",negative,0.7014101147651672,-2,1,5,4
-9,chinese,"""National Negative List for Cross-Border Service Trade Released for the First Time""",neutral,0.7282111048698425,1,1,5,4
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,5,3
+1,chinese,"""State Council Safety Committee Implements Supervision and Investigation of Major Road Traffic Accidents on Hubei-North Highway""",neutral,0.791856050491333,1,2,5,3
+2,chinese,"""Governor of Moscow Oblast: Remaining Ceiling of Music Hall Where Terrorist Attack Occurred at Risk of Collapse""",negative,0.6084185242652893,-1,2,5,3
+3,chinese,"""Giant Panda ""Dream Comes True"" Commemorative Bronze Sculpture Unveiled in France""",positive,0.5317564010620117,2,2,5,3
+4,chinese,"""International School in Moscow Receives Threatening Phone Call on the 22nd, Threatening to 'Shoot Students with a Gun'""",negative,0.7719821333885193,-2,2,5,3
+5,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Ren'ai Reef""",negative,0.6332732439041138,-1,2,5,3
+6,chinese,"""Foreign Ministry spokesperson answers questions from reporters regarding serious terrorist attack in Russia""",neutral,0.506555438041687,1,2,5,3
+7,chinese,"""Bayer Global CEO: The World Needs New Quality Productivity""",positive,0.4902972877025604,2,2,5,3
+8,chinese,"""No Chinese Nationals Found on List of Injured in Moscow State Music Hall Terrorist Attack""",negative,0.7060924172401428,-2,2,5,3
+9,chinese,"""National Negative List for Cross-border Service Trade Released for the First Time""",neutral,0.7585785984992981,1,2,5,3
