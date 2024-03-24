@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,0,7,3
-1,chinese,"""Blue Alert for Severe Convective Weather""",negative,0.6159135103225708,-1,0,7,3
-2,chinese,"""Our Ministry of National Defense Warns the Philippines to Stop All Infringement and Provocative Actions""",negative,0.5865762233734131,-1,0,7,3
-3,chinese,"""Russian media reveals details of confession from suspect in terrorist attack""",negative,0.5960739850997925,-1,0,7,3
-4,chinese,"""By the end of 2023, China has a total of 4.5927 million sports facilities, with an average area of 2.89 square meters per person.""",neutral,0.6889268755912781,1,0,7,3
-5,chinese,"""Three Questions about the Terrorist Attack at a Music Hall near Moscow""",neutral,0.6704206466674805,1,0,7,3
-6,chinese,"""Rescue Operation Ends at Moscow Terrorist Attack Scene, Search Operation Still Ongoing""",negative,0.5407001376152039,-1,0,7,3
-7,chinese,"""Ministry of Water Resources Launches Level IV Emergency Response for Drought Prevention in Yunnan and Sichuan""",neutral,0.7490012049674988,1,0,7,3
-8,chinese,"""Death toll continues to rise in Russian terrorist attack, Putin vows to severely punish perpetrators""",negative,0.9072924256324768,-2,0,7,3
-9,chinese,"""International Community Condemns Moscow Terrorist Attack, Expresses Condolences for Victims""",negative,0.6105761528015137,-1,0,7,3
+0,chinese,Special Report: Terrorist Attack in Suburbs of Moscow,negative,0.7275533676147461,-2,0,5,5
+1,chinese,"""Hong Kong and Macau's ""Northward"" Single-Plate Cars Surpass 2 Million Trips""",neutral,0.6177619099617004,1,0,5,5
+2,chinese,"""Strong Convective Weather Blue Alert""",neutral,0.7719061374664307,1,0,5,5
+3,chinese,"""Chinese Ministry of Defense Warns Philippines: Cease All Acts of Infringement and Provocation""",negative,0.7768793702125549,-2,0,5,5
+4,chinese,"""Russian media reveals details of confession from suspect in terrorist attack""",negative,0.5960739850997925,-1,0,5,5
+5,chinese,"""As of the end of 2023, China has a total of 4.5927 million sports venues, with an average area of 2.89 square meters per person.""",neutral,0.7441934943199158,1,0,5,5
+6,chinese,"""Three Questions About the Terrorist Attack at a Music Hall Near Moscow""",neutral,0.6809718608856201,1,0,5,5
+7,chinese,"""Rescue Operation Ends at Moscow Terrorist Attack Site, Search Operation Still Ongoing""",negative,0.5134207010269165,-1,0,5,5
+8,chinese,Ministry of Water Resources Launches Level IV Emergency Response for Drought Prevention in Yunnan and Sichuan,neutral,0.7370548248291016,1,0,5,5
+9,chinese,"""Death toll in Russian terrorist attack continues to rise, Putin vows to severely punish perpetrators""",negative,0.8950198888778687,-2,0,5,5
