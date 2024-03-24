@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,4,3,3
-1,chinese,"""Director of National Development and Reform Commission: Various Enterprises Will Have Vast Development Opportunities in China""",neutral,0.5282939672470093,1,4,3,3
-2,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Not to Jump to Conclusions""",negative,0.7348907589912415,-2,4,3,3
-3,chinese,"""Iconic Buildings Around the World Turn Off Lights to Participate in ""Earth Hour"" Event""",neutral,0.7125716209411621,1,4,3,3
-4,chinese,"""Multiple regions send letters to parents on preventing school bullying: Lead by example, education should avoid being simplistic and violent""",negative,0.42255234718322754,-1,4,3,3
-5,chinese,"""Foreign Companies Optimistic about China's Economy Seeking ""New"" Quality""",positive,0.7165771722793579,3,4,3,3
-6,chinese,"""Steady Foreign Investment, Optimize Environment, Policy ""Combination Punch"" Accelerates Progress""",positive,0.7625159025192261,3,4,3,3
-7,chinese,"""Through Data, See the Bright ""Report Card"": China's Financial Opening Continues to Expand in Breadth and Depth""",positive,0.5697890520095825,2,4,3,3
-8,chinese,"""I will remember this trip"" - German tourists experience the ""wonderful China""",positive,0.8230764865875244,3,4,3,3
-9,chinese,"""Hong Kong and Macau's ""Northbound"" Single-Plate Cars Exceed 2 Million Trips""",neutral,0.7804217338562012,1,4,3,3
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,5,2,3
+1,chinese,"""Director of National Development and Reform Commission: Various Enterprises Will Have Vast Development Opportunities in China""",neutral,0.5282939672470093,1,5,2,3
+2,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Not to Jump to Conclusions""",negative,0.7348907589912415,-2,5,2,3
+3,chinese,"""Inbound Tourism Market Warms Up: ""Buy Now, Return Later"" Policy Allows More Overseas Consumers to Experience Convenient ""Shopping Spree""""",positive,0.6310696601867676,2,5,2,3
+4,chinese,"""Iconic Buildings Around the World Turn Off Lights to Participate in ""Earth Hour"" Event""",neutral,0.7125716209411621,1,5,2,3
+5,chinese,"""Multiple Regions Send Letters to Parents on Preventing Campus Bullying: Lead by Example, Education Should Avoid Being Simplistic and Brutal""",neutral,0.5876674056053162,1,5,2,3
+6,chinese,"""Foreign Companies Optimistic about China's Economy Seeking ""New"" Quality""",positive,0.7165771722793579,3,5,2,3
+7,chinese,"""Steady Foreign Investment, Excellent Environment, Policy ""Combination Punch"" Accelerates Progress""",positive,0.850146472454071,3,5,2,3
+8,chinese,"""Through Data, See the Bright ""Report Card"": China's Financial Opening Continues to Expand in Breadth and Depth""",positive,0.5697890520095825,2,5,2,3
+9,chinese,"""I will remember this trip"" - German tourists experience the ""wonderful China""",positive,0.8230764865875244,3,5,2,3
