@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,5,3,2
-1,chinese,"""Director of National Development and Reform Commission: Various Enterprises Will Have Vast Development Opportunities in China""",neutral,0.5282939672470093,1,5,3,2
-2,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Not to Jump to Conclusions""",negative,0.7348907589912415,-2,5,3,2
-3,chinese,"""Inbound tourism market sees frequent ""warm breeze"" with ""buy now, return later"" policy making it more convenient for overseas consumers to experience the joy of shopping""",positive,0.7947590351104736,3,5,3,2
-4,chinese,"""Iconic Buildings Around the World Turn Off Lights to Participate in ""Earth Hour"" Event""",neutral,0.7125716209411621,1,5,3,2
-5,chinese,"""Multiple regions send letters to parents on preventing campus bullying: Lead by example, education should avoid being simplistic and aggressive""",negative,0.41625484824180603,-1,5,3,2
-6,chinese,"Foreign Companies Optimistic about China's Economy Seeking ""New"" Quality",positive,0.7405951023101807,3,5,3,2
-7,chinese,"""Steady Foreign Investment, Optimize Environment, Policy ""Combination Punch"" Accelerates Promotion""",positive,0.6744846701622009,2,5,3,2
-8,chinese,"""Through Data, Looking at the Bright ""Report Card"": China's Financial Opening Continues to Expand in Breadth and Depth""",positive,0.5832441449165344,2,5,3,2
-9,chinese,"""I will remember this journey"" - German tourists experience the ""wonderful China""",positive,0.793135941028595,3,5,3,2
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,4,4,2
+1,chinese,"""Russian Embassy in China: People Lay Flowers to Mourn Victims of Terrorist Attack""",negative,0.6002382636070251,-1,4,4,2
+2,chinese,"""Director of National Development and Reform Commission: Various Enterprises Will Have Vast Development Opportunities in China""",neutral,0.5282939672470093,1,4,4,2
+3,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Against Rushing to Conclusions""",negative,0.5955132842063904,-1,4,4,2
+4,chinese,"""Inbound tourism market sees frequent ""warm breeze"" as ""buy now, return later"" policy allows more overseas consumers to experience convenient ""shopping spree""""",positive,0.7383565902709961,3,4,4,2
+5,chinese,"""Iconic Buildings Around the World Turn Off Lights to Participate in ""Earth Hour"" Event""",neutral,0.7125716209411621,1,4,4,2
+6,chinese,"""Multiple regions send letters to parents on preventing campus bullying: Lead by example, education should avoid being simplistic and rough""",negative,0.4399959444999695,-1,4,4,2
+7,chinese,"""Foreign Companies Optimistic about China's Economy Seeking ""New"" Quality""",positive,0.7165771722793579,3,4,4,2
+8,chinese,"""Steady Foreign Investment, Optimal Environment, Policy ""Combination Punch"" Accelerates Progress""",positive,0.7575369477272034,3,4,4,2
+9,chinese,"""Through Data, a Bright ""Report Card"" on the Continued Expansion of China's Financial Opening in Breadth and Depth""",positive,0.49610817432403564,2,4,4,2
