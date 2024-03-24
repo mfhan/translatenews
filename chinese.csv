@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,4,4
-1,chinese,"""China and Dominica Medical Cooperation Broadens Local People's ""Lifeline""""",neutral,0.6522773504257202,1,2,4,4
-2,chinese,"""Israel's North Hit by Rocket Attack from Lebanon""",negative,0.7335619330406189,-2,2,4,4
-3,chinese,"""Russian Embassy in China: People Lay Flowers to Mourn Victims of Terrorist Attack""",negative,0.6002382636070251,-1,2,4,4
-4,chinese,"""How does finance support high-quality development? Lanfoan introduces five key areas of work""",neutral,0.5527579188346863,1,2,4,4
-5,chinese,"""International Observation: Who is the Mastermind Behind the Terrorist Attack on the Russian Concert Hall?""",neutral,0.5047653317451477,1,2,4,4
-6,chinese,World Bank President: The Rise of China's Economy is the Result of Hard Work and Effort,positive,0.6067669987678528,2,2,4,4
-7,chinese,"""Director of National Development and Reform Commission: Various Enterprises Will Have Vast Development Opportunities in China""",neutral,0.5282939672470093,1,2,4,4
-8,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Not to Jump to Conclusions""",negative,0.7348907589912415,-2,2,4,4
-9,chinese,"""Inbound tourism market sees frequent ""warm breeze"" as ""buy now, return later"" policy allows more overseas consumers to experience convenient ""shopping spree""""",positive,0.7383565902709961,3,2,4,4
+0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,4,3,3
+1,chinese,"""Visa-free policy, tourist trains, and cruise resumptions... Cross-border tourism welcomes ""spring"" with continued popularity""",positive,0.712183952331543,3,4,3,3
+2,chinese,"""IMF President: China will continue to be an important contributor to global economic growth""",positive,0.8115445375442505,3,4,3,3
+3,chinese,"""China and Dominica Medical Cooperation Expands Local Residents' ""Lifeline""""",neutral,0.4966559410095215,1,4,3,3
+4,chinese,"""Israel's Northern Region Hit by Rocket Attacks from Lebanon""",negative,0.7291659712791443,-2,4,3,3
+5,chinese,"""Spring Blossoms, Enjoy the Beauty of Nature""",positive,0.8900125026702881,3,4,3,3
+6,chinese,"""Russian Embassy in China: People Lay Flowers to Mourn the Victims of the Terrorist Attack""",negative,0.5600250363349915,-1,4,3,3
+7,chinese,How does finance support high-quality development? Lanfoan introduces five key areas of work.,neutral,0.5561527609825134,1,4,3,3
+8,chinese,"""International Observation | Who is the Mastermind Behind the Terrorist Attack at the Russian Music Hall?""",neutral,0.6096854209899902,1,4,3,3
+9,chinese,World Bank President: The Rise of China's Economy is the Result of Hard Work and Effort,positive,0.6067669987678528,2,4,3,3
