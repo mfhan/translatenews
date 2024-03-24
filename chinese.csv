@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack in Suburbs of Moscow,negative,0.7275533676147461,-2,1,5,4
-1,chinese,"""China and Dominica's Medical Cooperation Broadens Local People's ""Lifeline""""",neutral,0.6135698556900024,1,1,5,4
-2,chinese,"""Israel's North Hit by Rocket Attack from Lebanon""",negative,0.7335619330406189,-2,1,5,4
-3,chinese,"""Russian Embassy in China: People Lay Flowers to Mourn Victims of Terrorist Attack""",negative,0.6002382636070251,-1,1,5,4
-4,chinese,"""How does finance support high-quality development? Lanfo'an introduces five key areas of focus""",neutral,0.6348772644996643,1,1,5,4
-5,chinese,"""International Observation | Who is Behind the Terrorist Attack on the Russian Concert Hall?""",negative,0.5223022103309631,-1,1,5,4
-6,chinese,"""World Bank President: China's Economic Rise is the Result of Hard Work""",neutral,0.46501827239990234,1,1,5,4
-7,chinese,"""Director of National Development and Reform Commission: Various Enterprises Will Have Vast Development Opportunities in China""",neutral,0.5282939672470093,1,1,5,4
-8,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Against Hasty Conclusions""",negative,0.5501110553741455,-1,1,5,4
-9,chinese,"""Inbound Tourism Market Sees Frequent ""Warm Breeze"", ""Buy Now, Return Now"" Allows More Overseas Consumers to Experience Convenient ""Shopping Spree""""",positive,0.7320048809051514,3,1,5,4
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,3,4,3
+1,chinese,"""China and Dominica Medical Cooperation Broadens Local People's ""Lifeline""""",neutral,0.6522773504257202,1,3,4,3
+2,chinese,"""Israel's Northern Region Hit by Rocket Attack from Lebanon""",negative,0.7107975482940674,-2,3,4,3
+3,chinese,"""Russian Embassy in China: People Lay Flowers to Mourn Victims of Terrorist Attack""",negative,0.6002382636070251,-1,3,4,3
+4,chinese,"""How does finance support high-quality development? Lanfo'an introduces five key areas of work""",neutral,0.6091305017471313,1,3,4,3
+5,chinese,"""International Observation: Who is the Mastermind Behind the Terrorist Attack on the Russian Music Hall?""",neutral,0.5060673952102661,1,3,4,3
+6,chinese,"""World Bank President: The Rise of China's Economy is the Result of Hard Work and Effort""",positive,0.5898768305778503,2,3,4,3
+7,chinese,"""Director of National Development and Reform Commission: All types of enterprises will have vast development opportunities in China""",positive,0.6165117621421814,2,3,4,3
+8,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Not to Jump to Conclusions""",negative,0.7348907589912415,-2,3,4,3
+9,chinese,"""Inbound tourism market sees frequent ""warm breeze"" with ""buy now, return later"" policy making it easier for more overseas consumers to experience the convenience of ""buy, buy, buy""""",positive,0.6880740523338318,2,3,4,3
