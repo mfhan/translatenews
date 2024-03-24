@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,0,6,4
-1,chinese,"""Three Questions about the Terrorist Attack at a Music Hall near Moscow""",neutral,0.6704206466674805,1,0,6,4
-2,chinese,"""Rescue Operation Concludes at Moscow Terrorist Attack Site, Search Operation Still Ongoing""",neutral,0.6116155385971069,1,0,6,4
-3,chinese,The Ministry of Water Resources Launches Level IV Emergency Response for Drought Prevention in Yunnan and Sichuan,neutral,0.7496368885040283,1,0,6,4
-4,chinese,"""Death toll in Russian terrorist attack continues to rise, Putin vows to severely punish perpetrators""",negative,0.8950198888778687,-2,0,6,4
-5,chinese,"""International Community Condemns Moscow Terrorist Attack, Expresses Condolences for Victims""",negative,0.6105761528015137,-1,0,6,4
-6,chinese,"""World's First! Departing from China to Indonesia""",neutral,0.88341224193573,1,0,6,4
-7,chinese,"""Strict Crackdown on Illegal Foreign Exchange Transactions: Foreign Exchange Bureau Reports 10 Cases of Foreign Exchange Violations""",negative,0.8025434613227844,-2,0,6,4
-8,chinese,"""143 People Dead! Moscow Terrorist Attack Incident Recap""",negative,0.6937752366065979,-1,0,6,4
-9,chinese,"""Russian President Putin Delivers TV Speech on Terrorist Attack, Announces March 24th as National Day of Mourning""",negative,0.8203665614128113,-2,0,6,4
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,0,7,3
+1,chinese,"""Blue Alert for Severe Convective Weather""",negative,0.6159135103225708,-1,0,7,3
+2,chinese,"""Our Ministry of National Defense Warns the Philippines to Stop All Infringement and Provocative Actions""",negative,0.5865762233734131,-1,0,7,3
+3,chinese,"""Russian media reveals details of confession from suspect in terrorist attack""",negative,0.5960739850997925,-1,0,7,3
+4,chinese,"""By the end of 2023, China has a total of 4.5927 million sports facilities, with an average area of 2.89 square meters per person.""",neutral,0.6889268755912781,1,0,7,3
+5,chinese,"""Three Questions about the Terrorist Attack at a Music Hall near Moscow""",neutral,0.6704206466674805,1,0,7,3
+6,chinese,"""Rescue Operation Ends at Moscow Terrorist Attack Scene, Search Operation Still Ongoing""",negative,0.5407001376152039,-1,0,7,3
+7,chinese,"""Ministry of Water Resources Launches Level IV Emergency Response for Drought Prevention in Yunnan and Sichuan""",neutral,0.7490012049674988,1,0,7,3
+8,chinese,"""Death toll continues to rise in Russian terrorist attack, Putin vows to severely punish perpetrators""",negative,0.9072924256324768,-2,0,7,3
+9,chinese,"""International Community Condemns Moscow Terrorist Attack, Expresses Condolences for Victims""",negative,0.6105761528015137,-1,0,7,3
