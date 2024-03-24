@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,0,8,2
-1,chinese,"""Rescue Operation Ends at Moscow Terrorist Attack Site, Search Operation Still Ongoing""",negative,0.5134207010269165,-1,0,8,2
-2,chinese,Ministry of Water Resources Launches Level IV Emergency Response for Drought Prevention in Yunnan and Sichuan,neutral,0.7370548248291016,1,0,8,2
-3,chinese,"""Death Toll Continues to Rise in Russian Terrorist Attack, Putin Vows to Severely Punish Perpetrators""",negative,0.8260787129402161,-2,0,8,2
-4,chinese,"""International Community Condemns Moscow Terrorist Attack, Expresses Condolences for Victims""",negative,0.6105761528015137,-1,0,8,2
-5,chinese,"""World's First! Departing from China to Indonesia""",neutral,0.88341224193573,1,0,8,2
-6,chinese,"""Strict Crackdown on Illegal Foreign Exchange Trading: Foreign Exchange Bureau Reports 10 Cases of Foreign Exchange Violations""",negative,0.810908317565918,-2,0,8,2
-7,chinese,"""143 People Dead in Moscow Terrorist Attack! A Recap of the Incident""",negative,0.6796609163284302,-1,0,8,2
-8,chinese,"""Russian President Putin Delivers TV Speech on Terrorist Attack, Declares March 24th as National Day of Mourning""",negative,0.8334227204322815,-2,0,8,2
-9,chinese,Breaking News: Terrorist Attack in Suburbs of Moscow Leaves 143 Dead,negative,0.7095502018928528,-2,0,8,2
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,0,7,3
+1,chinese,"""Three Questions About the Terrorist Attack at a Music Hall Near Moscow""",neutral,0.6809718608856201,1,0,7,3
+2,chinese,"""Rescue Operation Ends at Moscow Terrorist Attack Site, Search Operation Continues""",negative,0.5581250786781311,-1,0,7,3
+3,chinese,"""Ministry of Water Resources Launches Level IV Emergency Response for Drought Prevention in Yunnan and Sichuan""",neutral,0.7490012049674988,1,0,7,3
+4,chinese,"""Death toll continues to rise in Russian terrorist attack, Putin vows to severely punish perpetrators""",negative,0.9072924256324768,-2,0,7,3
+5,chinese,"""International Community Condemns the Moscow Terrorist Attack, Expresses Condolences for the Victims""",negative,0.5682081580162048,-1,0,7,3
+6,chinese,"""World's First! Departing from China to Indonesia""",neutral,0.88341224193573,1,0,7,3
+7,chinese,"""Strict crackdown on illegal foreign exchange trading, State Administration of Foreign Exchange reports 10 cases of foreign exchange violations""",negative,0.8737496137619019,-2,0,7,3
+8,chinese,"""143 Dead in Moscow Terrorist Attack! A Recap of the Incident""",negative,0.6131518483161926,-1,0,7,3
+9,chinese,"""Russian President Putin Delivers Television Speech on Terrorist Attack, Declares March 24th as National Day of Mourning""",negative,0.8448466062545776,-2,0,7,3
