@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,4,5,1
-1,chinese,"""Foreign Companies Optimistic about China's Economy Seeking ""New"" Quality""",positive,0.7165771722793579,3,4,5,1
-2,chinese,"""Steady Foreign Investment, Optimize Environment, Policy ""Combination Punch"" Accelerates Progress""",positive,0.7625159025192261,3,4,5,1
-3,chinese,"""Through Data, a Bright ""Report Card"" on the Continued Expansion of China's Financial Opening in Terms of Breadth and Depth""",positive,0.48025229573249817,2,4,5,1
-4,chinese,"""Hong Kong and Macau's ""Northbound"" Single-Plate Vehicles Exceed 2 Million Trips""",neutral,0.8077828884124756,1,4,5,1
-5,chinese,"""Rise in Respiratory Infection Cases During Spring, Caution Against Serious Complications in Children""",negative,0.675825297832489,-1,4,5,1
-6,chinese,"""More Efforts Made to Gather Momentum: Inbound Tourism Market Shows Signs of Gradual Recovery""",positive,0.6679286360740662,2,4,5,1
-7,chinese,"""Blue Alert for Severe Convective Weather""",negative,0.6159135103225708,-1,4,5,1
-8,chinese,"""Our Ministry of Defense Warns the Philippines: Stop All Acts of Infringement and Provocation""",negative,0.6196580529212952,-1,4,5,1
-9,chinese,"""Russian Media Reveals Details of Confessions from Suspects in Terrorist Attack""",negative,0.5160031914710999,-1,4,5,1
+0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,4,3,3
+1,chinese,"""Director of National Development and Reform Commission: Various Enterprises Will Have Vast Development Opportunities in China""",neutral,0.5282939672470093,1,4,3,3
+2,chinese,"""Who Launched the Terrorist Attack near Moscow? Russian Ambassador to the US Urges Not to Jump to Conclusions""",negative,0.7348907589912415,-2,4,3,3
+3,chinese,"""Iconic Buildings Around the World Turn Off Lights to Participate in ""Earth Hour"" Event""",neutral,0.7125716209411621,1,4,3,3
+4,chinese,"""Multiple regions send letters to parents on preventing school bullying: Lead by example, education should avoid being simplistic and violent""",negative,0.42255234718322754,-1,4,3,3
+5,chinese,"""Foreign Companies Optimistic about China's Economy Seeking ""New"" Quality""",positive,0.7165771722793579,3,4,3,3
+6,chinese,"""Steady Foreign Investment, Optimize Environment, Policy ""Combination Punch"" Accelerates Progress""",positive,0.7625159025192261,3,4,3,3
+7,chinese,"""Through Data, See the Bright ""Report Card"": China's Financial Opening Continues to Expand in Breadth and Depth""",positive,0.5697890520095825,2,4,3,3
+8,chinese,"""I will remember this trip"" - German tourists experience the ""wonderful China""",positive,0.8230764865875244,3,4,3,3
+9,chinese,"""Hong Kong and Macau's ""Northbound"" Single-Plate Cars Exceed 2 Million Trips""",neutral,0.7804217338562012,1,4,3,3
