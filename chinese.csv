@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,6,3
 1,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I am here to be a Bridge for Cultural Exchange""",neutral,0.6119498610496521,1,1,6,3
-2,chinese,"""Ministry of Foreign Affairs: Urges US to Immediately Stop Interfering in Hong Kong Affairs""",negative,0.6152346134185791,-1,1,6,3
+2,chinese,Ministry of Foreign Affairs: Urges the US to Immediately Stop Interfering in Hong Kong Affairs,negative,0.6217108964920044,-1,1,6,3
 3,chinese,"""Ukrainian capital hit by missile attack, at least 5 injured""",negative,0.8460332155227661,-2,1,6,3
-4,chinese,"""Reasoning and Evaluation | ""Singing the Decline Theory"" Cannot Stop China's Economy from Surging Forward""",negative,0.5668674111366272,-1,1,6,3
-5,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Orbit Around the Moon""",positive,0.6219905018806458,2,1,6,3
-6,chinese,"""Who is Hindering the Ceasefire in Gaza? The International Community Witnesses It""",negative,0.7360440492630005,-2,1,6,3
+4,chinese,"""Reason and Fairness | ""Negative Outlook"" Cannot Stop China's Economy from Surging Forward""",negative,0.5567083358764648,-1,1,6,3
+5,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Lunar Orbit Flight""",positive,0.6649107336997986,2,1,6,3
+6,chinese,"""Who is Obstructing the Ceasefire in Gaza? The International Community Witnesses It""",negative,0.7884807586669922,-2,1,6,3
 7,chinese,"""South Korean Medical University Professor to Join ""Resignation Wave"" Medical Crisis Feared to Worsen""",negative,0.6973099708557129,-1,1,6,3
-8,chinese,"""Boao Forum for Asia 2024 Annual Conference to Open Tomorrow, Highlights Previewed in One Image""",neutral,0.7664177417755127,1,1,6,3
-9,chinese,"China's 5G base station total reaches 3.509 million, accounting for nearly 30% of total mobile base stations.",neutral,0.7010462880134583,1,1,6,3
+8,chinese,"""Boao Forum for Asia Annual Conference 2024 to Open Tomorrow: A Preview of the Highlights in One Picture""",neutral,0.7429283261299133,1,1,6,3
+9,chinese,"""China's 5G Base Station Total Reaches 3.509 Million, Accounting for Nearly 30% of Mobile Base Stations""",neutral,0.7592222690582275,1,1,6,3
