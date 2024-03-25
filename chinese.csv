@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,4,3,3
-1,chinese,"""Is a ""Big Battle"" Between China and Europe in Electric Cars Inevitable? Spanish Scholar: EU Should Not Act Rashly""",negative,0.7077136039733887,-2,4,3,3
-2,chinese,"""Is it Worth Spending 380 Yuan per Year to Join the Resident Medical Insurance? - National Medical Insurance Bureau Answers Questions about Resident Medical Insurance Enrollment""",neutral,0.8762227892875671,1,4,3,3
-3,chinese,"""Geneva School of Diplomacy Professor: Democracy in America is only a political slogan and commodity""",neutral,0.7278226017951965,1,4,3,3
+0,chinese,Special Report: Terrorist Attack near Moscow Suburbs,negative,0.6932128667831421,-1,4,3,3
+1,chinese,"""Is a ""Great Battle"" between China and Europe's Electric Cars Inevitable? Spanish Scholar Warns EU to Act with Caution""",negative,0.7067440748214722,-2,4,3,3
+2,chinese,"""Is it Worth Paying 380 Yuan a Year for Participating in Residents' Medical Insurance? - National Medical Insurance Bureau Answers Questions from Reporters on Residents' Medical Insurance Enrollment""",neutral,0.8860235810279846,1,4,3,3
+3,chinese,"""Geneva School of Diplomacy Professor: Democracy in America is Only a Political Slogan and Commodity""",neutral,0.8195235729217529,1,4,3,3
 4,chinese,"""Tianshui Spicy Hotpot Boss Talks About Explosive Popularity: Gan Gu's Chili and Sincere Heart""",neutral,0.5819799900054932,1,4,3,3
 5,chinese,"""Comprehensive News | Russia mourns victims of terrorist attack, Investigative Committee reports death toll rises to 137""",negative,0.7543419003486633,-2,4,3,3
 6,chinese,"""Building a Nest to Attract the Phoenix and Cultivate New Opportunities""",positive,0.6656561493873596,2,4,3,3
 7,chinese,"""Spring Blossoms, Enjoy the Beauty of Nature""",positive,0.8900125026702881,3,4,3,3
-8,chinese,"""Visa-free policy, tourist trains, and cruise resumptions... Cross-border tourism welcomes ""spring"" with continuous rise in popularity""",positive,0.6996207237243652,2,4,3,3
-9,chinese,"""IMF President: China Will Continue to Be an Important Contributor to Global Economic Growth""",positive,0.8381505608558655,3,4,3,3
+8,chinese,"""Visa-free policy, specialized tourist trains, and resumption of cruises... Cross-border tourism welcomes ""spring"" with continuous increase in popularity""",positive,0.6881686449050903,2,4,3,3
+9,chinese,"""IMF President: China Will Continue to be an Important Contributor to Global Economic Growth""",positive,0.837681770324707,3,4,3,3
