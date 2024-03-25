@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,4,4,2
-1,chinese,"""Comprehensive News | Russia mourns victims of terrorist attack, Investigative Committee reports death toll rises to 137""",negative,0.7543419003486633,-2,4,4,2
+1,chinese,"""Comprehensive News | Russia Mourns Victims of Terrorist Attack, Investigative Committee Reports Death Toll Rises to 137""",negative,0.7487932443618774,-2,4,4,2
 2,chinese,"""Building a Nest to Attract the Phoenix and Cultivate New Opportunities""",positive,0.6656561493873596,2,4,4,2
-3,chinese,"""Spring Blossoms, Enjoy the Beauty of Nature to the Fullest""",positive,0.897368311882019,3,4,4,2
-4,chinese,"""Visa-free policy, tourist trains, cruise resumption...Cross-border tourism welcomes ""spring"" with continuous increase in popularity""",positive,0.6639515161514282,2,4,4,2
+3,chinese,"""Spring Brings Warmth and Blossoms, Enjoy the Beauty of Nature""",positive,0.898725152015686,3,4,4,2
+4,chinese,"""Visa-free policy, tourist trains, and cruise resumptions... Cross-border tourism welcomes ""spring"" with continued popularity""",positive,0.712183952331543,3,4,4,2
 5,chinese,"""IMF President: China Will Continue to Be an Important Contributor to Global Economic Growth""",positive,0.8381505608558655,3,4,4,2
-6,chinese,"""China and Dominica's Medical Cooperation Broadens Local People's ""Lifeline""""",neutral,0.6135698556900024,1,4,4,2
-7,chinese,"""Israel's Northern Region Hit by Rocket Attack from Lebanon""",negative,0.7107975482940674,-2,4,4,2
+6,chinese,"""China and Dominica Medical Cooperation Broadens Local People's ""Lifeline""""",neutral,0.6522773504257202,1,4,4,2
+7,chinese,"""Israel's North Hit by Rocket Attacks from Lebanon""",negative,0.7466874122619629,-2,4,4,2
 8,chinese,"""Russian Embassy in China: People Lay Flowers to Mourn Victims of Terrorist Attack""",negative,0.6002382636070251,-1,4,4,2
 9,chinese,"""How does finance support high-quality development? Lanfoan introduces five key areas of work""",neutral,0.5527579188346863,1,4,4,2
