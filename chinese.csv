@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,4,3,3
-1,chinese,"""Geneva School of Diplomacy Professor: Democracy in America is Only a Political Slogan and Commodity""",neutral,0.8195235729217529,1,4,3,3
-2,chinese,"""Tianshui Spicy Hotpot Boss Talks About Explosive Popularity: Gan Gu's Chili and Sincere Heart""",neutral,0.5819799900054932,1,4,3,3
-3,chinese,"""Comprehensive News | Russia Mourns Victims of Terrorist Attack, Investigative Committee Reports Death Toll Rises to 137""",negative,0.7487932443618774,-2,4,3,3
-4,chinese,"""Building a Nest to Attract the Phoenix and Cultivate New Opportunities""",positive,0.6656561493873596,2,4,3,3
-5,chinese,"""Spring Blossoms, Enjoy the Beauty of Nature""",positive,0.8900125026702881,3,4,3,3
-6,chinese,"""Visa-free policy, special tourist trains, and resumption of cruises... Cross-border tourism welcomes ""spring"" with continuously rising popularity""",positive,0.726959764957428,3,4,3,3
-7,chinese,"""IMF President: China Will Continue to Be an Important Contributor to Global Economic Growth""",positive,0.8381505608558655,3,4,3,3
-8,chinese,"""China and Dominica Expand Local People's ""Lifeline"" through Medical Cooperation""",neutral,0.4934869408607483,1,4,3,3
-9,chinese,"""Northern Israel Hit by Rocket Attack from Lebanon""",negative,0.6780239343643188,-1,4,3,3
+1,chinese,"""Is a ""Great Battle"" Between China and Europe in Electric Cars Inevitable? Spanish Scholar: EU Should Not Act Rashly""",negative,0.6961867809295654,-1,4,3,3
+2,chinese,"""Is it Worth Spending 380 Yuan a Year to Join the Residents' Medical Insurance? - National Medical Insurance Bureau Answers Questions about Residents' Insurance Enrollment""",neutral,0.8528666496276855,1,4,3,3
+3,chinese,"""Geneva School of Diplomacy Professor: Democracy in America is only a political slogan and commodity""",neutral,0.7278226017951965,1,4,3,3
+4,chinese,"""Tianshui Spicy Hotpot Boss Talks About Explosive Popularity: Gan Gu's Chili and Sincere Heart""",neutral,0.5819799900054932,1,4,3,3
+5,chinese,"""Comprehensive News | Russia mourns victims of terrorist attack, Investigative Committee reports death toll rises to 137""",negative,0.7543419003486633,-2,4,3,3
+6,chinese,"""Building Nests to Attract Phoenixes and Cultivate New Opportunities""",positive,0.6629534363746643,2,4,3,3
+7,chinese,"""Spring Blossoms, Enjoy the Beauty of Nature""",positive,0.8900125026702881,3,4,3,3
+8,chinese,"""Visa-free policy, tourist trains, and cruise resumptions... Cross-border tourism welcomes ""spring"" with continued popularity""",positive,0.712183952331543,3,4,3,3
+9,chinese,"""IMF President: China Will Continue to be an Important Contributor to Global Economic Growth""",positive,0.837681770324707,3,4,3,3
