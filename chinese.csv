@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,6,3
-1,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I am here to be a Bridge for Cultural Exchange""",neutral,0.6119498610496521,1,1,6,3
-2,chinese,"""Ministry of Foreign Affairs: Urges the US to Immediately Stop Interfering in Hong Kong Affairs""",negative,0.6268978714942932,-1,1,6,3
-3,chinese,"""Ukrainian Capital Hit by Missile Attack, at Least 5 Injured""",negative,0.8029748201370239,-2,1,6,3
-4,chinese,"""Debunking the ""Decline Theory"": Unable to Halt China's Strong Economic Growth""",negative,0.893503725528717,-2,1,6,3
-5,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Lunar Orbit Flight""",positive,0.6649107336997986,2,1,6,3
-6,chinese,"""Who is obstructing the ceasefire in Gaza? The international community witnesses it.""",negative,0.8130953311920166,-2,1,6,3
-7,chinese,"""South Korean Medical University Professor to Join ""Resignation Wave"" Medical Crisis Feared to Worsen""",negative,0.6973099708557129,-1,1,6,3
-8,chinese,"""Boao Forum for Asia Annual Conference 2024 to Open Tomorrow: A Preview of the Highlights in One Picture""",neutral,0.7429283261299133,1,1,6,3
-9,chinese,"China's 5G base station total reaches 3.509 million, accounting for nearly 30% of total mobile base stations.",neutral,0.7010462880134583,1,1,6,3
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,5,4
+1,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I am here to be a Bridge for Cultural Exchange""",neutral,0.6119498610496521,1,1,5,4
+2,chinese,"""Ministry of Foreign Affairs: Urges the US to Immediately Stop Interfering in Hong Kong Affairs""",negative,0.6268978714942932,-1,1,5,4
+3,chinese,"""Ukrainian Capital Hit by Missile Attack, at Least 5 Injured""",negative,0.8029748201370239,-2,1,5,4
+4,chinese,"""Reason and Fairness | ""Singing the Decline Theory"" Cannot Stop the Rapid Advancement of China's Economy""",neutral,0.4497206211090088,1,1,5,4
+5,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Lunar Orbit Maneuver and Smoothly Enters Lunar Orbit Flight""",positive,0.6704832315444946,2,1,5,4
+6,chinese,"""Who is obstructing the ceasefire in Gaza? The international community witnesses it.""",negative,0.8130953311920166,-2,1,5,4
+7,chinese,"""South Korean Medical University Professor to Join ""Resignation Wave"" Medical Crisis Feared to Worsen""",negative,0.6973099708557129,-1,1,5,4
+8,chinese,"""Boao Forum for Asia 2024 Annual Conference to Open Tomorrow, Highlights Previewed in One Image""",neutral,0.7664177417755127,1,1,5,4
+9,chinese,"China's 5G base station total reaches 3.509 million, accounting for nearly 30% of total mobile base stations.",neutral,0.7010462880134583,1,1,5,4
