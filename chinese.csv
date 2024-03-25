@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,3,6
+0,chinese,Special Report: Terrorist Attack in the Suburbs of Moscow,negative,0.7433443665504456,-2,1,3,6
 1,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Lunar Orbit Flight""",positive,0.6649107336997986,2,1,3,6
 2,chinese,"""Who is obstructing the ceasefire in Gaza? The international community can see it clearly.""",negative,0.828986644744873,-2,1,3,6
-3,chinese,"""South Korean Medical University Professor to Join ""Resignation Wave"" as Medical Crisis Worsens""",neutral,0.5437789559364319,1,1,3,6
-4,chinese,"""Boao Forum for Asia Annual Conference 2024 to Open Tomorrow: A Preview of the Highlights in One Picture""",neutral,0.7429283261299133,1,1,3,6
-5,chinese,"China's 5G base station total reaches 3.509 million, accounting for nearly 30% of total mobile base stations.",neutral,0.7010462880134583,1,1,3,6
+3,chinese,"""Korean Medical University Professor to Join ""Resignation Wave"" Medical Crisis Likely to Worsen""",neutral,0.5045775771141052,1,1,3,6
+4,chinese,"""Boao Forum for Asia Annual Conference 2024 to Open Tomorrow, Highlights Previewed in One Picture""",neutral,0.7582328915596008,1,1,3,6
+5,chinese,"""China's Total Number of 5G Base Stations Reaches 3.509 Million, Accounting for Nearly 30% of Total Mobile Base Stations""",neutral,0.7560071349143982,1,1,3,6
 6,chinese,"""Multinational Corporation Executives: Investing in China is Investing in the Future""",neutral,0.578201949596405,1,1,3,6
-7,chinese,"""Is a 'Big Battle' Between China and Europe in Electric Cars Inevitable? Spanish Scholar: The EU Should Not Act Rashly""",negative,0.7616510987281799,-2,1,3,6
-8,chinese,"""Is it Worth Paying 380 Yuan Per Year for Resident Medical Insurance? - National Medical Insurance Bureau Answers Questions on Resident Medical Insurance Enrollment""",neutral,0.8922252655029297,1,1,3,6
+7,chinese,"""Is a ""Big Battle"" Between China and Europe's Electric Cars Inevitable? Spanish Scholar Warns EU Not to Act Rashly""",negative,0.7973082065582275,-2,1,3,6
+8,chinese,"""Is it Worth Paying 380 Yuan for One Year of Participating in Resident Medical Insurance? - National Medical Insurance Bureau Answers Questions from Reporters on Resident Medical Insurance Enrollment""",neutral,0.8894861936569214,1,1,3,6
 9,chinese,"""Geneva School of Diplomacy Professor: Democracy in America is Only a Political Slogan and Commodity""",neutral,0.8195235729217529,1,1,3,6
