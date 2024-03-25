@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Topic: Terrorist Attack in Moscow Suburbs,negative,0.653142511844635,-1,4,4,2
-1,chinese,"""Tianshui Spicy Hotpot Boss Talks About Explosive Popularity: Gan Gu's Chili and Sincere Heart""",neutral,0.5819799900054932,1,4,4,2
-2,chinese,"""Comprehensive News | Russia mourns for victims of terrorist attack, Investigative Committee reports death toll rises to 137""",negative,0.7754325270652771,-2,4,4,2
-3,chinese,"""Building a Nest to Attract the Phoenix and Cultivate New Opportunities""",positive,0.6656561493873596,2,4,4,2
-4,chinese,"""Spring Blossoms, Enjoy the Beauty of Nature""",positive,0.8900125026702881,3,4,4,2
-5,chinese,"""Visa-free policy, dedicated tourist trains, and resumption of cruises... Cross-border tourism welcomes ""spring"" with continuous increase in popularity""",positive,0.7251929044723511,3,4,4,2
-6,chinese,"""IMF President: China will continue to be a major contributor to global economic growth""",positive,0.8074407577514648,3,4,4,2
-7,chinese,"""China and Dominica Medical Cooperation Broadens Local People's ""Lifeline""""",neutral,0.6522773504257202,1,4,4,2
-8,chinese,"""Israel's Northern Region Hit by Rocket Attack from Lebanon""",negative,0.7107975482940674,-2,4,4,2
-9,chinese,"""Russian Embassy in China: People Lay Flowers to Mourn Victims of Terrorist Attack""",negative,0.6002382636070251,-1,4,4,2
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,4,3,3
+1,chinese,"""Geneva School of Diplomacy Professor: Democracy in America is Only a Political Slogan and Commodity""",neutral,0.8195235729217529,1,4,3,3
+2,chinese,"""Tianshui Spicy Hotpot Boss Talks About Explosive Popularity: Gan Gu's Chili and Sincere Heart""",neutral,0.5819799900054932,1,4,3,3
+3,chinese,"""Comprehensive News | Russia Mourns Victims of Terrorist Attack, Investigative Committee Reports Death Toll Rises to 137""",negative,0.7487932443618774,-2,4,3,3
+4,chinese,"""Building a Nest to Attract the Phoenix and Cultivate New Opportunities""",positive,0.6656561493873596,2,4,3,3
+5,chinese,"""Spring Blossoms, Enjoy the Beauty of Nature""",positive,0.8900125026702881,3,4,3,3
+6,chinese,"""Visa-free policy, special tourist trains, and resumption of cruises... Cross-border tourism welcomes ""spring"" with continuously rising popularity""",positive,0.726959764957428,3,4,3,3
+7,chinese,"""IMF President: China Will Continue to Be an Important Contributor to Global Economic Growth""",positive,0.8381505608558655,3,4,3,3
+8,chinese,"""China and Dominica Expand Local People's ""Lifeline"" through Medical Cooperation""",neutral,0.4934869408607483,1,4,3,3
+9,chinese,"""Northern Israel Hit by Rocket Attack from Lebanon""",negative,0.6780239343643188,-1,4,3,3
