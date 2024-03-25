@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack in the Outskirts of Moscow,negative,0.7341764569282532,-2,1,5,4
-1,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I Come to be a Bridge for Cultural Exchange""",neutral,0.613231897354126,1,1,5,4
-2,chinese,Ministry of Foreign Affairs: Urges US to Immediately Stop Interfering in Hong Kong Affairs,negative,0.6132187247276306,-1,1,5,4
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,5,4
+1,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I am here to be a Bridge for Cultural Exchange""",neutral,0.6119498610496521,1,1,5,4
+2,chinese,"""Ministry of Foreign Affairs: Urges US to Immediately Stop Interfering in Hong Kong Affairs""",negative,0.6152346134185791,-1,1,5,4
 3,chinese,"""Ukrainian capital hit by missile attack, at least 5 injured""",negative,0.8460332155227661,-2,1,5,4
-4,chinese,"""Reasoning and Evaluation | ""Doomsaying"" Cannot Stop China's Economy from Surging Forward""",negative,0.662040114402771,-1,1,5,4
+4,chinese,"""Debunking the ""Decline Theory"": Unable to Halt China's Thriving Economy""",negative,0.910550057888031,-2,1,5,4
 5,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Lunar Orbit Flight""",positive,0.6649107336997986,2,1,5,4
 6,chinese,"""Who is obstructing the ceasefire in Gaza? The international community sees it clearly""",negative,0.8291630148887634,-2,1,5,4
-7,chinese,"""South Korean Medical University Professor to Join ""Resignation Wave"" as Medical Crisis Worsens""",neutral,0.5437789559364319,1,1,5,4
-8,chinese,"""Boao Forum for Asia 2024 Annual Conference to Open Tomorrow, Highlights Previewed in One Picture""",neutral,0.7517487406730652,1,1,5,4
-9,chinese,"""China's 5G Base Station Total Reaches 3.509 Million, Accounting for Nearly 30% of Mobile Base Stations""",neutral,0.7592222690582275,1,1,5,4
+7,chinese,"""South Korean Medical University Professor to Join ""Resignation Wave"" Medical Crisis Likely to Worsen""",neutral,0.5350233912467957,1,1,5,4
+8,chinese,"""Boao Forum for Asia 2024 Annual Meeting to Open Tomorrow, Highlights Previewed in One Image""",neutral,0.7677583694458008,1,1,5,4
+9,chinese,"""China's 5G Base Stations Reach a Total of 3.509 Million, Accounting for Nearly 30% of All Mobile Base Stations""",neutral,0.7370449304580688,1,1,5,4
