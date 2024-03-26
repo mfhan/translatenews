@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,4,2,4
+0,chinese,Special Report: Terrorist Attack near Moscow Suburbs,negative,0.6932128667831421,-1,4,2,4
 1,chinese,"""Over 2,000 Representatives from More Than 60 Countries and Regions Attend the 2024 Boao Forum for Asia Annual Conference""",neutral,0.7058191895484924,1,4,2,4
-2,chinese,"""Dialogue and Reasoning | Overseas Communities Flock to China, Open China is Full of Opportunities""",positive,0.4733717739582062,2,4,2,4
+2,chinese,"""Dialogue and Justice | People from All Over the World Flock to China, an Open Country Full of Opportunities""",positive,0.483364999294281,2,4,2,4
 3,chinese,"""Tongren, Guizhou: The ""Matcha Capital"" Under the Fanjingshan Mountain""",neutral,0.8617596626281738,1,4,2,4
-4,chinese,"""Former Cambodian Minister: Proposing Similar Ideas, China and ASEAN Should Work Together to Resolve ""Trust Deficit""""",positive,0.4332480728626251,2,4,2,4
-5,chinese,"""Mediation and Strengthened Communication Promote Cooperation and Stabilize the Development of US-China Relations""",positive,0.6921009421348572,2,4,2,4
-6,chinese,"""Top 10 New Archaeological Discoveries Revealed: What Did Prehistoric Tower Buildings Look Like?""",neutral,0.8007241487503052,1,4,2,4
-7,chinese,"Former President of Chinese Football Association, Chen Xuyuan, sentenced to life imprisonment in first instance for bribery.",negative,0.798248291015625,-2,4,2,4
-8,chinese,"""Freshness at its Best! Abundance of Spring Fruits Available from South to North""",positive,0.7593611478805542,3,4,2,4
-9,chinese,"""Gradual Increase in the Value of Rural and Urban Residents' Medical Insurance Seen from These Data""",neutral,0.7488967776298523,1,4,2,4
+4,chinese,"""Former Cambodian Minister: Advocating for Similar Ideas, China and ASEAN Should Work Together to Solve ""Trust Deficit""""",positive,0.48067983984947205,2,4,2,4
+5,chinese,"""Strengthening Communication to Promote Cooperation and Stabilize the Development of US-China Relations""",positive,0.692514955997467,2,4,2,4
+6,chinese,"""Top 10 Newly Discovered Archaeological Finds Revealed | What Did Prehistoric Tower Buildings Look Like?""",neutral,0.7231857776641846,1,4,2,4
+7,chinese,"Former Chairman of the Chinese Football Association, Chen Xuyuan, sentenced to life imprisonment for bribery in first trial.",negative,0.811408281326294,-2,4,2,4
+8,chinese,"""Freshness in Season! Spring Fruits Abundantly Available from South to North""",positive,0.5835541486740112,2,4,2,4
+9,chinese,"""Rural and Urban Residents' Medical Insurance ""Value"" Gradually Increases Based on These Data""",neutral,0.7504000663757324,1,4,2,4
