@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,3,2,5
-1,chinese,"""Tongren, Guizhou: The ""Matcha Capital"" at the Foot of Fanjing Mountain""",neutral,0.9032085537910461,1,3,2,5
-2,chinese,"Former Cambodian Minister: Proposing Similar Ideas, China and ASEAN Should Join Forces to Solve ""Trust Deficit""",neutral,0.49433499574661255,1,3,2,5
-3,chinese,"""Top 10 Archaeological Discoveries Revealed: What Did Prehistoric Tower Buildings Look Like?""",neutral,0.8030287027359009,1,3,2,5
+1,chinese,"""Tongren, Guizhou: The ""Matcha Capital"" Under Mount Fanjing""",neutral,0.9040850400924683,1,3,2,5
+2,chinese,"Former Cambodian Minister: China and ASEAN should work together to solve the ""trust deficit"" with similar ideas",neutral,0.43855178356170654,1,3,2,5
+3,chinese,"""Top 10 New Archaeological Discoveries Revealed: What Did Prehistoric Tower Buildings Look Like?""",neutral,0.8007241487503052,1,3,2,5
 4,chinese,"Former Chairman of the Chinese Football Association, Chen Xuyuan, sentenced to life imprisonment in first instance for bribery.",negative,0.7735901474952698,-2,3,2,5
-5,chinese,"""Try the Fresh Fruits Now! Abundance of Spring Fruits Available from South to North""",neutral,0.570114016532898,1,3,2,5
-6,chinese,"""Improving the Value of Urban and Rural Residents' Medical Insurance from These Data""",neutral,0.8423537015914917,1,3,2,5
+5,chinese,"""Freshness is in season! Spring fruits are abundant from south to north.""",positive,0.7937487363815308,3,3,2,5
+6,chinese,"""Gradual Improvement in the Value of Urban and Rural Residents' Medical Insurance Seen from These Data""",neutral,0.5748060345649719,1,3,2,5
 7,chinese,"""Magpie Bridge II Relay Satellite Successfully Enters Lunar Orbit Flight""",positive,0.5800642371177673,2,3,2,5
-8,chinese,"""Multinational Corporation Executives Discuss New Productivity: Seizing the New Dividend Unleashed by China's Development""",positive,0.5090628266334534,2,3,2,5
+8,chinese,"""Multinational Corporation Executives Discuss New Productive Forces: Seizing the New Dividends Released by China's Development""",neutral,0.5905984044075012,1,3,2,5
 9,chinese,"""Eight government officials jointly express confidence in China's economic development""",positive,0.7715480327606201,3,3,2,5
