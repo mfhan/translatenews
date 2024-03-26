@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,3,5
-1,chinese,"""Ministry of Foreign Affairs: Cooperation between China and Hungary has been highly effective in the past year""",positive,0.7907055020332336,3,2,3,5
-2,chinese,"""[Voice of Boao] Secretary-General and Policy Advisor of Boao Forum for Asia: China's Economy is Not Only the Driving Force of Asia, But Also the World""",neutral,0.71930330991745,1,2,3,5
-3,chinese,"""World Water Day"" and ""China Water Week"" Activities are Colorful in Various Regions",neutral,0.5228346586227417,1,2,3,5
-4,chinese,"""Boao Forum for Asia Holds First Press Conference for 2024 Annual Meeting""",neutral,0.8314436674118042,1,2,3,5
-5,chinese,"""CSRC: Resolutely Break the ""Ecosystem"" of Financial Fraud""",negative,0.8959596157073975,-2,2,3,5
-6,chinese,Ministry of Industry and Information Technology: China's 5G Users Reached 851 Million Households by the End of February,neutral,0.53535395860672,1,2,3,5
-7,chinese,"""[Insight] American Economist Sachs: America Still Thinks It Dominates the World, This Idea is Naive and Dangerous!""",negative,0.9416667819023132,-2,2,3,5
-8,chinese,"""Over 2,000 Representatives from More Than 60 Countries and Regions Attend the 2024 Boao Forum for Asia Annual Conference""",neutral,0.7058191895484924,1,2,3,5
-9,chinese,"""Dialogue and Justice | Overseas Communities Flock to China, Open China is Full of Opportunities""",positive,0.4807593822479248,2,2,3,5
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,1,7
+1,chinese,"""The nation's first specialized cargo airport is here! Central region to create a more competitive inland open highland""",positive,0.6753793358802795,2,2,1,7
+2,chinese,"""China Men's National Football Team Defeats Singapore Team in World Cup Qualifier""",neutral,0.6567901968955994,1,2,1,7
+3,chinese,"""Russian Ministry of Emergency Situations: Search and Rescue Operations for Moscow State Music Hall Terrorist Attack Have Been Completed""",neutral,0.7060375213623047,1,2,1,7
+4,chinese,"""CSRC: Strengthening the High-Pressure Situation of Combating Corruption""",neutral,0.5404947400093079,1,2,1,7
+5,chinese,"""Ministry of Foreign Affairs: Cooperation between China and Hungary has been highly effective in the past year""",positive,0.7907055020332336,3,2,1,7
+6,chinese,"""A Voice from Boao: Secretary-General and Policy Advisor of Boao Forum for Asia: China's Economy is Not Only the Driving Force of Asia, But Also the World""",neutral,0.6991298794746399,1,2,1,7
+7,chinese,"""World Water Day"" and ""China Water Week"" Activities are Diverse and Colorful in Different Regions",neutral,0.6637957692146301,1,2,1,7
+8,chinese,"""Boao Forum for Asia Holds First Press Conference for 2024 Annual Meeting""",neutral,0.8314436674118042,1,2,1,7
+9,chinese,"""CSRC: Firmly Eliminate the ""Ecosystem"" of Financial Fraud""",neutral,0.4740619659423828,1,2,1,7
