@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,3,2,5
-1,chinese,Ministry of Foreign Affairs: Cooperation between China and Hungary has been highly effective in the past year,positive,0.8109531402587891,3,3,2,5
-2,chinese,"""Voice of Boao: Secretary-General and Policy Advisor of Boao Forum for Asia: China's Economy is Not Only the Driving Force of Asia, But Also the World""",neutral,0.7208542227745056,1,3,2,5
-3,chinese,"""Various Regions Celebrate World Water Day with Colorful Activities in China Water Week""",positive,0.611254096031189,2,3,2,5
-4,chinese,"""Boao Forum for Asia Holds First Press Conference for 2024 Annual Meeting""",neutral,0.8314436674118042,1,3,2,5
-5,chinese,"""CSRC: Firmly Eliminating the ""Ecosystem"" of Financial Fraud""",neutral,0.46854108572006226,1,3,2,5
-6,chinese,"Ministry of Industry and Information Technology: As of the end of February, China's 5G users reached 851 million households.",neutral,0.7134178280830383,1,3,2,5
-7,chinese,"""[Insight] American Economist Sachs: America Still Believes It Dominates the World, This Idea is Naive and Dangerous!""",negative,0.93861323595047,-2,3,2,5
-8,chinese,"""Over 2,000 Representatives from More Than 60 Countries and Regions Attend the Boao Forum for Asia 2024 Annual Conference""",neutral,0.681319534778595,1,3,2,5
-9,chinese,"""Dialogue and Reasoning | Overseas Communities Flock to China, Open China is Full of Opportunities""",positive,0.4733717739582062,2,3,2,5
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,3,3,4
+1,chinese,"""Ministry of Foreign Affairs: Cooperation between China and Hungary has been highly effective in the past year""",positive,0.7907055020332336,3,3,3,4
+2,chinese,"""Voice of Boao: Secretary-General and Policy Advisor of Boao Forum for Asia: Chinese Economy Not Only a Driving Force in Asia, But Also in the World""",neutral,0.749422013759613,1,3,3,4
+3,chinese,"""Various regions celebrate World Water Day with diverse activities during China Water Week""",positive,0.6613627672195435,2,3,3,4
+4,chinese,"""Boao Forum for Asia Holds First Press Conference for 2024 Annual Meeting""",neutral,0.8314436674118042,1,3,3,4
+5,chinese,"""CSRC: Resolutely Break the ""Ecosystem"" of Financial Fraud""",negative,0.8959596157073975,-2,3,3,4
+6,chinese,Ministry of Industry and Information Technology: China's 5G users reached 851 million households by the end of February.,neutral,0.6576612591743469,1,3,3,4
+7,chinese,"""[Insight] American economist Sachs: America still believes it dominates the world, this idea is naive and dangerous!""",negative,0.9355126619338989,-2,3,3,4
+8,chinese,"""Over 2,000 delegates from more than 60 countries and regions attend the Boao Forum for Asia 2024 Annual Conference""",neutral,0.7486361265182495,1,3,3,4
+9,chinese,"""Fairness and Justice | Overseas Communities Flock to China, Open China Full of Opportunities""",positive,0.5838944315910339,2,3,3,4
