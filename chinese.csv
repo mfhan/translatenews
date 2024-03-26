@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack near Moscow Suburbs,negative,0.6932128667831421,-1,4,2,4
-1,chinese,"""Over 2,000 Representatives from More Than 60 Countries and Regions Attend the 2024 Boao Forum for Asia Annual Conference""",neutral,0.7058191895484924,1,4,2,4
-2,chinese,"""Dialogue and Justice | People from All Over the World Flock to China, an Open Country Full of Opportunities""",positive,0.483364999294281,2,4,2,4
-3,chinese,"""Tongren, Guizhou: The ""Matcha Capital"" Under the Fanjingshan Mountain""",neutral,0.8617596626281738,1,4,2,4
-4,chinese,"""Former Cambodian Minister: Advocating for Similar Ideas, China and ASEAN Should Work Together to Solve ""Trust Deficit""""",positive,0.48067983984947205,2,4,2,4
-5,chinese,"""Strengthening Communication to Promote Cooperation and Stabilize the Development of US-China Relations""",positive,0.692514955997467,2,4,2,4
-6,chinese,"""Top 10 Newly Discovered Archaeological Finds Revealed | What Did Prehistoric Tower Buildings Look Like?""",neutral,0.7231857776641846,1,4,2,4
-7,chinese,"Former Chairman of the Chinese Football Association, Chen Xuyuan, sentenced to life imprisonment for bribery in first trial.",negative,0.811408281326294,-2,4,2,4
-8,chinese,"""Freshness in Season! Spring Fruits Abundantly Available from South to North""",positive,0.5835541486740112,2,4,2,4
-9,chinese,"""Rural and Urban Residents' Medical Insurance ""Value"" Gradually Increases Based on These Data""",neutral,0.7504000663757324,1,4,2,4
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,3,5
+1,chinese,"""Voice of Boao: Secretary-General and Policy Advisor of Boao Forum for Asia: China's Economy is not only the Driving Force of Asia, but also of the World""",neutral,0.7362565398216248,1,2,3,5
+2,chinese,"""Various Regions Celebrate World Water Day with Colorful Activities in China Water Week""",positive,0.611254096031189,2,2,3,5
+3,chinese,"""Boao Forum for Asia Holds First Press Conference for 2024 Annual Meeting""",neutral,0.8314436674118042,1,2,3,5
+4,chinese,"""CSRC: Resolutely Breaking the ""Ecosystem"" of Financial Fraud""",negative,0.8499757051467896,-2,2,3,5
+5,chinese,"Ministry of Industry and Information Technology: As of the end of February, China's 5G users reached 851 million households.",neutral,0.7134178280830383,1,2,3,5
+6,chinese,"""[Insight] American Economist Sachs: America Still Believes It Dominates the World, This Idea is Naive and Dangerous!""",negative,0.93861323595047,-2,2,3,5
+7,chinese,"""Over 2,000 representatives from more than 60 countries and regions attend the Boao Forum for Asia Annual Conference 2024""",neutral,0.7726917862892151,1,2,3,5
+8,chinese,"""Dialogue and Reasoning | Overseas Communities Flock to China, Open China is Full of Opportunities""",positive,0.4733717739582062,2,2,3,5
+9,chinese,"""Tongren, Guizhou: The ""Matcha Capital"" Under the Fanjingshan Mountain""",neutral,0.8617596626281738,1,2,3,5
