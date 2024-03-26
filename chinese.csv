@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,1,5,4
-1,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I am here to be a Bridge for Cultural Exchange""",neutral,0.6119498610496521,1,1,5,4
-2,chinese,"""Ministry of Foreign Affairs: Urges US to Immediately Stop Interfering in Hong Kong Affairs""",negative,0.6152346134185791,-1,1,5,4
-3,chinese,"""Ukrainian capital hit by missile attack, at least 5 injured""",negative,0.8460332155227661,-2,1,5,4
-4,chinese,"""Debate and Reasoning: ""Doomsayer Theory"" Cannot Stop China's Economy from Surging Ahead""",negative,0.5536313056945801,-1,1,5,4
-5,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Lunar Orbit Flight""",positive,0.6649107336997986,2,1,5,4
-6,chinese,"""Who is obstructing the ceasefire in Gaza? The international community can see it.""",negative,0.8122850060462952,-2,1,5,4
-7,chinese,"""South Korean Medical University Professor to Join ""Resignation Wave"" as Medical Crisis Worsens""",neutral,0.5437789559364319,1,1,5,4
-8,chinese,"""Boao Forum for Asia 2024 Annual Conference to Open Tomorrow: A Preview of the Highlights in One Image""",neutral,0.719578206539154,1,1,5,4
-9,chinese,"""China's 5G Base Station Total Reaches 3.509 Million, Accounting for Nearly 30% of Mobile Base Stations""",neutral,0.7592222690582275,1,1,5,4
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,3,5,2
+1,chinese,"""Multinational Corporation Executives Discuss New Productivity: Seizing the New Dividends Released by China's Development""",positive,0.48587486147880554,2,3,5,2
+2,chinese,"""Eight government officials jointly express confidence in China's economic development""",positive,0.7715480327606201,3,3,5,2
+3,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I am here to be a Bridge for Cultural Exchange""",neutral,0.6119498610496521,1,3,5,2
+4,chinese,"""Ministry of Foreign Affairs: Urges US to Immediately Stop Interfering in Hong Kong Affairs""",negative,0.6152346134185791,-1,3,5,2
+5,chinese,"""Ukrainian Capital Hit by Missile Attack, at Least 5 Injured""",negative,0.8029748201370239,-2,3,5,2
+6,chinese,"""Reasoning and Evaluation | ""Singing the Decline Theory"" Cannot Stop the Rapid Advancement of the Chinese Economy""",neutral,0.48126527667045593,1,3,5,2
+7,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Lunar Orbit Flight""",positive,0.6649107336997986,2,3,5,2
+8,chinese,"""Who is Obstructing the Ceasefire in Gaza? The International Community Witnesses It""",negative,0.7884807586669922,-2,3,5,2
+9,chinese,"""Korean Medical University Professor to Join ""Resignation Wave"" Medical Crisis May Worsen""",negative,0.7825301289558411,-2,3,5,2
