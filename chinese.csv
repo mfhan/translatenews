@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,2,5,3
-1,chinese,"""Multinational Corporation Executives Discuss New Quality Productivity: Seizing the New Dividend Released by China's Development""",neutral,0.49009013175964355,1,2,5,3
-2,chinese,"""Eight government officials jointly express confidence in China's economic development""",positive,0.7715480327606201,3,2,5,3
-3,chinese,"""In the New Era, I am in China | Bangladeshi Scholar: I am here to be a Bridge for Cultural Exchange""",neutral,0.6119498610496521,1,2,5,3
-4,chinese,"""Ministry of Foreign Affairs: Urges US to Immediately Stop Interfering in Hong Kong Affairs""",negative,0.6152346134185791,-1,2,5,3
-5,chinese,"""Ukrainian capital hit by missile attack, at least 5 injured""",negative,0.8460332155227661,-2,2,5,3
-6,chinese,"""Reasoning and Evaluation | ""Singing the Decline Theory"" Cannot Stop China's Economy from Surging Forward""",negative,0.5668674111366272,-1,2,5,3
-7,chinese,"""Magpie Bridge II Relay Satellite Successfully Executes Near-Moon Maneuver, Smoothly Enters Lunar Orbit Flight""",positive,0.6649107336997986,2,2,5,3
-8,chinese,"""Who is obstructing the Gaza ceasefire? The international community can see it.""",negative,0.8196858763694763,-2,2,5,3
-9,chinese,"""Korean Medical University Professor to Join ""Resignation Wave"" as Medical Crisis Worsens""",neutral,0.5697569251060486,1,2,5,3
+0,chinese,Special Report: Terrorist Attack Near Moscow Suburbs,negative,0.7169834971427917,-2,3,2,5
+1,chinese,"""Tongren, Guizhou: The ""Matcha Capital"" Below Fanjing Mountain""",neutral,0.8773402571678162,1,3,2,5
+2,chinese,"Former Cambodian Minister: Advocating for Similar Ideas, China and ASEAN Should Work Together to Solve the ""Trust Deficit""",positive,0.5184444785118103,2,3,2,5
+3,chinese,"""Top 10 Archaeological Discoveries Revealed: What Did Prehistoric Tower Buildings Look Like?""",neutral,0.8030287027359009,1,3,2,5
+4,chinese,"Former Chairman of the Chinese Football Association, Chen Xuyuan, Sentenced to Life Imprisonment in First Instance for Bribery.",negative,0.806384801864624,-2,3,2,5
+5,chinese,"""Try Fresh Produce Now! Abundance of Spring Fruits Available from South to North""",neutral,0.5991078615188599,1,3,2,5
+6,chinese,"""Rural and Urban Residents' Medical Insurance ""Value"" Gradually Increases Based on These Data""",neutral,0.7504000663757324,1,3,2,5
+7,chinese,"""Magpie Bridge II Relay Satellite Successfully Enters Lunar Orbit Flight""",positive,0.5800642371177673,2,3,2,5
+8,chinese,"""Multinational Corporations' Executives Discuss New Productivity: Seizing the New Dividends Released by China's Development""",neutral,0.4956609904766083,1,3,2,5
+9,chinese,"""Eight government officials jointly express confidence in China's economic development""",positive,0.7715480327606201,3,3,2,5
