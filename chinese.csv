@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development in a World of Disorder""",positive,0.5301249623298645,2,6,0,4
-1,chinese,"""What is the experience like to sing the Chinese song ""Jasmine Flower"" on the streets abroad?""",neutral,0.6972832679748535,1,6,0,4
-2,chinese,"""Bilingual Financial News: Cambodian Scholar Says Stable Growth of Chinese Economy is Crucial for Boosting Global Economy""",positive,0.48854848742485046,2,6,0,4
-3,chinese,"""GSMA: China's 5G Connections to Exceed 1 Billion This Year""",neutral,0.5058689713478088,1,6,0,4
-4,chinese,"""Boosting Consumption and Stabilizing Investment: Multiple Benefits Expected from Expanding Domestic Demand""",neutral,0.5419831275939941,1,6,0,4
-5,chinese,"""Solomon Islands Severs Ties with Taiwan and Establishes Diplomatic Relations with China, Taiwan Affairs Office: One China Principle is Widely Recognized by the International Community""",positive,0.5725429654121399,2,6,0,4
-6,chinese,"""Hot Topic at Boao Forum: ""Zero-Carbon Electricity"": China's Nuclear Power Installation ""Will Definitely Surpass the US This Year""""",positive,0.5820044875144958,2,6,0,4
-7,chinese,"""Deep Integration Drives Innovation: Transformation and Upgrading of the Artificial Intelligence Industry""",positive,0.5802168250083923,2,6,0,4
-8,chinese,"""Ma Yuan's Poetic Imagination""",neutral,0.6187280416488647,1,6,0,4
-9,chinese,"""China Successfully Launches Yunhai-3-02 Satellite""",positive,0.7515608668327332,3,6,0,4
+0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,6,1,3
+1,chinese,"""World Report: US Media: Concerns about Political Environment Intensify Consumers' Negative Expectations for the Future""",negative,0.6296623945236206,-1,6,1,3
+2,chinese,"""What is the experience like singing the Chinese song ""Jasmine Flower"" on the streets abroad?""",neutral,0.7130277752876282,1,6,1,3
+3,chinese,"""Bilingual Financial News: Cambodian Scholar Says Stable Growth of Chinese Economy is Crucial for Boosting Global Economy""",positive,0.48854848742485046,2,6,1,3
+4,chinese,"""GSMA: China's 5G Connections to Exceed 1 Billion This Year""",neutral,0.5058689713478088,1,6,1,3
+5,chinese,"""Boost Consumption and Stabilize Investment: Multiple Benefits Expected from Expanding Domestic Demand""",positive,0.4986863136291504,2,6,1,3
+6,chinese,"""Solomon Islands Severs Ties with Taiwan and Establishes Diplomatic Relations with China: Taiwan Affairs Office States One-China Principle is Widely Recognized by International Community""",positive,0.5530815720558167,2,6,1,3
+7,chinese,"""Hot Topic in Boao: ""Zero-Carbon Electricity"": China's Nuclear Power Installed Capacity ""Will Definitely Surpass the United States"" This Year""",positive,0.5653713345527649,2,6,1,3
+8,chinese,"""Deep Integration Drives Innovation: Transformation and Upgrading in the Artificial Intelligence Industry""",positive,0.5597126483917236,2,6,1,3
+9,chinese,"""Ma Yuan's Poetic Imagination""",neutral,0.6187280416488647,1,6,1,3
