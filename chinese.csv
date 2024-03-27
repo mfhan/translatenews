@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,2,4,4
-1,chinese,"""Report on China's Mobile Economy 2024 Predicts: Over 1 Billion 5G Connections in China This Year""",neutral,0.7074032425880432,1,2,4,4
-2,chinese,"""Death toll rises to 140 in terrorist attack at Moscow State Music Hall in Russia""",negative,0.7720935940742493,-2,2,4,4
-3,chinese,"""Red Yeast Rice Health Products Cause Damage to Consumer Health, Japanese Kobayashi Pharmaceutical Company to Hold Press Conference on the 29th""",negative,0.8112251162528992,-2,2,4,4
-4,chinese,"""Foreign Ministry Responds to Chinese Nationals Being Attacked in Pakistan: China and Pakistan are Determined and Capable of Making Terrorists Pay the Appropriate Price""",negative,0.8172996044158936,-2,2,4,4
-5,chinese,"""China's Online Audio-Visual Users Reach 1.074 Billion People""",neutral,0.7600219249725342,1,2,4,4
-6,chinese,"""The 4th China Consumer Expo will achieve a record-breaking scale of participation""",positive,0.7331243753433228,3,2,4,4
-7,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, with 15.08 Million Professional Broadcasters""",neutral,0.7209364175796509,1,2,4,4
-8,chinese,"""Former Deputy Secretary and Deputy Director of the Standing Committee of the People's Congress of Zaozhuang City, Shandong Province, Song Shuqi, Sentenced to Ten Years in First Instance for Bribery""",neutral,0.6602251529693604,1,2,4,4
-9,chinese,"""Maryland Bridge Collision in the United States Possibly Related to Contaminated Ship Fuel, 6 Missing Persons Presumed Dead""",negative,0.6825752854347229,-1,2,4,4
+0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,1,5,4
+1,chinese,"""Report on China's Mobile Economy 2024 Predicts: Over 1 Billion 5G Connections in China This Year""",neutral,0.7074032425880432,1,1,5,4
+2,chinese,"""Death toll in Moscow State Music Hall terrorist attack rises to 140 people""",negative,0.7728356719017029,-2,1,5,4
+3,chinese,"""Red Yeast Rice Health Products Cause Damage to Consumers' Health, Japanese Kobayashi Pharmaceutical Company to Hold Press Conference on the 29th""",negative,0.8096725940704346,-2,1,5,4
+4,chinese,"""Ministry of Foreign Affairs Responds to Chinese Personnel Being Attacked in Pakistan: China and Pakistan are Determined and Capable of Making Terrorists Pay the Appropriate Price""",negative,0.7992622256278992,-2,1,5,4
+5,chinese,"""China's Online Audio-Visual User Base Reaches 1.074 Billion People""",neutral,0.7294458150863647,1,1,5,4
+6,chinese,"""The scale of the 4th Consumer Expo will reach a new high""",neutral,0.6634933352470398,1,1,5,4
+7,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, with 15.08 Million Professional Broadcasters""",neutral,0.7209364175796509,1,1,5,4
+8,chinese,"""Former Deputy Secretary of the Party Committee and Deputy Director of the Standing Committee of Zaozhuang City, Shandong Province, Song Shuqi, Sentenced to Ten Years in Prison for Bribery in First Instance""",negative,0.7037313580513,-2,1,5,4
+9,chinese,"""Maryland Bridge Collision in the United States Possibly Related to Contaminated Ship Fuel, 6 Missing Presumed Dead""",negative,0.6502819657325745,-1,1,5,4
