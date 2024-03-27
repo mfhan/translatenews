@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,7,1,2
-1,chinese,"""Solomon Islands Severs Ties with Taiwan and Establishes Diplomatic Relations with China; Taiwan Affairs Office: One China Principle is a Widely Recognized Consensus in the International Community""",positive,0.5635882616043091,2,7,1,2
-2,chinese,"""Hot topic at Boao Forum: ""Zero Carbon Electricity"": China's nuclear power installed capacity ""will definitely surpass the United States this year""""",positive,0.6120110750198364,2,7,1,2
-3,chinese,"""Deep Integration Drives Innovation: Transformation and Upgrading in the Artificial Intelligence Industry""",positive,0.5597126483917236,2,7,1,2
-4,chinese,"""The Poetic World of Ma Yuan""",neutral,0.6730034351348877,1,7,1,2
-5,chinese,"""China Successfully Launches Yunhai-3-02 Satellite""",positive,0.7515608668327332,3,7,1,2
-6,chinese,"""US Baltimore Bridge Collapses, 6 People Feared Dead""",negative,0.7468621134757996,-2,7,1,2
-7,chinese,"""The First Professional Cargo Airport in the Country is Here! Central Region to Build a More Competitive Inland Open High Ground""",positive,0.6387375593185425,2,7,1,2
-8,chinese,"""China Men's Football Team Wins Big Against Singapore in World Cup Qualifiers""",positive,0.5650402307510376,2,7,1,2
-9,chinese,"""Russian Emergency Ministry: Search and Rescue Operations for Moscow State Music Hall Terrorist Attack Have Been Completed""",neutral,0.7311939001083374,1,7,1,2
+0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,6,1,3
+1,chinese,"""Solomon Islands Severs Ties with Taiwan and Establishes Diplomatic Relations with China: Taiwan Affairs Office States One-China Principle is Widely Recognized by International Community""",positive,0.5530815720558167,2,6,1,3
+2,chinese,"""Hot Topic at Boao Forum: ""Zero Carbon Electricity"": China's Nuclear Power Installed Capacity ""Will Definitely Surpass the United States"" This Year""",positive,0.4910503923892975,2,6,1,3
+3,chinese,"""Deep Integration Drives Innovation: Transformation and Upgrading of the Artificial Intelligence Industry""",positive,0.5802168250083923,2,6,1,3
+4,chinese,"""Ma Yuan's Poetic Imagination""",neutral,0.6187280416488647,1,6,1,3
+5,chinese,"""China Successfully Launches Yunhai-3-02 Satellite""",positive,0.7515608668327332,3,6,1,3
+6,chinese,"""Baltimore Bridge in the US Collapses, 6 People Feared Dead""",negative,0.7859377264976501,-2,6,1,3
+7,chinese,"""The First Professional Freight Airport in the Country is Here! Central Region to Build a More Competitive Inland Open High Ground""",positive,0.6402155756950378,2,6,1,3
+8,chinese,"""China Men's National Football Team Defeats Singapore Team in World Cup Qualifiers""",neutral,0.6530270576477051,1,6,1,3
+9,chinese,"""Russian Emergency Ministry: Search and Rescue Operations for Moscow State Music Hall Terrorist Attack Have Been Completed""",neutral,0.7311939001083374,1,6,1,3
