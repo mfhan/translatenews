@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development in a World of Disorder""",positive,0.5301249623298645,2,2,4,4
-1,chinese,"""Foreign Ministry Responds to Chinese Personnel Being Attacked in Pakistan: China and Pakistan are Determined and Capable of Making Terrorists Pay the Appropriate Price""",negative,0.7695292830467224,-2,2,4,4
-2,chinese,"""China's online audiovisual users reach 1.074 billion people""",neutral,0.7242118120193481,1,2,4,4
-3,chinese,"""The 4th China Consumer Expo to Reach Record-Breaking Scale""",neutral,0.6220619678497314,1,2,4,4
-4,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, Professional Broadcasters Reach 15.08 Million""",neutral,0.7600866556167603,1,2,4,4
-5,chinese,"""Former Deputy Secretary of the Party Committee and Deputy Director of the Standing Committee of Zaozhuang City, Shandong Province, Song Shuqi, Sentenced to Ten Years in Prison for Bribery in First Instance""",negative,0.7037313580513,-2,2,4,4
-6,chinese,"""Maryland Bridge Collision in the United States Possibly Linked to Contaminated Vessel Fuel, 6 Missing Presumed Dead""",negative,0.6487554907798767,-1,2,4,4
-7,chinese,"""World Report: US Media: Concerns about Political Environment Intensify Consumers' Negative Expectations for the Future""",negative,0.6296623945236206,-1,2,4,4
-8,chinese,"""What is the experience like singing the Chinese song ""Jasmine Flower"" on the streets abroad?""",neutral,0.7130277752876282,1,2,4,4
-9,chinese,"""Bilingual Financial News: Cambodian Scholar Says Stable Growth of Chinese Economy is Crucial for Boosting Global Economy""",positive,0.48854848742485046,2,2,4,4
+0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,3,4,3
+1,chinese,"""Foreign Ministry Responds to Chinese Personnel Being Attacked in Pakistan: China and Pakistan Both Have the Determination and Capability to Make Terrorists Pay the Appropriate Price""",negative,0.5438132882118225,-1,3,4,3
+2,chinese,"""China's Online Audiovisual Users Reach 1.074 Billion""",neutral,0.7336174249649048,1,3,4,3
+3,chinese,"""The 4th Consumer Expo will reach a record high in terms of exhibition scale""",positive,0.560638964176178,2,3,4,3
+4,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, with 15.08 Million Professional Broadcasters""",neutral,0.7209364175796509,1,3,4,3
+5,chinese,"""Former Deputy Secretary and Deputy Director of the Standing Committee of the People's Congress of Zaozhuang City, Shandong Province, Song Shuqi, Sentenced to Ten Years in Prison for Bribery in First Trial""",negative,0.6245479583740234,-1,3,4,3
+6,chinese,"""Maryland Bridge Collision in the United States Possibly Related to Contaminated Vessel Fuel, 6 Missing Presumed Dead""",negative,0.6279944181442261,-1,3,4,3
+7,chinese,"""Global Discourse: US Media Reports Increased Concerns about Political Environment Intensifying Consumers' Negative Expectations for the Future""",negative,0.6691638827323914,-1,3,4,3
+8,chinese,"""What is it like to sing the Chinese song ""Jasmine Flower"" on the streets abroad?""",neutral,0.7207950949668884,1,3,4,3
+9,chinese,"""Bilingual Financial News: Cambodian Scholar Says Stable Growth of Chinese Economy is Crucial for Boosting Global Economy""",positive,0.48854848742485046,2,3,4,3
