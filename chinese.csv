@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Brazilian Scholar: China is Becoming a Force for Peace and Development in a World of Disorder,positive,0.5568124055862427,2,2,4,4
+0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,2,4,4
 1,chinese,"""Report on China's Mobile Economy 2024 Predicts: China's 5G Connections to Exceed 1 Billion This Year""",neutral,0.6023743152618408,1,2,4,4
-2,chinese,"""Death toll in Moscow State Music Hall Terrorist Attack Rises to 140""",negative,0.6881462931632996,-1,2,4,4
+2,chinese,"""Death toll in Moscow State Music Hall terrorist attack rises to 140""",negative,0.7668815851211548,-2,2,4,4
 3,chinese,"""Red Yeast Rice Health Products Cause Consumer Health Damage, Japanese Kobayashi Pharmaceutical Company to Hold Press Conference on the 29th""",negative,0.6922456622123718,-1,2,4,4
 4,chinese,"""Foreign Ministry Responds to Chinese Personnel Being Attacked in Pakistan: China and Pakistan Have the Determination and Capability to Make Terrorists Pay the Appropriate Price""",negative,0.4979152977466583,-1,2,4,4
-5,chinese,"""China's Online Audio-Visual Users Reach 1.074 Billion People""",neutral,0.7600219249725342,1,2,4,4
-6,chinese,"""The 4th Consumer Expo will reach a record high in terms of exhibition scale""",positive,0.560638964176178,2,2,4,4
-7,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, with 15.08 Million Professional Broadcasters""",neutral,0.7209364175796509,1,2,4,4
+5,chinese,"""China's Online Audio-Visual User Base Reaches 1.074 Billion People""",neutral,0.7294458150863647,1,2,4,4
+6,chinese,"""The Fourth Consumer Expo will Achieve a Record High in Exhibition Scale""",positive,0.5732030272483826,2,2,4,4
+7,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, Professional Broadcasters Reach 15.08 Million""",neutral,0.7600866556167603,1,2,4,4
 8,chinese,"""Former Deputy Secretary and Deputy Director of the Standing Committee of the People's Congress of Zaozhuang City, Shandong Province, Song Shuqi, Sentenced to Ten Years in First Instance for Bribery""",neutral,0.6602251529693604,1,2,4,4
-9,chinese,"""Maryland Bridge Collision in the United States May Be Related to Contaminated Ship Fuel, 6 Missing Presumed Dead""",negative,0.652384340763092,-1,2,4,4
+9,chinese,"""Maryland Bridge Collision in the United States May Be Related to Contaminated Vessel Fuel, 6 Missing Presumed Dead""",negative,0.6299436688423157,-1,2,4,4
