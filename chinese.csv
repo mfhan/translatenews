@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,2,3,5
-1,chinese,"""Ministry of Foreign Affairs responds to Chinese personnel being attacked in Pakistan: China and Pakistan are determined and capable of making terrorists pay the price they deserve""",negative,0.5321808457374573,-1,2,3,5
-2,chinese,"""China's Online Audio-Visual Users Reach 1.074 Billion""",neutral,0.7597485780715942,1,2,3,5
-3,chinese,"""The scale of the 4th Consumer Expo will reach a new high""",neutral,0.6634933352470398,1,2,3,5
-4,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, with 15.08 Million Professional Broadcasters""",neutral,0.7209364175796509,1,2,3,5
-5,chinese,"""Former Deputy Secretary and Deputy Director of the Standing Committee of the People's Congress of Zaozhuang City, Shandong Province, Song Shuqi, Sentenced to Ten Years in First Instance for Bribery""",neutral,0.6602251529693604,1,2,3,5
-6,chinese,"""Maryland Bridge Collision in the United States Possibly Related to Contaminated Ship Fuel, 6 Missing Presumed Dead""",negative,0.6502819657325745,-1,2,3,5
-7,chinese,"""Global Opinion: US Media: Concerns about the US Political Environment Intensify Negative Expectations for Future Prospects among Consumers""",negative,0.7024314999580383,-2,2,3,5
-8,chinese,"""What is the experience like singing the Chinese song ""Jasmine Flower"" on the streets abroad?""",neutral,0.7130277752876282,1,2,3,5
-9,chinese,"""Bilingual Financial News: Cambodian Scholar Says Stable Growth of Chinese Economy is Crucial for Boosting Global Economy""",positive,0.48854848742485046,2,2,3,5
+0,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,2,4,4
+1,chinese,"""Report on China's Mobile Economy 2024 Predicts: Over 1 Billion 5G Connections in China This Year""",neutral,0.7074032425880432,1,2,4,4
+2,chinese,"""Death toll rises to 140 in terrorist attack at Moscow State Music Hall in Russia""",negative,0.7720935940742493,-2,2,4,4
+3,chinese,"""Red Yeast Rice Health Products Cause Damage to Consumer Health, Japanese Kobayashi Pharmaceutical Company to Hold Press Conference on the 29th""",negative,0.8112251162528992,-2,2,4,4
+4,chinese,"""Foreign Ministry Responds to Chinese Nationals Being Attacked in Pakistan: China and Pakistan are Determined and Capable of Making Terrorists Pay the Appropriate Price""",negative,0.8172996044158936,-2,2,4,4
+5,chinese,"""China's Online Audio-Visual Users Reach 1.074 Billion People""",neutral,0.7600219249725342,1,2,4,4
+6,chinese,"""The 4th China Consumer Expo will achieve a record-breaking scale of participation""",positive,0.7331243753433228,3,2,4,4
+7,chinese,"""Total Number of Short Video Accounts on the Internet Reaches 1.55 Billion, with 15.08 Million Professional Broadcasters""",neutral,0.7209364175796509,1,2,4,4
+8,chinese,"""Former Deputy Secretary and Deputy Director of the Standing Committee of the People's Congress of Zaozhuang City, Shandong Province, Song Shuqi, Sentenced to Ten Years in First Instance for Bribery""",neutral,0.6602251529693604,1,2,4,4
+9,chinese,"""Maryland Bridge Collision in the United States Possibly Related to Contaminated Ship Fuel, 6 Missing Persons Presumed Dead""",negative,0.6825752854347229,-1,2,4,4
