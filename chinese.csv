@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The Voice of Boao: Refuting the Theory of ""Economic Peak""! Roland Berger's Davy: China's Economic Fundamentals are Very Strong""",positive,0.7041627764701843,3,6,2,2
+0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6890450119972229,2,6,2,2
 1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,6,2,2
 2,chinese,"""US Discriminatory Subsidy Policy Severely Disrupts Global New Energy Vehicle Industry Chain""",negative,0.8137084245681763,-2,6,2,2
-3,chinese,"""Beauty Appliances, Smart Cat Toilets...Pet Economy on the Rise! Market Size to Reach Nearly 50 Billion Yuan by 2025""",positive,0.6591286063194275,2,6,2,2
-4,chinese,"""Boao Forum Secretary-General Advisor Zafar: China is the Driving Force of the Global Economy""",neutral,0.526530385017395,1,6,2,2
-5,chinese,"""Yunnan, the Land of Blossoming Flowers: The Flower Economy - Creating a New Era with Colorful Blooms""",positive,0.6379408240318298,2,6,2,2
-6,chinese,Yunnan: The Southwest Pearl with Splendid World Heritage,positive,0.86067134141922,3,6,2,2
-7,chinese,"""Sandstorm Weather Strikes, Affects Over 10 Provinces and Cities in the North - How to Prevent It""",negative,0.7246434688568115,-2,6,2,2
-8,chinese,"""Boao Forum for Asia 2024 Annual Conference Holds Opening Ceremony Today""",neutral,0.8111733198165894,1,6,2,2
-9,chinese,"""Voice of Boao: Norwegian Scholar Praises China's Progress in Expanding Opening-up Amidst the ""Headwinds"" of Protectionism""",positive,0.6638476848602295,2,6,2,2
+3,chinese,"""Beauty Appliances, Smart Cat Toilets... Pet Economy on the Rise! Market Size to Reach Nearly 50 Billion Yuan by 2025""",positive,0.6872231960296631,2,6,2,2
+4,chinese,"""Boao Forum Secretary-General and Advisor Zafar: China is the Driving Force of the Global Economy""",neutral,0.5277889966964722,1,6,2,2
+5,chinese,"""Yunnan, a Blooming Journey: The Flower Economy - Colorful Yunnan Creates a New Era with Flourishing Flowers""",positive,0.7866547703742981,3,6,2,2
+6,chinese,"""Yunnan: The Southwest Pearl with Magnificent World Heritage""",positive,0.8269408345222473,3,6,2,2
+7,chinese,"""Sandstorm Weather Approaches, Affecting Over 10 Provinces and Regions in the North - How to Prevent It""",negative,0.5831461548805237,-1,6,2,2
+8,chinese,"""Boao Forum for Asia 2024 Annual Meeting Holds Opening Ceremony Today""",neutral,0.8122667074203491,1,6,2,2
+9,chinese,"""Voice of Boao: Norwegian Scholar Praises China's Progress in Expanding Opening Up Amidst the ""Headwinds"" of Protectionism""",positive,0.6508435606956482,2,6,2,2
