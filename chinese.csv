@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Dai Pu: China's Economic Fundamentals are Very Strong""",positive,0.7043766975402832,3,6,1,3
-1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,6,1,3
-2,chinese,"""After years of absence, smog returns, China launches new ""battle"" against air pollution""",neutral,0.44160962104797363,1,6,1,3
-3,chinese,Ministry of Commerce: 22 Specific Measures in 7 Areas to Promote High-Quality Development of the Catering Industry,positive,0.628835141658783,2,6,1,3
-4,chinese,"""Power Digital Transformation Enters the ""Fast Lane"", Data Value Awaits Release""",neutral,0.7561337351799011,1,6,1,3
-5,chinese,"""US Discriminatory Subsidy Policy Severely Disrupts Global New Energy Vehicle Industry Chain""",negative,0.8137084245681763,-2,6,1,3
-6,chinese,"""Beauty Appliances, Smart Cat Toilets... Pet Economy on the Rise! Market Size to Reach Nearly 50 Billion Yuan by 2025""",positive,0.6872231960296631,2,6,1,3
-7,chinese,"""Boao Forum Secretary-General Advisor Zafar: China is the Driving Force of the Global Economy""",neutral,0.526530385017395,1,6,1,3
-8,chinese,"""Yunnan, the Land of Blooming Flowers: The Flower Economy - Colorful Yunnan Paints a New Era with Abundant Blossoms""",positive,0.7400873899459839,3,6,1,3
-9,chinese,Yunnan: The Southwest Pearl with Splendid World Heritage,positive,0.86067134141922,3,6,1,3
+0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6890450119972229,2,5,2,3
+1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,5,2,3
+2,chinese,"""Ministry of National Defense: China will not be reckless in the South China Sea issue with the Philippines""",negative,0.5609987378120422,-1,5,2,3
+3,chinese,"After years of absence, smog returns, China launches a new ""battle"" against air pollution",positive,0.4372742474079132,2,5,2,3
+4,chinese,"""Ministry of Commerce: 22 Specific Measures in 7 Areas to Promote High-Quality Development of the Catering Industry""",positive,0.593106210231781,2,5,2,3
+5,chinese,"""Power Digital Transformation Enters the ""Fast Lane"" Data Value Awaits Release""",neutral,0.7699331641197205,1,5,2,3
+6,chinese,"""US Discriminatory Subsidy Policy Severely Disrupts Global New Energy Vehicle Industry Chain""",negative,0.8137084245681763,-2,5,2,3
+7,chinese,"""Beauty Appliances, Smart Cat Toilets... Pet Economy on the Rise! Market Size to Reach Nearly 50 Billion Yuan by 2025""",positive,0.6872231960296631,2,5,2,3
+8,chinese,"""Boao Forum Secretary-General Advisor Zafar: China is the Driving Force of the Global Economy""",neutral,0.526530385017395,1,5,2,3
+9,chinese,"""Yunnan, the Land of Blooming Flowers: The Flower Economy - Using Colorful Flowers to Paint a New Era""",neutral,0.5407577157020569,1,5,2,3
