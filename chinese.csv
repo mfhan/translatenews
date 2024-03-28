@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Dai Pu: China's Economic Fundamentals are Very Strong""",positive,0.7043766975402832,3,2,3,5
-1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,2,3,5
-2,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,2,3,5
-3,chinese,"""Chinese Football Association: Encouraging Reporting of Football's ""Fake Gambling and Black Market"" Issues""",neutral,0.5502151250839233,1,2,3,5
-4,chinese,"""Schedule for Paris Olympic Basketball Games Released, Chinese Women's Basketball Team to Face Spain in First Match""",neutral,0.8279125094413757,1,2,3,5
-5,chinese,"Former head coach of China's national men's football team, Li Tie, stands trial for bribery, giving bribes, bribing on behalf of a unit, accepting bribes as a non-state functionary, and bribing non-state functionaries in first instance.",negative,0.8311576247215271,-2,2,3,5
-6,chinese,"""How should we protect our health during the frequent sandstorms in spring?""",neutral,0.4723309874534607,1,2,3,5
-7,chinese,"""Baltimore Bridge Collision Incident Sparks US ""Logistics Crisis""""",negative,0.738132119178772,-2,2,3,5
-8,chinese,"""Kobayashi Pharmaceutical's Health Product Controversy Continues to Escalate, Japanese Consumers Express Great Concern for Other Health Products""",neutral,0.4507327973842621,1,2,3,5
-9,chinese,"""China Ends Imposition of Anti-Dumping and Anti-Subsidy Taxes on Imported Wine from Australia""",negative,0.6377812623977661,-1,2,3,5
+0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6890450119972229,2,2,4,4
+1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,2,4,4
+2,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,2,4,4
+3,chinese,"""China Football Association: Encouraging Reporting of Football's ""Fake Gambling and Black Market"" Issues""",neutral,0.5784040689468384,1,2,4,4
+4,chinese,"""Schedule for Basketball Matches at Paris Olympics Released, Chinese Women's Team to Face Spain in First Game""",neutral,0.8381330370903015,1,2,4,4
+5,chinese,"Former Head Coach of Chinese National Men's Football Team, Li Tie, on Trial for Bribery, Bribery in Behalf of an Organization, Bribery of Non-State Personnel, and Bribery to Non-State Personnel",negative,0.7796874642372131,-2,2,4,4
+6,chinese,"""How should we protect our health during the frequent sandstorms in spring?""",neutral,0.4723309874534607,1,2,4,4
+7,chinese,"""Baltimore Bridge Collision Incident Sparks US ""Logistics Challenge""""",negative,0.566601037979126,-1,2,4,4
+8,chinese,"""Kobayashi Pharmaceutical's Health Product Incident Continues to Escalate, Japanese Consumers Express Great Concern for Other Health Products""",negative,0.8125160932540894,-2,2,4,4
+9,chinese,"""China Ends Imposition of Anti-Dumping and Anti-Subsidy Taxes on Imported Wine from Australia""",negative,0.6377812623977661,-1,2,4,4
