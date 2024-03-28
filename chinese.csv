@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6890450119972229,2,4,5,1
-1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,4,5,1
-2,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,4,5,1
-3,chinese,"""How can we protect our health during the frequent sandstorms in spring?""",negative,0.531570315361023,-1,4,5,1
-4,chinese,"""Baltimore Bridge Collision Triggers US ""Logistics Dilemma""""",negative,0.6014865636825562,-1,4,5,1
-5,chinese,"""Lin Pharmaceuticals' Controversial Health Supplement Incident Continues to Stir Up Concern Among Japanese Consumers: Very Worried About Other Health Supplements""",negative,0.8630756735801697,-2,4,5,1
-6,chinese,"""China Ends Imposition of Anti-Dumping and Anti-Subsidy Taxes on Imported Wine from Australia""",negative,0.6377812623977661,-1,4,5,1
-7,chinese,"""Apple Co-founder: If TikTok is Banned, All Major US Tech Giants Will Be Investigated""",negative,0.5004051327705383,-1,4,5,1
-8,chinese,"""Shanghai International Service Portal to Continue Upgrading""",positive,0.4929790794849396,2,4,5,1
-9,chinese,"""China Adds 6 New World Geoparks, Total Number Increases to 47, Maintaining Its Position as the World's Top Country""",positive,0.6599025726318359,2,4,5,1
+0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davy Pau: China's Economic Fundamentals are Very Strong""",positive,0.693250298500061,2,2,5,3
+1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,2,5,3
+2,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,2,5,3
+3,chinese,"""Chinese Football Association: Encouraging Reporting of ""Fake Gambling and Black Market"" Issues in Football""",neutral,0.5001703500747681,1,2,5,3
+4,chinese,"""Schedule for Basketball Matches at Paris Olympics Released, Chinese Women's Basketball Team to Face Spain in First Match""",neutral,0.8321280479431152,1,2,5,3
+5,chinese,"Former Head Coach of China National Men's Football Team, Li Tie, Goes to Trial for Bribery, Bribery in Behalf of a Unit, Bribery of Non-State Personnel, and Accepting Bribes from Non-State Personnel",negative,0.8243955969810486,-2,2,5,3
+6,chinese,"""How should we protect our health during the frequent spring sandstorms?""",negative,0.5084851384162903,-1,2,5,3
+7,chinese,"""Baltimore Bridge Collision Incident Sparks US ""Logistics Challenge""""",negative,0.566601037979126,-1,2,5,3
+8,chinese,"""Kobayashi Pharmaceuticals' Controversial Health Supplement Incident Continues to Stir Up Concern Among Japanese Consumers: Very Worried About Other Health Supplements""",negative,0.8612809181213379,-2,2,5,3
+9,chinese,"""China Ends Imposition of Anti-Dumping and Anti-Subsidy Taxes on Imported Wine from Australia""",negative,0.6377812623977661,-1,2,5,3
