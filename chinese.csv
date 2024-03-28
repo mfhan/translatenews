@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Voice of Boao: Refuting the ""Theory of Economic Peak""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6388349533081055,2,5,3,2
-1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development in a World of Disorder""",positive,0.5301249623298645,2,5,3,2
-2,chinese,"""Yunnan, the Land of Blooming Flowers: The Flower Economy - Colorful Yunnan Paints a New Era with Blossoming Flowers""",positive,0.700889527797699,3,5,3,2
-3,chinese,Yunnan: The Southwest Pearl with Dazzling World Heritage Sites,positive,0.8488536477088928,3,5,3,2
-4,chinese,"""Sandstorm Weather Strikes, Affects More Than 10 Provinces and Cities in the North - How to Prevent It""",negative,0.7432255744934082,-2,5,3,2
-5,chinese,The Boao Forum for Asia 2024 Annual Conference Holds Opening Ceremony Today,neutral,0.7617633938789368,1,5,3,2
-6,chinese,"""Voice of Boao: Norwegian Scholar Praises China's Progress in Expanding Opening Up Amidst the ""Headwinds"" of Protectionism""",positive,0.6508435606956482,2,5,3,2
-7,chinese,"""Report on China's Mobile Economy 2024 Predicts: China's 5G Connections to Exceed 1 Billion This Year""",neutral,0.6023743152618408,1,5,3,2
-8,chinese,"""Death toll in Moscow State Music Hall terrorist attack rises to 140""",negative,0.7668815851211548,-2,5,3,2
-9,chinese,"""Red Yeast Rice Health Products Cause Consumer Health Damage; Japanese Kobayashi Pharmaceutical Company to Hold Press Conference on the 29th""",negative,0.7126502990722656,-2,5,3,2
+0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Dai Pu: China's Economic Fundamentals are Very Strong""",positive,0.7043766975402832,3,5,3,2
+1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,5,3,2
+2,chinese,"""Yunnan, the Land of Blooming Flowers: The Flower Economy - Colorful Yunnan Paints a New Era with Abundant Blossoms""",positive,0.7400873899459839,3,5,3,2
+3,chinese,Yunnan: The Southwest Pearl with Splendid World Heritage,positive,0.86067134141922,3,5,3,2
+4,chinese,"""Sandstorm Weather Strikes, Affecting Over 10 Provinces and Regions in the North - How to Prevent It""",negative,0.6833198070526123,-1,5,3,2
+5,chinese,The Boao Forum for Asia Annual Conference 2024 Holds Opening Ceremony Today,neutral,0.770304799079895,1,5,3,2
+6,chinese,"""Voice of Boao: Norwegian Scholar Praises China's Progress in Expanding Opening-up Amidst the ""Headwind"" of Protectionism""",positive,0.6782737970352173,2,5,3,2
+7,chinese,"""Report on China's Mobile Economy 2024 Predicts: 5G Connections in China to Exceed 1 Billion This Year""",neutral,0.5914521813392639,1,5,3,2
+8,chinese,"""Death toll in Moscow, Russia concert hall terrorist attack rises to 140""",negative,0.786722719669342,-2,5,3,2
+9,chinese,"""Red Yeast Rice Health Products Cause Consumer Health Damage, Japanese Kobayashi Pharmaceutical Company to Hold Press Conference on the 29th""",negative,0.6922456622123718,-1,5,3,2
