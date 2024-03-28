@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6890450119972229,2,3,1,6
-1,chinese,Brazilian Scholar: China is Becoming a Force for Peace and Development in a World of Disorder,positive,0.5568124055862427,2,3,1,6
-2,chinese,"""The 14th Beijing International Film Festival Opens on April 18th: Judges and Nominated Films for ""Temple of Heaven Award"" Announced""",neutral,0.7759850025177002,1,3,1,6
-3,chinese,"""Chinese People's Liberation Army Organizes Joint Patrols in Hong Kong""",neutral,0.756101131439209,1,3,1,6
-4,chinese,"""99 Join the List! Ministry of Culture and Tourism Announces a Batch of National-level Intangible Cultural Heritage Production Protection Demonstration Bases""",neutral,0.5519580245018005,1,3,1,6
-5,chinese,"""Russian Health Minister: 74 Victims of Concert Hall Terrorist Attack Still Receiving Treatment at Medical Facilities""",neutral,0.5334876179695129,1,3,1,6
-6,chinese,"""Central Meteorological Observatory: Frequent Rainfall Expected in Some Southern Regions in the Next Week""",neutral,0.6394605040550232,1,3,1,6
-7,chinese,"""Voice of Boao: AstraZeneca's Global CEO: Impressive Performance of Chinese Economy, Impressive Technological Innovation""",positive,0.9035242199897766,3,3,1,6
-8,chinese,"""Ministry of National Defense: China Will Not Tolerate Provocation from the Philippines on South China Sea Issue""",negative,0.7379712462425232,-2,3,1,6
-9,chinese,"""After years of absence, smog returns, China launches a new ""battle"" against air pollution""",neutral,0.4520834982395172,1,3,1,6
+0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6890450119972229,2,3,2,5
+1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development in a World of Disorder""",positive,0.5301249623298645,2,3,2,5
+2,chinese,"""The Voice of Boao: What is the Intention Behind the Hype of ""Foreign Capital Withdrawal from China""? Zheng Yongnian: The West is Waging a ""Cognitive War"" on China's Economy""",negative,0.5192891955375671,-1,3,2,5
+3,chinese,"""The 14th Beijing International Film Festival Opens on April 18th: Judges and Nominated Films for the ""Temple of Heaven Award"" Announced""",neutral,0.7813459038734436,1,3,2,5
+4,chinese,"""Chinese People's Liberation Army Organizes Joint Patrols in Hong Kong""",neutral,0.756101131439209,1,3,2,5
+5,chinese,"""99 Join the List! Ministry of Culture and Tourism Announces a Batch of National-level Intangible Cultural Heritage Production Protection Demonstration Bases""",neutral,0.5519580245018005,1,3,2,5
+6,chinese,Russian Health Minister: 74 victims of concert hall terrorist attack still receiving treatment in medical institutions,neutral,0.48771554231643677,1,3,2,5
+7,chinese,"""Central Meteorological Observatory: Frequent Rainfall Expected in Some Southern Regions in the Next Week""",neutral,0.6394605040550232,1,3,2,5
+8,chinese,"""Voice of Boao: AstraZeneca's Global CEO: Impressive Performance of Chinese Economy and Impressive Technological Innovation""",positive,0.8997579216957092,3,3,2,5
+9,chinese,"""Ministry of National Defense: China will not let the Philippines have its way in the South China Sea issue""",negative,0.728470504283905,-2,3,2,5
