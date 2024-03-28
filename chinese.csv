@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Dai Pu: China's Economic Fundamentals are Very Strong""",positive,0.7043766975402832,3,4,1,5
-1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,4,1,5
-2,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,4,1,5
-3,chinese,"""Shanghai International Service Portal to Continue Upgrading""",positive,0.4929790794849396,2,4,1,5
-4,chinese,"""China Adds 6 New World Geological Parks, Total Number Increases to 47, Continues to Rank First in the World""",positive,0.6420100927352905,2,4,1,5
-5,chinese,"""What kind of chemical reaction will occur when artificial intelligence meets film photography?""",neutral,0.7782809138298035,1,4,1,5
-6,chinese,"""The Voice of Boao: What is the Intention Behind the Hype of ""Foreign Capital Withdrawal from China""? Zheng Yongnian: The West is Waging a ""Cognitive War"" on the Chinese Economy""",negative,0.5163422226905823,-1,4,1,5
-7,chinese,"""The 14th Beijing International Film Festival Opens on April 18th: Judges and Nominated Films for the ""Temple of Heaven Award"" Announced""",neutral,0.7813459038734436,1,4,1,5
-8,chinese,"""Chinese People's Liberation Army Organizes Joint Patrols in Hong Kong""",neutral,0.756101131439209,1,4,1,5
-9,chinese,"""99 Listed! Ministry of Culture and Tourism Announces a Batch of National-level Intangible Cultural Heritage Production Protection Demonstration Bases""",neutral,0.6126340627670288,1,4,1,5
+0,chinese,"""Voice of Boao: Refuting the ""Economic Peak Theory""! Roland Berger's Davide Cucino: China's Economic Fundamentals are Very Strong""",positive,0.6890450119972229,2,4,5,1
+1,chinese,"""Brazilian Scholar: China is Becoming a Force for Peace and Development Amidst Global Disorder""",positive,0.594016969203949,2,4,5,1
+2,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,4,5,1
+3,chinese,"""How can we protect our health during the frequent sandstorms in spring?""",negative,0.531570315361023,-1,4,5,1
+4,chinese,"""Baltimore Bridge Collision Triggers US ""Logistics Dilemma""""",negative,0.6014865636825562,-1,4,5,1
+5,chinese,"""Lin Pharmaceuticals' Controversial Health Supplement Incident Continues to Stir Up Concern Among Japanese Consumers: Very Worried About Other Health Supplements""",negative,0.8630756735801697,-2,4,5,1
+6,chinese,"""China Ends Imposition of Anti-Dumping and Anti-Subsidy Taxes on Imported Wine from Australia""",negative,0.6377812623977661,-1,4,5,1
+7,chinese,"""Apple Co-founder: If TikTok is Banned, All Major US Tech Giants Will Be Investigated""",negative,0.5004051327705383,-1,4,5,1
+8,chinese,"""Shanghai International Service Portal to Continue Upgrading""",positive,0.4929790794849396,2,4,5,1
+9,chinese,"""China Adds 6 New World Geoparks, Total Number Increases to 47, Maintaining Its Position as the World's Top Country""",positive,0.6599025726318359,2,4,5,1
