@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,2,2,6
-1,chinese,"""Yunnan, the Blooming Province: The Flower Economy - Colorful Yunnan Paints a New Era with Abundant Flowers""",positive,0.6669323444366455,2,2,2,6
-2,chinese,"""5.5G Commercial Deployment Launches""",neutral,0.8086339831352234,1,2,2,6
-3,chinese,"Ministry of Commerce: Multinational Companies Still Have Full Confidence in ""Investing in China""",positive,0.5449486970901489,2,2,2,6
-4,chinese,"""Ministry of Education Launches Artificial Intelligence Empowerment Education Action""",neutral,0.5275462865829468,1,2,2,6
-5,chinese,"""International Court Demands Israel to Ensure Basic Food Supply for Palestinian Residents in Gaza Strip""",neutral,0.5942320823669434,1,2,2,6
-6,chinese,"""Hand, Foot, and Mouth Disease to Enter High Season, How to Prevent? Remember These 6 Tips""",neutral,0.7102935910224915,1,2,2,6
-7,chinese,"""Chinese Football Association: Encouraging Reporting of Football's ""Fake Gambling and Black Market"" Issue""",negative,0.5440991520881653,-1,2,2,6
-8,chinese,"""Schedule for Paris Olympics Basketball Games Released, Chinese Women's Team to Face Spain in First Match""",neutral,0.8346419930458069,1,2,2,6
-9,chinese,"""Former Head Coach of China's National Men's Football Team, Li Tie, on Trial for Bribery, Bribery in Behalf of a Company, and Bribery of Non-State Personnel""",negative,0.7633689641952515,-2,2,2,6
+0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,3,0,7
+1,chinese,"""Colorful Yunnan: A Vibrant Ethnic Culture in Southern China""",positive,0.4930497109889984,2,3,0,7
+2,chinese,"""Year-on-Year Growth of 5.9%! China's Total Social Logistics Amounted to 55.4 Trillion Yuan in the First Two Months of This Year""",neutral,0.4718582332134247,1,3,0,7
+3,chinese,"""Take a Special Train to Enjoy the Spring Scenery: Heilongjiang Opens First Tourist Train to Laos""",positive,0.590900182723999,2,3,0,7
+4,chinese,"""5.5G Commercial Deployment Launches""",neutral,0.8086339831352234,1,3,0,7
+5,chinese,"Ministry of Commerce: Multinational Companies Have Full Confidence in ""Investing in China""",positive,0.67476886510849,2,3,0,7
+6,chinese,"""Ministry of Education Launches Artificial Intelligence Empowerment Education Action""",neutral,0.5275462865829468,1,3,0,7
+7,chinese,"""International Court Demands Israel to Ensure Basic Food Supply for Palestinian Residents in Gaza Strip""",neutral,0.5942320823669434,1,3,0,7
+8,chinese,"""Hand, Foot, and Mouth Disease to Enter High Season, How to Prevent? Remember These 6 Tips""",neutral,0.7102935910224915,1,3,0,7
+9,chinese,"""Chinese Football Association: Encouraging Reporting of ""Fake Gambling and Black Market"" Issues in Football""",neutral,0.5001703500747681,1,3,0,7
