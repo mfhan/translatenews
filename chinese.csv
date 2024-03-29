@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,4,1,5
-1,chinese,"""Colorful Yunnan: A Vibrant Culture of Ethnic Minorities""",neutral,0.494141548871994,1,4,1,5
-2,chinese,"""Global Initiative Perspective | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.744904637336731,1,4,1,5
-3,chinese,"""Bilingual Financial News: Boao Dialogue on New Productive Forces: Green Innovation Injects Strong Momentum into the Development of New Productive Forces""",positive,0.7898145318031311,3,4,1,5
-4,chinese,"""National Intellectual Property Office: Strengthen Copyright Protection, Crack Down on Various Infringement and Piracy Activities""",negative,0.7876308560371399,-2,4,1,5
-5,chinese,"""High-value invention patents accelerate creation reserves, expected to achieve expected goals ahead of schedule this year""",positive,0.7715402245521545,3,4,1,5
-6,chinese,"""Economic Powerhouse Takes on the Challenge: Guangdong Confident in Achieving 5% Economic Growth by 2024""",positive,0.7483353018760681,3,4,1,5
-7,chinese,"""World Report: CDC: Nearly 108,000 People and an Average of About 300 People Per Day... US Drug Overdose Deaths Expected to Reach Record High in 2022""",neutral,0.6766709089279175,1,4,1,5
-8,chinese,"""Express Delivery Services Accelerate the Development of Modern Agriculture, Stimulating the Rural Market (Big Data Observation)""",positive,0.8024855852127075,3,4,1,5
-9,chinese,"""Profits of Large-Scale Industrial Enterprises Increase by 10.2% Year-on-Year in the First Two Months (New Data, New Perspectives)""",neutral,0.6527017951011658,1,4,1,5
+0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,2,3,5
+1,chinese,"""Colorful Yunnan | Vibrant Ethnic Culture in Southern Yunnan""",positive,0.6205688714981079,2,2,3,5
+2,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7674540877342224,1,2,3,5
+3,chinese,"""State Council's State-owned Assets Supervision and Administration Commission Identifies First Batch of Enterprises to Accelerate Development of New Productive Forces""",neutral,0.573561429977417,1,2,3,5
+4,chinese,"""State Administration of Foreign Exchange: China's International Trade in Goods and Services Reached 3.2308 Trillion Yuan in February""",neutral,0.7088597416877747,1,2,3,5
+5,chinese,"""Southern Region Experiences Three Consecutive Rounds of Rainfall, Is the Rainy Season Starting This Year?""",neutral,0.6636577248573303,1,2,3,5
+6,chinese,"Former Vice Chairman of the Chinese Football Association, Li Yuyi, stands trial for bribery case.",negative,0.49530357122421265,-1,2,3,5
+7,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Resulted in Over 32,600 Deaths in Gaza""",negative,0.6269517540931702,-1,2,3,5
+8,chinese,[Bilingual Financial News] Boao Talks about New Productive Forces: Green Innovation Injects Strong Momentum for Development of New Productive Forces,positive,0.7441238760948181,3,2,3,5
+9,chinese,"""National Intellectual Property Administration: Strengthen Copyright Protection, Crack Down on Various Infringement and Piracy Activities""",negative,0.8079090118408203,-2,2,3,5
