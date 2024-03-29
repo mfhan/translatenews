@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,6,0,4
-1,chinese,"""Colorful Yunnan: A Vibrant Ethnic Culture in Southern China""",positive,0.4930497109889984,2,6,0,4
-2,chinese,"""Promoting High-Quality Development: Shanghai Continues to Advance the Construction of ""Five Centers"" and Accelerates the Development of a Socialist Modern International Metropolis with Global Influence""",positive,0.8339737057685852,3,6,0,4
-3,chinese,"""Year-on-year growth of 5.9%! China's total social logistics amount reached 55.4 trillion yuan in the first two months of this year""",positive,0.5379376411437988,2,6,0,4
-4,chinese,"""Take a Special Train to Enjoy the Spring Scenery: Heilongjiang Launches First Tourist Train to Laos""",positive,0.6320446133613586,2,6,0,4
-5,chinese,"""5.5G Commercial Deployment Launches""",neutral,0.8086339831352234,1,6,0,4
-6,chinese,"Ministry of Commerce: Multinational Corporations Have Full Confidence in ""Investing in China""",positive,0.6665966510772705,2,6,0,4
-7,chinese,"""Ministry of Education Launches Artificial Intelligence Empowerment for Education Action""",positive,0.5992595553398132,2,6,0,4
-8,chinese,"""International Court Demands Israel to Ensure Basic Food Supply for Palestinian Residents in Gaza Strip""",neutral,0.5942320823669434,1,6,0,4
-9,chinese,"""Hand, Foot, and Mouth Disease to Enter High Season - How to Prevent? Remember These 6 Tips""",neutral,0.6863913536071777,1,6,0,4
+0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,7,0,3
+1,chinese,"""Colorful Yunnan | Vibrant Ethnic Culture in Southern Clouds""",positive,0.5128202438354492,2,7,0,3
+2,chinese,"""Express Delivery Services Accelerate the Development of Modern Agriculture, Stimulating the Rural Market (Big Data Analysis)""",positive,0.779423177242279,3,7,0,3
+3,chinese,"""Profits of Large-Scale Industrial Enterprises Increase by 10.2% Year-on-Year in the First Two Months (New Data, New Perspective)""",neutral,0.6551575064659119,1,7,0,3
+4,chinese,"""Mediation and Reasoning | China Turns to WTO Dispute Settlement Mechanism over US Discriminatory Subsidy Measures: Properly Resolving Trade Disputes and Taking Action to Safeguard the Multilateral Trading System""",neutral,0.5084294080734253,1,7,0,3
+5,chinese,"""Nine Departments Promote 22 Measures to Promote High-Quality Development of the Catering Industry""",positive,0.6803366541862488,2,7,0,3
+6,chinese,"""Xinjiang's First Million-Kilowatt-Level Wind-Storage Integration Project Successfully Connected to the Grid for Power Generation in 2024""",positive,0.6265227198600769,2,7,0,3
+7,chinese,"""Promoting High-Quality Development: Accelerating the Mutual Promotion of Industry and Technology to Create a New Productive Force - Guangdong: Striving to Build a New Guangdong""",positive,0.7892065048217773,3,7,0,3
+8,chinese,"""Promoting High-Quality Development: Shanghai Continues to Advance the Construction of ""Five Centers"" and Accelerates the Building of a Socialist Modern International Metropolis with Global Influence""",positive,0.8327639698982239,3,7,0,3
+9,chinese,"""Year-on-year growth of 5.9%! China's total social logistics in the first two months of this year reached 55.4 trillion yuan""",positive,0.5264398455619812,2,7,0,3
