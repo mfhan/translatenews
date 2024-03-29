@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,0,3,7
-1,chinese,"""Yunnan, a Blooming Journey: The Flower Economy - Using Colorful Flowers to Paint a New Era in Yunnan""",neutral,0.5935034155845642,1,0,3,7
-2,chinese,"""Ministry of Education Launches Artificial Intelligence Empowerment Education Action""",neutral,0.5275462865829468,1,0,3,7
-3,chinese,"""International Court Demands Israel to Ensure Basic Food Supply for Palestinian Residents in Gaza Strip""",neutral,0.5942320823669434,1,0,3,7
-4,chinese,"""Hand, Foot, and Mouth Disease to Enter High Season, How to Prevent? Remember These 6 Tips""",neutral,0.7102935910224915,1,0,3,7
-5,chinese,"""Chinese Football Association: Encouraging Reporting of ""Fake Gambling and Black Market"" Issues in Football""",neutral,0.5001703500747681,1,0,3,7
-6,chinese,"""Schedule for Paris Olympic Basketball Games Released: Chinese Women's Basketball Team to Face Spain in First Match""",neutral,0.8310487866401672,1,0,3,7
-7,chinese,"""Former Head Coach of China's National Men's Football Team, Li Tie, on Trial for Bribery, Bribery in Behalf of a Unit, Bribery of Non-State Personnel, and Accepting Bribes from Non-State Personnel""",negative,0.7895932793617249,-2,0,3,7
-8,chinese,"""Spring Brings Frequent Sandstorms, How Should We Protect Our Health?""",negative,0.6265606880187988,-1,0,3,7
-9,chinese,"""Baltimore Bridge Collision Incident Sparks US ""Logistics Challenge""""",negative,0.566601037979126,-1,0,3,7
+0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,2,2,6
+1,chinese,"""Yunnan, the Blooming Province: The Flower Economy - Colorful Yunnan Paints a New Era with Abundant Flowers""",positive,0.6669323444366455,2,2,2,6
+2,chinese,"""5.5G Commercial Deployment Launches""",neutral,0.8086339831352234,1,2,2,6
+3,chinese,"Ministry of Commerce: Multinational Companies Still Have Full Confidence in ""Investing in China""",positive,0.5449486970901489,2,2,2,6
+4,chinese,"""Ministry of Education Launches Artificial Intelligence Empowerment Education Action""",neutral,0.5275462865829468,1,2,2,6
+5,chinese,"""International Court Demands Israel to Ensure Basic Food Supply for Palestinian Residents in Gaza Strip""",neutral,0.5942320823669434,1,2,2,6
+6,chinese,"""Hand, Foot, and Mouth Disease to Enter High Season, How to Prevent? Remember These 6 Tips""",neutral,0.7102935910224915,1,2,2,6
+7,chinese,"""Chinese Football Association: Encouraging Reporting of Football's ""Fake Gambling and Black Market"" Issue""",negative,0.5440991520881653,-1,2,2,6
+8,chinese,"""Schedule for Paris Olympics Basketball Games Released, Chinese Women's Team to Face Spain in First Match""",neutral,0.8346419930458069,1,2,2,6
+9,chinese,"""Former Head Coach of China's National Men's Football Team, Li Tie, on Trial for Bribery, Bribery in Behalf of a Company, and Bribery of Non-State Personnel""",negative,0.7633689641952515,-2,2,2,6
