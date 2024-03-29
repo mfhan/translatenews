@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,2,3,5
-1,chinese,"""Colorful Yunnan: A Vibrant Ethnic Culture in the South of the Clouds""",positive,0.4866134822368622,2,2,3,5
-2,chinese,"""Global Initiative | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Powers""",neutral,0.7515246272087097,1,2,3,5
-3,chinese,"""State Council's State-owned Assets Supervision and Administration Commission Identifies First Batch of Enterprises to Accelerate Development of New Productive Forces""",neutral,0.573561429977417,1,2,3,5
-4,chinese,"""State Administration of Foreign Exchange: In February, China's International Trade Volume for Goods and Services Reaches 3.2308 Trillion Yuan""",neutral,0.7436125874519348,1,2,3,5
-5,chinese,"""Southern Regions Experience Consecutive Rainfall, Is the Rainy Season Starting This Year?""",neutral,0.5276461839675903,1,2,3,5
+1,chinese,"""Colorful Yunnan: A Vibrant Ethnic Culture in Southern China""",positive,0.4930497109889984,2,2,3,5
+2,chinese,"""Global Initiative | Former UN Deputy Secretary-General Jin In-soo: Global Governance Needs Leadership from Major Countries""",neutral,0.7796875834465027,1,2,3,5
+3,chinese,"""State-owned Assets Supervision and Administration Commission of the State Council Announces First Batch of Enterprises to Accelerate Development of New Productive Forces""",neutral,0.5770120620727539,1,2,3,5
+4,chinese,"""State Administration of Foreign Exchange: China's International Trade Volume for Goods and Services Reaches 3.2308 Trillion Yuan in February""",neutral,0.7492793798446655,1,2,3,5
+5,chinese,"""Southern China Experiences Consecutive Rainfall, Is the Rainy Season Starting This Year?""",neutral,0.5202046036720276,1,2,3,5
 6,chinese,"Former Vice Chairman of the Chinese Football Association, Li Yuyi, stands trial for bribery case.",negative,0.49530357122421265,-1,2,3,5
-7,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Caused Over 32,600 Deaths in Gaza""",negative,0.6360488533973694,-1,2,3,5
-8,chinese,"""[Bilingual Financial News] Boao Talks about New Productive Forces: Green Innovation Injects Strong Momentum into the Development of New Productive Forces""",positive,0.7595996856689453,3,2,3,5
-9,chinese,"""National Intellectual Property Administration: Strengthen Copyright Protection, Crack Down on Various Infringement and Piracy Activities""",negative,0.8079090118408203,-2,2,3,5
+7,chinese,"""Gaza Health Department: Over 32,600 Deaths in Gaza Due to Latest Israeli-Palestinian Conflict""",negative,0.6084036231040955,-1,2,3,5
+8,chinese,"""[Bilingual Financial News] Boao Talks about New Productivity: Green Innovation Injects Strong Momentum into the Development of New Productivity""",positive,0.7708228826522827,3,2,3,5
+9,chinese,"""National Intellectual Property Administration: Strengthen Copyright Protection and Crack Down on Various Infringement and Piracy Activities""",negative,0.7656971216201782,-2,2,3,5
