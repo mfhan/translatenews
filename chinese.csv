@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""World Internet Conference Digital Silk Road Development Forum Press Conference Held in Beijing""",neutral,0.9095034599304199,1,6,0,4
-1,chinese,"""Colorful Yunnan: Vibrant Ethnic Culture in the South of the Clouds""",positive,0.5434828400611877,2,6,0,4
-2,chinese,"""Promoting High-Quality Development: Shanghai Continues to Advance the Construction of ""Five Centers"" and Accelerate the Development of a Socialist Modern International Metropolis with Global Influence""",positive,0.8192588686943054,3,6,0,4
-3,chinese,"""Year-on-year growth of 5.9%! China's total social logistics volume reached 55.4 trillion yuan in the first two months of this year""",positive,0.5621498227119446,2,6,0,4
-4,chinese,"""Take a Special Train to Admire the Spring Scenery: Heilongjiang Launches First Tourist Train to Laos""",positive,0.6770108938217163,2,6,0,4
-5,chinese,"""5.5G Commercial Deployment Launched""",neutral,0.7039479613304138,1,6,0,4
+1,chinese,"""Colorful Yunnan | Vibrant Ethnic Culture in Southern Yunnan""",positive,0.6205688714981079,2,6,0,4
+2,chinese,"""Promoting High-Quality Development: Shanghai Continues to Advance the Construction of ""Five Centers"" and Speeds up the Establishment of a Socialist Modern International Metropolis with Global Influence""",positive,0.8070064783096313,3,6,0,4
+3,chinese,"""Year-on-year growth of 5.9%! China's total social logistics amount reached 55.4 trillion yuan in the first two months of this year""",positive,0.5379376411437988,2,6,0,4
+4,chinese,"""Take a Special Train to Enjoy the Spring Scenery: Heilongjiang Launches First Tourist Train to Laos""",positive,0.6320446133613586,2,6,0,4
+5,chinese,"""5.5G Commercial Deployment Launches""",neutral,0.8086339831352234,1,6,0,4
 6,chinese,"Ministry of Commerce: Multinational Companies Have Full Confidence in ""Investing in China""",positive,0.67476886510849,2,6,0,4
 7,chinese,"""Ministry of Education Launches Artificial Intelligence Empowerment in Education Action""",positive,0.5624834299087524,2,6,0,4
 8,chinese,"""International Court Demands Israel to Ensure Basic Food Supply for Palestinian Residents in Gaza Strip""",neutral,0.5942320823669434,1,6,0,4
-9,chinese,"""Hand, Foot, and Mouth Disease to Enter High Season, How to Prevent? Remember These 6 Tips""",neutral,0.7102935910224915,1,6,0,4
+9,chinese,"""Hand, Foot, and Mouth Disease to Enter Peak Season, How to Prevent? Remember These 6 Tips""",neutral,0.6795560121536255,1,6,0,4
