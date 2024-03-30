@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,3,1,6
-1,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yinshu: Global Governance Needs Leadership from Major Countries""",neutral,0.772266149520874,1,3,1,6
-2,chinese,"""Chinese delegation, including cross-departmental working group and Chinese Embassy in Pakistan, jointly mourns for the victims""",negative,0.6196059584617615,-1,3,1,6
-3,chinese,"""Over 1.26 million Drones! China's Low-Altitude Economy Holds Trillion-Dollar Market Potential""",neutral,0.4820556938648224,1,3,1,6
-4,chinese,"""2024 Chinese Workers Tennis League (Spring Season) Kicks Off with the ""China National Sports Foundation - Hong Kong Jockey Club Cup""""",neutral,0.8424465656280518,1,3,1,6
-5,chinese,"""Central Bank: Total Issuance of Various Bonds in February Reaches 4.70612 Trillion Yuan""",neutral,0.8086603879928589,1,3,1,6
-6,chinese,"""China's overall international balance of payments remains stable""",positive,0.5412998199462891,2,3,1,6
-7,chinese,"""Starting in April, these new regulations will affect our daily lives!""",positive,0.4989916682243347,2,3,1,6
-8,chinese,"""2024 China Internet Media Forum Opens in Kunming, Yunnan""",neutral,0.8443028330802917,1,3,1,6
-9,chinese,"""Sri Lankan Prime Minister: Confident about the Future of China-Sri Lanka Relations""",positive,0.5562147498130798,2,3,1,6
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6994402408599854,1,3,0,7
+1,chinese,"""Global Initiative Perspective｜Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Powers""",neutral,0.7632004022598267,1,3,0,7
+2,chinese,"""Chinese Interdepartmental Working Group and Chinese Embassy in Pakistan Jointly Offer Condolences to the Victims""",neutral,0.44503656029701233,1,3,0,7
+3,chinese,"""Over 1.26 million Drones! China's Low-altitude Economy Holds a Trillion-level Market""",neutral,0.5955812335014343,1,3,0,7
+4,chinese,"""China National Sports Foundation - Hong Kong Jockey Club Cup"" 2024 Chinese Workers Tennis League (Spring Season) Begins",neutral,0.8853241205215454,1,3,0,7
+5,chinese,"Central Bank: Total Issuance of Various Bonds in February Reaches 4,706.12 Billion Yuan",neutral,0.7815846800804138,1,3,0,7
+6,chinese,"""China's overall international balance of payments remains stable""",positive,0.5412998199462891,2,3,0,7
+7,chinese,"""Starting in April, these new regulations will affect our daily lives!""",positive,0.4989916682243347,2,3,0,7
+8,chinese,"""2024 China Internet Media Forum Opens in Kunming, Yunnan""",neutral,0.8443028330802917,1,3,0,7
+9,chinese,"""Sri Lankan Prime Minister: Confident in the Future of China-Sri Lanka Relations""",positive,0.6063690781593323,2,3,0,7
