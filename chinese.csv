@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,3,1,6
-1,chinese,"""Global Initiative | Former UN Deputy Secretary-General Jin Yuzhu: Global governance needs leadership from major countries""",neutral,0.7214628458023071,1,3,1,6
-2,chinese,"""Sri Lankan Prime Minister: Full of Confidence in the Future of China-Sri Lanka Relations""",positive,0.7328609824180603,3,3,1,6
-3,chinese,"""China's 5G User Scale Surpasses 4G, Impressive ""Report Card"" for the Telecommunications Industry""",positive,0.8119344711303711,3,3,1,6
-4,chinese,"""What Can the World Internet Conference Digital Silk Road Development Forum Bring to Shaanxi?""",neutral,0.7887965440750122,1,3,1,6
-5,chinese,"""Exploring the Natural Beauty of Yunnan""",positive,0.7288849353790283,3,3,1,6
-6,chinese,"""Building a Blue Economy Partnership Together - 2024 RCEP Regional Ocean Economy Youth Dialogue""",neutral,0.5419922471046448,1,3,1,6
-7,chinese,"""National Healthcare Security Administration: China to Provide Medical Assistance to 250 Million People by 2023""",neutral,0.6013823747634888,1,3,1,6
-8,chinese,"""China Consumers Association: Concerned about the Risks of Kobayashi Pharmaceutical Products, Urges Immediate Discontinuation of Use""",negative,0.7312018275260925,-2,3,1,6
-9,chinese,"""State Council and State-owned Assets Supervision and Administration Commission Announce First Batch of Enterprises to Accelerate Development of New Productive Forces""",neutral,0.4970741868019104,1,3,1,6
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6994402408599854,1,4,0,6
+1,chinese,"""Global Initiative | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Powers""",neutral,0.7515246272087097,1,4,0,6
+2,chinese,"""Starting in April, these new regulations will affect our daily lives!""",positive,0.4989916682243347,2,4,0,6
+3,chinese,"""2024 China Internet Media Forum Opens in Kunming, Yunnan""",neutral,0.8443028330802917,1,4,0,6
+4,chinese,"""Sri Lankan Prime Minister: Full of Confidence in the Future of China-Sri Lanka Relations""",positive,0.7328609824180603,3,4,0,6
+5,chinese,"""China's 5G User Scale Surpasses 4G, Impressive ""Report Card"" for the Telecommunications Industry""",positive,0.8119344711303711,3,4,0,6
+6,chinese,"""What can the World Internet Conference Digital Silk Road Development Forum bring to Shaanxi?""",neutral,0.7562155723571777,1,4,0,6
+7,chinese,"""Exploring the Natural Beauty of Yunnan""",positive,0.7288849353790283,3,4,0,6
+8,chinese,"""Building a Blue Economic Partnership Together - 2024 RCEP Regional Ocean Economy Youth Dialogue""",neutral,0.5410947799682617,1,4,0,6
+9,chinese,"""National Healthcare Security Administration: China to Provide Medical Assistance to 250 Million People by 2023""",neutral,0.6013823747634888,1,4,0,6
