@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,0,3,7
-1,chinese,"""Global Initiative Opinion | Former UN Deputy Secretary-General Kim Won-soo: Global Governance Needs Leadership from Major Countries""",neutral,0.820076048374176,1,0,3,7
-2,chinese,"""Korean Station of World Table Tennis Championships: Chinese Women's Team Sweeps Top Four Spots in Singles""",neutral,0.6934525966644287,1,0,3,7
-3,chinese,"""Spring New Recruits Begin Training! What Are the Courses? On-Site Coverage""",neutral,0.8513094782829285,1,0,3,7
-4,chinese,"""Hangzhou East Station Jumper Transferred to Intensive Care Unit for Dynamic Observation after Initial Treatment at Hospital""",neutral,0.8135788440704346,1,0,3,7
-5,chinese,"""Number of Injured in Moscow State Music Hall Terrorist Attack Rises to 551""",negative,0.6037638187408447,-1,0,3,7
-6,chinese,"""Hijacking Hostage Incident Occurs in Ede, Netherlands, Police Confirm Release of 3 Hostages""",negative,0.541254460811615,-1,0,3,7
-7,chinese,"""Chinese delegation, including cross-departmental working group and Chinese Embassy in Pakistan, jointly mourns for the victims""",negative,0.6196059584617615,-1,0,3,7
-8,chinese,"""Over 1.26 million Drones! China's Low-Altitude Economy Holds a Trillion-Dollar Market""",neutral,0.6232225298881531,1,0,3,7
-9,chinese,"""2024 Chinese Workers Tennis League (Spring Season) Kicks Off with the ""China National Sports Foundation - Hong Kong Jockey Club Cup""""",neutral,0.8424465656280518,1,0,3,7
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6994402408599854,1,0,2,8
+1,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7674540877342224,1,0,2,8
+2,chinese,"""ITTF World Tour Korea Open: Chinese Women's Table Tennis Team Sweeps Top Four Spots in Singles""",neutral,0.7519205212593079,1,0,2,8
+3,chinese,"""Spring New Recruits Begin Training! What Courses Are Included? On-Site Coverage""",neutral,0.8718196749687195,1,0,2,8
+4,chinese,"""Passenger who jumped onto tracks at Hangzhou East Station transferred to intensive care unit for dynamic observation after initial treatment at hospital""",neutral,0.5100796222686768,1,0,2,8
+5,chinese,"""Number of Injured in Moscow State Music Hall Terrorist Attack Rises to 551""",negative,0.6037638187408447,-1,0,2,8
+6,chinese,"""Hostage Situation Occurs in Ede, Netherlands - Police Report 3 Hostages Released""",neutral,0.6418743133544922,1,0,2,8
+7,chinese,"""Chinese delegation, including inter-departmental working group and Chinese embassy in Pakistan, jointly mourn for the victims""",negative,0.596378743648529,-1,0,2,8
+8,chinese,"""Over 1.26 million drones! China's Low Altitude Economy Holds Trillion-Level Market""",neutral,0.5876020193099976,1,0,2,8
+9,chinese,"""China National Sports Foundation - Hong Kong Jockey Club Cup"" 2024 Chinese Workers Tennis League (Spring Season) Begins",neutral,0.8853241205215454,1,0,2,8
