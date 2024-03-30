@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on ""Expanding China-Africa Network Media Cooperation"" to be Held Soon""",neutral,0.765102744102478,1,0,3,7
-1,chinese,"""Global Initiative | Former UN Deputy Secretary-General Jin Yuzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7777314782142639,1,0,3,7
-2,chinese,"""ITTF World Tour Grand Finals: South Korea Station, Chinese Women's Table Tennis Team Sweeps Top Four Spots""",neutral,0.7909368276596069,1,0,3,7
-3,chinese,"""Spring New Recruits Begin Training! What are the Courses? Live Coverage""",neutral,0.8432593941688538,1,0,3,7
-4,chinese,"""Hangzhou East Station Jumper Receives Initial Treatment at Hospital and is Transferred to Intensive Care Unit for Ongoing Observation""",neutral,0.8433008790016174,1,0,3,7
-5,chinese,"""Number of Injured in Moscow State Music Hall Terrorist Attack Rises to 551""",negative,0.6037638187408447,-1,0,3,7
-6,chinese,"""Hijacking Hostage Incident Occurs in Ede, Netherlands, Police Confirm Release of 3 Hostages""",negative,0.541254460811615,-1,0,3,7
-7,chinese,"""Chinese delegation, including cross-departmental working group and Chinese Embassy in Pakistan, jointly mourn for the victims""",negative,0.5849387049674988,-1,0,3,7
-8,chinese,"""Over 1.26 million Drones! China's Low-Altitude Economy Holds a Trillion-Dollar Market""",neutral,0.6232225298881531,1,0,3,7
-9,chinese,"""China National Sports Foundation - Hong Kong Jockey Club Cup"" 2024 Chinese Workers Tennis League (Spring Season) Begins",neutral,0.8853241205215454,1,0,3,7
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,2,2,6
+1,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7674540877342224,1,2,2,6
+2,chinese,"""Northward trend continues to heat up! Zhuhai Port of Hong Kong-Zhuhai-Macao Bridge sets a new record for inbound passenger clearance of buses""",positive,0.5490416884422302,2,2,2,6
+3,chinese,"""Homestay Bookings Increase Threefold Year-on-Year! In Addition to Enjoying Flowers and Spring Outings, You Can Also Experience These Activities""",positive,0.6994158625602722,2,2,2,6
+4,chinese,"""Identity of 134 victims confirmed in terrorist attack at Moscow State Music Hall in Russia""",negative,0.6635202169418335,-1,2,2,6
+5,chinese,"""Korean Station of World Table Tennis Championships: Chinese Women's Team Sweeps Top Four Spots in Singles""",neutral,0.6934525966644287,1,2,2,6
+6,chinese,"""Spring New Recruits Begin Training! What Courses Are Included? On-Site Coverage""",neutral,0.8718196749687195,1,2,2,6
+7,chinese,"""Hangzhou East Station Train Jumper Transferred to Intensive Care Unit for Ongoing Observation after Initial Treatment at Hospital""",neutral,0.7998926639556885,1,2,2,6
+8,chinese,"""Number of Injured in Moscow State Music Hall Terrorist Attack Rises to 551""",negative,0.6037638187408447,-1,2,2,6
+9,chinese,"""Hostage Situation Occurs in Ede, Netherlands - Police Report 3 Hostages Released""",neutral,0.6418743133544922,1,2,2,6
