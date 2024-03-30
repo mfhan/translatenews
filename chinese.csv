@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-Forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.7133606672286987,1,0,2,8
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum to Hold Sub-Forum on Expanding China-Africa Online Media Cooperation""",neutral,0.8354092240333557,1,0,2,8
 1,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7674540877342224,1,0,2,8
-2,chinese,"""Korean Station of World Table Tennis Championships, Chinese Women's Team Sweeps Top Four Spots in Singles""",neutral,0.6534712910652161,1,0,2,8
-3,chinese,"""Spring New Recruits Begin Training! What Are the Courses? Live Coverage""",neutral,0.8374873995780945,1,0,2,8
-4,chinese,"""Hangzhou East Station Train Jumper Transferred to Intensive Care Unit for Dynamic Observation After Initial Treatment at Hospital""",neutral,0.8049470782279968,1,0,2,8
+2,chinese,"""ITTF World Tour Korean Open: Chinese Women's Table Tennis Team Sweeps Top Four Spots in Singles""",neutral,0.734667181968689,1,0,2,8
+3,chinese,"""Spring New Recruits Begin Training! What Courses Are Included? On-Site Coverage""",neutral,0.8718196749687195,1,0,2,8
+4,chinese,"""Hangzhou East Station Jumper Transferred to Intensive Care Unit for Dynamic Observation After Initial Treatment at Hospital""",neutral,0.8058393597602844,1,0,2,8
 5,chinese,"""Number of Injured in Moscow State Music Hall Terrorist Attack Rises to 551""",negative,0.6037638187408447,-1,0,2,8
-6,chinese,"""Hostage Situation Occurs in Ede, Netherlands - Police Report 3 Hostages Released""",neutral,0.6418743133544922,1,0,2,8
-7,chinese,"""Chinese delegation, including cross-departmental working group and Chinese Embassy in Pakistan, jointly mourns for the victims""",negative,0.6196059584617615,-1,0,2,8
-8,chinese,"""Over 1.26 million Drones! China's Low-Altitude Economy Holds Trillion-Dollar Market Potential""",neutral,0.4820556938648224,1,0,2,8
-9,chinese,"""2024 Chinese Workers' Tennis League (Spring Season) Kicks Off with ""China National Sports Foundation - Hong Kong Jockey Club Cup""",neutral,0.8439649343490601,1,0,2,8
+6,chinese,"""Hostage Situation Occurs in Dutch City of Ede, Police Report 3 Hostages Released""",neutral,0.5006111264228821,1,0,2,8
+7,chinese,"""Chinese delegation, including cross-departmental working group and Chinese Embassy in Pakistan, jointly mourn for the victims""",negative,0.5849387049674988,-1,0,2,8
+8,chinese,"""Over 1.26 million Drones! China's Low-Altitude Economy Holds Trillion-Level Market""",neutral,0.5506491661071777,1,0,2,8
+9,chinese,"""China National Sports Foundation - Hong Kong Jockey Club Cup"" 2024 Chinese Workers Tennis League (Spring Season) Begins",neutral,0.8853241205215454,1,0,2,8
