@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,4,2,4
-1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiative is a Highly Promising Concept, Should be Actively Taken Seriously""",positive,0.46954649686813354,2,4,2,4
-2,chinese,"""National Civil Aviation Implements Summer and Autumn Flight Schedule Starting Today""",neutral,0.678576648235321,1,4,2,4
-3,chinese,"""Gunshot Incident in Indiana, USA Leaves 7 Minors Injured""",negative,0.7453380823135376,-2,4,2,4
-4,chinese,"""China's Translation Talent Pool Continues to Grow""",positive,0.5460711121559143,2,4,2,4
-5,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Resulted in Over 32,700 Deaths in Gaza""",negative,0.6334158778190613,-1,4,2,4
-6,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs Trace Ancestry"" Officially Launches""",neutral,0.6270574927330017,1,4,2,4
-7,chinese,"""Liang Jingkun Wins Men's Singles Championship at ITTF World Tour South Korea Open""",positive,0.5220370888710022,2,4,2,4
-8,chinese,"""Sun Yingsha Wins the Championship! Chinese Table Tennis Sweeps the Women's Singles Champion and Runner-up at the ITTF World Tour Korea Open""",positive,0.6279295682907104,2,4,2,4
-9,chinese,"""Xiaolin Pharmaceuticals: Red Yeast Rice Raw Materials Produced at Wakayama County Factory Partially Shipped""",neutral,0.8663524985313416,1,4,2,4
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6994402408599854,1,3,2,5
+1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiatives are a Highly Promising Concept and Should be Taken Seriously""",positive,0.5098962783813477,2,3,2,5
+2,chinese,"""National Civil Aviation Implements Summer and Autumn Flight Schedule Starting Today""",neutral,0.678576648235321,1,3,2,5
+3,chinese,"""Gunshot Incident Occurs in Indiana, USA, 7 Minors Injured""",negative,0.6922397017478943,-1,3,2,5
+4,chinese,"""Continuous Growth in the Scale of Translation Talents in Our Country""",neutral,0.5538519620895386,1,3,2,5
+5,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Caused Over 32,700 Deaths in Gaza""",negative,0.6421049237251282,-1,3,2,5
+6,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs Tracing Action"" Officially Launches""",neutral,0.5918843746185303,1,3,2,5
+7,chinese,"""Liang Jingkun wins the men's singles championship at the ITTF World Tour Korea Open""",positive,0.5811910629272461,2,3,2,5
+8,chinese,"""Sun Yingsha Wins the Championship! Chinese Table Tennis Sweeps the Women's Singles Champion and Runner-up at the ITTF World Tour Korea Open""",positive,0.6279295682907104,2,3,2,5
+9,chinese,"""Xiaolin Pharmaceutical: Red Yeast Rice Raw Materials Produced at Wakayama County Factory Have Been Partially Shipped""",neutral,0.8717933893203735,1,3,2,5
