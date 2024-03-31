@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,1,4,5
-1,chinese,"Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiative is a highly promising concept, should be taken seriously and actively.",positive,0.7114666104316711,3,1,4,5
-2,chinese,National Video Conference Held to Crack Down on Telecommunications Network Fraud,negative,0.8461206555366516,-2,1,4,5
-3,chinese,"""April Space Calendar is Here! Plans for Launch of Shenzhou-18 and Return of Shenzhou-17 in the Latter Half of the Month""",neutral,0.8175823092460632,1,1,4,5
-4,chinese,"""Effective April 1st! Concerning Infant and Childcare""",neutral,0.6313525438308716,1,1,4,5
-5,chinese,"""Earth is Being Submerged by Garbage"" UN Secretary-General Calls for Joint Efforts to Address Waste Crisis",negative,0.866779088973999,-2,1,4,5
-6,chinese,"Hong Kong SAR Government: Dismisses US ""Sanctions"" and ""Visa Restrictions"" with Contempt, Unafraid of Any Intimidation",negative,0.8976101279258728,-2,1,4,5
-7,chinese,"""North Coal South Transportation"" Major Channel: Haoji Railway's Freight Volume Exceeds 20 Million Tons in the First Quarter",neutral,0.7628061175346375,1,1,4,5
-8,chinese,"""Shandong Weihai Police Report 5-Year-Old Boy's Suspected Death by Beating: Two Suspects Arrested""",negative,0.6954700350761414,-1,1,4,5
-9,chinese,"""Cocoa Futures Surpass Gold Prices with a Surge of Over $10,000 per Ton""",neutral,0.7083833813667297,1,1,4,5
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6994402408599854,1,4,1,5
+1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiative is a Highly Promising Concept, Should be Actively and Seriously Addressed""",positive,0.46873995661735535,2,4,1,5
+2,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs Tracing Action"" Officially Launches""",neutral,0.5918843746185303,1,4,1,5
+3,chinese,"""Liang Jingkun wins the men's singles championship at the ITTF World Tour Korea Open""",positive,0.5811910629272461,2,4,1,5
+4,chinese,"""Sun Yingsha Wins the Championship! Chinese Table Tennis Sweeps the Women's Singles Champion and Runner-Up at the ITTF World Tour Korea Open""",positive,0.6240172982215881,2,4,1,5
+5,chinese,"""Xiaolin Pharmaceutical: Red Yeast Rice Raw Materials Produced at Wakayama County Factory Have Been Partially Shipped""",neutral,0.8717933893203735,1,4,1,5
+6,chinese,"""Central Meteorological Observatory Issues Four Warnings for Heavy Fog, Rainstorm, Sandstorm, and Severe Convection!""",negative,0.5986454486846924,-1,4,1,5
+7,chinese,"""Global Initiative Insight | Former President of European University of Cyprus, Georgioumos: Strengthening Practical Cooperation between China and Europe to Promote the Construction of a More Stable and Credible Multilateralism System""",positive,0.5356431603431702,2,4,1,5
+8,chinese,National video conference held to combat and control telecommunications network fraud,neutral,0.6763564944267273,1,4,1,5
+9,chinese,"""April Space Calendar is Here! Plans for Launch of Shenzhou-18 and Return of Shenzhou-17 in the Later Half of the Month""",neutral,0.8209966421127319,1,4,1,5
