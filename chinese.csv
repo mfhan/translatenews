@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6760908365249634,1,4,2,4
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,4,2,4
 1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiative is a Highly Promising Concept, Should be Actively Taken Seriously""",positive,0.46954649686813354,2,4,2,4
 2,chinese,"""National Civil Aviation Implements Summer and Autumn Flight Schedule Starting Today""",neutral,0.678576648235321,1,4,2,4
-3,chinese,"""Gunshot Incident Occurs in Indiana, USA, 7 Minors Injured""",negative,0.6922397017478943,-1,4,2,4
+3,chinese,"""Gunshot Incident in Indiana, USA Leaves 7 Minors Injured""",negative,0.7453380823135376,-2,4,2,4
 4,chinese,"""China's Translation Talent Pool Continues to Grow""",positive,0.5460711121559143,2,4,2,4
-5,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Caused Over 32,700 Deaths in Gaza""",negative,0.6421049237251282,-1,4,2,4
-6,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs' Ancestral Journey"" Officially Launches""",neutral,0.6234753727912903,1,4,2,4
-7,chinese,"""Liang Jingkun Wins Men's Singles Championship at ITTF World Tour Korea Open""",positive,0.5352178812026978,2,4,2,4
-8,chinese,"""Sun Yingsha Wins the Championship! Chinese Table Tennis Sweeps the Women's Singles Champion and Runner-Up at the ITTF World Tour Korea Open""",positive,0.6240172982215881,2,4,2,4
-9,chinese,"""Xiaolin Pharmaceutical: Red Yeast Rice Ingredients Produced at Wakayama County Factory Have Been Partially Shipped""",neutral,0.8595055341720581,1,4,2,4
+5,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Resulted in Over 32,700 Deaths in Gaza""",negative,0.6334158778190613,-1,4,2,4
+6,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs Trace Ancestry"" Officially Launches""",neutral,0.6270574927330017,1,4,2,4
+7,chinese,"""Liang Jingkun Wins Men's Singles Championship at ITTF World Tour South Korea Open""",positive,0.5220370888710022,2,4,2,4
+8,chinese,"""Sun Yingsha Wins the Championship! Chinese Table Tennis Sweeps the Women's Singles Champion and Runner-up at the ITTF World Tour Korea Open""",positive,0.6279295682907104,2,4,2,4
+9,chinese,"""Xiaolin Pharmaceuticals: Red Yeast Rice Raw Materials Produced at Wakayama County Factory Partially Shipped""",neutral,0.8663524985313416,1,4,2,4
