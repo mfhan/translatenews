@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,2,1,7
-1,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7674540877342224,1,2,1,7
-2,chinese,"""Thousands of Sceneries in Yunnan | Come to Yunnan and Immerse Yourself in ""This Kind of Life""""",neutral,0.5347247123718262,1,2,1,7
-3,chinese,"""The 2024 China Internet Media Forum Held in Kunming, Yunnan""",neutral,0.9182373881340027,1,2,1,7
-4,chinese,"""Northward trend continues to be hot! Zhuhai Port of Hong Kong-Zhuhai-Macao Bridge sets new record for inbound passenger traffic""",positive,0.6835315227508545,2,2,1,7
-5,chinese,"""Homestay Bookings Increase Threefold Year-on-Year! In Addition to Enjoying Flower Viewing and Outings, You Can Also Experience These Activities""",positive,0.6856269836425781,2,2,1,7
-6,chinese,"""Identity of 134 victims confirmed in terrorist attack at Moscow State Music Hall in Russia""",negative,0.6635202169418335,-1,2,1,7
-7,chinese,"""World Table Tennis Championships Korean Leg: Chinese Women's Team Sweeps Top Four Spots in Singles""",neutral,0.7195222973823547,1,2,1,7
-8,chinese,"""Spring New Recruits Begin Training! What Are the Courses? On-Site Coverage""",neutral,0.8513094782829285,1,2,1,7
-9,chinese,"""Hangzhou East Station Jumper Transferred to Intensive Care Unit for Dynamic Observation After Initial Treatment at Hospital""",neutral,0.8058393597602844,1,2,1,7
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,3,1,6
+1,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Powers""",neutral,0.7528334259986877,1,3,1,6
+2,chinese,"""Starting in April, these new regulations will affect our daily lives""",neutral,0.6583641767501831,1,3,1,6
+3,chinese,"""Convenience Living Circles Launched in Multiple Regions Across the Country, Rapidly Updating People's Living Spaces""",positive,0.6591370105743408,2,3,1,6
+4,chinese,"""Double Alert! China's Central Meteorological Observatory Issues Strong Convective Blue Warning + Heavy Rain Blue Warning""",neutral,0.5030646920204163,1,3,1,6
+5,chinese,"""Thousands of Weather Conditions in Yunnan | Come to Yunnan, Immerse Yourself in ""This Kind of Life""""",neutral,0.6155611872673035,1,3,1,6
+6,chinese,"""2024 China Internet Media Forum Held in Kunming, Yunnan""",neutral,0.9121586680412292,1,3,1,6
+7,chinese,"""Northward trend continues to be hot! The passenger vehicle entry volume at the Zhuhai Port of the Hong Kong-Zhuhai-Macao Bridge reaches a new high.""",positive,0.5459373593330383,2,3,1,6
+8,chinese,"""Homestay Bookings Increase Threefold Year-on-Year! In Addition to Enjoying Flower Viewing and Spring Outings, You Can Also Experience These Activities""",positive,0.6930868625640869,2,3,1,6
+9,chinese,"""Identity of 134 Victims Confirmed in Moscow State Music Hall Terrorist Attack""",negative,0.5564786195755005,-1,3,1,6
