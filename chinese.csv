@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6866328120231628,1,1,3,6
-1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiatives are Highly Promising Concepts and Should be Actively Taken Seriously""",positive,0.49406126141548157,2,1,3,6
-2,chinese,"""April Space Calendar is Here! Plans for Launch of Shenzhou-18 and Return of Shenzhou-17 in the Latter Half of the Month""",neutral,0.8175823092460632,1,1,3,6
-3,chinese,"""Effective April 1st! Concerning Infant and Child Care""",neutral,0.6716625094413757,1,1,3,6
-4,chinese,"""Earth is Being Submerged in Garbage"" UN Secretary-General Calls for Joint Efforts to Address Waste Crisis",negative,0.8780259490013123,-2,1,3,6
-5,chinese,"""Hong Kong SAR Government: Dismisses US ""Sanctions"" and ""Visa Restrictions"", Fearless of Any Intimidation""",negative,0.829765796661377,-2,1,3,6
-6,chinese,"""North-South Coal Transport"" Major Corridor: Haoji Railway's Freight Volume Exceeds 20 Million Tons in the First Quarter",neutral,0.7324588298797607,1,1,3,6
-7,chinese,"""Shandong Weihai Police Report Death of 5-Year-Old Boy Suspected to be Caused by Beating: Two Suspects Arrested""",negative,0.6622434258460999,-1,1,3,6
-8,chinese,"""Cocoa prices rise far beyond gold prices, breaking through $10,000 per ton""",neutral,0.6054750084877014,1,1,3,6
-9,chinese,"""Navigation Warning! Military Mission Executed in Northern Bohai Sea""",neutral,0.6364982724189758,1,1,3,6
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,1,4,5
+1,chinese,"Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiative is a highly promising concept, should be taken seriously and actively.",positive,0.7114666104316711,3,1,4,5
+2,chinese,National Video Conference Held to Crack Down on Telecommunications Network Fraud,negative,0.8461206555366516,-2,1,4,5
+3,chinese,"""April Space Calendar is Here! Plans for Launch of Shenzhou-18 and Return of Shenzhou-17 in the Latter Half of the Month""",neutral,0.8175823092460632,1,1,4,5
+4,chinese,"""Effective April 1st! Concerning Infant and Childcare""",neutral,0.6313525438308716,1,1,4,5
+5,chinese,"""Earth is Being Submerged by Garbage"" UN Secretary-General Calls for Joint Efforts to Address Waste Crisis",negative,0.866779088973999,-2,1,4,5
+6,chinese,"Hong Kong SAR Government: Dismisses US ""Sanctions"" and ""Visa Restrictions"" with Contempt, Unafraid of Any Intimidation",negative,0.8976101279258728,-2,1,4,5
+7,chinese,"""North Coal South Transportation"" Major Channel: Haoji Railway's Freight Volume Exceeds 20 Million Tons in the First Quarter",neutral,0.7628061175346375,1,1,4,5
+8,chinese,"""Shandong Weihai Police Report 5-Year-Old Boy's Suspected Death by Beating: Two Suspects Arrested""",negative,0.6954700350761414,-1,1,4,5
+9,chinese,"""Cocoa Futures Surpass Gold Prices with a Surge of Over $10,000 per Ton""",neutral,0.7083833813667297,1,1,4,5
