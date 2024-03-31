@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum to Hold Sub-Forum on Expanding China-Africa Network Media Cooperation""",neutral,0.8304536938667297,1,4,2,4
-1,chinese,"""Global Initiative Perspective | Former Advisor to Indian Prime Minister: Global Development Initiatives are Highly Promising Concepts and Should be Actively Taken Seriously""",positive,0.48560866713523865,2,4,2,4
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,4,2,4
+1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiatives are Highly Promising Concepts and Should be Actively Taken Seriously""",positive,0.49406126141548157,2,4,2,4
 2,chinese,"""National Civil Aviation Implements Summer and Autumn Flight Schedule Starting Today""",neutral,0.678576648235321,1,4,2,4
-3,chinese,"""Gunshot Incident Occurs in Indiana, USA, Injuring 7 Minors""",negative,0.748505711555481,-2,4,2,4
+3,chinese,"""Gunshot Incident in Indiana, USA Leaves 7 Minors Injured""",negative,0.7453380823135376,-2,4,2,4
 4,chinese,"""China's Translation Talent Pool Continues to Grow""",positive,0.5460711121559143,2,4,2,4
-5,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Resulted in Over 32,700 Deaths in Gaza""",negative,0.6334158778190613,-1,4,2,4
-6,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs Tracing Action"" Officially Launches""",neutral,0.5918843746185303,1,4,2,4
-7,chinese,"""Liang Jingkun wins the men's singles championship at the ITTF World Tour Korea Open""",positive,0.5811910629272461,2,4,2,4
-8,chinese,"""Sun Yingsha Wins the Championship! Chinese Table Tennis Dominates the ITTF World Tour Korea Open with Women's Singles Champion and Runner-Up""",positive,0.6616687774658203,2,4,2,4
-9,chinese,"""Xiaolin Pharmaceutical: Red Yeast Rice Raw Materials Produced at Wakayama County Factory Have Been Partially Shipped""",neutral,0.8717933893203735,1,4,2,4
+5,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Caused Over 32,700 Deaths in Gaza""",negative,0.6421049237251282,-1,4,2,4
+6,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs Tracing Action"" Officially Launched""",neutral,0.5793668031692505,1,4,2,4
+7,chinese,"""Liang Jingkun wins the men's singles championship at the ITTF World Tour South Korea Open""",positive,0.586959719657898,2,4,2,4
+8,chinese,"""Sun Yingsha wins the championship! Chinese table tennis dominates the singles event at the ITTF World Tour Korea Open with first and second place finishes for women.""",positive,0.7553806900978088,3,4,2,4
+9,chinese,"""Xiaolin Pharmaceuticals: Red Yeast Rice Ingredients Produced at Wakayama County Factory Have Been Partially Shipped""",neutral,0.8535271883010864,1,4,2,4
