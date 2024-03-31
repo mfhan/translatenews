@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's ""Expanding China-Africa Network Media Cooperation"" Sub-Forum to be Held Soon""",neutral,0.7359051704406738,1,2,0,8
-1,chinese,"""Global Initiative View | Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7674540877342224,1,2,0,8
-2,chinese,"""The April Calendar for Manned Spaceflight is Here, Plans for Shenzhou-18 Launch and Shenzhou-17 Return in the Later Half of the Month""",neutral,0.8772087693214417,1,2,0,8
-3,chinese,"""World Talk: US Defense Budget Soars to Nearly $900 Billion, What is the Intention? US Think Tank: Diplomacy Becoming Increasingly Militarized to Maintain Global Hegemony""",neutral,0.5709242820739746,1,2,0,8
-4,chinese,"""Starting in April, these new regulations will affect our daily lives""",neutral,0.6583641767501831,1,2,0,8
-5,chinese,"""Convenience Life Circles Launched in Multiple Regions Across the Country, People's Living Spaces Rapidly Upgraded""",positive,0.6361216306686401,2,2,0,8
-6,chinese,"""Double Alert! China's Central Meteorological Observatory Issues Strong Convective Blue Warning + Heavy Rain Blue Warning""",neutral,0.5030646920204163,1,2,0,8
-7,chinese,"""Thousands of Sceneries in Yunnan | Come to Yunnan and Immerse Yourself in ""This Kind of Life""""",neutral,0.5347247123718262,1,2,0,8
-8,chinese,"""The 2024 China Internet Media Forum Held in Kunming, Yunnan""",neutral,0.9182373881340027,1,2,0,8
-9,chinese,"""Northward trend continues to be hot! The passenger vehicle entry clearance volume at the Zhuhai Port of the Hong Kong-Zhuhai-Macao Bridge reaches a new high""",positive,0.5161190032958984,2,2,0,8
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: ""Expanding China-Africa Online Media Cooperation"" Sub-Forum to be Held Soon""",neutral,0.7201223373413086,1,1,1,8
+1,chinese,"""Global Initiative View｜Former UN Deputy Secretary-General Jin Yuanzhu: Global Governance Needs Leadership from Major Countries""",neutral,0.7897524833679199,1,1,1,8
+2,chinese,"""China's Manufacturing Purchasing Managers' Index Shows Significant Rebound in March""",neutral,0.5542174577713013,1,1,1,8
+3,chinese,"""April Calendar for Manned Spaceflight is Here! Plans for the Launch of Shenzhou 18 and Return of Shenzhou 17 in the Later Half of the Month""",neutral,0.8333803415298462,1,1,1,8
+4,chinese,"""World Talk: US Defense Budget Soars to Nearly 900 Billion Dollars, What is the Intention? US Think Tank: Increasing Militarization of Foreign Policy Aimed at Maintaining Global Hegemony""",neutral,0.5705138444900513,1,1,1,8
+5,chinese,"""Starting in April, these new regulations will affect our daily lives""",neutral,0.6583641767501831,1,1,1,8
+6,chinese,"""Convenience Life Circles Launched in Multiple Regions Across the Country, People's Living Spaces Rapidly Updated""",positive,0.5855202078819275,2,1,1,8
+7,chinese,"""Double Alert! China Meteorological Administration issues Strong Convection Blue Alert + Heavy Rain Blue Alert""",negative,0.5136806964874268,-1,1,1,8
+8,chinese,"""Thousands of Sceneries in Yunnan | Come to Yunnan and Immerse Yourself in ""This Kind of Life""""",neutral,0.5347247123718262,1,1,1,8
+9,chinese,"""2024 China Internet Media Forum Held in Kunming, Yunnan""",neutral,0.9121586680412292,1,1,1,8
