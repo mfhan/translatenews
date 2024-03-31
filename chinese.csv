@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,4,2,4
-1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiative is a Highly Promising Concept, Should be Actively Taken Seriously""",positive,0.46954649686813354,2,4,2,4
-2,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs' Ancestral Journey"" Officially Launches""",neutral,0.6234753727912903,1,4,2,4
-3,chinese,Liang Jingkun wins the men's singles championship at the ITTF World Tour Korea Open,positive,0.6090324521064758,2,4,2,4
-4,chinese,"""Sun Yingsha Wins the Championship! Chinese Table Tennis Sweeps Women's Singles Champion and Runner-up at ITTF World Tour Korea Open""",positive,0.6471853256225586,2,4,2,4
-5,chinese,"""Xiaolin Pharmaceutical: Red Yeast Rice Ingredients Produced at Wakayama County Factory Have Been Partially Shipped""",neutral,0.8595055341720581,1,4,2,4
-6,chinese,"""Central Meteorological Observatory Issues Four Warnings for Heavy Fog, Rainstorms, Sandstorms, and Severe Convection!""",negative,0.5814276337623596,-1,4,2,4
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,4,2,4
+1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiatives are a Highly Promising Concept and Should be Taken Seriously""",positive,0.5098962783813477,2,4,2,4
+2,chinese,"""Giant Panda National Park's Nature Education Program ""Twin Cubs Tracing Action"" Officially Launches""",neutral,0.5918843746185303,1,4,2,4
+3,chinese,"""Liang Jingkun Wins Men's Singles Championship at ITTF World Tour Korea Open""",positive,0.5352178812026978,2,4,2,4
+4,chinese,"""Sun Yingsha wins the championship! Chinese table tennis team sweeps the top two spots in the women's singles at the ITTF World Tour Korea Open""",positive,0.7558637857437134,3,4,2,4
+5,chinese,"""Xiaolin Pharmaceutical: Red Yeast Rice Raw Materials Produced at Wakayama County Factory Partially Shipped""",neutral,0.8742530345916748,1,4,2,4
+6,chinese,"""Central Meteorological Observatory Issues Four Warnings for Heavy Fog, Rainstorm, Sandstorm, and Severe Convection!""",negative,0.5986454486846924,-1,4,2,4
 7,chinese,"""Global Initiative Perspective | Former President of European University of Cyprus, Guryamos: Strengthening Practical Cooperation between China and Europe to Promote the Construction of a More Stable and Trustworthy Multilateralism System""",positive,0.5269540548324585,2,4,2,4
 8,chinese,National Video Conference Held to Crack Down on Telecommunications Network Fraud,negative,0.8461206555366516,-2,4,2,4
-9,chinese,"""April Space Calendar is Here! Plans for Launch of Shenzhou-18 and Return of Shenzhou-17 in the Latter Half of the Month""",neutral,0.8175823092460632,1,4,2,4
+9,chinese,"""April Space Calendar is Here! Plans for Launch of Shenzhou-18 and Return of Shenzhou-17 in the Later Half of the Month""",neutral,0.8209966421127319,1,4,2,4
