@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,2,4,4
-1,chinese,"""Global Initiative View | Former Advisor to Indian Prime Minister: Global Development Initiative is a Highly Promising Concept, Should be Actively Taken Seriously""",positive,0.46954649686813354,2,2,4,4
-2,chinese,"""Unbearable! US State Department Official Resigns After Posting a Lengthy Article""",negative,0.7128790020942688,-2,2,4,4
-3,chinese,Russian Foreign Ministry Demands Ukraine to Arrest and Extradite All Individuals Involved in Terrorist Attacks against Russia,negative,0.8370189666748047,-2,2,4,4
-4,chinese,"""Partial Accession of Romania and Bulgaria to Schengen Area Officially Takes Effect""",neutral,0.6070162057876587,1,2,4,4
-5,chinese,"""An 80-year-old American man's ""Love Story on the Sichuan Road"" spanning over 20 years""",neutral,0.8100053071975708,1,2,4,4
-6,chinese,"""National Civil Aviation Implements Summer and Autumn Flight Schedule Starting Today""",neutral,0.678576648235321,1,2,4,4
-7,chinese,"""Gunshot Incident Occurs in Indiana, USA, Injuring 7 Minors""",negative,0.748505711555481,-2,2,4,4
-8,chinese,"""China's Translation Talent Pool Continues to Grow""",positive,0.5460711121559143,2,2,4,4
-9,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Caused Over 32,700 Deaths in Gaza""",negative,0.6421049237251282,-1,2,4,4
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.713811457157135,1,1,4,5
+1,chinese,"""Global Initiative Insight | Former Advisor to Indian Prime Minister: Global Development Initiatives are Highly Promising Concepts and Should be Actively Taken Seriously""",positive,0.5133761167526245,2,1,4,5
+2,chinese,"""Unbearable! US State Department Official Resigns After Posting a Lengthy Article""",negative,0.7128790020942688,-2,1,4,5
+3,chinese,"""Russian Foreign Ministry Demands Ukraine Arrest and Extradite All Individuals Involved in Terrorist Attacks Against Russia""",negative,0.8607296943664551,-2,1,4,5
+4,chinese,"""Partial Accession of Romania and Bulgaria to Schengen Area Officially Takes Effect""",neutral,0.6070162057876587,1,1,4,5
+5,chinese,"""Octogenarian American Man Crosses Over 20 Years of ""Sichuan Road Love""""",neutral,0.4847979247570038,1,1,4,5
+6,chinese,"""National Civil Aviation to Implement Summer and Autumn Flight Schedule Starting Today""",neutral,0.6280316710472107,1,1,4,5
+7,chinese,"""Gunshot Incident Occurs in Indiana, USA, Leaving 7 Minors Injured""",negative,0.6635690331459045,-1,1,4,5
+8,chinese,"""Continuous Growth in the Scale of Translation Talent in Our Country""",neutral,0.5883369445800781,1,1,4,5
+9,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Caused Over 32,700 Deaths in Gaza""",negative,0.6421049237251282,-1,1,4,5
