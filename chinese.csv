@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on ""Expanding China-Africa Network Media Cooperation"" to be Held Soon""",neutral,0.765102744102478,1,2,5,3
-1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding between Different Civilizations""",positive,0.5536484122276306,2,2,5,3
-2,chinese,Expert: Vaccination is the most effective measure for preventing and controlling pertussis.,positive,0.5170849561691284,2,2,5,3
-3,chinese,"""Ministry of Commerce Responds to US Revision of Semiconductor Export Control Measures""",neutral,0.7170675992965698,1,2,5,3
-4,chinese,"""Russian Foreign Ministry Demands Ukraine to Arrest and Extradite All Individuals Involved in Terrorist Attacks against Russia""",negative,0.8283756375312805,-2,2,5,3
-5,chinese,"""Car Bomb Attack in Syria Leaves Over 20 People Injured or Dead""",negative,0.731844961643219,-2,2,5,3
-6,chinese,"""Palestinian New Government Sworn In""",neutral,0.7846773862838745,1,2,5,3
-7,chinese,"""Israeli citizens continue to hold protests demanding early elections""",negative,0.6638157367706299,-1,2,5,3
-8,chinese,"""Unbearable! US State Department Official Resigns After Posting a Long Article""",negative,0.8039048314094543,-2,2,5,3
-9,chinese,"""Russian Foreign Ministry Demands Ukraine to Arrest and Extradite All Individuals Involved in Terrorist Attacks against Russia""",negative,0.8283756375312805,-2,2,5,3
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Online Media Cooperation to be Held""",neutral,0.6782768368721008,1,6,1,3
+1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding among Different Civilizations""",positive,0.5638007521629333,2,6,1,3
+2,chinese,"""Data Indicators Improve, Industrial Economy Expected to Continue Rebounding""",positive,0.8233352303504944,3,6,1,3
+3,chinese,"""Spring Economy"" Activates Potential Consumption Market",positive,0.6286091208457947,2,6,1,3
+4,chinese,"""Foreign Think Tank Experts: Xiong'an New Area Celebrates Its Seventh Anniversary, Significant Achievements in Beijing-Tianjin-Hebei Collaborative Development""",positive,0.7364121675491333,3,6,1,3
+5,chinese,"""Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities""",positive,0.6186367273330688,2,6,1,3
+6,chinese,"""Chinese and Burmese police carry out first joint operation to combat crime in Muji, northern Burma""",neutral,0.4739156663417816,1,6,1,3
+7,chinese,Expert: Vaccination is the most effective measure for preventing and controlling pertussis.,positive,0.5170849561691284,2,6,1,3
+8,chinese,"""Ministry of Commerce Responds to US Revision of Semiconductor Export Control Measures""",neutral,0.7170675992965698,1,6,1,3
+9,chinese,"""Russian Foreign Ministry Demands Ukraine to Arrest and Extradite All Individuals Involved in Terrorist Attacks against Russia""",negative,0.8283756375312805,-2,6,1,3
