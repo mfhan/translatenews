@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6760908365249634,1,1,4,5
-1,chinese,"""Global Initiative View｜Former Advisor to Indian Prime Minister: Global Development Initiatives are a Highly Promising Concept and Should be Taken Seriously""",positive,0.48824331164360046,2,1,4,5
-2,chinese,Ministry of Commerce Responds to US Revision of Semiconductor Export Control Measures,neutral,0.6816034317016602,1,1,4,5
-3,chinese,"""Russian Foreign Ministry Demands Ukraine to Arrest and Extradite All Individuals Involved in Terrorist Attacks Against Russia""",negative,0.8201426267623901,-2,1,4,5
-4,chinese,"""Car Bomb Attack in Syria Leaves Over 20 People Injured or Dead""",negative,0.731844961643219,-2,1,4,5
-5,chinese,"""New Palestinian Government Sworn In""",neutral,0.7255241274833679,1,1,4,5
-6,chinese,"""Unbearable! US State Department Official Resigns After Posting a Lengthy Article""",negative,0.7128790020942688,-2,1,4,5
-7,chinese,"""Russian Foreign Ministry Demands Ukraine Arrest and Extradite All Individuals Involved in Terrorist Attacks Against Russia""",negative,0.8607296943664551,-2,1,4,5
-8,chinese,"""Partial Inclusion of Romania and Bulgaria into Schengen Area Officially Takes Effect""",neutral,0.7162798047065735,1,1,4,5
-9,chinese,"""An 80-year-old American man's ""Love Story on the Sichuan-Tibet Highway"" spanning over 20 years""",neutral,0.8116816282272339,1,1,4,5
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,1,5,4
+1,chinese,"""Global Initiative on Civilizations: Former Deputy Director-General of UNESCO states that the Global Civilization Initiative is another driving force for promoting mutual understanding among different cultures""",positive,0.5529052019119263,2,1,5,4
+2,chinese,"""Expert: Vaccination is the Most Effective Measure for Preventing and Controlling Pertussis""",neutral,0.503216564655304,1,1,5,4
+3,chinese,"""Ministry of Commerce Responds to US Revision of Semiconductor Export Control Measures""",neutral,0.7170675992965698,1,1,5,4
+4,chinese,"""Russian Foreign Ministry Demands Ukraine Arrest and Extradite All Individuals Involved in Terrorist Attacks Against Russia""",negative,0.8607296943664551,-2,1,5,4
+5,chinese,"""Car Bomb Attack in Syria Leaves Over 20 People Injured or Dead""",negative,0.731844961643219,-2,1,5,4
+6,chinese,"""Palestinian New Government Sworn In""",neutral,0.7846773862838745,1,1,5,4
+7,chinese,"""Israeli citizens continue to hold protests demanding early elections""",negative,0.6638157367706299,-1,1,5,4
+8,chinese,"""Unbearable! US State Department Official Resigns After Publishing a Lengthy Article""",negative,0.7011919021606445,-2,1,5,4
+9,chinese,"""Russian Foreign Ministry Demands Ukraine Arrest and Extradite All Individuals Involved in Terrorist Attacks Against Russia""",negative,0.8607296943664551,-2,1,5,4
