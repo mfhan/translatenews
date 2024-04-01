@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,7,1,2
-1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding between Different Civilizations""",positive,0.5536484122276306,2,7,1,2
-2,chinese,"""Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, Easter Chocolate Sales in the US ""Cool"" This Year""",neutral,0.5491010546684265,1,7,1,2
-3,chinese,"""Village BA"" Champion Team to Collaborate with NBA Fantasy League This Year",positive,0.725932240486145,3,7,1,2
-4,chinese,"""Justice and Reasoning | Upgraded Ban on Chinese Chips: US's Stubborn Actions Further Damage Sino-US Cooperation""",negative,0.9121583104133606,-2,7,1,2
-5,chinese,"""Foreign exchange students: The longer they live in China, the more they discover its charm""",positive,0.6202962398529053,2,7,1,2
-6,chinese,"""Data Indicators Show Improvement, Industrial Economy Expected to Continue Rebounding""",positive,0.8374950885772705,3,7,1,2
-7,chinese,"""Spring Economy"" Activates Consumer Market Potential",positive,0.7598573565483093,3,7,1,2
-8,chinese,"""Foreign Think Tank Experts: Xiong'an New Area Celebrates Its 7th Anniversary, Remarkable Achievements in Coordinated Development of Beijing-Tianjin-Hebei Region""",positive,0.8085903525352478,3,7,1,2
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6974022388458252,1,7,1,2
+1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Enhancing Mutual Understanding between Different Civilizations""",positive,0.5711326003074646,2,7,1,2
+2,chinese,"""Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, US Easter Chocolate Sales ""Cool"" This Year""",neutral,0.4947795867919922,1,7,1,2
+3,chinese,"""Village BA"" Champion Team to Collaborate with NBA Fantasy League this Year",positive,0.7531801462173462,3,7,1,2
+4,chinese,"""Fairness and Reasoning | Upgrade of Ban on Chinese Chips: US's Stubborn Actions Further Damage Sino-US Cooperation""",negative,0.899251401424408,-2,7,1,2
+5,chinese,"""Foreign exchange students: The longer they live in China, the more they can discover the charm of China""",positive,0.7025128602981567,3,7,1,2
+6,chinese,"""Data Shows Positive Trends, Industrial Economy Expected to Continue Recovery""",positive,0.7281757593154907,3,7,1,2
+7,chinese,"""Spring Economy"" Activates Potential Consumption Market",positive,0.6286091208457947,2,7,1,2
+8,chinese,"""Foreign Think Tank Experts: Xiong'an New Area Celebrates Its 7th Anniversary, Significant Achievements in Beijing-Tianjin-Hebei Collaborative Development""",positive,0.753096878528595,3,7,1,2
 9,chinese,"""Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities""",positive,0.6186367273330688,2,7,1,2
