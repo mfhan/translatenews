@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Online Media Cooperation to be Held Soon""",neutral,0.6974022388458252,1,7,2,1
-1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding between Different Cultures""",positive,0.5842351913452148,2,7,2,1
-2,chinese,"""Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, US Easter Chocolate Sales ""Cool Down"" This Year""",negative,0.7200757265090942,-2,7,2,1
-3,chinese,"""Village BA"" Champion Team to Collaborate with NBA Fantasy League This Year",positive,0.725932240486145,3,7,2,1
-4,chinese,"""Reasoning and Analysis | Upgraded Ban on Chinese Chips: US's Stubborn Actions Further Damage US-China Cooperation""",negative,0.9135335683822632,-2,7,2,1
-5,chinese,"""Foreign exchange students: The longer they live in China, the more they discover its charm""",positive,0.6202962398529053,2,7,2,1
-6,chinese,"""Data Indicators Improve, Industrial Economy Expected to Continue Recovery Trend""",positive,0.7464790940284729,3,7,2,1
-7,chinese,"""Spring Economy"" Activates Potential Consumption Market",positive,0.6286091208457947,2,7,2,1
-8,chinese,"""Foreign Think Tank Experts: Xiongan New Area Celebrates Its 7th Anniversary, Significant Achievements in Beijing-Tianjin-Hebei Collaborative Development""",positive,0.7716375589370728,3,7,2,1
-9,chinese,"Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities",positive,0.6497704386711121,2,7,2,1
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,7,1,2
+1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding between Different Civilizations""",positive,0.5536484122276306,2,7,1,2
+2,chinese,"""Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, US Easter Chocolate Sales ""Cool"" This Year""",neutral,0.4947795867919922,1,7,1,2
+3,chinese,"""Village BA"" Champion Team to Collaborate with NBA Fantasy League This Year",positive,0.725932240486145,3,7,1,2
+4,chinese,"""Fair and Reasonable | Upgrade of Ban on Chinese Chips: US's Stubborn Actions Further Damage Sino-US Cooperation""",negative,0.818043053150177,-2,7,1,2
+5,chinese,"""Foreign exchange students: The longer they live in China, the more they discover its charm""",positive,0.6202962398529053,2,7,1,2
+6,chinese,"""Data Indicators Improve, Industrial Economy Expected to Continue Rebounding""",positive,0.8233352303504944,3,7,1,2
+7,chinese,"""Spring Economy"" Activates the Potential of the Consumer Market",positive,0.7446507811546326,3,7,1,2
+8,chinese,"""Foreign Think Tank Experts: Xiong'an New Area Celebrates Its Seventh Anniversary, Significant Achievements in Beijing-Tianjin-Hebei Collaborative Development""",positive,0.7364121675491333,3,7,1,2
+9,chinese,"""Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities""",positive,0.6186367273330688,2,7,1,2
