@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,7,1,2
-1,chinese,"""Global Initiative for Harmony: Former Deputy Director-General of UNESCO states that the Global Civilization Initiative is another driving force for promoting mutual understanding among different civilizations""",positive,0.6051745414733887,2,7,1,2
-2,chinese,"""Village BA"" Champion Team to Collaborate with NBA Fantasy League this Year",positive,0.7531801462173462,3,7,1,2
-3,chinese,"""Fair and Reasonable | Upgrade of US Ban on Chinese Chips: US's Stubborn Actions Further Damage Sino-US Cooperation""",negative,0.7922175526618958,-2,7,1,2
-4,chinese,"""Foreign exchange students: The longer they live in China, the more they discover its charm""",positive,0.6202962398529053,2,7,1,2
-5,chinese,"""Data Shows Positive Trend, Industrial Economy Expected to Continue Rebounding""",positive,0.7754328846931458,3,7,1,2
-6,chinese,"""Spring Economy"" Activates the Potential of Consumer Market",positive,0.7418103218078613,3,7,1,2
-7,chinese,"""Foreign Think Tank Expert: Xiongan New Area Celebrates Its Seventh Anniversary, Significant Achievements in Beijing-Tianjin-Hebei Collaborative Development""",positive,0.7852277159690857,3,7,1,2
-8,chinese,"Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities",positive,0.6497704386711121,2,7,1,2
-9,chinese,"""Chinese and Burmese Police Conduct First Joint Operation to Combat Crime in Muji, Northern Burma""",neutral,0.6165720224380493,1,7,1,2
+1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilizations Initiative is Another Driving Force for Promoting Mutual Understanding among Different Cultures""",positive,0.5684107542037964,2,7,1,2
+2,chinese,"""Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, US Easter Chocolate Sales ""Cool"" This Year""",neutral,0.4947795867919922,1,7,1,2
+3,chinese,"""Village BA"" Champion Team to Collaborate with NBA Dream Team this Year",positive,0.7499532699584961,3,7,1,2
+4,chinese,"""Justice and Reasoning | Upgraded Ban on Chinese Chips: US's Stubborn Actions Further Damage Sino-US Cooperation""",negative,0.9121583104133606,-2,7,1,2
+5,chinese,"""Foreign exchange students: The longer they live in China, the more they discover its charm""",positive,0.6202962398529053,2,7,1,2
+6,chinese,"""Data Indicates Improvement: Industrial Economy Expected to Continue Recovery Trend""",positive,0.7205237746238708,3,7,1,2
+7,chinese,"""Spring Economy"" Activates Potential Consumption Market",positive,0.6286091208457947,2,7,1,2
+8,chinese,"""Foreign Think Tank Experts: Xiong'an New Area Celebrates Its Seventh Anniversary, Significant Achievements in Beijing-Tianjin-Hebei Collaborative Development""",positive,0.7364121675491333,3,7,1,2
+9,chinese,"Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities",positive,0.6497704386711121,2,7,1,2
