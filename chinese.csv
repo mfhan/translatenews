@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6893289685249329,1,7,1,2
-1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding among Different Cultures""",positive,0.5843656659126282,2,7,1,2
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6760908365249634,1,7,1,2
+1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding among Different Civilizations""",positive,0.5638007521629333,2,7,1,2
 2,chinese,"Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, US Easter Chocolate Sales ""Cool"" This Year",neutral,0.4688876271247864,1,7,1,2
 3,chinese,"""Village BA"" Champion Team to Collaborate with NBA Fantasy this Year",positive,0.7689931988716125,3,7,1,2
-4,chinese,"""Dialogue and Reasoning | Upgrade of Ban on Chinese Chips: US's Stubborn Actions Further Damage US-China Cooperation""",negative,0.9071866273880005,-2,7,1,2
+4,chinese,"""Reasoning and Analysis | Upgrade of Ban on Chinese Chips: US's Stubborn Actions Further Damage Sino-US Cooperation""",negative,0.9050173759460449,-2,7,1,2
 5,chinese,"""Foreign exchange students: The longer they live in China, the more they discover its charm""",positive,0.6202962398529053,2,7,1,2
-6,chinese,"""Data Indicates Improvement, Industrial Economy Expected to Continue Rebounding""",positive,0.810897946357727,3,7,1,2
+6,chinese,"""Data Indicates Positive Trends, Industrial Economy Expected to Continue Recovery""",positive,0.7024658918380737,3,7,1,2
 7,chinese,"""Spring Economy"" Activates the Potential of the Consumer Market",positive,0.7446507811546326,3,7,1,2
-8,chinese,"""Foreign Think Tank Experts: Xiongan New Area Celebrates its Seventh Anniversary, Significant Achievements in the Coordinated Development of Beijing-Tianjin-Hebei Region""",positive,0.7466515898704529,3,7,1,2
-9,chinese,"""Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities""",positive,0.6186367273330688,2,7,1,2
+8,chinese,"""Foreign Think Tank Experts: Xiong'an New Area Celebrates Its 7th Anniversary, Significant Achievements in Coordinated Development of Beijing-Tianjin-Hebei Region""",positive,0.7290302515029907,3,7,1,2
+9,chinese,"Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities",positive,0.6497704386711121,2,7,1,2
