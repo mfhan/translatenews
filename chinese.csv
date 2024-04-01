@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6966384649276733,1,1,5,4
-1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding between Different Civilizations""",positive,0.5536484122276306,2,1,5,4
-2,chinese,"""Experts: Vaccination is the Most Effective Measure for Preventing and Controlling Whooping Cough""",neutral,0.5069653391838074,1,1,5,4
-3,chinese,Ministry of Commerce Responds to US Revision of Semiconductor Export Control Measures,neutral,0.6816034317016602,1,1,5,4
-4,chinese,"""Russian Foreign Ministry Demands Ukraine Arrest and Extradite All Individuals Involved in Terrorist Attacks Against Russia""",negative,0.8607296943664551,-2,1,5,4
-5,chinese,"""Car Bomb Attack in Syria Leaves Over 20 People Injured or Killed""",negative,0.737801194190979,-2,1,5,4
-6,chinese,"""New Palestinian Government Sworn In""",neutral,0.7255241274833679,1,1,5,4
-7,chinese,"""Israeli citizens continue to hold protests demanding early elections""",negative,0.6638157367706299,-1,1,5,4
-8,chinese,"""Unbearable! US State Department Official Resigns After Posting a Lengthy Article""",negative,0.7128790020942688,-2,1,5,4
-9,chinese,"""Russian Foreign Ministry Demands Ukraine Arrest and Extradite All Individuals Involved in Terrorist Attacks against Russia""",negative,0.8696277737617493,-2,1,5,4
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on ""Expanding China-Africa Network Media Cooperation"" to be Held Soon""",neutral,0.765102744102478,1,2,5,3
+1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding between Different Civilizations""",positive,0.5536484122276306,2,2,5,3
+2,chinese,Expert: Vaccination is the most effective measure for preventing and controlling pertussis.,positive,0.5170849561691284,2,2,5,3
+3,chinese,"""Ministry of Commerce Responds to US Revision of Semiconductor Export Control Measures""",neutral,0.7170675992965698,1,2,5,3
+4,chinese,"""Russian Foreign Ministry Demands Ukraine to Arrest and Extradite All Individuals Involved in Terrorist Attacks against Russia""",negative,0.8283756375312805,-2,2,5,3
+5,chinese,"""Car Bomb Attack in Syria Leaves Over 20 People Injured or Dead""",negative,0.731844961643219,-2,2,5,3
+6,chinese,"""Palestinian New Government Sworn In""",neutral,0.7846773862838745,1,2,5,3
+7,chinese,"""Israeli citizens continue to hold protests demanding early elections""",negative,0.6638157367706299,-1,2,5,3
+8,chinese,"""Unbearable! US State Department Official Resigns After Posting a Long Article""",negative,0.8039048314094543,-2,2,5,3
+9,chinese,"""Russian Foreign Ministry Demands Ukraine to Arrest and Extradite All Individuals Involved in Terrorist Attacks against Russia""",negative,0.8283756375312805,-2,2,5,3
