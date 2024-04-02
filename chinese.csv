@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,4,0,6
-1,chinese,"""Global Initiative Perspective | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Future for China-Egypt Cooperation""",positive,0.7182672023773193,3,4,0,6
-2,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,4,0,6
-3,chinese,"""[Bilingual Financial News] Turkish Expert: China's Development Model Sets an Example for Developing Countries to Achieve Modernization Quickly""",positive,0.4916280508041382,2,4,0,6
-4,chinese,"""Which Region Has the Strongest ""Transparency"" in Local Finances? Ministry of Finance Releases Ranking List""",neutral,0.8283362984657288,1,4,0,6
-5,chinese,"""New Highlights Drive Growth: Expanding Markets through ""Going Out"" - Observing the First Quarter Foreign Trade Situation""",positive,0.5348322987556458,2,4,0,6
-6,chinese,"""Harmony and Reasoning | Manufacturing PMI Returns to Expansion Zone, China's Economy Continues to See Positive Factors Emerging""",positive,0.6553528308868408,2,4,0,6
-7,chinese,"""National Immigration Administration: During the ""Qingming"" Holiday, the Average Daily Number of People Entering and Exiting the Country through All Ports will Reach 1.78 Million""",neutral,0.8027841448783875,1,4,0,6
-8,chinese,"""Joint Live-Fire Exercise Held on Our Side of the China-Myanmar Border in the Southern Theater Command""",neutral,0.8761679530143738,1,4,0,6
-9,chinese,"""Arab Countries' Investment in China Surges, with Both Economic and Political Considerations""",neutral,0.59482342004776,1,4,0,6
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,2,0,8
+1,chinese,"""Global Initiative Perspective | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Future for China-Egypt Cooperation""",positive,0.7182672023773193,3,2,0,8
+2,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,2,0,8
+3,chinese,"""Dual-Language Financial News: Turkish Expert Says China's Development Model Sets an Example for Developing Countries to Achieve Modernization Quickly""",neutral,0.47475466132164,1,2,0,8
+4,chinese,"""Which Region Has the Strongest ""Transparency"" in Local Finances? Ministry of Finance Releases Ranking List""",neutral,0.8283362984657288,1,2,0,8
+5,chinese,"""New Highlights Boost Growth: Expanding Markets through ""Going Global"" - Observing the First Quarter's Foreign Trade Situation""",positive,0.6732631325721741,2,2,0,8
+6,chinese,"""Review and Reasoning: Manufacturing PMI Returns to Expansion Range, Continuous Emergence of Favorable Factors in Chinese Economy""",neutral,0.6027206182479858,1,2,0,8
+7,chinese,"""National Immigration Administration: During the ""Qingming"" holiday, the daily number of inbound and outbound personnel at ports across the country will reach 1.78 million.""",neutral,0.8333538174629211,1,2,0,8
+8,chinese,"""Joint Live Ammunition Exercise Held on Our Side of the China-Myanmar Border in the Southern Theater Command""",neutral,0.8658140897750854,1,2,0,8
+9,chinese,"""Arab Countries' Investment in China Soars, with Both Economic and Political Considerations""",neutral,0.5433782339096069,1,2,0,8
