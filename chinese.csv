@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Global Initiative View｜Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Prospects for China-Egypt Cooperation""",positive,0.7591197490692139,3,3,0,7
-1,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,3,0,7
-2,chinese,"""National Immigration Administration: ""Qingming"" Holiday Expected to See 1.78 Million People Entering and Exiting the Country Daily at All Ports""",neutral,0.8075339794158936,1,3,0,7
-3,chinese,"""Joint Live-Fire Exercise Held on Our Side of the China-Myanmar Border in the Southern Theater Command""",neutral,0.8761679530143738,1,3,0,7
-4,chinese,"""Arab Countries' Investment in China Surges, with Both Economic and Political Considerations""",neutral,0.59482342004776,1,3,0,7
-5,chinese,"""Former Chilean Ambassador to China: Developing Green Cooperation, China Expected to Help Latin American Economy Break Out of ""30-Year Vicious Cycle""""",positive,0.4640115201473236,2,3,0,7
-6,chinese,"""Turkish Scholar: Geopolitical Challenges Create New Opportunities for ""Belt and Road"" to Join Hands with ""Middle Corridor""""",neutral,0.5081465840339661,1,3,0,7
-7,chinese,"""China Daily Website's ""Joining Hands with ""China Has an Appointment"" to Create Chinese Stories"" Selected as One of the Top 10 Cases in the Professional Category of ""Positive and Powerful High Traffic"" Online Communication Experience""",positive,0.5464690327644348,2,3,0,7
-8,chinese,"""China's Low-altitude Economy to Exceed 500 Billion Yuan in 2023""",neutral,0.6013144850730896,1,3,0,7
-9,chinese,"""Ministry of Public Security Issues Road Traffic Safety Warning for Tomb-Sweeping Day""",neutral,0.5532149076461792,1,3,0,7
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,2,0,8
+1,chinese,"""Global Initiative Perspective | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Future for China-Egypt Cooperation""",positive,0.7182672023773193,3,2,0,8
+2,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,2,0,8
+3,chinese,"""Review and Reasoning | Manufacturing PMI Returns to Expansion Range, Continuous Emergence of Favorable Factors in Chinese Economy""",neutral,0.5937293767929077,1,2,0,8
+4,chinese,"""National Immigration Administration: During ""Qingming"" Holiday, Daily Average of Inbound and Outbound Personnel at National Ports will Reach 1.78 Million""",neutral,0.8530638217926025,1,2,0,8
+5,chinese,"""Joint Live-Fire Exercise Held on Our Side of the China-Myanmar Border in the Southern Theater Command""",neutral,0.8761679530143738,1,2,0,8
+6,chinese,"""Arab Countries' Investment in China Soars, with Both Economic and Political Considerations""",neutral,0.5433782339096069,1,2,0,8
+7,chinese,"""Former Chilean Ambassador to China: Developing Green Cooperation, China Expected to Help Latin American Economy Break Out of ""30-Year Vicious Circle""""",neutral,0.48926690220832825,1,2,0,8
+8,chinese,"""Turkish Scholar: Geopolitical Challenges Create New Opportunities for ""Belt and Road"" to Join Hands with ""Middle Corridor""""",neutral,0.5081465840339661,1,2,0,8
+9,chinese,"""China Daily Website's ""Joining Hands with ""China Has an Appointment"" to Create Chinese Stories"" Selected as One of the Top 10 Cases in the Professional Category of ""Positive and Powerful High-traffic"" Online Communication Experience""",positive,0.4850976765155792,2,2,0,8
