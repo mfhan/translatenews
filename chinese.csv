@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Global Initiative Perspective | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Future for China-Egypt Cooperation""",positive,0.7182672023773193,3,4,0,6
+0,chinese,"""Global Initiative Perspective | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation Brighten the Prospects of China-Egypt Cooperation""",positive,0.6353037357330322,2,4,0,6
 1,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,4,0,6
 2,chinese,"""Joint Live Ammunition Exercise Held on Our Side of the China-Myanmar Border in the Southern Theater Command""",neutral,0.8658140897750854,1,4,0,6
-3,chinese,"""Arab Countries' Investment in China Surges, with Both Economic and Political Considerations""",neutral,0.59482342004776,1,4,0,6
+3,chinese,"""Arab Countries' Investment in China Surges, Accounting for Both Economic and Political Factors""",neutral,0.6632411479949951,1,4,0,6
 4,chinese,"""Former Chilean Ambassador to China: Developing Green Cooperation, China Expected to Help Latin American Economy Break Out of ""30-Year Vicious Cycle""""",positive,0.4640115201473236,2,4,0,6
 5,chinese,"""Turkish Scholar: Geopolitical Challenges Create New Opportunities for ""Belt and Road"" to Join Hands with ""Middle Corridor""""",neutral,0.5081465840339661,1,4,0,6
-6,chinese,"""China Daily Website's ""Joining Hands with ""China Has an Appointment"" to Create Chinese Stories"" Selected as One of the Top 10 Cases in the Professional Category of ""Positive and Powerful High-traffic"" Online Communication Experience""",positive,0.4850976765155792,2,4,0,6
-7,chinese,"""China's Low-Altitude Economy to Exceed 500 Billion Yuan by 2023""",neutral,0.6043450236320496,1,4,0,6
-8,chinese,"""Ministry of Public Security Issues Road Traffic Safety Warning for Tomb-Sweeping Day""",neutral,0.5532149076461792,1,4,0,6
+6,chinese,"""China Daily Website's ""Joining Hands with ""China Has an Appointment"" to Create Chinese Stories"" Selected as One of the Top Ten Cases in the Professional Category of ""Positive Energy and Surging Online Communication Experience""",positive,0.49514687061309814,2,4,0,6
+7,chinese,"""China's Low-Altitude Economy to Exceed 500 Billion Yuan in 2023""",neutral,0.6044946312904358,1,4,0,6
+8,chinese,"""Ministry of Public Security Issues Road Traffic Safety Warning for Tomb-Sweeping Festival""",neutral,0.6764439940452576,1,4,0,6
 9,chinese,"""Wang Yi: Building a More Strategically Stable and Forward-Looking Relationship between China and France""",positive,0.5625303387641907,2,4,0,6
