@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,1,4,5
-1,chinese,Wang Yi: Building a More Strategically Stable and Forward-looking Relationship between China and France,positive,0.6091715693473816,2,1,4,5
-2,chinese,"""Wang Yi: China sees Europe as an opportunity, not a risk, and a partner, not a competitor""",neutral,0.5287675261497498,1,1,4,5
-3,chinese,"""First Flight of Additional Aircraft Arrives in New York""",neutral,0.821642279624939,1,1,4,5
-4,chinese,"""Ministry of Foreign Affairs Exposes the Fact that the Philippines Has Reneged on Commitments and Committed Provocative Violations in the South China Sea Issue""",negative,0.7529167532920837,-2,1,4,5
-5,chinese,"""Iranian Embassy in Syria Hit by Missile Attack, At Least 5 Dead, Both Countries Strongly Condemn""",negative,0.8549133539199829,-2,1,4,5
-6,chinese,"""Unraveling the Situation: ""Money Grabbing"" Heats Up! These Bizarre Scenes Reveal the Truth Behind the US Election""",negative,0.568077027797699,-1,1,4,5
-7,chinese,"""Hainan Free Trade Port's New Regulations for Ship Navigation Management Officially Implemented""",neutral,0.696773886680603,1,1,4,5
-8,chinese,"""Russia Arrests Individuals Linked to Music Hall Terror Attack in Southern Anti-Terror Operation""",negative,0.7801572680473328,-2,1,4,5
-9,chinese,"""Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, US Easter Chocolate Sales ""Cool"" This Year""",neutral,0.4947795867919922,1,1,4,5
+0,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,2,3,5
+1,chinese,"""China Daily Website's ""Joining Hands with ""China Has an Appointment"" to Create Chinese Stories"" Selected as One of the Top 10 Cases in the Professional Category of ""Positive Energy and Surging Online Communication Experience""""",positive,0.5159527659416199,2,2,3,5
+2,chinese,"""China's Low-altitude Economy to Exceed 500 billion Yuan by 2023""",neutral,0.6299736499786377,1,2,3,5
+3,chinese,"""Ministry of Public Security Issues Road Traffic Safety Warning for Qingming Festival""",neutral,0.7857959866523743,1,2,3,5
+4,chinese,"""Wang Yi: Building a More Strategically Stable and Forward-Looking Relationship between China and France""",positive,0.5625303387641907,2,2,3,5
+5,chinese,"""Wang Yi: China sees Europe as an opportunity, not a risk, and a partner, not a rival""",neutral,0.5133666396141052,1,2,3,5
+6,chinese,"""First Flight of New Aircraft Arrives in New York""",neutral,0.7808501720428467,1,2,3,5
+7,chinese,"""Ministry of Foreign Affairs Exposes the Fact that the Philippines Has Reneged on Commitments and Provoked Infringement in the South China Sea Issue""",negative,0.807612955570221,-2,2,3,5
+8,chinese,"""Iranian Embassy in Syria Hit by Missile Attack, at Least 5 Dead; Both Countries Strongly Condemn""",negative,0.8456739783287048,-2,2,3,5
+9,chinese,"""Breaking the Situation: ""Money Grabbing"" Heats Up! These Bizarre Scenes Reveal the Truth Behind the US Election""",negative,0.6875881552696228,-1,2,3,5
