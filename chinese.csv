@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-forum on Expanding China-Africa Network Media Cooperation to be Held Soon""",neutral,0.6760908365249634,1,7,1,2
-1,chinese,"""Global Initiative | Former Deputy Director-General of UNESCO: Global Civilization Initiative is Another Driving Force for Promoting Mutual Understanding among Different Civilizations""",positive,0.5638007521629333,2,7,1,2
-2,chinese,"Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, US Easter Chocolate Sales ""Cool"" This Year",neutral,0.4688876271247864,1,7,1,2
-3,chinese,"""Village BA"" Champion Team to Collaborate with NBA Fantasy this Year",positive,0.7689931988716125,3,7,1,2
-4,chinese,"""Reasoning and Analysis | Upgrade of Ban on Chinese Chips: US's Stubborn Actions Further Damage Sino-US Cooperation""",negative,0.9050173759460449,-2,7,1,2
-5,chinese,"""Foreign exchange students: The longer they live in China, the more they discover its charm""",positive,0.6202962398529053,2,7,1,2
-6,chinese,"""Data Indicates Positive Trends, Industrial Economy Expected to Continue Recovery""",positive,0.7024658918380737,3,7,1,2
-7,chinese,"""Spring Economy"" Activates the Potential of the Consumer Market",positive,0.7446507811546326,3,7,1,2
-8,chinese,"""Foreign Think Tank Experts: Xiong'an New Area Celebrates Its 7th Anniversary, Significant Achievements in Coordinated Development of Beijing-Tianjin-Hebei Region""",positive,0.7290302515029907,3,7,1,2
-9,chinese,"Yunnan: Connecting Southeast Asia, Exploring Global Business Opportunities",positive,0.6497704386711121,2,7,1,2
+0,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,1,4,5
+1,chinese,"""Wang Yi: Building a More Strategically Stable and Forward-Looking Relationship Between China and France""",positive,0.5223037004470825,2,1,4,5
+2,chinese,"""Wang Yi: China sees Europe as an opportunity, not a risk, and a partner, not a rival""",neutral,0.5133666396141052,1,1,4,5
+3,chinese,"""First Flight of Additional Aircraft Arrives in New York""",neutral,0.821642279624939,1,1,4,5
+4,chinese,"""Foreign Ministry Exposes Philippines' Betrayal of Commitments and Provocative Infringement in South China Sea Dispute""",negative,0.823045015335083,-2,1,4,5
+5,chinese,"""Iranian Embassy in Syria Hit by Missile Attack, At Least 5 Dead, Both Countries Strongly Condemn""",negative,0.8549133539199829,-2,1,4,5
+6,chinese,"""Breaking the Stalemate: ""Money Grabbing"" Heats Up! These Bizarre Scenes Reveal the Truth Behind the US Election""",negative,0.5085897445678711,-1,1,4,5
+7,chinese,New regulations on management of ships' navigation in Hainan Free Trade Port officially implemented,neutral,0.6102476716041565,1,1,4,5
+8,chinese,"""Russia Arrests Individuals Linked to Music Hall Terrorist Attack in Southern Anti-Terrorism Operation""",negative,0.7903538346290588,-2,1,4,5
+9,chinese,"""Bilingual News: Inflation and Climate Change Drive Up Chocolate Prices, Easter Chocolate Sales in the US ""Cool"" This Year""",neutral,0.5491010546684265,1,1,4,5
