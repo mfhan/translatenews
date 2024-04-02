@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,4,0,6
 1,chinese,"""Global Initiative View｜Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation Brighten the Prospects of China-Egypt Cooperation""",positive,0.6517375707626343,2,4,0,6
-2,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,4,0,6
+2,chinese,"""AI presents 11 exquisite ancient poems""",positive,0.7805121541023254,3,4,0,6
 3,chinese,"""[Bilingual Financial News] Turkish Expert: China's Development Model Sets an Example for Developing Countries to Achieve Modernization Quickly""",positive,0.4916280508041382,2,4,0,6
-4,chinese,"""Which Region Has the Strongest ""Transparency"" in Local Finances? Ministry of Finance Releases Ranking List""",neutral,0.8283362984657288,1,4,0,6
-5,chinese,"""New Highlights Drive Growth: Expanding Markets through ""Going Global"" - Observing the First Quarter's Foreign Trade Situation""",positive,0.583435595035553,2,4,0,6
-6,chinese,"""Analysis | Manufacturing PMI Returns to Expansion Range, Positive Factors Continue to Emerge in Chinese Economy""",positive,0.6136036515235901,2,4,0,6
+4,chinese,"""Which Region Has the Highest ""Transparency"" in Local Finances? Ministry of Finance Releases Ranking List""",neutral,0.8631653189659119,1,4,0,6
+5,chinese,"""New Highlights Boost Growth: Expanding Markets through ""Going Global"" - Observing the First Quarter Foreign Trade Situation""",positive,0.6703481078147888,2,4,0,6
+6,chinese,"""Review and Reasoning: Manufacturing PMI Returns to Expansion Zone, Continual Emergence of Favorable Factors in Chinese Economy""",neutral,0.562447190284729,1,4,0,6
 7,chinese,"""National Immigration Administration: During ""Qingming"" Holiday, Daily Average of Inbound and Outbound Personnel at National Ports Will Reach 1.78 Million""",neutral,0.8514143228530884,1,4,0,6
-8,chinese,"""Joint Live Ammunition Exercise Held on Our Side of the Sino-Burmese Border in the Southern Theater Command""",neutral,0.8686226606369019,1,4,0,6
+8,chinese,"""Joint Live-Fire Exercise Held on Our Side of the China-Myanmar Border in the Southern Theater Command""",neutral,0.8761679530143738,1,4,0,6
 9,chinese,"""Arab Countries' Investment in China Surges, with Both Economic and Political Considerations""",neutral,0.59482342004776,1,4,0,6
