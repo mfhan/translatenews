@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,4,0,6
-1,chinese,"""Global Initiative Perspective | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Future for China-Egypt Cooperation""",positive,0.7182672023773193,3,4,0,6
-2,chinese,"""AI Presents 11 Exquisite Ancient Poems""",neutral,0.8630319833755493,1,4,0,6
-3,chinese,"""Bilingual Financial News: Turkish Experts: China's Development Model Sets an Example for Developing Countries to Achieve Modernization Rapidly""",positive,0.5250558257102966,2,4,0,6
-4,chinese,"""Which Region Has the Highest ""Transparency"" in Local Finances? Ministry of Finance Releases Rankings""",neutral,0.8535320162773132,1,4,0,6
-5,chinese,"""New Highlights Drive Growth: Expanding Markets through ""Going Global"" - Observing the First Quarter Foreign Trade Situation""",positive,0.584437906742096,2,4,0,6
-6,chinese,"""Analysis and Reasoning | Manufacturing PMI Returns to Expansion Zone, Continuous Emergence of Favorable Factors in Chinese Economy""",neutral,0.6444790363311768,1,4,0,6
-7,chinese,"""National Immigration Administration: During the ""Qingming"" Holiday, the Daily Average Number of People Entering and Exiting the Country Through All Ports Will Reach 1.78 Million""",neutral,0.7920843362808228,1,4,0,6
-8,chinese,"""Joint Live Ammunition Exercise Held on Our Side of the Sino-Myanmar Border in the Southern Theater Command""",neutral,0.8672972917556763,1,4,0,6
-9,chinese,"""Arab countries' investment in China increases sharply, with both economic and political considerations""",positive,0.5659269690513611,2,4,0,6
+0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,2,1,7
+1,chinese,"""Global Initiative View | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Prospects for China-Egypt Cooperation""",positive,0.749588131904602,3,2,1,7
+2,chinese,"""7.3 Magnitude Earthquake Strikes Offshore Hualien County, Taiwan; Ministry of Natural Resources Issues Tsunami Level 1 (Red) Warning""",negative,0.6389075517654419,-1,2,1,7
+3,chinese,"""US Treasury Secretary Yellen to Visit China""",neutral,0.841389000415802,1,2,1,7
+4,chinese,"""Microsoft Announces Plan to Split Sales of Teams and Office in Response to Antitrust Investigation""",neutral,0.7990894913673401,1,2,1,7
+5,chinese,"""China Successfully Launches Remote Sensing Satellite No. 42-01""",positive,0.6518880128860474,2,2,1,7
+6,chinese,"""Fully Promote Launch! National Taxation Administration's Latest Release""",neutral,0.802942156791687,1,2,1,7
+7,chinese,"""Central Meteorological Observatory Continues to Issue Strong Convective Weather Orange Alert""",neutral,0.6650023460388184,1,2,1,7
+8,chinese,"""National Issuance of New Local Government Bonds Reaches Nearly 600 Billion Yuan in the First 2 Months""",neutral,0.6658414006233215,1,2,1,7
+9,chinese,"Ministry of Commerce responds to US release of ""2024 Foreign Trade Barrier Assessment Report""",neutral,0.819275438785553,1,2,1,7
