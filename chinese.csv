@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Taiwan Affairs Office: Mainland China Highly Concerned about Taiwan Earthquake Disaster""",negative,0.784339427947998,-2,3,2,5
-1,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's ""Expanding China-Africa Network Media Cooperation"" Sub-Forum Successfully Held in Xiamen""",neutral,0.543806791305542,1,3,2,5
-2,chinese,"""Chinese Embassy in Japan Reminds Compatriots in Japan to Guard Against Tsunamis""",neutral,0.48529261350631714,1,3,2,5
-3,chinese,"""The ""City of the Future"" without ""Urban Disease"" is right in front of us, do you know what it looks like?""",neutral,0.6348543763160706,1,3,2,5
-4,chinese,"""Debate on Fairness | Shouting ""Free Market"" but Practicing ""America First"": When Will the American Double Standard End?""",negative,0.4899429976940155,-1,3,2,5
-5,chinese,"""Long March 2D Rocket Successfully Launches Remote Sensing Satellite No. 42-01""",positive,0.530737578868866,2,3,2,5
-6,chinese,"""National Development and Reform Commission Holds On-Site Meeting, Listens to Enterprise Voices, and Promotes Solutions to Promote the Development of Private Enterprises""",positive,0.5056111216545105,2,3,2,5
-7,chinese,"""Good Revenue, Controllable Risks, Increased Support for the Real Economy - State-Owned Banks Deliver a Stable and Positive ""Report Card""""",positive,0.7298033237457275,3,3,2,5
-8,chinese,"""2024 China-Africa Internet Development and Cooperation Forum: Sub-Forum on Sharing Opportunities for Digital Economic Development""",neutral,0.7646169662475586,1,3,2,5
-9,chinese,"""Sub-forum of ""2024 China-Africa Internet Development and Cooperation Forum: Building a Solid Barrier for Cybersecurity"" Held""",neutral,0.7098349928855896,1,3,2,5
+0,chinese,"""State Council Taiwan Affairs Office: Mainland China Highly Concerned about Taiwan Earthquake Disaster""",negative,0.7926302552223206,-2,4,3,3
+1,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-forum on Expanding China-Africa Network Media Cooperation Successfully Held in Xiamen""",positive,0.5216203927993774,2,4,3,3
+2,chinese,"""Chinese Embassy in Japan Reminds Compatriots in Japan to Guard Against Tsunamis""",neutral,0.48529261350631714,1,4,3,3
+3,chinese,"""What is the future city without the ""urban disease"" right in front of us? Do you know what it looks like?""",negative,0.6721848845481873,-1,4,3,3
+4,chinese,"""Debating Justice | Shouting ""Free Market"" but Practicing ""America First"": When Will the American ""Double Standards"" End?""",negative,0.712639331817627,-2,4,3,3
+5,chinese,"""Long March 2D Rocket Successfully Launches Remote Sensing Satellite 42-01""",positive,0.5673136115074158,2,4,3,3
+6,chinese,"""National Development and Reform Commission Holds On-Site Meeting, Listens to Enterprise Voices, and Promotes Solutions to Promote the Development of Private Enterprises""",positive,0.5056111216545105,2,4,3,3
+7,chinese,"""Good Revenue and Controllable Risks, Increased Support for Real Economy - State-Owned Banks Deliver a Stable and Positive ""Report Card""""",positive,0.6948074698448181,2,4,3,3
+8,chinese,"""Sub-forum of ""2024 China-Africa Internet Development and Cooperation Forum: Sharing Opportunities for Digital Economy Development"" Held""",neutral,0.72679203748703,1,4,3,3
+9,chinese,"""Sub-forum of ""2024 China-Africa Internet Development and Cooperation Forum: Building a Solid Barrier for Cybersecurity"" Held""",neutral,0.7098349928855896,1,4,3,3
