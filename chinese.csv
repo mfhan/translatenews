@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,2,2,6
-1,chinese,"""Global Initiative Perspective | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation Brighten the Prospects of China-Egypt Cooperation""",positive,0.6353037357330322,2,2,2,6
-2,chinese,"""Qingming holiday starts today, national railway expects to transport 75 million passengers""",neutral,0.4857235550880432,1,2,2,6
-3,chinese,"""Former Belgian Ambassador to China: Yunnan is a ""Beacon"" of World's Natural and Cultural Diversity""",neutral,0.44819894433021545,1,2,2,6
-4,chinese,"""Taiwan Affairs Office: Mainland China Highly Concerned about Taiwan Earthquake Disaster""",negative,0.784339427947998,-2,2,2,6
-5,chinese,"""Japan Meteorological Agency: Tsunami Reaches Okinawa Prefecture and Yonaguni Island, Wave Height of 0.3 Meters""",neutral,0.6568398475646973,1,2,2,6
-6,chinese,"""【Qiao Yi Qiao】Listen to the Patriotic Heart of the New Youth""",positive,0.5146798491477966,2,2,2,6
-7,chinese,"""7.3 Magnitude Earthquake Strikes Offshore Hualien County, Taiwan; Ministry of Natural Resources Issues Level 1 Tsunami Warning (Red)""",negative,0.6052699089050293,-1,2,2,6
-8,chinese,"""US Treasury Secretary Yellen to Visit China""",neutral,0.841389000415802,1,2,2,6
-9,chinese,"""Microsoft announces plans to split the sales of Teams and Office in response to anti-monopoly investigation""",neutral,0.7597103118896484,1,2,2,6
+0,chinese,"""Taiwan Affairs Office: Mainland China Highly Concerned about Taiwan Earthquake Disaster""",negative,0.784339427947998,-2,1,2,7
+1,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Online Media Cooperation Successfully Held in Xiamen""",positive,0.4954703450202942,2,1,2,7
+2,chinese,"""Chinese Embassy in Japan Reminds Compatriots to Guard Against Tsunamis""",neutral,0.4876177906990051,1,1,2,7
+3,chinese,"""Qingming holiday starts today, national railway expected to transport 75 million passengers""",neutral,0.5026997923851013,1,1,2,7
+4,chinese,"""Philippines Issues Tsunami Warning""",neutral,0.514496386051178,1,1,2,7
+5,chinese,"""Former Belgian Ambassador to China: Yunnan is a ""Lighthouse"" of World's Natural and Cultural Diversity""",neutral,0.5027433633804321,1,1,2,7
+6,chinese,"""Japan Meteorological Agency: Tsunami Reaches Okinawa Prefecture and Yonaguni Island with Waves of 0.3 Meters""",neutral,0.5928385853767395,1,1,2,7
+7,chinese,"""[Overseas Chinese Take a Look] Listening to the Patriotic Heart of the New Youth""",neutral,0.5466923117637634,1,1,2,7
+8,chinese,"""7.3 Magnitude Earthquake Strikes Offshore of Hualien County, Taiwan; Ministry of Natural Resources Issues Level 1 Tsunami Warning (Red)""",negative,0.6257999539375305,-1,1,2,7
+9,chinese,"""US Treasury Secretary Yellen to Visit China""",neutral,0.841389000415802,1,1,2,7
