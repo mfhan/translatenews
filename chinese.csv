@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""2024 China-Africa Internet Development and Cooperation Forum Held in Xiamen""",neutral,0.8462798595428467,1,2,1,7
-1,chinese,"""Global Initiative View | Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Prospects for China-Egypt Cooperation""",positive,0.749588131904602,3,2,1,7
-2,chinese,"""7.3 Magnitude Earthquake Strikes Offshore Hualien County, Taiwan; Ministry of Natural Resources Issues Tsunami Level 1 (Red) Warning""",negative,0.6389075517654419,-1,2,1,7
-3,chinese,"""US Treasury Secretary Yellen to Visit China""",neutral,0.841389000415802,1,2,1,7
-4,chinese,"""Microsoft Announces Plan to Split Sales of Teams and Office in Response to Antitrust Investigation""",neutral,0.7990894913673401,1,2,1,7
-5,chinese,"""China Successfully Launches Remote Sensing Satellite No. 42-01""",positive,0.6518880128860474,2,2,1,7
-6,chinese,"""Fully Promote Launch! National Taxation Administration's Latest Release""",neutral,0.802942156791687,1,2,1,7
-7,chinese,"""Central Meteorological Observatory Continues to Issue Strong Convective Weather Orange Alert""",neutral,0.6650023460388184,1,2,1,7
-8,chinese,"""National Issuance of New Local Government Bonds Reaches Nearly 600 Billion Yuan in the First 2 Months""",neutral,0.6658414006233215,1,2,1,7
-9,chinese,"Ministry of Commerce responds to US release of ""2024 Foreign Trade Barrier Assessment Report""",neutral,0.819275438785553,1,2,1,7
+1,chinese,"""Global Initiative View｜Former Egyptian Foreign Minister: Mutual Respect and Win-Win Cooperation, Bright Prospects for China-Egypt Cooperation""",positive,0.7591197490692139,3,2,1,7
+2,chinese,"""Japan Meteorological Agency: Tsunami reaches Okinawa Prefecture and Yonaguni Island with wave height of 0.3 meters""",neutral,0.5816903114318848,1,2,1,7
+3,chinese,"""[Overseas Chinese Take a Look] Listening to the Patriotic Heart of the New Youth""",neutral,0.5466923117637634,1,2,1,7
+4,chinese,"""7.3 Magnitude Earthquake Strikes Offshore of Hualien County, Taiwan; Ministry of Natural Resources Issues Level 1 Tsunami Warning (Red)""",negative,0.6257999539375305,-1,2,1,7
+5,chinese,"""US Treasury Secretary Yellen to Visit China""",neutral,0.841389000415802,1,2,1,7
+6,chinese,"""Microsoft announces split of Teams and Office sales in response to anti-monopoly investigation""",neutral,0.6483034491539001,1,2,1,7
+7,chinese,"""China Successfully Launches Remote Sensing Satellite No.42-01""",positive,0.6651186347007751,2,2,1,7
+8,chinese,"""Fully Launched Nationwide! Latest Release from State Administration of Taxation""",neutral,0.8703164458274841,1,2,1,7
+9,chinese,"""Central Meteorological Observatory Continues to Issue Orange Alert for Severe Convective Weather""",neutral,0.4845481514930725,1,2,1,7
