@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""State Council Taiwan Affairs Office: Mainland China Highly Concerned about Taiwan Earthquake Disaster""",negative,0.7926302552223206,-2,1,2,7
-1,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation Successfully Held in Xiamen""",positive,0.5280507206916809,2,1,2,7
-2,chinese,"""Chinese Embassy in Japan Reminds Compatriots in Japan to Guard Against Tsunamis""",neutral,0.48529261350631714,1,1,2,7
-3,chinese,"""Qingming holiday starts today, national railways expected to transport 75 million passengers""",neutral,0.511875331401825,1,1,2,7
-4,chinese,"""Philippines Issues Tsunami Warning""",neutral,0.514496386051178,1,1,2,7
-5,chinese,"""Former Belgian Ambassador to China: Yunnan is a ""Beacon"" of World's Natural and Cultural Diversity""",neutral,0.44819894433021545,1,1,2,7
-6,chinese,"""Japan Meteorological Agency: Tsunami Reaches Okinawa Prefecture and Yonaguni Island with Waves of 0.3 Meters""",neutral,0.5928385853767395,1,1,2,7
-7,chinese,"""【Overseas Perspective】Listening to the Patriotic Heart of the New Youth""",neutral,0.49772727489471436,1,1,2,7
-8,chinese,"""7.3 Magnitude Earthquake Strikes Offshore of Hualien County, Taiwan; Ministry of Natural Resources Issues Level 1 Tsunami Warning (Red)""",negative,0.6257999539375305,-1,1,2,7
-9,chinese,"""US Treasury Secretary Yellen to Visit China""",neutral,0.841389000415802,1,1,2,7
+0,chinese,"""State Council Taiwan Affairs Office: Mainland China Highly Concerned about Taiwan Earthquake Disaster""",negative,0.7926302552223206,-2,1,3,6
+1,chinese,"""2024 China-Africa Internet Development and Cooperation Forum's Sub-Forum on Expanding China-Africa Network Media Cooperation Successfully Held in Xiamen""",positive,0.5280507206916809,2,1,3,6
+2,chinese,"""Chinese Embassy in Japan Reminds Compatriots in Japan to Guard Against Tsunamis""",neutral,0.48529261350631714,1,1,3,6
+3,chinese,"""Taiwan Hualien Earthquake Has Caused 4 Deaths and 97 Injuries""",negative,0.6910456418991089,-1,1,3,6
+4,chinese,"""Japan Lifts Tsunami Warning""",neutral,0.5932210683822632,1,1,3,6
+5,chinese,"""Frequent Aftershocks Occur in Taiwan, All Regions Affected""",negative,0.8115188479423523,-2,1,3,6
+6,chinese,"""Qingming Holiday Starts Today, National Railway Expected to Transport 75 Million Passengers""",neutral,0.6314858794212341,1,1,3,6
+7,chinese,"""Philippines Issues Tsunami Warning""",neutral,0.514496386051178,1,1,3,6
+8,chinese,"""Former Belgian Ambassador to China: Yunnan is a ""Beacon"" of World's Natural and Cultural Diversity""",neutral,0.44819894433021545,1,1,3,6
+9,chinese,"""Japan Meteorological Agency: Tsunami Reaches Okinawa Prefecture and Yonaguni Island with Wave Height of 0.3 Meters""",neutral,0.638689398765564,1,1,3,6
