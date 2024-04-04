@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""True Love for ""Pink""! British Girl Falls in Love with Wuxi's Cherry Blossom Sea and Can't Bear to Leave""",positive,0.8161418437957764,3,3,1,6
-1,chinese,"""US Media: China's Electric Vehicle Industry is More Efficient, Not ""Overcapacity""""",neutral,0.7034529447555542,1,3,1,6
-2,chinese,"""List of 1468 Chinese Anti-Japanese Air Force Heroes Revealed for the First Time""",neutral,0.8452648520469666,1,3,1,6
-3,chinese,"""US Media: ""China's Peak Theory"" Underestimates China's Economic Resilience""",negative,0.8101752996444702,-2,3,1,6
-4,chinese,"""Railways Expected to Transport 75 Million Passengers During Qingming Holiday""",neutral,0.736504316329956,1,3,1,6
-5,chinese,"""Spring Economy"" in Full Swing: Multiple Platforms Predict High Tourism Peak during Qingming Festival",neutral,0.5192680358886719,1,3,1,6
-6,chinese,"""Yunnan on the ""Belt and Road"": The China-Laos Railway Continues to Write a New Story of Joint Construction and Shared Development on the ""Belt and Road""""",neutral,0.593271017074585,1,3,1,6
-7,chinese,"""Giant Panda Fubao Successfully Returns to China from South Korea""",positive,0.6055930256843567,2,3,1,6
-8,chinese,"""Owee Consulting Partner and Director Beizhemin: Next China, Still China""",neutral,0.9085150957107544,1,3,1,6
-9,chinese,"""Poster ▏Remembering Old Friends, Not Disappointing the Spring Scenery""",positive,0.5062560439109802,2,3,1,6
+0,chinese,"""True Love for Pink! British Miss Can't Get Enough of Wuxi's Sakura Sea""",positive,0.8729328513145447,3,2,1,7
+1,chinese,"""US Media: China's Electric Vehicle Industry is More Efficient, Not ""Overcapacity""""",neutral,0.7034529447555542,1,2,1,7
+2,chinese,"""List of 1468 Chinese Anti-Japanese Aviation Martyrs Released for the First Time""",neutral,0.810715913772583,1,2,1,7
+3,chinese,"""US Media: ""China's Peak Theory"" Underestimates China's Economic Resilience""",negative,0.8101752996444702,-2,2,1,7
+4,chinese,"""Qingming Holiday Expected to Send 75 Million Passengers by Rail""",neutral,0.7495557069778442,1,2,1,7
+5,chinese,"""Spring Economy"" in Full Swing: Multiple Platforms Predict High Tourism Peak during Qingming Festival",neutral,0.5192680358886719,1,2,1,7
+6,chinese,"""Yunnan on the ""Belt and Road"": The China-Laos Railway Continues to Write a New Story of Co-building and Sharing on the ""Belt and Road""""",neutral,0.6569752097129822,1,2,1,7
+7,chinese,"""Giant Panda Fubao Successfully Returns to China from South Korea""",positive,0.6055930256843567,2,2,1,7
+8,chinese,"""Owee Consulting Partner and Director Beizheming: The Next China, Still China""",neutral,0.9032718539237976,1,2,1,7
+9,chinese,"""Poster ▏Remembering Old Friends, Not Wasting the Spring Scenery""",neutral,0.5959761142730713,1,2,1,7
