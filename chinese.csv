@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""True Love for ""Pink""! British Miss Can't Get Enough of Wuxi's Cherry Blossom Sea""",positive,0.8836368918418884,3,4,1,5
-1,chinese,"""US Media: Critics of ""China's Peak Theory"" Underestimate China's Economic Resilience""",negative,0.772646963596344,-2,4,1,5
+0,chinese,"""True Love for ""Pink""! British Girl Falls in Love with Wuxi's Cherry Blossom Sea and Can't Bear to Leave""",positive,0.8161418437957764,3,4,1,5
+1,chinese,"""US Media: Those Who Propose ""China's Economic Peak"" Underestimate China's Resilience""",negative,0.8143665790557861,-2,4,1,5
 2,chinese,"""Qingming Holiday Railway Expected to Transport 75 Million Passengers""",neutral,0.6846846342086792,1,4,1,5
-3,chinese,"""Spring Economy"" in Full Swing: Multiple Platforms Predict High Tourism Peak during Qingming Festival",neutral,0.5192680358886719,1,4,1,5
+3,chinese,"""Spring Economy"" in Full Swing, Multiple Platforms Predict High Tourism Peak during Qingming Festival",positive,0.4727717638015747,2,4,1,5
 4,chinese,"""Yunnan on the ""Belt and Road"": The China-Laos Railway Continues to Write a New Story of Joint Construction and Sharing on the ""Belt and Road""""",neutral,0.6707267761230469,1,4,1,5
 5,chinese,"""Giant Panda Fubao Successfully Returns to China from South Korea""",positive,0.6055930256843567,2,4,1,5
-6,chinese,"""Owee Consulting Partner and Director, Beizheming: The Next China, Still China""",neutral,0.9010934829711914,1,4,1,5
-7,chinese,"""Poster ▏Remembering Old Friends, Not Disappointing the Spring Scenery""",positive,0.5062560439109802,2,4,1,5
-8,chinese,"Central Bank: Increase Financial Support for ""Market + Guarantee"" Housing Supply System",positive,0.689342737197876,2,4,1,5
+6,chinese,"""Owee Consulting Partner and Director Beizhemin: The Next China, Still China""",neutral,0.9036933779716492,1,4,1,5
+7,chinese,"""Poster ▏Remembering Old Friends, Not Wasting the Beauty of Spring""",neutral,0.5154016613960266,1,4,1,5
+8,chinese,"Central Bank: Increase Financial Support for ""Market + Security"" Housing Supply System",positive,0.6589124798774719,2,4,1,5
 9,chinese,"""China's Service Trade Grows by 22.8% in the First Two Months""",neutral,0.6042536497116089,1,4,1,5
