@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""True Love for Pink! British Girl Falls in Love with Wuxi's Cherry Blossom Sea and Can't Bear to Leave""",positive,0.8227108120918274,3,2,1,7
+0,chinese,"""True Love for ""Pink""! British Miss Can't Get Enough of Wuxi's Cherry Blossom Sea""",positive,0.8836368918418884,3,2,1,7
 1,chinese,"""US Media: China's Electric Vehicle Industry is More Efficient, Not ""Overcapacity""""",neutral,0.7034529447555542,1,2,1,7
-2,chinese,"""List of 1468 Chinese Anti-Japanese Aviation Martyrs Released for the First Time""",neutral,0.810715913772583,1,2,1,7
+2,chinese,"""List of 1468 Chinese Anti-Japanese Aviation Heroes Revealed for the First Time""",neutral,0.8349901437759399,1,2,1,7
 3,chinese,"""US Media: ""China's Peak Theory"" Underestimates China's Economic Resilience""",negative,0.8101752996444702,-2,2,1,7
 4,chinese,"""Qingming Holiday Railway Expected to Transport 75 Million Passengers""",neutral,0.6846846342086792,1,2,1,7
 5,chinese,"""Spring Economy"" in Full Swing: Multiple Platforms Predict High Tourism Peak during Qingming Festival",neutral,0.5192680358886719,1,2,1,7
-6,chinese,"""Yunnan on the ""Belt and Road"": The China-Laos Railway Continues to Write a New Story of Co-building and Sharing on the ""Belt and Road""""",neutral,0.6569752097129822,1,2,1,7
+6,chinese,"""Yunnan on the Belt and Road: The China-Laos Railway Continues to Write a New Story of Building and Sharing on the Belt and Road""",neutral,0.607073962688446,1,2,1,7
 7,chinese,"""Giant Panda Fubao Successfully Returns to China from South Korea""",positive,0.6055930256843567,2,2,1,7
-8,chinese,"""Owee Consulting Partner and Director Beizhemin: The Next China, Still China""",neutral,0.9036933779716492,1,2,1,7
-9,chinese,"""Poster ▏Remembering Old Friends, Not Wasting the Spring Scenery""",neutral,0.5959761142730713,1,2,1,7
+8,chinese,"""Aurum Consulting Partner and Director Beizhemin: The Next China, Still China""",neutral,0.9018393754959106,1,2,1,7
+9,chinese,"""Poster ▏Remembering Old Friends, Not Wasting the Beauty of Spring""",neutral,0.5154016613960266,1,2,1,7
