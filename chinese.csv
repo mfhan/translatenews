@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Laoshan Scenic Area Digs Mountains and Destroys Forests to Build Cemeteries! Qingdao: 7,000 Graves Have Already Been Sold and Will Be Handled in Two Categories""",negative,0.7550243735313416,-2,4,2,4
-1,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between the Two Countries' Legislative Bodies to a New Level""",positive,0.6219150424003601,2,4,2,4
-2,chinese,"""Small Delivery Sparks Big Market in Rural Areas""",neutral,0.6745732426643372,1,4,2,4
-3,chinese,"""China Accelerates Construction of Digital Economy to Continuously Empower High-Quality Development""",positive,0.7900067567825317,3,4,2,4
-4,chinese,"""Taiwan's Hualien Earthquake has Caused 12 Deaths, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.8054256439208984,-2,4,2,4
-5,chinese,"""China's Medical Insurance and Assistance to Benefit 250 Million People by 2023""",neutral,0.5933400392532349,1,4,2,4
-6,chinese,"""UN Agency: Majority of Weapons Trafficked in Haiti Come from the United States""",neutral,0.5577356219291687,1,4,2,4
-7,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Team Returns to Top Tier, Defeats Japan in First Match""",positive,0.48645997047424316,2,4,2,4
-8,chinese,"""China's Effective Industrialization Rate of Patented Inventions Continues to Rise Steadily""",positive,0.6679064631462097,2,4,2,4
-9,chinese,"""Ulanqab enters the era of ""Intelligent Computing"" with ""Grassland Cloud Valley""""",neutral,0.6761439442634583,1,4,2,4
+0,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between the Two Countries' Legislative Bodies to a New Level""",positive,0.6219150424003601,2,3,2,5
+1,chinese,"""Mount Lao Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7,000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.5727887749671936,-1,3,2,5
+2,chinese,"""Small Delivery Services Spark a Boom in Rural Markets""",positive,0.6520277261734009,2,3,2,5
+3,chinese,"""Accelerating the Construction of Digital China, Sustaining the Empowerment of High-Quality Development through Digital Economy""",positive,0.7445064187049866,3,3,2,5
+4,chinese,"""Taiwan Hualien Earthquake Has Caused 12 Deaths, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.7769575715065002,-2,3,2,5
+5,chinese,"""2.5 Billion Medical Assistance Cases Covered by China's Medical Insurance in 2023""",neutral,0.6106699109077454,1,3,2,5
+6,chinese,"""UN Agency: Majority of Weapons Trafficked in Haiti Come from the United States""",neutral,0.5577356219291687,1,3,2,5
+7,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Returns to Top Division, Defeats Japan in First Match""",neutral,0.5123615264892578,1,3,2,5
+8,chinese,"""China's Effective Patent Industrialization Rate for Enterprises Steadily Increasing""",neutral,0.4674758315086365,1,3,2,5
+9,chinese,"""Ulanqab, the ""Grassland Cloud Valley"", Enters the Era of ""Intelligent Computing""""",neutral,0.6705386638641357,1,3,2,5
