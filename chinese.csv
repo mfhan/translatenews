@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""True Love for ""Pink""! British Girl Falls in Love with Wuxi's Cherry Blossom Sea and Can't Bear to Leave""",positive,0.8161418437957764,3,1,2,7
-1,chinese,"""Taiwan's Hualien Strong Earthquake: Number of Missing People Rises to 18, Over 700 Still Trapped""",negative,0.7505528926849365,-2,1,2,7
-2,chinese,"""Off-the-beaten-path Tourist Destinations Go Mainstream: Explosive Growth in Third and Fourth Tier City Tourism During Qingming Holiday""",neutral,0.5328090786933899,1,1,2,7
-3,chinese,"""Central Meteorological Observatory Continues to Issue Yellow Rainstorm Warning at 10:00 on April 5th""",neutral,0.7677980065345764,1,1,2,7
-4,chinese,"""Passengers at Shanghai Railway Station Get Emotionally Excited and Push Each Other at Security Checkpoint, Officials Say: Some Passengers Refusing to Cooperate with Security Causing Congestion in the Passageway""",negative,0.8051100373268127,-2,1,2,7
-5,chinese,"""Foreign Minister Wang Yi Holds Talks with East Timor Foreign Minister Dionísio Babo Soares""",neutral,0.7672339081764221,1,1,2,7
-6,chinese,"""First Batch of Emergency Food Aid Provided by China to Cuba Completed Handover""",neutral,0.6836332678794861,1,1,2,7
-7,chinese,"""Service Import and Export Total Amount Increased by 22.8% Year-on-Year in the First Two Months""",neutral,0.6861364245414734,1,1,2,7
-8,chinese,"""Promoting the Replacement of Old Cars with New Ones: Two Departments Adjust Policies Related to Car Loans""",neutral,0.7218613624572754,1,1,2,7
-9,chinese,"""US Media: China's Electric Vehicle Industry is More Efficient, Not ""Overcapacity""""",neutral,0.7034529447555542,1,1,2,7
+0,chinese,"""True Love for Pink! British Girl Falls in Love with Wuxi's Cherry Blossom Sea and Can't Bear to Leave""",positive,0.8227108120918274,3,2,2,6
+1,chinese,"""Taiwan's Hualien Strong Earthquake: Number of Missing People Rises to 18, Over 700 Still Trapped""",negative,0.7505528926849365,-2,2,2,6
+2,chinese,"""Unique Niche Tourist Destinations ""Go Mainstream"": Explosive Growth in Third and Fourth Tier City Tourism During Qingming Holiday""",neutral,0.5482397079467773,1,2,2,6
+3,chinese,"""Central Meteorological Observatory Continues to Issue Yellow Rainstorm Warning at 10:00 on April 5th""",neutral,0.7677980065345764,1,2,2,6
+4,chinese,"""Passengers at Shanghai Railway Station Get Emotionally Excited and Push Each Other at Security Checkpoint; Officials: Some Passengers Refusing to Cooperate with Security Causing Congestion in Passageway""",negative,0.8362380862236023,-2,2,2,6
+5,chinese,"""Wang Yi Holds Talks with Timor-Leste Foreign Minister Dionisio Babo Soares""",neutral,0.7623912692070007,1,2,2,6
+6,chinese,"""First Batch of Emergency Food Aid Provided by China to Cuba Successfully Handed Over""",positive,0.480827271938324,2,2,2,6
+7,chinese,"""Service Import and Export Total Amount Increased by 22.8% Year-on-Year in the First Two Months""",neutral,0.6861364245414734,1,2,2,6
+8,chinese,"""Promoting the Replacement of Old Cars with New Ones: Two Departments Adjust Policies Related to Car Loans""",neutral,0.7218613624572754,1,2,2,6
+9,chinese,"""US Media: China's Electric Vehicle Industry is More Efficient, Not ""Overcapacity""""",neutral,0.7034529447555542,1,2,2,6
