@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China and Thailand Sign Memorandum of Understanding for Cooperation in the Field of Aerospace, Involving International Lunar Research Station""",neutral,0.5006493926048279,1,2,3,5
-1,chinese,"""Russian Investigative Committee: Concert Hall Terrorist Attack Linked to Special Military Operation in Russia""",negative,0.6060623526573181,-1,2,3,5
-2,chinese,"""Over 260 million people across regions travel on the first day of Qingming holiday""",neutral,0.7149542570114136,1,2,3,5
-3,chinese,"""Rest assured! Giant panda ""Fubao"" is currently in quarantine period""",neutral,0.5305004715919495,1,2,3,5
-4,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between the Two Legislative Bodies to a New Level""",positive,0.6564480662345886,2,2,3,5
-5,chinese,"""Mount Lao Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7,000 Graves Already Sold Will Be Handled in Two Categories""",negative,0.6204982399940491,-1,2,3,5
-6,chinese,"""Small Delivery Services Spark a Big Market in Rural Areas""",neutral,0.5937238335609436,1,2,3,5
-7,chinese,"""Accelerating the Construction of Digital China, Sustaining the Empowerment of High-Quality Development through Digital Economy""",positive,0.7445064187049866,3,2,3,5
-8,chinese,"""Taiwan Hualien Earthquake Has Caused 12 Deaths, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.7769575715065002,-2,2,3,5
-9,chinese,"""China's Medical Insurance and Assistance to Cover 250 Million People by 2023""",neutral,0.6557632684707642,1,2,3,5
+0,chinese,"""China and Thailand Sign Memorandum of Understanding for Cooperation in the Field of Space, Involving International Lunar Research Station""",neutral,0.4899277091026306,1,2,4,4
+1,chinese,"""Russian Investigative Committee: Concert Hall Terrorist Attack Linked to Special Military Operation in Russia""",negative,0.6060623526573181,-1,2,4,4
+2,chinese,"""Over 260 million people cross regions on the first day of the Qingming holiday""",neutral,0.6880274415016174,1,2,4,4
+3,chinese,"""Rest assured! Giant panda ""Fubao"" is currently undergoing a quarantine period""",negative,0.5299304723739624,-1,2,4,4
+4,chinese,"""Vietnamese National Assembly President Visits China: Advancing Cooperation between the Two Legislative Bodies to a New Level""",positive,0.6442225575447083,2,2,4,4
+5,chinese,"""Mount Lao Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7,000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.5727887749671936,-1,2,4,4
+6,chinese,"""Small Delivery Services Spark a Big Market in Rural Areas""",neutral,0.5937238335609436,1,2,4,4
+7,chinese,"""Accelerating the Construction of Digital China, Sustaining the Empowerment of High-Quality Development through the Digital Economy""",positive,0.751556932926178,3,2,4,4
+8,chinese,"""12 People Confirmed Dead in Taiwan's Hualien Earthquake, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.8048033118247986,-2,2,4,4
+9,chinese,"""China's Medical Insurance and Assistance to Cover 250 Million People by 2023""",neutral,0.6557632684707642,1,2,4,4
