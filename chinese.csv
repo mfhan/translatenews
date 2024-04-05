@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Team Returns to Top Division, Defeats Japan in First Match""",neutral,0.4891919195652008,1,1,2,7
-1,chinese,"""China's Effective Industrialization Rate of Patented Inventions Steadily Increasing""",positive,0.5297706723213196,2,1,2,7
-2,chinese,"""Ulanqab enters the era of ""smart calculation"" with ""Grassland Cloud Valley""""",neutral,0.6714838743209839,1,1,2,7
-3,chinese,Japanese Media: Kobayashi Pharmaceutical Knew About Issues with Red Yeast Rice Health Products Over Two Months Ago,neutral,0.7804121375083923,1,1,2,7
-4,chinese,"""Taiwan's Hualien Strong Earthquake: Number of Missing People Rises to 18, Over 700 Still Trapped""",negative,0.7505528926849365,-2,1,2,7
-5,chinese,"""Unique Niche Tourist Destinations Go Mainstream: Explosive Growth in Third and Fourth Tier City Tourism During Qingming Holiday""",neutral,0.5837804675102234,1,1,2,7
-6,chinese,"""Central Meteorological Observatory Continues to Issue Yellow Rainstorm Warning at 10:00 on April 5th""",neutral,0.7677980065345764,1,1,2,7
-7,chinese,"""Passengers at Shanghai Train Station Get Emotionally Agitated and Push Each Other at Security Checkpoint; Officials: Some Passengers Not Cooperating with Security Check Causing Congestion in the Passageway""",negative,0.8586569428443909,-2,1,2,7
-8,chinese,"""Wang Yi holds talks with Timor-Leste Foreign Minister Dionísio da Costa Babo Soares""",neutral,0.7585404515266418,1,1,2,7
-9,chinese,"""First batch of emergency food aid provided by China to Cuba completed handover""",neutral,0.47222810983657837,1,1,2,7
+0,chinese,"""Mount Lao Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7,000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.5727887749671936,-1,3,2,5
+1,chinese,"""Vietnamese National Assembly President Visits China: Advancing Cooperation between the Two Countries' Legislative Bodies to a New Level""",positive,0.6061925292015076,2,3,2,5
+2,chinese,"""Small Delivery Services Spark a Big Market in Rural Areas""",neutral,0.5937238335609436,1,3,2,5
+3,chinese,"""Accelerating the Construction of Digital China, Sustaining the Empowerment of High-Quality Development through Digital Economy""",positive,0.7445064187049866,3,3,2,5
+4,chinese,"""Taiwan's Hualien Earthquake Has Caused 12 Deaths, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.7900572419166565,-2,3,2,5
+5,chinese,"""China's Medical Insurance and Medical Assistance to Benefit 250 Million People by 2023""",neutral,0.5759742856025696,1,3,2,5
+6,chinese,"""UN Agency: Majority of Weapons Trafficked in Haiti Come from the United States""",neutral,0.5577356219291687,1,3,2,5
+7,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Team Returns to Top Division, Defeats Japan in First Match""",neutral,0.4891919195652008,1,3,2,5
+8,chinese,"""China's Effective Patent Industrialization Rate of Enterprises Steadily Improving""",positive,0.6732282042503357,2,3,2,5
+9,chinese,"""Ulanqab enters the era of ""smart calculation"" with ""Grassland Cloud Valley""""",neutral,0.6714838743209839,1,3,2,5
