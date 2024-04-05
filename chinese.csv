@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Returns to Top Division, Defeats Japan in First Match""",neutral,0.5123615264892578,1,1,2,7
-1,chinese,The industrialization rate of effective invention patents in our country steadily increases.,positive,0.42576345801353455,2,1,2,7
-2,chinese,"""Ulanqab's ""Grassland Cloud Valley"" Enters the ""Smart Computing"" Era""",neutral,0.6726806163787842,1,1,2,7
-3,chinese,Japanese Media: Kobayashi Pharmaceutical Knew About Issues with Red Yeast Rice Health Products Over Two Months Ago,neutral,0.7804121375083923,1,1,2,7
-4,chinese,"""Taiwan's Hualien Strong Earthquake: Number of Missing Rises to 18, Over 700 Still Trapped""",negative,0.7449554204940796,-2,1,2,7
-5,chinese,"""Off-the-beaten-path Tourist Destinations ""Go Mainstream"": Explosive Growth in Third and Fourth Tier City Tourism during Qingming Holiday""",neutral,0.5175222158432007,1,1,2,7
-6,chinese,"""Central Meteorological Observatory Continues to Issue Yellow Rainstorm Warning at 10:00 on April 5th""",neutral,0.7677980065345764,1,1,2,7
-7,chinese,"""Passengers at Shanghai Train Station Get Emotionally Excited and Push Each Other at Security Checkpoint; Officials: Some Passengers Not Cooperating with Security Check Causing Congestion in the Aisles""",negative,0.8253461122512817,-2,1,2,7
+0,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Team Returns to Top Division, Defeats Japan in First Match""",neutral,0.4891919195652008,1,1,2,7
+1,chinese,"""Effective Industrialization Rate of Patented Inventions in Our Country Steadily Increases""",neutral,0.5922905802726746,1,1,2,7
+2,chinese,"""Ulanqab, known as ""Prairie Cloud Valley"", enters the era of ""smart computing""""",neutral,0.6948829889297485,1,1,2,7
+3,chinese,Japanese Media: Kobayashi Pharmaceutical Knew About Red Yeast Rice Health Products' Issues Over Two Months Ago,neutral,0.7963451147079468,1,1,2,7
+4,chinese,"""Taiwan's Hualien Strong Earthquake: Number of Missing People Rises to 18, Over 700 Still Trapped""",negative,0.7505528926849365,-2,1,2,7
+5,chinese,"""Unique and Niche Tourist Destinations Go Mainstream: Explosive Growth in Third and Fourth Tier Cities During Qingming Holiday""",neutral,0.6421043872833252,1,1,2,7
+6,chinese,"""Central Meteorological Observatory Continues to Issue Yellow Rainstorm Warning on April 5 at 10:00""",neutral,0.7795577645301819,1,1,2,7
+7,chinese,"""Passengers at Shanghai Train Station Get Emotionally Excited and Push Each Other at Security Checkpoint; Officials: Some Passengers Not Cooperating with Security Causing Congestion in Walkways""",negative,0.757811427116394,-2,1,2,7
 8,chinese,"""Wang Yi Holds Talks with Timor-Leste Foreign Minister Dionisio Babo Soares""",neutral,0.7623912692070007,1,1,2,7
-9,chinese,"""First Batch of Emergency Food Aid Provided by China to Cuba Completed Handover""",neutral,0.6836332678794861,1,1,2,7
+9,chinese,"""First Batch of Emergency Food Aid Provided by China to Cuba Successfully Handed Over""",positive,0.480827271938324,2,1,2,7
