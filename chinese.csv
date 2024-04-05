@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Mount Lao Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7,000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.5727887749671936,-1,3,2,5
-1,chinese,"""Vietnamese National Assembly President Visits China: Advancing Cooperation between the Two Countries' Legislative Bodies to a New Level""",positive,0.6061925292015076,2,3,2,5
-2,chinese,"""Small Delivery Services Spark a Big Market in Rural Areas""",neutral,0.5937238335609436,1,3,2,5
-3,chinese,"""Accelerating the Construction of Digital China, Sustaining the Empowerment of High-Quality Development through Digital Economy""",positive,0.7445064187049866,3,3,2,5
-4,chinese,"""Taiwan's Hualien Earthquake Has Caused 12 Deaths, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.7900572419166565,-2,3,2,5
-5,chinese,"""China's Medical Insurance and Medical Assistance to Benefit 250 Million People by 2023""",neutral,0.5759742856025696,1,3,2,5
-6,chinese,"""UN Agency: Majority of Weapons Trafficked in Haiti Come from the United States""",neutral,0.5577356219291687,1,3,2,5
-7,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Team Returns to Top Division, Defeats Japan in First Match""",neutral,0.4891919195652008,1,3,2,5
-8,chinese,"""China's Effective Patent Industrialization Rate of Enterprises Steadily Improving""",positive,0.6732282042503357,2,3,2,5
-9,chinese,"""Ulanqab enters the era of ""smart calculation"" with ""Grassland Cloud Valley""""",neutral,0.6714838743209839,1,3,2,5
+0,chinese,"""Mount Lao Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.5494363307952881,-1,2,2,6
+1,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between the Two Legislative Bodies to a New Level""",positive,0.6564480662345886,2,2,2,6
+2,chinese,"""Small Delivery Services Spark a Big Market in Rural Areas""",neutral,0.5937238335609436,1,2,2,6
+3,chinese,"""China accelerates construction of digital infrastructure, continuously empowering high-quality development through digital economy""",positive,0.8473325371742249,3,2,2,6
+4,chinese,"""Taiwan Hualien Earthquake Has Caused 12 Deaths, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.7769575715065002,-2,2,2,6
+5,chinese,"""China's Medical Insurance and Assistance Will Cover 250 Million People by 2023""",neutral,0.63451087474823,1,2,2,6
+6,chinese,"""UN Agency: Majority of Weapons Trafficked in Haiti Come from the United States""",neutral,0.5577356219291687,1,2,2,6
+7,chinese,"""Women's Ice Hockey World Championship: Chinese Women's Ice Hockey Team Returns to Top Division, Defeats Japan in First Match""",neutral,0.4891919195652008,1,2,2,6
+8,chinese,"""The industrialization rate of effective invention patents in our country steadily increases""",neutral,0.4536046087741852,1,2,2,6
+9,chinese,"""Grassland Cloud Valley"" Ulanqab Enters the ""Smart Computing"" Era",neutral,0.667375385761261,1,2,2,6
