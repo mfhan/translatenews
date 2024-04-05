@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""China and Thailand Sign Memorandum of Understanding for Cooperation in the Field of Aerospace, Involving International Lunar Research Station""",neutral,0.5006493926048279,1,2,3,5
 1,chinese,"""Russian Investigative Committee: Concert Hall Terrorist Attack Linked to Special Military Operation in Russia""",negative,0.6060623526573181,-1,2,3,5
-2,chinese,"""Over 260 million people cross regions on the first day of the Qingming holiday""",neutral,0.6880274415016174,1,2,3,5
-3,chinese,"""Rest assured! Giant panda ""Fubao"" is currently in quarantine period""",neutral,0.5305004715919495,1,2,3,5
-4,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between the Two Countries' Legislative Bodies to a New Level""",positive,0.6219150424003601,2,2,3,5
-5,chinese,"""Laoshan Scenic Area Digs Mountains and Destroys Forests to Build Cemeteries! Qingdao: 7000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.5921436548233032,-1,2,3,5
+2,chinese,"""Over 260 million people cross regional borders on the first day of the Qingming holiday""",neutral,0.5951200723648071,1,2,3,5
+3,chinese,"""Rest assured! Giant panda ""Fubao"" is currently in a quarantine period""",neutral,0.533835768699646,1,2,3,5
+4,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between Legislative Institutions of the Two Countries to a New Level""",positive,0.622829794883728,2,2,3,5
+5,chinese,"""Laoshan Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7,000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.5760878920555115,-1,2,3,5
 6,chinese,"""Small Delivery Sparks Big Market in Rural Areas""",neutral,0.6745732426643372,1,2,3,5
-7,chinese,"""China Accelerates Construction of Digital Economy to Continuously Empower High-Quality Development""",positive,0.7900067567825317,3,2,3,5
+7,chinese,"""China accelerates construction of digital economy to continuously empower high-quality development""",positive,0.8039542436599731,3,2,3,5
 8,chinese,"""Taiwan Hualien Earthquake Has Caused 12 Deaths, Aftershocks Continue to Affect Rescue Safety and Progress""",negative,0.7769575715065002,-2,2,3,5
-9,chinese,"""China's Medical Insurance and Assistance to Cover 250 Million People in 2023""",neutral,0.6319487690925598,1,2,3,5
+9,chinese,"""China's Medical Insurance and Assistance to Cover 250 Million People by 2023""",neutral,0.6557632684707642,1,2,3,5
