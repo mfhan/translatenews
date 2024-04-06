@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""4.9 Magnitude Earthquake Strikes Ludian County, Zhaotong City, Yunnan Province""",negative,0.5182938575744629,-1,5,1,4
-1,chinese,"""Enjoy Spring Flavors, Admire Spring Flowers, and Have Fun Spring Travel - Gansu Tianshui, Ancient City in Northwest China, Continues to be ""Hot and Spicy""""",positive,0.8303588628768921,3,5,1,4
-2,chinese,"""Telecommunications Industry Achieves Stable Start Overall""",positive,0.6339901089668274,2,5,1,4
-3,chinese,"""Hanfu Parade, Flower Deity Interaction, Gentleman's Six Arts Experience... Beijing's Jingzhi Lake Flower Festival Brings Strong Traditional Flavor""",positive,0.5810372829437256,2,5,1,4
-4,chinese,"""Profit of Large-scale Light Industry Enterprises Increased by 26.9% Year-on-Year in the First Two Months, Continuing the Upward Trend of Light Industry Economy""",positive,0.5507516860961914,2,5,1,4
-5,chinese,"""Acceptance of Writing a Will by Different Age Groups""",neutral,0.8359904289245605,1,5,1,4
-6,chinese,"""Encountering the Phayre's Leaf Monkey in Yunnan""",neutral,0.5995672941207886,1,5,1,4
-7,chinese,"""Promoting the Quality and Steady Increase of Foreign Trade, Various Measures Taken to Support Enterprises' ""Going Global""""",positive,0.6561735272407532,2,5,1,4
-8,chinese,"""China to Achieve Full Coverage of Electronic Tickets for Road Passenger Transport this Year""",neutral,0.5648933053016663,1,5,1,4
-9,chinese,"""China and Thailand Sign Memorandum of Understanding for Cooperation in the Field of Aerospace, Involving an International Lunar Research Station""",neutral,0.4952263832092285,1,5,1,4
+0,chinese,"""4.9 Magnitude Earthquake Occurs in Ludian County, Zhaotong City, Yunnan""",neutral,0.5302481055259705,1,4,0,6
+1,chinese,"""Enjoy Spring Flavors, Admire Spring Flowers, and Have Fun Spring Traveling - Gansu Tianshui, an Ancient City in Northwest China, Continues to Be ""Hot and Spicy""""",positive,0.8111255168914795,3,4,0,6
+2,chinese,"""Telecommunications Industry Achieves Steady Start Overall""",positive,0.7430665493011475,3,4,0,6
+3,chinese,"""Hanfu Parade, Flower Deity Interaction, Gentleman's Six Arts Experience... Beijing's Jingzhi Lake Flower Festival Embraces Strong National Style""",positive,0.6678555607795715,2,4,0,6
+4,chinese,"""Profit of Large-scale Light Industry Enterprises Increases by 26.9% Year-on-Year in the First Two Months, Continuing the Upward Trend of Light Industry Economy""",positive,0.5263833403587341,2,4,0,6
+5,chinese,"""Acceptance of Writing a Will by People of Different Ages""",neutral,0.8164576888084412,1,4,0,6
+6,chinese,"""Encountering the Francois' Leaf Monkey in Yunnan""",neutral,0.667316734790802,1,4,0,6
+7,chinese,"""Promoting the Quality and Stability of Foreign Trade, Various Measures Taken to Support Enterprises to ""Go Global""""",neutral,0.599097490310669,1,4,0,6
+8,chinese,"""China to Achieve Full Coverage of Electronic Tickets for Road Passenger Transport this Year""",neutral,0.5648933053016663,1,4,0,6
+9,chinese,"""China and Thailand Sign Memorandum of Understanding for Cooperation in the Field of Aerospace, Involving International Lunar Research Station""",neutral,0.5006493926048279,1,4,0,6
