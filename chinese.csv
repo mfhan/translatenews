@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Early Voting for South Korean Parliamentary Elections Ends, Over 10 Million Voters Cast Their Ballots""",neutral,0.802765965461731,1,2,3,5
-1,chinese,"Collision and sinking of fishing boat in southwest sea area of Hainan found, 8 people still missing, search and rescue in progress.",negative,0.7540218830108643,-2,2,3,5
-2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Huangyan Island""",negative,0.5626510977745056,-1,2,3,5
+0,chinese,"""Early Voting for South Korean National Assembly Elections Concludes, Over 10 Million Voters Cast Their Ballots""",neutral,0.722051203250885,1,2,3,5
+1,chinese,"Collision and sinking of fishing boat in southwest sea area of Hainan found, 8 people still missing, search and rescue underway.",negative,0.7679055333137512,-2,2,3,5
+2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippine Trespassing at Ren'ai Reef""",negative,0.5767890214920044,-1,2,3,5
 3,chinese,"""Estimated Cross-Regional Population Movement of Over 750 Million Expected During Qingming Holiday""",neutral,0.819124162197113,1,2,3,5
-4,chinese,"""Launch of Thailand Project for 2024 Lancang-Mekong Cooperation Special Fund, Ambassador Han Zhiqiang Attends Ceremony and ""Lancang-Mekong Week"" Commemoration Event""",neutral,0.7096692323684692,1,2,3,5
-5,chinese,"""Boeing Aircraft Encounters Another Issue, Engine Fire Causes Flight Cancellation""",negative,0.7706357836723328,-2,2,3,5
-6,chinese,New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seabed,neutral,0.5386142134666443,1,2,3,5
+4,chinese,"""Launch of Thailand Project for 2024 Lancang-Mekong Cooperation Special Fund, Ambassador Han Zhiqiang Attends Ceremony and Commemorative Event for ""Lancang-Mekong Week""""",neutral,0.6883955001831055,1,2,3,5
+5,chinese,"""Boeing Aircraft Encounters Another Problem, Flight Cancelled Due to Engine Fire""",negative,0.7830624580383301,-2,2,3,5
+6,chinese,"""New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seafloor""",neutral,0.5707340240478516,1,2,3,5
 7,chinese,"""Mexico Announces Diplomatic Break with Ecuador""",neutral,0.7720704078674316,1,2,3,5
-8,chinese,China's service industry rebounds and improves in March.,positive,0.7766319513320923,3,2,3,5
-9,chinese,"""Collaborative Efforts Boost Confidence: ""Spring Production"" Brings New Opportunities to China""",positive,0.8474761843681335,3,2,3,5
+8,chinese,"""China's Service Industry Shows Positive Growth in March""",positive,0.7705535292625427,3,2,3,5
+9,chinese,"""Joint Efforts Boost Confidence: ""Spring Production"" Brings New Opportunities for China""",positive,0.8312919735908508,3,2,3,5
