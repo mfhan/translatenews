@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Early Voting for South Korean Parliamentary Elections Concludes, Over 10 Million Voters Cast Their Ballots""",neutral,0.7074963450431824,1,2,3,5
-1,chinese,"Collision and sinking of fishing boat in southwest sea area of Hainan found, 8 people still missing, search and rescue in progress.",negative,0.7540218830108643,-2,2,3,5
-2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Incursion into Ren'ai Reef""",negative,0.6739871501922607,-1,2,3,5
-3,chinese,"""Estimated Cross-Regional Population Mobility of Over 750 Million People During the Qingming Holiday""",neutral,0.8098943829536438,1,2,3,5
+0,chinese,"""South Korea's Parliamentary By-Election Early Voting Concludes, Over 10 Million Voters Cast Their Ballots""",neutral,0.7599707841873169,1,2,3,5
+1,chinese,"""Collided and Sunk Fishing Boat Found in Southwest Waters of Hainan, 8 Still Missing, Search and Rescue Ongoing""",negative,0.7331903576850891,-2,2,3,5
+2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippine Trespassing at Ren'ai Reef""",negative,0.5767890214920044,-1,2,3,5
+3,chinese,"""Estimated Cross-Regional Population Movement of Over 750 Million Expected During Qingming Holiday""",neutral,0.819124162197113,1,2,3,5
 4,chinese,"""Launch of the 2024 Lancang-Mekong Cooperation Special Fund Thailand Project: Ambassador Han Zhiqiang Attends Ceremony and Commemorative Event for ""Lancang-Mekong Week""""",neutral,0.7468971610069275,1,2,3,5
-5,chinese,"""Boeing Plane Encounters Another Issue, Engine Fire Causes Flight Cancellation""",negative,0.7799893617630005,-2,2,3,5
-6,chinese,New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seafloor,neutral,0.5469655394554138,1,2,3,5
-7,chinese,Mexico announces diplomatic break with Ecuador,neutral,0.5331031680107117,1,2,3,5
+5,chinese,"""Boeing Aircraft Encounters Another Issue, Flight Canceled Due to Engine Fire""",negative,0.7872511148452759,-2,2,3,5
+6,chinese,New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seabed,neutral,0.5386142134666443,1,2,3,5
+7,chinese,"""Mexico Announces Diplomatic Break with Ecuador""",neutral,0.7720704078674316,1,2,3,5
 8,chinese,"""China's Service Industry Shows Positive Growth in March""",positive,0.7705535292625427,3,2,3,5
 9,chinese,"""Joint Efforts Boost Confidence: ""Spring Production"" Brings New Opportunities for China""",positive,0.8312919735908508,3,2,3,5
