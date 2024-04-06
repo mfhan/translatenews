@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Early Voting for South Korean National Assembly Elections Concludes, Over 10 Million Voters Cast Their Ballots""",neutral,0.722051203250885,1,2,3,5
-1,chinese,"Collision and sinking of fishing boat in southwest waters of Hainan found, 8 people still missing, search and rescue in progress",negative,0.7583845853805542,-2,2,3,5
-2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippine Intrusion into Scarborough Shoal""",negative,0.5241944789886475,-1,2,3,5
-3,chinese,"""Estimated Cross-Regional Population Mobility of Over 750 Million People During the Qingming Holiday""",neutral,0.8098943829536438,1,2,3,5
-4,chinese,"""2024 Lancang-Mekong Cooperation Special Fund Thailand Project Launch: Ambassador Han Zhiqiang Attends Ceremony and ""Lancang-Mekong Week"" Commemorative Event""",neutral,0.6939755082130432,1,2,3,5
-5,chinese,"""Boeing Plane Encounters Another Issue, Flight Cancelled Due to Engine Fire""",negative,0.7893141508102417,-2,2,3,5
-6,chinese,"""New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seafloor""",neutral,0.5707340240478516,1,2,3,5
-7,chinese,Mexico announces diplomatic break with Ecuador,neutral,0.5331031680107117,1,2,3,5
-8,chinese,"""China's Service Industry Shows Positive Growth in March""",positive,0.7705535292625427,3,2,3,5
-9,chinese,"""Joint Efforts Boost Confidence: ""Spring Production"" Brings New Opportunities to China""",positive,0.8293550610542297,3,2,3,5
+1,chinese,"Collision and sinking of fishing boat in southwest waters of Hainan found, 8 people still missing, search and rescue in progress.",negative,0.7514574527740479,-2,2,3,5
+2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippine Incursion into Scarborough Shoal""",negative,0.569216251373291,-1,2,3,5
+3,chinese,"""Estimated Cross-Regional Population Movement of Over 750 Million People During the Qingming Holiday Across Society""",neutral,0.8231056332588196,1,2,3,5
+4,chinese,"""Launch of Thailand Project for 2024 Lancang-Mekong Cooperation Special Fund, Ambassador Han Zhiqiang Attends Ceremony and ""Lancang-Mekong Week"" Commemorative Event""",neutral,0.7096056938171387,1,2,3,5
+5,chinese,"""Boeing Plane Encounters Another Issue, Engine Fire Causes Flight Cancellation""",negative,0.7799893617630005,-2,2,3,5
+6,chinese,"""New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seabed""",neutral,0.5570056438446045,1,2,3,5
+7,chinese,"""Mexico Announces Diplomatic Break with Ecuador""",neutral,0.7720704078674316,1,2,3,5
+8,chinese,"""China's Service Industry Shows Positive Recovery in March""",positive,0.7611607313156128,3,2,3,5
+9,chinese,"""Joint Efforts to Boost Confidence: ""Spring Production"" Brings New Opportunities for China""",positive,0.8204915523529053,3,2,3,5
