@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Estimated Cross-Regional Population Mobility of Over 750 Million Expected During Qingming Holiday""",neutral,0.7719277143478394,1,3,3,4
-1,chinese,"""Launch of Thailand Project for 2024 Lancang-Mekong Cooperation Special Fund, Ambassador Han Zhiqiang Attends Ceremony and ""Lancang-Mekong Week"" Commemorative Event""",neutral,0.7096056938171387,1,3,3,4
-2,chinese,"""Boeing aircraft encounters problems again, engine fire leads to flight cancellation""",negative,0.8149381875991821,-2,3,3,4
-3,chinese,New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seafloor,neutral,0.5469655394554138,1,3,3,4
-4,chinese,"""Mexico Announces Diplomatic Break with Ecuador""",neutral,0.7720704078674316,1,3,3,4
-5,chinese,"""China's Service Industry Shows Positive Growth in March""",positive,0.7705535292625427,3,3,3,4
-6,chinese,"""Joint Efforts Boost Confidence: ""Spring Production"" Brings New Opportunities for China""",positive,0.8312919735908508,3,3,3,4
-7,chinese,"""Chinese Ambassador to the US: What we should worry about is not whether the Chinese economy will ""collapse"", but these...""",negative,0.678375244140625,-1,3,3,4
-8,chinese,"""4.9 Magnitude Earthquake Strikes Ludian County in Zhaotong City, Yunnan""",negative,0.544118344783783,-1,3,3,4
-9,chinese,"""Enjoy Spring Flavors, Admire Spring Flowers, and Have Fun Spring Touring - Gansu Tianshui, an Ancient City in Northwest China, Continues to be ""Hot and Spicy""""",positive,0.8032087683677673,3,3,3,4
+0,chinese,"""Early Voting for South Korean National Assembly Elections Concludes, Over 10 Million Voters Cast Their Ballots""",neutral,0.722051203250885,1,2,3,5
+1,chinese,"""Collided and Sunk Fishing Boat Found in Southwest Sea Area of Hainan, 8 People Still Missing, Search and Rescue Ongoing""",negative,0.7482782602310181,-2,2,3,5
+2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Trespassing at Ayungin Shoal""",negative,0.59056156873703,-1,2,3,5
+3,chinese,"""Estimated Cross-Regional Population Movement of Over 750 Million Expected During Qingming Holiday""",neutral,0.819124162197113,1,2,3,5
+4,chinese,"""Launch of 2024 Lancang-Mekong Cooperation Special Fund Thailand Project, Ambassador Han Zhiqiang Attends Ceremony and ""Lancang-Mekong Week"" Commemorative Event""",neutral,0.7530562877655029,1,2,3,5
+5,chinese,"""Boeing Plane Encounters Another Issue, Flight Cancelled Due to Engine Fire""",negative,0.7893141508102417,-2,2,3,5
+6,chinese,New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seabed,neutral,0.5386142134666443,1,2,3,5
+7,chinese,Mexico announces diplomatic break with Ecuador,neutral,0.5331031680107117,1,2,3,5
+8,chinese,"""China's Service Industry Shows Positive Recovery in March""",positive,0.7611607313156128,3,2,3,5
+9,chinese,"""Joint Efforts Boost Confidence and Create New Opportunities for China's Spring Economy""",positive,0.8023285269737244,3,2,3,5
