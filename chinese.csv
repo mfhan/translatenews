@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""4.9 Magnitude Earthquake Occurs in Ludian County, Zhaotong City, Yunnan""",neutral,0.5302481055259705,1,4,0,6
-1,chinese,"""Enjoy Spring Flavors, Admire Spring Flowers, and Have Fun Spring Traveling - Gansu Tianshui, an Ancient City in Northwest China, Continues to Be ""Hot and Spicy""""",positive,0.8111255168914795,3,4,0,6
-2,chinese,"""Telecommunications Industry Achieves Steady Start Overall""",positive,0.7430665493011475,3,4,0,6
-3,chinese,"""Hanfu Parade, Flower Deity Interaction, Gentleman's Six Arts Experience... Beijing's Jingzhi Lake Flower Festival Embraces Strong National Style""",positive,0.6678555607795715,2,4,0,6
-4,chinese,"""Profit of Large-scale Light Industry Enterprises Increases by 26.9% Year-on-Year in the First Two Months, Continuing the Upward Trend of Light Industry Economy""",positive,0.5263833403587341,2,4,0,6
-5,chinese,"""Acceptance of Writing a Will by People of Different Ages""",neutral,0.8164576888084412,1,4,0,6
-6,chinese,"""Encountering the Francois' Leaf Monkey in Yunnan""",neutral,0.667316734790802,1,4,0,6
-7,chinese,"""Promoting the Quality and Stability of Foreign Trade, Various Measures Taken to Support Enterprises to ""Go Global""""",neutral,0.599097490310669,1,4,0,6
-8,chinese,"""China to Achieve Full Coverage of Electronic Tickets for Road Passenger Transport this Year""",neutral,0.5648933053016663,1,4,0,6
-9,chinese,"""China and Thailand Sign Memorandum of Understanding for Cooperation in the Field of Aerospace, Involving International Lunar Research Station""",neutral,0.5006493926048279,1,4,0,6
+0,chinese,"""Chinese Ambassador to the US: The concern should not be whether the Chinese economy will ""collapse"", but these...""",negative,0.4863484501838684,-1,4,1,5
+1,chinese,"""4.9 Magnitude Earthquake Occurs in Ludian County, Zhaotong City, Yunnan Province""",neutral,0.5248103737831116,1,4,1,5
+2,chinese,"""Enjoy Spring Flavors, Admire Spring Flowers, and Have Fun Spring Traveling - Gansu Tianshui, an Ancient City in Northwest China, Continues to be ""Hot and Spicy""""",positive,0.8076119422912598,3,4,1,5
+3,chinese,"""Telecommunications Industry Achieves Stable Start Overall""",positive,0.6339901089668274,2,4,1,5
+4,chinese,"""Hanfu Parade, Flower God Interaction, Gentleman's Six Arts Experience... Beijing's Jingzhi Lake Flower Festival Embraces Traditional Chinese Culture""",positive,0.5228111743927002,2,4,1,5
+5,chinese,"""Profit of Large-scale Light Industry Enterprises Increased by 26.9% Year-on-Year in the First Two Months, Light Industry Economy Continues to Show Positive Recovery Trend""",positive,0.661779522895813,2,4,1,5
+6,chinese,"""Acceptance of Writing a Will by Different Age Groups""",neutral,0.8359904289245605,1,4,1,5
+7,chinese,"""Encountering the Francois' Leaf Monkey in Yunnan""",neutral,0.667316734790802,1,4,1,5
+8,chinese,"""Promoting the Quality and Stability of Foreign Trade, Various Measures Taken to Support Enterprises' ""Going Global""""",neutral,0.6531652808189392,1,4,1,5
+9,chinese,"""China to Basically Achieve Full Coverage of Electronic Tickets for Road Passenger Transport this Year""",neutral,0.5852437615394592,1,4,1,5
