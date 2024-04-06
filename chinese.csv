@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Encountering the Phayre's Leaf Monkey in Yunnan""",neutral,0.5995672941207886,1,2,2,6
-1,chinese,"""Promoting the Quality and Steady Growth of Foreign Trade, Multiple Measures Taken by Various Regions to Support Enterprises' ""Going Global""""",positive,0.6950924396514893,2,2,2,6
-2,chinese,"""China to Achieve Full Coverage of Electronic Tickets for Road Passenger Transport this Year""",neutral,0.5648933053016663,1,2,2,6
-3,chinese,"""China and Thailand Sign Memorandum of Understanding on Cooperation in the Field of Aerospace, Involving International Lunar Research Station""",neutral,0.5187482833862305,1,2,2,6
-4,chinese,"""Russian Investigative Committee: Concert Hall Terrorist Attack Linked to Special Military Operation in Russia""",negative,0.6060623526573181,-1,2,2,6
-5,chinese,"""Over 260 million people across regions travel on the first day of Qingming holiday""",neutral,0.7149542570114136,1,2,2,6
-6,chinese,"Rest assured! Giant panda ""Fubao"" is currently in quarantine.",neutral,0.522657036781311,1,2,2,6
-7,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between the Two Legislative Bodies to a New Level""",positive,0.6564480662345886,2,2,2,6
-8,chinese,"""Mount Lao Scenic Area Digs Mountains and Destroys Forests to Build Cemeteries! Qingdao: 7000 Graves Already Sold, Will Be Handled in Two Categories""",negative,0.6216071844100952,-1,2,2,6
-9,chinese,"""Small Delivery Services Spark a Big Market in Rural Areas""",neutral,0.5937238335609436,1,2,2,6
+0,chinese,"""Encountering the Phayre's Leaf Monkey in Yunnan""",neutral,0.5995672941207886,1,4,2,4
+1,chinese,"""Promoting the Quality and Steady Increase of Foreign Trade, Various Measures Taken by Local Governments to Support Enterprises' ""Going Global""""",positive,0.6965943574905396,2,4,2,4
+2,chinese,"""China to Achieve Full Coverage of Electronic Tickets for Road Passenger Transport this Year""",neutral,0.5648933053016663,1,4,2,4
+3,chinese,"""China and Thailand Sign Memorandum of Understanding for Cooperation in the Field of Aerospace, Involving International Lunar Research Station""",neutral,0.5006493926048279,1,4,2,4
+4,chinese,"""Russian Investigative Committee: Concert Hall Terrorist Attack Linked to Special Military Operation in Russia""",negative,0.6060623526573181,-1,4,2,4
+5,chinese,"""Over 260 million people cross regional boundaries on the first day of Qingming holiday""",neutral,0.6140028238296509,1,4,2,4
+6,chinese,"""Vietnamese National Assembly President Visits China: Promoting Cooperation between the Two Countries' Legislative Bodies to a New Level""",positive,0.6219150424003601,2,4,2,4
+7,chinese,"""Laoshan Scenic Area Digs Mountains and Destroys Forests to Build Cemetery! Qingdao: 7000 Graves Sold, Will be Handled in Two Categories""",negative,0.6302087903022766,-1,4,2,4
+8,chinese,"""Small Delivery Services Stimulate the Rural Market""",positive,0.7508257031440735,3,4,2,4
+9,chinese,"""China accelerates construction of digital economy to continuously empower high-quality development""",positive,0.8039542436599731,3,4,2,4
