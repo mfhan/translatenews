@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Sudden! Israel's Large-Scale Withdrawal of Troops""",negative,0.8316534161567688,-2,2,3,5
-1,chinese,"""Northern River in Pearl River Basin Experiences First Flood of the Year""",negative,0.7059522867202759,-2,2,3,5
-2,chinese,"""Chinese People's Liberation Army Southern Theater Command Organizes Joint Naval and Air Patrols in South China Sea""",neutral,0.7507855892181396,1,2,3,5
-3,chinese,"""China's Foreign Exchange Reserves Maintained Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has Conditions to Maintain Basic Equilibrium""",neutral,0.5469313263893127,1,2,3,5
-4,chinese,"""Eight Years Together: Mekong Cooperation Experts Reveal Secrets to Success and Future Blueprint""",positive,0.599275529384613,2,2,3,5
-5,chinese,"""The Central Bank Establishes Technology Innovation and Technological Transformation Re-lending""",positive,0.5383820533752441,2,2,3,5
-6,chinese,"""Why is the horse-faced skirt so popular? Foreigners also want to know""",negative,0.6451972126960754,-1,2,3,5
-7,chinese,"""EU's 2040 Climate Goals: Launching a New Round of Climate Competition""",neutral,0.6468881368637085,1,2,3,5
-8,chinese,"""Indonesian Scholar: IPEF Has ""Changed Flavor"", China Remains Key Partner for Cooperation""",neutral,0.5901599526405334,1,2,3,5
-9,chinese,"""Milk and Beans Benefit the Body, How to Eat in Moderation? | Eating for Good Health""",neutral,0.6607853174209595,1,2,3,5
+0,chinese,"""First Time! Japan, US, Australia, and Philippines Conduct Joint Military Exercise in the South China Sea at This Special Time Point""",neutral,0.5568356513977051,1,3,2,5
+1,chinese,"""Sudden! Israel's Large-Scale Withdrawal of Troops""",negative,0.8316534161567688,-2,3,2,5
+2,chinese,"""First Flood of the Year Occurs in the Beijiang River Basin of the Pearl River""",neutral,0.563856303691864,1,3,2,5
+3,chinese,"""Chinese People's Liberation Army Organizes Joint Naval and Air Patrols in the South China Sea in the Southern Theater Command""",neutral,0.7467387318611145,1,3,2,5
+4,chinese,"""China's Foreign Exchange Reserves Maintained Above 3.2 Trillion US Dollars at the End of Last Year - International Balance of Payments Has the Conditions to Maintain Basic Equilibrium""",neutral,0.6073226928710938,1,3,2,5
+5,chinese,"""Eight Years of Cooperation: Mekong Collaboration Experts Reveal Secrets of Success and Future Blueprint""",positive,0.6877121329307556,2,3,2,5
+6,chinese,"""Central Bank Establishes Re-Lending Program for Technological Innovation and Technological Transformation""",positive,0.5207889080047607,2,3,2,5
+7,chinese,"""Why is the horse-faced skirt so popular? Foreigners also want to know""",negative,0.6451972126960754,-1,3,2,5
+8,chinese,"""EU's 2040 Climate Goals: Launching a New Round of Climate Competition""",neutral,0.6468881368637085,1,3,2,5
+9,chinese,"""Indonesian Scholar: IPEF has ""Changed its Flavor"", China Remains a Key Partner for Cooperation""",positive,0.5846632719039917,2,3,2,5
