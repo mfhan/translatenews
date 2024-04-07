@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""South Korean Parliamentary By-Election Early Voting Concludes, Over 10 Million Voters Cast Their Ballots""",neutral,0.7696280479431152,1,2,3,5
-1,chinese,"""Collided and Sunk Fishing Vessel in Southwest Sea of Hainan Found, 8 Still Missing, Search and Rescue Underway""",negative,0.7193898558616638,-2,2,3,5
-2,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Intrusion into Scarborough Shoal""",negative,0.5630561113357544,-1,2,3,5
-3,chinese,"""Estimated Cross-Regional Population Movement of Over 750 Million Expected During Qingming Holiday""",neutral,0.819124162197113,1,2,3,5
-4,chinese,"""Launch of Thailand Project for 2024 Lancang-Mekong Cooperation Special Fund, Ambassador Han Zhiqiang Attends Ceremony and ""Lancang-Mekong Week"" Commemorative Event""",neutral,0.7096056938171387,1,2,3,5
-5,chinese,"""Boeing aircraft encounters another issue, flight cancelled due to engine fire""",negative,0.8064631819725037,-2,2,3,5
-6,chinese,New Study: Up to 11 Million Tons of Plastic Waste Accumulated on the Seafloor,neutral,0.5469655394554138,1,2,3,5
-7,chinese,"""Mexico Announces Diplomatic Break with Ecuador""",neutral,0.7720704078674316,1,2,3,5
-8,chinese,"""China's Service Industry Shows Positive Growth in March""",positive,0.7705535292625427,3,2,3,5
-9,chinese,"""Joint Efforts Boost Confidence: ""Spring Production"" Brings New Opportunities to China""",positive,0.8293550610542297,3,2,3,5
+0,chinese,"""Can Atropine Reverse Myopia? False""",negative,0.6299375295639038,-1,2,4,4
+1,chinese,"""Why is the price of gold reaching a new high again?""",negative,0.7907724380493164,-2,2,4,4
+2,chinese,"""Ma Ying-jeou Visits Xi'an National Library, Hopes Chinese Civilization Will Illuminate the Future of the Nation""",positive,0.6056854724884033,2,2,4,4
+3,chinese,"""Continued Growth in Popularity of ""Visa-Free Entry"" Tourism, Policy Benefits Realized, Demand Potential Unleashed""",positive,0.5927979350090027,2,2,4,4
+4,chinese,"""During the Qingming Festival holiday, 119 million people travel domestically in China""",neutral,0.7613729238510132,1,2,4,4
+5,chinese,"""South Korea's Parliamentary By-Election Early Voting Concludes, Over 10 Million Voters Cast Their Ballots""",neutral,0.7599707841873169,1,2,4,4
+6,chinese,"Collision and sinking of fishing boat in southwestern waters of Hainan found, 8 still missing, search and rescue ongoing",negative,0.7537131905555725,-2,2,4,4
+7,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippine Trespassing at Reed Bank""",negative,0.5293753743171692,-1,2,4,4
+8,chinese,"""Estimated Cross-Regional Population Mobility of Over 750 Million People During Qingming Holiday""",neutral,0.8128233551979065,1,2,4,4
+9,chinese,"""Launch of Thailand Project for 2024 Lancang-Mekong Cooperation Special Fund, Ambassador Han Zhiqiang Attends Ceremony and ""Lancang-Mekong Week"" Commemorative Event""",neutral,0.7096056938171387,1,2,4,4
