@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Why is the horse-faced skirt so popular? Foreigners also want to know""",negative,0.6451972126960754,-1,2,3,5
-1,chinese,"""EU's 2040 Climate Goals: Launching a New Round of Climate Competition""",neutral,0.6468881368637085,1,2,3,5
-2,chinese,"""Indonesian Scholar: IPEF has ""Changed Flavor"", China Remains Key Partner for Cooperation""",neutral,0.5285775065422058,1,2,3,5
-3,chinese,"""Milk and Beans Benefit the Body, How to Eat in Moderation? | Eating for Good Health""",neutral,0.6607853174209595,1,2,3,5
-4,chinese,"""5.189 million people enter and exit during ""Qingming"" holiday""",neutral,0.7681968212127686,1,2,3,5
-5,chinese,"""Atropine Can Reverse Myopia? False""",negative,0.5463503003120422,-1,2,3,5
-6,chinese,"""Why is the gold price reaching a new high again?""",negative,0.8141860961914062,-2,2,3,5
-7,chinese,"""Ma Ying-jeou Visits Xi'an National Library, Hopes Chinese Civilization Will Illuminate the Future of the Nation""",positive,0.6056854724884033,2,2,3,5
-8,chinese,"""Continued Growth in Popularity of Visa-Free Travel, Policy Benefits Realized, Demand Potential Unleashed""",positive,0.5840672254562378,2,2,3,5
-9,chinese,"""During the Qingming Festival holiday, 119 million people traveled domestically in China""",neutral,0.7484905123710632,1,2,3,5
+0,chinese,"""Why is the horse-faced skirt so popular? Foreigners also want to know""",negative,0.6451972126960754,-1,2,4,4
+1,chinese,"""EU's 2040 Climate Goals: Initiating a New Round of Climate Competition""",neutral,0.6686634421348572,1,2,4,4
+2,chinese,"""Indonesian Scholar: IPEF Has ""Lost its Flavor"", China Remains a Key Partner for Cooperation""",negative,0.6396793127059937,-1,2,4,4
+3,chinese,"""Milk and Beans Benefit the Body, How to Eat in Moderation? | Eating for Good Health""",neutral,0.6607853174209595,1,2,4,4
+4,chinese,"""5.189 million people enter and exit the country during the ""Qingming"" holiday period""",neutral,0.6476483345031738,1,2,4,4
+5,chinese,"""Atropine can reverse myopia? False""",negative,0.7287830114364624,-2,2,4,4
+6,chinese,"""Why is the Gold Price Reaching a New High Again?""",negative,0.8073437809944153,-2,2,4,4
+7,chinese,"""Ma Ying-jeou Visits Xi'an National Library, Hopes Chinese Civilization Will Illuminate the Future of the Nation""",positive,0.6056854724884033,2,2,4,4
+8,chinese,"""Visa-free entry tourism continues to grow in popularity, policy benefits are realized, and demand potential is released""",positive,0.7477580904960632,3,2,4,4
+9,chinese,"""Qingming Festival Holiday: 119 million Domestic Tourists Travel in China""",neutral,0.8091212511062622,1,2,4,4
