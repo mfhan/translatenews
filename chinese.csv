@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""First Flood of the Year Occurs in the Beijiang River in the Pearl River Basin""",neutral,0.5979373455047607,1,2,2,6
-1,chinese,"""Chinese People's Liberation Army Organizes Joint Naval and Air Patrols in the South China Sea in the Southern Theater Command""",neutral,0.7467387318611145,1,2,2,6
-2,chinese,"""China's Foreign Exchange Reserves Maintained Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has the Conditions to Maintain Basic Equilibrium""",neutral,0.5905622243881226,1,2,2,6
-3,chinese,"""Eight Years Together: Mekong Cooperation Experts Reveal Secrets of Success and Future Blueprint""",positive,0.6116753816604614,2,2,2,6
-4,chinese,"""Central Bank Establishes Re-lending Program for Technological Innovation and Technological Transformation""",positive,0.5299746990203857,2,2,2,6
-5,chinese,"""Why is the horse-faced dress so popular? Foreigners also want to know.""",negative,0.5855520963668823,-1,2,2,6
+0,chinese,"""Northern River in Pearl River Basin Experiences the First Flood of the Year""",negative,0.6807687878608704,-1,2,2,6
+1,chinese,"""Chinese People's Liberation Army Organizes Joint Naval and Air Patrols in South China Sea in Southern Theater Command""",neutral,0.7151090502738953,1,2,2,6
+2,chinese,"""China's Foreign Exchange Reserves Remain Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has the Conditions to Maintain Basic Equilibrium""",neutral,0.5461845397949219,1,2,2,6
+3,chinese,"""Eight Years Together: Mekong Cooperation Experts Reveal Secrets to Success and Future Blueprint""",positive,0.599275529384613,2,2,2,6
+4,chinese,"""Central Bank Establishes Re-lending for Technological Innovation and Technological Transformation""",positive,0.5578930974006653,2,2,2,6
+5,chinese,"""Why is the horse-faced skirt so popular? Foreigners also want to know.""",negative,0.6146421432495117,-1,2,2,6
 6,chinese,"""EU's 2040 Climate Goals: Launching a New Round of Climate Competition""",neutral,0.6468881368637085,1,2,2,6
-7,chinese,"""Indonesian Scholar: IPEF Has ""Gone Bad"", China Remains Key Partner for Cooperation""",negative,0.8425537347793579,-2,2,2,6
-8,chinese,"""Milk and Beans Benefit the Body, How to Eat in Moderation? | Eating for Good Health""",neutral,0.6607853174209595,1,2,2,6
-9,chinese,"""5.189 million people enter and exit the country during the ""Qingming"" holiday""",neutral,0.610565185546875,1,2,2,6
+7,chinese,"""Indonesian Scholar: IPEF Has ""Changed Taste"", China Remains Key Partner for Cooperation""",neutral,0.6146349906921387,1,2,2,6
+8,chinese,"""Milk and Beans Benefit the Body, How to Eat Moderately? | Eating for Health""",neutral,0.6846998333930969,1,2,2,6
+9,chinese,"""5.189 million people enter and exit during ""Qingming"" holiday""",neutral,0.7681968212127686,1,2,2,6
