@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Why is the horse-faced dress so popular? Foreigners also want to know""",negative,0.6154287457466125,-1,2,3,5
-1,chinese,"""EU's 2040 Climate Goals: Launching a New Round of Climate Competition""",neutral,0.6468881368637085,1,2,3,5
-2,chinese,"""Indonesian Scholar: IPEF Has ""Changed Flavor"", China Remains Key Partner for Cooperation""",neutral,0.5901599526405334,1,2,3,5
-3,chinese,"""Milk and beans benefit the body, how to eat in moderation? | Eating for good health""",neutral,0.5620626211166382,1,2,3,5
-4,chinese,"""5.189 million people enter and exit the country during the Qingming Festival""",neutral,0.6805437803268433,1,2,3,5
-5,chinese,"""Atropine Can Reverse Myopia? False""",negative,0.5463503003120422,-1,2,3,5
-6,chinese,"""Why is the price of gold reaching new highs again?""",negative,0.7550783157348633,-2,2,3,5
-7,chinese,"""Ma Ying-jeou Visits Xi'an National Library, Hopes Chinese Civilization Will Illuminate the Future of the Nation""",positive,0.6056854724884033,2,2,3,5
-8,chinese,"""Continued Growth in Popularity of ""Visa-Free Entry Tourism"", Policy Benefits Realized, Demand Potential Unleashed""",positive,0.6256767511367798,2,2,3,5
-9,chinese,"""During the Qingming Festival Holiday, 119 million people traveled domestically in China""",neutral,0.7798197269439697,1,2,3,5
+0,chinese,"""Chinese People's Liberation Army Organizes Joint Sea-Air Patrol in South China Sea Area in Southern Theater Command""",neutral,0.7429381012916565,1,2,3,5
+1,chinese,"""China's Foreign Exchange Reserves Maintained Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has the Potential to Remain Basically Balanced""",neutral,0.5418987274169922,1,2,3,5
+2,chinese,"""Eight Years of Cooperation: Mekong Collaboration Experts Reveal Secrets to Success and Future Blueprint""",positive,0.685893177986145,2,2,3,5
+3,chinese,"""Central Bank Establishes Re-Lending Program for Technological Innovation and Technological Transformation""",positive,0.5207889080047607,2,2,3,5
+4,chinese,"""Why is the horse-faced skirt so popular? Foreigners also want to know""",negative,0.6451972126960754,-1,2,3,5
+5,chinese,"""EU's 2040 Climate Goals: Launching a New Round of Climate Competition""",neutral,0.6468881368637085,1,2,3,5
+6,chinese,"""Indonesian Scholar: IPEF has ""Lost its Flavor"", China Remains a Key Partner for Cooperation""",negative,0.6514541506767273,-1,2,3,5
+7,chinese,"""Milk and beans benefit the body, how to eat in moderation? | Eat your way to health""",neutral,0.5927534699440002,1,2,3,5
+8,chinese,"""5.189 million people enter and exit during ""Qingming"" Festival""",neutral,0.8545396327972412,1,2,3,5
+9,chinese,"""Atropine Can Reverse Myopia? False""",negative,0.5463503003120422,-1,2,3,5
