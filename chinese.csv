@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""State Administration of Foreign Exchange Introduces New Measures to Optimize Trade and Foreign Exchange Business Management""",positive,0.4939191937446594,2,3,2,5
-1,chinese,"""First Time! Japan, US, Australia, and Philippines Conduct Joint Military Exercise in South China Sea During This Special Time""",neutral,0.4873662292957306,1,3,2,5
-2,chinese,"""Sudden! Israel's Large-Scale Withdrawal of Troops""",negative,0.8316534161567688,-2,3,2,5
-3,chinese,"""First Flood of the Year Occurs in the North River of the Pearl River Basin""",neutral,0.5684505701065063,1,3,2,5
-4,chinese,"""Chinese People's Liberation Army Organizes Joint Naval and Air Patrols in the South China Sea Area of the Southern Theater Command""",neutral,0.7476056814193726,1,3,2,5
-5,chinese,"""China's Foreign Exchange Reserves Maintained Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has the Conditions to Maintain Basic Equilibrium""",neutral,0.5905622243881226,1,3,2,5
-6,chinese,"""Eight Years Together: Experts of Lancang-Mekong Cooperation Reveal Secrets of Success and Future Blueprint""",positive,0.6270977854728699,2,3,2,5
-7,chinese,"""Central Bank Establishes Re-lending for Technological Innovation and Technological Transformation""",positive,0.5578930974006653,2,3,2,5
-8,chinese,"""Why is the horse-faced dress so popular? Foreigners also want to know""",negative,0.6154287457466125,-1,3,2,5
-9,chinese,"""EU's 2040 Climate Goals: Initiating a New Round of Climate Competition""",neutral,0.6686634421348572,1,3,2,5
+0,chinese,"""State Administration of Foreign Exchange Launches New Measures to Optimize Trade and Foreign Exchange Business Management""",positive,0.518724799156189,2,3,3,4
+1,chinese,"""First Time! Japan, US, Australia, and Philippines Conduct Joint Military Exercise in South China Sea at This Special Time""",neutral,0.48170989751815796,1,3,3,4
+2,chinese,"""Sudden! Israel's Large-Scale Withdrawal of Troops""",negative,0.8316534161567688,-2,3,3,4
+3,chinese,"""First Flood of the Year Occurs in the Beijiang River Basin of the Pearl River""",neutral,0.563856303691864,1,3,3,4
+4,chinese,"""Chinese People's Liberation Army Organizes Joint Naval and Air Patrols in the South China Sea Area of the Southern Theater Command""",neutral,0.7476056814193726,1,3,3,4
+5,chinese,"""China's Foreign Exchange Reserves Remained Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has the Conditions to Maintain Basic Equilibrium""",negative,0.6887707710266113,-1,3,3,4
+6,chinese,"""Eight Years of Cooperation: Experts of Lancang-Mekong Cooperation Reveal Secrets of Success and Future Blueprint""",positive,0.609059751033783,2,3,3,4
+7,chinese,"""Central Bank Establishes Re-lending Program for Technological Innovation and Technological Transformation""",positive,0.5299746990203857,2,3,3,4
+8,chinese,"""Why is the horse-faced skirt so popular? Foreigners also want to know.""",negative,0.6146421432495117,-1,3,3,4
+9,chinese,"""EU's 2040 Climate Goals: Initiating a New Round of Climate Competition""",neutral,0.6686634421348572,1,3,3,4
