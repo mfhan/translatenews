@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""New Western Land-Sea Corridor Facilitates More ASEAN Fruits to Enter Chinese Market""",positive,0.5886293649673462,2,3,1,6
 1,chinese,"""China's Foreign Exchange Reserves Rise to $3.2457 Trillion by the End of March""",neutral,0.7009214162826538,1,3,1,6
-2,chinese,"""Supreme Court Seeks Public Opinion, Intends to Make Regulations on Issues such as ""Fake Divorce""""",neutral,0.7320696711540222,1,3,1,6
+2,chinese,"Supreme Court Seeks Public Opinions, Plans to Establish Regulations on ""Fake Divorce"" and Other Issues",neutral,0.7452242374420166,1,3,1,6
 3,chinese,"""State Administration of Foreign Exchange Launches New Measures to Optimize Trade and Foreign Exchange Business Management""",positive,0.518724799156189,2,3,1,6
 4,chinese,"""First Time! Japan, US, Australia, and Philippines Conduct Joint Military Exercise in South China Sea at This Special Time""",neutral,0.48170989751815796,1,3,1,6
 5,chinese,"""Sudden! Israel's Large-Scale Withdrawal of Troops""",negative,0.8316534161567688,-2,3,1,6
-6,chinese,"""First Flood of the Year Occurs in the Beijiang River in the Pearl River Basin""",neutral,0.5979373455047607,1,3,1,6
-7,chinese,"""Chinese People's Liberation Army Organizes Joint Naval and Air Patrols in South China Sea Area in Southern Theater Command""",neutral,0.7363760471343994,1,3,1,6
-8,chinese,"""China's Foreign Exchange Reserves Maintained Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has the Potential to Remain Basically Balanced""",neutral,0.5418987274169922,1,3,1,6
-9,chinese,"""Eight Years of Cooperation: Mekong Cooperation Experts Reveal Secrets of Success and Future Blueprint""",positive,0.5702857375144958,2,3,1,6
+6,chinese,"""First Flood of the Year Occurs in the Beijiang River Basin of the Pearl River""",neutral,0.563856303691864,1,3,1,6
+7,chinese,"""Chinese People's Liberation Army Southern Theater Command Organizes Joint Sea-Air Patrols in South China Sea""",neutral,0.7436578273773193,1,3,1,6
+8,chinese,"""China's Foreign Exchange Reserves Maintained Above $3.2 Trillion at the End of Last Year - International Balance of Payments Has the Conditions to Maintain Basic Equilibrium""",neutral,0.5905622243881226,1,3,1,6
+9,chinese,"""Eight Years of Cooperation: Mekong Collaboration Experts Reveal Secrets to Success and Future Blueprint""",positive,0.685893177986145,2,3,1,6
