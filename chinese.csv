@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Director General of World Intellectual Property Organization: China is the Largest Source Country for Intellectual Property Applications""",neutral,0.5882708430290222,1,3,1,6
-1,chinese,"""Since its trial operation, the Hong Kong-Zhuhai-Macao Bridge has attracted over 100,000 enthusiastic tourists.""",positive,0.7254207730293274,3,3,1,6
-2,chinese,"In 2023, the overall economic scale of the national performance market reached 739.94 billion yuan.",neutral,0.7187365889549255,1,3,1,6
-3,chinese,"""New Western Land and Sea Channel Facilitates More ASEAN Fruits Entering the Chinese Market""",positive,0.5334509611129761,2,3,1,6
-4,chinese,"""China's Foreign Exchange Reserves Rise to $3.2457 Trillion by the End of March""",neutral,0.7009214162826538,1,3,1,6
-5,chinese,"""Supreme Court Seeks Public Opinions, Intends to Make Regulations on Issues such as ""Fake Divorce""""",neutral,0.7361889481544495,1,3,1,6
-6,chinese,"""State Administration of Foreign Exchange Introduces New Measures to Optimize Trade and Foreign Exchange Business Management""",positive,0.4939191937446594,2,3,1,6
-7,chinese,"""First Time! Japan, US, Australia, and the Philippines Conduct Joint Military Exercise in the South China Sea During This Special Time""",neutral,0.5140798687934875,1,3,1,6
-8,chinese,"""Sudden! Israel's Large-Scale Withdrawal of Troops""",negative,0.8316534161567688,-2,3,1,6
-9,chinese,"""First Flood of the Year Occurs in the Beijiang River in the Pearl River Basin""",neutral,0.5979373455047607,1,3,1,6
+0,chinese,"""Australian Scholar: US ""Strengthening Supply Chain"" Ultimately Aims to Suppress China""",neutral,0.4832977056503296,1,3,0,7
+1,chinese,"""World Intellectual Property Organization Director General: China is the Largest Source Country for Intellectual Property Applications""",neutral,0.5549534559249878,1,3,0,7
+2,chinese,"""Since its trial operation, the Hong Kong-Zhuhai-Macao Bridge has attracted over 100,000 enthusiastic tourists.""",positive,0.7254207730293274,3,3,0,7
+3,chinese,"""National Performance Market Reaches Overall Economic Scale of 73.994 Billion Yuan in 2023""",neutral,0.6910706758499146,1,3,0,7
+4,chinese,"""New Western Land and Sea Channel Facilitates More ASEAN Fruits Entering the Chinese Market""",positive,0.5334509611129761,2,3,0,7
+5,chinese,"""China's Foreign Exchange Reserves Rise to $3.2457 Trillion by the End of March""",neutral,0.7009214162826538,1,3,0,7
+6,chinese,"""Supreme Court Seeks Public Opinions, Plans to Make Regulations on Issues such as ""Fake Divorce""""",neutral,0.7777929306030273,1,3,0,7
+7,chinese,"""State Administration of Foreign Exchange Launches New Measures to Optimize Trade and Foreign Exchange Business Management""",positive,0.518724799156189,2,3,0,7
+8,chinese,"""First Time! Japan, US, Australia, and Philippines Conduct Joint Military Exercise in South China Sea During This Special Time""",neutral,0.4873662292957306,1,3,0,7
+9,chinese,"""Breaking News! Israel to Withdraw Large-Scale Troops""",neutral,0.5225622653961182,1,3,0,7
