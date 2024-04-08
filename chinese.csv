@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Using Listening Instead of Preaching to Promote the Advancement of Sino-US Relations""",neutral,0.5290812849998474,1,3,0,7
-1,chinese,"""Australian Scholar: US' Talk of ""Strengthening Supply Chain"" Ultimately Aims to Suppress China""",neutral,0.5383424162864685,1,3,0,7
-2,chinese,"""Director General of World Intellectual Property Organization: China is the Largest Source Country for Intellectual Property Applications""",neutral,0.5882708430290222,1,3,0,7
-3,chinese,"""Since its trial operation, the Hong Kong-Zhuhai-Macao Bridge has attracted over 100,000 enthusiastic tourists.""",positive,0.7254207730293274,3,3,0,7
-4,chinese,"""National Performance Market Reaches Overall Economic Scale of 73.994 Billion Yuan in 2023""",neutral,0.6910706758499146,1,3,0,7
-5,chinese,"""New Western Land and Sea Channel Facilitates More ASEAN Fruits Entering the Chinese Market""",positive,0.5334509611129761,2,3,0,7
-6,chinese,"""China's Foreign Exchange Reserves Rise to $3.2457 Trillion by the End of March""",neutral,0.7009214162826538,1,3,0,7
-7,chinese,"""Supreme Court Seeks Public Opinions, Plans to Make Regulations on Issues such as ""Fake Divorce""""",neutral,0.7777929306030273,1,3,0,7
-8,chinese,"""State Administration of Foreign Exchange Launches New Measures to Optimize Trade and Foreign Exchange Business Management""",positive,0.518724799156189,2,3,0,7
-9,chinese,"""First Time! Japan, US, Australia, and the Philippines Conduct Joint Military Exercises in the South China Sea at This Special Time""",neutral,0.5218685865402222,1,3,0,7
+0,chinese,"""Harmony and Reasoning | Promoting the Advancement of Sino-US Relations through Listening Instead of Preaching""",positive,0.505626916885376,2,4,0,6
+1,chinese,"""Australian Scholar: US ""Strengthening Supply Chain"" is Ultimately to Suppress China""",neutral,0.5562658309936523,1,4,0,6
+2,chinese,"""Director General of World Intellectual Property Organization: China is the Largest Source Country for Intellectual Property Applications""",neutral,0.5882708430290222,1,4,0,6
+3,chinese,"""Since trial operation, the Hong Kong-Zhuhai-Macau Bridge has attracted over 100,000 visitors, becoming a popular tourist destination.""",positive,0.7799968719482422,3,4,0,6
+4,chinese,"""National Performance Market's Overall Economic Scale Reaches 73.994 Billion Yuan in 2023""",neutral,0.7266591787338257,1,4,0,6
+5,chinese,"""New Western Land and Sea Channel Facilitates More ASEAN Fruits Entering the Chinese Market""",positive,0.5334509611129761,2,4,0,6
+6,chinese,"""China's Foreign Exchange Reserves Rise to $3.2457 Trillion by the End of March""",neutral,0.7009214162826538,1,4,0,6
+7,chinese,"Supreme Court Seeks Public Opinions, Plans to Make Regulations on Issues such as ""Fake Divorce""",neutral,0.7630904912948608,1,4,0,6
+8,chinese,"""State Administration of Foreign Exchange Introduces New Measures to Optimize Trade and Foreign Exchange Business Management""",positive,0.4939191937446594,2,4,0,6
+9,chinese,"""First Time! Japan, US, Australia, and Philippines Conduct Joint Military Exercise in South China Sea Amidst This Special Time""",neutral,0.4626815617084503,1,4,0,6
