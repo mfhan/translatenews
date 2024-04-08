@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Zhihu Launches Special Topic for Animal Protection Day, ""Lighthouse Project"" Funds China's Wildlife Science Popularization""",positive,0.48440980911254883,2,4,1,5
+0,chinese,"""Zhihu Launches Special Topic for Animal Protection Day, ""Lighthouse Project"" Funds China's Wildlife Popularization""",positive,0.4889185428619385,2,4,1,5
 1,chinese,"Various new types of factories emerge in large numbers, China quickly embraces the wave of intelligence.",positive,0.7386732697486877,3,4,1,5
-2,chinese,Minister of Commerce Wang Wentao: Chinese electric vehicle companies do not rely on subsidies to gain competitive advantage.,neutral,0.539740264415741,1,4,1,5
+2,chinese,"""Minister of Commerce Wang Wentao: Chinese electric vehicle companies do not rely on subsidies to gain competitive advantage""",neutral,0.5568375587463379,1,4,1,5
 3,chinese,"""Harmony and Reasoning | Using Listening Instead of Preaching to Promote the Advancement of Sino-US Relations""",neutral,0.5290812849998474,1,4,1,5
-4,chinese,"""Australian Scholar: US Claims to ""Strengthen Supply Chain"", But Ultimately Aimed at Suppressing China""",negative,0.4995461106300354,-1,4,1,5
+4,chinese,"""Australian Scholar: US's Talk of ""Strengthening Supply Chain"" Ultimately Aimed at Suppressing China""",negative,0.5109789967536926,-1,4,1,5
 5,chinese,"""Director General of World Intellectual Property Organization: China is the Largest Source Country for Intellectual Property Applications""",neutral,0.5882708430290222,1,4,1,5
-6,chinese,"""Since its trial operation, the Hong Kong-Zhuhai-Macao Bridge has attracted over 100,000 tourists, making it a popular destination.""",positive,0.7842898964881897,3,4,1,5
+6,chinese,"""Since its trial operation, the Hong Kong-Zhuhai-Macao Bridge has attracted over 100,000 enthusiastic tourists.""",positive,0.7254207730293274,3,4,1,5
 7,chinese,"""National Performance Market Reaches Overall Economic Scale of 73.994 Billion Yuan in 2023""",neutral,0.6910706758499146,1,4,1,5
-8,chinese,"""New Western Land and Sea Passage Facilitates More ASEAN Fruits Entering the Chinese Market""",positive,0.5165660977363586,2,4,1,5
-9,chinese,"""China's Foreign Exchange Reserves Rise to $3.2457 Trillion by the End of March""",neutral,0.7009214162826538,1,4,1,5
+8,chinese,"""New Western Land and Sea Passage Facilitates More ASEAN Fruits to Enter Chinese Market""",positive,0.5707150101661682,2,4,1,5
+9,chinese,China's foreign exchange reserves rise to $3.2457 trillion at the end of March.,neutral,0.5262899398803711,1,4,1,5
