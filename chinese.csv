@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Ministry of Education: 6,068 New Vocational and Technical College Majors Added, Can Enroll Students Starting from 2024",neutral,0.5672426819801331,1,3,1,6
-1,chinese,"""Research Vessel ""Snow Dragon 2"" and China's 40th Antarctic Expedition Team Hold Open Day in Hong Kong""",neutral,0.7524072527885437,1,3,1,6
-2,chinese,"""World Chinese Studies Forum Successfully Held""",positive,0.772660493850708,3,3,1,6
-3,chinese,"""[Overseas Perspective] African Union Representative in China: ""China is Sharing Valuable Experience of Reform and Opening Up with Us""""",positive,0.4886093735694885,2,3,1,6
-4,chinese,"""Zhihu Launches Special Topic on Animal Protection Day, ""Lighthouse Project"" Funds Chinese Wildlife Science Popularization""",neutral,0.5313690900802612,1,3,1,6
-5,chinese,"Various types of new factories are emerging in large numbers, and China is quickly embracing the wave of intelligence.",positive,0.7176612019538879,3,3,1,6
-6,chinese,"""Minister of Commerce Wang Wentao: Chinese Electric Vehicle Companies Do Not Rely on Subsidies to Gain Competitive Advantage""",negative,0.4997865855693817,-1,3,1,6
-7,chinese,"""Harmony and Reasoning | Using Listening Instead of Preaching to Promote the Advancement of Sino-US Relations""",neutral,0.5290812849998474,1,3,1,6
-8,chinese,"""Australian Scholar: US's Talk of ""Strengthening Supply Chains"" Ultimately Aims to Suppress China""",neutral,0.4678473472595215,1,3,1,6
-9,chinese,"""World Intellectual Property Organization Director General: China is the largest source country for intellectual property applications""",neutral,0.508060872554779,1,3,1,6
+0,chinese,"""Ministry of Education: 6,068 New Vocational and Technical Programs Added, Can Enroll Students Starting from 2024""",neutral,0.5171607136726379,1,3,0,7
+1,chinese,"""Research vessel ""Snow Dragon 2"" and China's 40th Antarctic expedition team hold open day in Hong Kong""",neutral,0.6862652897834778,1,3,0,7
+2,chinese,"""Successful World Chinese Studies Forum Held""",positive,0.8808161020278931,3,3,0,7
+3,chinese,"""【Overseas Perspective】African Union Representative in China: ""China is Sharing Valuable Experience of Reform and Opening Up with Us""""",positive,0.5000455379486084,2,3,0,7
+4,chinese,"""Zhihu Launches Special Topic for Animal Protection Day, ""Lighthouse Project"" Funds Chinese Wildlife Education""",neutral,0.5063292384147644,1,3,0,7
+5,chinese,"Various types of new factories are emerging in large numbers, China is rapidly embracing the wave of intelligence.",positive,0.715510368347168,3,3,0,7
+6,chinese,Minister of Commerce Wang Wentao: Chinese electric vehicle companies do not rely on subsidies to gain competitive advantage.,neutral,0.539740264415741,1,3,0,7
+7,chinese,"""Harmony and Reasoning | Using Listening Instead of Preaching to Promote the Advancement of Sino-US Relations""",neutral,0.5290812849998474,1,3,0,7
+8,chinese,"""Australian Scholar: US Claims to ""Strengthen Supply Chain"" Ultimately Aimed at Suppressing China""",neutral,0.5952764749526978,1,3,0,7
+9,chinese,"""Director General of World Intellectual Property Organization: China is the Largest Source Country for Intellectual Property Applications""",neutral,0.5882708430290222,1,3,0,7
