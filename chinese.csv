@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Millennium Intangible Cultural Heritage Embroidery Creates a New Fashion Trend ""National Tide""""",positive,0.6483333110809326,2,5,1,4
-1,chinese,"""Dual-language Financial News: Foreign Entrepreneurs: Strong Recovery in Chinese Tourism Market, Will Seize Opportunities to Expand Cooperation""",positive,0.6401612162590027,2,5,1,4
-2,chinese,"""Beautiful Life in Yunnan: A Magnificent Landscape of ""Zhuang"" Culture""",positive,0.8707789182662964,3,5,1,4
-3,chinese,"""Chinese Embassy in the US: US Continues to Harass Chinese Visitors, China Insists on ""Dealing with Each Incident as it Occurs""""",negative,0.8857787251472473,-2,5,1,4
-4,chinese,"""Fairness and Justice | Strictly Investigate ""Small Exemption"" Deliveries, US Suppresses Cross-border E-commerce to the Detriment of American Consumers""",neutral,0.6095523834228516,1,5,1,4
-5,chinese,"""Wang Yi discusses the ""Five Consistencies"" of Sino-Russian relations""",neutral,0.8098978996276855,1,5,1,4
-6,chinese,"""Many regions actively promote large-scale equipment updates and consumer goods trade-ins""",neutral,0.497864693403244,1,5,1,4
-7,chinese,"""Strongly Promoting High-Quality Development with New Productive Forces""",positive,0.7832566499710083,3,5,1,4
-8,chinese,"""In the New Era, I am in China | Italian Teacher: Life in Beijing is ""Fast"" and ""Joyful""""",positive,0.6856814026832581,2,5,1,4
-9,chinese,"""Market Supervision Administration: Livestreaming Sales Must Clearly State ""Who is Selling"" and ""Whose Products are Being Sold""""",neutral,0.9100134968757629,1,5,1,4
+0,chinese,"""Millennium Intangible Cultural Heritage Embroidery Creates New Fashion Trend ""National Tide""""",positive,0.6651374697685242,2,6,1,3
+1,chinese,"""Dual-language Financial News: Foreign Entrepreneurs: China's Tourism Market Shows Strong Recovery, Will Seize Opportunities to Expand Cooperation""",positive,0.6955189108848572,2,6,1,3
+2,chinese,"""Beautiful Life in Yunnan: The Magnificent Scenery of the ""Zhuang"" Ethnic Group""",positive,0.8179302215576172,3,6,1,3
+3,chinese,"""Chinese Embassy in the US: US Continues to Harass Chinese Visitors, China Insists on ""Dealing with Each Incident as it Occurs""""",negative,0.8857787251472473,-2,6,1,3
+4,chinese,"""Fairness and Justice | Strictly Investigate ""Small Exemption"" Shipments, US Suppresses Cross-border E-commerce to the Detriment of American Consumers""",neutral,0.6568331122398376,1,6,1,3
+5,chinese,"""Wang Yi Talks about the ""Five Consistencies"" of Sino-Russian Relations""",neutral,0.811352550983429,1,6,1,3
+6,chinese,"""Multiple regions actively promote large-scale equipment updates and consumer goods trade-ins""",positive,0.573642373085022,2,6,1,3
+7,chinese,"""Strongly Promoting High-Quality Development with New Productive Forces""",positive,0.7832566499710083,3,6,1,3
+8,chinese,"""In the New Era, I am in China | Italian Teacher: Life in Beijing is ""Fast"" and ""Joyful""""",positive,0.6856814026832581,2,6,1,3
+9,chinese,"""Market Supervision Administration: Livestreaming Sales Must Clearly State ""Who is Selling"" and ""Whose Products are Being Sold""""",neutral,0.9100134968757629,1,6,1,3
