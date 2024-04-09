@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Ministry of Education: 6,068 New Vocational and Technical College Majors Added, Can Enroll Students Starting from 2024",neutral,0.5672426819801331,1,4,1,5
-1,chinese,"""Research Vessel ""Snow Dragon 2"" and China's 40th Antarctic Expedition Team Hold Open Day in Hong Kong""",neutral,0.7524072527885437,1,4,1,5
-2,chinese,"""Successful World Chinese Studies Forum Held""",positive,0.8808161020278931,3,4,1,5
-3,chinese,"""【Overseas Perspective】African Union Representative in China: ""China is Sharing Valuable Experiences of Reform and Opening Up with Us""""",positive,0.4851714074611664,2,4,1,5
-4,chinese,"""Zhihu Launches Special Topic for Animal Protection Day, ""Lighthouse Project"" Funds Chinese Wildlife Science Popularization""",neutral,0.5063726902008057,1,4,1,5
-5,chinese,"Various new types of factories are emerging in large numbers, China is quickly embracing the wave of intelligence.",positive,0.7196636199951172,3,4,1,5
-6,chinese,"""Minister of Commerce Wang Wentao: Chinese electric vehicle companies do not rely on subsidies to gain competitive advantage""",neutral,0.5568375587463379,1,4,1,5
-7,chinese,"""Harmony and Reasoning | Using Listening Instead of Preaching, Promoting Forward Development of Sino-US Relations""",positive,0.5074074268341064,2,4,1,5
-8,chinese,"Australian Scholar: ""US's talk of ""strengthening supply chains"" ultimately aimed at suppressing China""",negative,0.727635383605957,-2,4,1,5
-9,chinese,"""Director General of World Intellectual Property Organization: China is the Largest Source Country for Intellectual Property Applications""",neutral,0.5882708430290222,1,4,1,5
+0,chinese,"""Rare Total Solar Eclipse Observed in North America Region""",neutral,0.8490667343139648,1,3,1,6
+1,chinese,"Ministry of Education: 6,068 New Vocational and Technical Programs Added, Can Enroll Students Starting from 2024",neutral,0.5083369016647339,1,3,1,6
+2,chinese,"""Research Vessel ""Snow Dragon 2"" and China's 40th Antarctic Expedition Team Hold Open Day in Hong Kong""",neutral,0.7524072527885437,1,3,1,6
+3,chinese,"""Successful World Chinese Studies Forum Held""",positive,0.8808161020278931,3,3,1,6
+4,chinese,"""[Overseas Perspective] African Union Ambassador to China: ""China is Sharing Valuable Experience of Reform and Opening Up with Us""""",positive,0.5477541089057922,2,3,1,6
+5,chinese,"""Zhihu Launches Special Topic for Animal Protection Day, ""Lighthouse Project"" Funds Chinese Wildlife Science Popularization""",neutral,0.5063726902008057,1,3,1,6
+6,chinese,"Various new types of factories emerge in large numbers, China rapidly embraces the wave of intelligence.",positive,0.7373595833778381,3,3,1,6
+7,chinese,"""Minister of Commerce Wang Wentao: Chinese Electric Vehicle Companies Do Not Rely on Subsidies to Gain Competitive Advantage""",negative,0.4997865855693817,-1,3,1,6
+8,chinese,"""Harmony and Reasoning: Using Listening Instead of Preaching to Promote the Advancement of Sino-US Relations""",neutral,0.48082834482192993,1,3,1,6
+9,chinese,"Australian Scholar: ""US Talk of ""Supply Chain Strengthening"" Ultimately Aimed at Suppressing China""",neutral,0.5792202949523926,1,3,1,6
