@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""In the New Era, I am in China | Italian Teacher: Life in Beijing is ""Fast"" and ""Joyful""""",positive,0.6856814026832581,2,3,1,6
-1,chinese,"""Market Supervision Administration: Live streaming sales must clearly state ""who is selling"" and ""whose products are being sold""""",neutral,0.9199124574661255,1,3,1,6
-2,chinese,"""Writing a Letter in Chinese is Heartwarming""",positive,0.8914859294891357,3,3,1,6
-3,chinese,"""Two Departments Allocate 174 Million Yuan to Support Drought Relief and Water Supply in Yunnan and Sichuan""",neutral,0.5234637260437012,1,3,1,6
-4,chinese,"""Hong Kong Customs Cracks Down on Largest Smuggling Case of Gold in History""",negative,0.8444969058036804,-2,3,1,6
-5,chinese,"""British Scholar: The Western World Should Welcome a ""Unique"" China""",neutral,0.5060498714447021,1,3,1,6
-6,chinese,"""Agricultural Industry Chain: Standardized Planting, Branded Development""",neutral,0.8775327205657959,1,3,1,6
-7,chinese,"""Stability Takes the Lead: Six Major Banks Maintain Good Asset Quality""",positive,0.7316253185272217,3,3,1,6
-8,chinese,"""Rare Total Solar Eclipse Occurs in North America Region""",neutral,0.8147975206375122,1,3,1,6
-9,chinese,"""Ministry of Education: 6,068 New Vocational and Technical Programs Added, Can Enroll Students Starting from 2024""",neutral,0.5171607136726379,1,3,1,6
+0,chinese,"""Beautiful Life in Yunnan: The Magnificent Scenery of the ""Zhuang"" Ethnic Group""",positive,0.8179302215576172,3,5,1,4
+1,chinese,"""Chinese Embassy in the US: US Continues to Harass Chinese Visitors, China Insists on ""Dealing with Each Incident as it Occurs""",negative,0.8812968134880066,-2,5,1,4
+2,chinese,"""Fairness and Justice | Strictly Investigating ""Small Exemption"" Shipments, US Attempts to Suppress Cross-border E-commerce to the Detriment of American Consumers""",neutral,0.5228899717330933,1,5,1,4
+3,chinese,"""Wang Yi Discusses the ""Five Consistencies"" of Sino-Russian Relations""",neutral,0.843804121017456,1,5,1,4
+4,chinese,"""Multiple regions actively promote large-scale equipment updates and consumer goods trade-ins""",positive,0.573642373085022,2,5,1,4
+5,chinese,"""Strong Promotion of High-Quality Development with New Productive Forces""",positive,0.714259684085846,3,5,1,4
+6,chinese,"""In the New Era, I am in China | Italian Teacher: Life in Beijing is ""Fast"" and ""Happy""""",positive,0.7755151987075806,3,5,1,4
+7,chinese,"""Market Supervision Administration: Livestreaming Sales Must Clearly State ""Who is Selling"" and ""Whose Products are Being Sold""""",neutral,0.9100134968757629,1,5,1,4
+8,chinese,"""Writing a Letter in Chinese is Heartwarming""",positive,0.8914859294891357,3,5,1,4
+9,chinese,"""Two departments allocate 174 million yuan to support drought relief and water supply in Yunnan and Sichuan""",neutral,0.4709137976169586,1,5,1,4
