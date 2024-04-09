@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Writing a Letter in Chinese is Heartwarming""",positive,0.8914859294891357,3,3,1,6
+0,chinese,"""Writing Letters in Chinese is Heartwarming""",positive,0.8968971371650696,3,3,1,6
 1,chinese,"""Two departments allocate 174 million yuan to support drought relief and water supply in Yunnan and Sichuan provinces""",neutral,0.4756093919277191,1,3,1,6
-2,chinese,"""Hong Kong Customs Cracks Largest Smuggling Case of Gold in History""",negative,0.8421109318733215,-2,3,1,6
-3,chinese,"""British Scholar: The Western World Should Welcome the ""Unique"" China""",neutral,0.48833268880844116,1,3,1,6
-4,chinese,"""Agricultural Industry Chain: Standardized Cultivation and Branded Development""",neutral,0.8729813694953918,1,3,1,6
-5,chinese,"""Stability Takes the Lead: Six Major Banks' Asset Quality Continues to Improve""",positive,0.6662872433662415,2,3,1,6
-6,chinese,"""Rare Total Solar Eclipse Occurs in North America Region""",neutral,0.8147975206375122,1,3,1,6
-7,chinese,"Ministry of Education: 6,068 New Vocational and Technical College Majors Added, Can Enroll Students Starting from 2024",neutral,0.5672426819801331,1,3,1,6
-8,chinese,"""Chinese icebreaker ""Snow Dragon 2"" and the 40th Chinese Antarctic Expedition Team hold open day in Hong Kong""",neutral,0.7508977651596069,1,3,1,6
+2,chinese,"""Hong Kong Customs Cracks Down on the Largest Smuggling Case of Gold in History""",negative,0.8634739518165588,-2,3,1,6
+3,chinese,"British Scholar: The Western World Should Welcome a ""Unique"" China",neutral,0.44546014070510864,1,3,1,6
+4,chinese,"""Agricultural Industry Chain: Standardized Planting, Branded Development""",neutral,0.8775327205657959,1,3,1,6
+5,chinese,"""Stability at the Forefront: Six Major Banks' Asset Quality Continues to Improve""",positive,0.6642553210258484,2,3,1,6
+6,chinese,"""Rare Total Solar Eclipse Seen in North America Region""",neutral,0.7297441363334656,1,3,1,6
+7,chinese,"""Ministry of Education: 6,068 New Specialized Programs for Vocational Colleges, Enrollments Available from 2024""",neutral,0.833571195602417,1,3,1,6
+8,chinese,"""Research Vessel ""Snow Dragon 2"" and China's 40th Antarctic Expedition Team Hold Open Day in Hong Kong""",neutral,0.7524072527885437,1,3,1,6
 9,chinese,"""Successful World Chinese Studies Forum Held""",positive,0.8808161020278931,3,3,1,6
