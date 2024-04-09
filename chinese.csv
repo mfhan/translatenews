@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Colombian Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5497063398361206,1,5,1,4
-1,chinese,"""Latest International Research Shows Thousands of Meteorites May Sink into Antarctic Ice Sheets Faster Due to Global Warming""",neutral,0.6633787155151367,1,5,1,4
-2,chinese,"""Promoting High-Quality Development: Inheriting and Promoting the ""Jinjiang Experience"", Fujian Fully Supports the Development and Growth of Private Enterprises""",positive,0.7992858290672302,3,5,1,4
-3,chinese,"""Promoting High-Quality Development: Mechanism Active, Industries Superior, People Prosperous, and Ecology Beautiful, Fujian's Construction in the New Era Takes a New Step""",positive,0.8155238628387451,3,5,1,4
-4,chinese,"""Millennial Intangible Cultural Heritage Embroidery Creates New Fashion Trend ""National Tide""""",positive,0.6958186626434326,2,5,1,4
-5,chinese,"""Dual-Language Financial News: Foreign Entrepreneurs: China's Tourism Market Shows Strong Recovery, Will Seize Opportunities to Expand Cooperation""",positive,0.6803320050239563,2,5,1,4
-6,chinese,"""Beautiful Life in Yunnan: A Magnificent Landscape of ""Zhuang"" Culture""",positive,0.8707789182662964,3,5,1,4
-7,chinese,"""Chinese Embassy in the US: US Continues to Harass Chinese Visitors, China Insists on ""Dealing with Each Incident as it Arises""""",negative,0.8811521530151367,-2,5,1,4
-8,chinese,"""Fairness and Justice | Strictly Investigating ""Small Exemption"" Shipments, US Suppresses Cross-border E-commerce to the Detriment of American Consumers""",neutral,0.6751946806907654,1,5,1,4
-9,chinese,"""Wang Yi Discusses the ""Five Consistencies"" of Sino-Russian Relations""",neutral,0.843804121017456,1,5,1,4
+0,chinese,"""Columbia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5241812467575073,1,5,2,3
+1,chinese,"""Latest International Research Shows Thousands of Meteorites May Sink Faster into Antarctic Ice Due to Global Warming""",neutral,0.6676658391952515,1,5,2,3
+2,chinese,"""Promoting High-Quality Development: Inheriting and Promoting the ""Jinjiang Experience"" - Fujian Fully Supports the Development and Growth of Private Enterprises""",positive,0.7805777192115784,3,5,2,3
+3,chinese,"""Promoting High-Quality Development: Mechanism Active, Industries Superior, People Prosperous, and Ecology Beautiful, Fujian's Construction in the New Era Takes a New Step""",positive,0.8155238628387451,3,5,2,3
+4,chinese,"""Millennium Intangible Cultural Heritage Embroidery Creates New Fashionable ""National Trend""""",positive,0.681155264377594,2,5,2,3
+5,chinese,"""Bilingual Financial News: Foreign Entrepreneurs: China's Tourism Market Shows Strong Recovery, Seizing Opportunities to Expand Cooperation""",positive,0.7288134694099426,3,5,2,3
+6,chinese,"""Beautiful Life in Yunnan: A Magnificent Landscape of ""Zhuang"" Culture""",positive,0.8707789182662964,3,5,2,3
+7,chinese,"""Chinese Embassy in the US: US Continues to Harass Chinese Visitors, China Insists on ""Dealing with Each Incident as it Occurs""""",negative,0.8857787251472473,-2,5,2,3
+8,chinese,"""Fairness and Justice | Strictly Investigate ""Small Exemption"" Shipments, US Attempts to Suppress Cross-border E-commerce Harm American Consumers""",negative,0.8396263718605042,-2,5,2,3
+9,chinese,"""Wang Yi Talks about the ""Five Consistencies"" of Sino-Russian Relations""",neutral,0.811352550983429,1,5,2,3
