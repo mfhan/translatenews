@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Hong Kong Customs Breaks Up Largest Smuggling Case of Gold in History""",neutral,0.4604611098766327,1,3,0,7
-1,chinese,"""British Scholar: The Western World Should Welcome the ""Unique"" China""",neutral,0.48833268880844116,1,3,0,7
-2,chinese,"""Rare Total Solar Eclipse Observed in North America Region""",neutral,0.8490667343139648,1,3,0,7
-3,chinese,"Ministry of Education: 6,068 New Vocational and Technical College Majors Added, Can Enroll Students Starting from 2024",neutral,0.5672426819801331,1,3,0,7
-4,chinese,"""Research vessel ""Snow Dragon 2"" and China's 40th Antarctic Expedition Team hold open day in Hong Kong""",neutral,0.7300621867179871,1,3,0,7
-5,chinese,"""Successful Holding of World Chinese Studies Forum""",positive,0.8488271236419678,3,3,0,7
-6,chinese,"""[Overseas Perspective] African Union Representative in China: ""China is Sharing Valuable Experience of Reform and Opening Up with Us""""",positive,0.4886093735694885,2,3,0,7
-7,chinese,"""Zhihu Launches Special Topic for Animal Protection Day, ""Lighthouse Project"" Funds Chinese Wildlife Science Popularization""",neutral,0.5063726902008057,1,3,0,7
-8,chinese,"Various new types of factories are emerging in large numbers, China is rapidly embracing the wave of intelligence.",positive,0.7101809978485107,3,3,0,7
-9,chinese,"""Minister of Commerce Wang Wentao: Chinese electric vehicle companies do not rely on subsidies to gain competitive advantage""",neutral,0.5568375587463379,1,3,0,7
+0,chinese,"""Writing a Letter in Chinese is Heartwarming""",positive,0.8914859294891357,3,3,1,6
+1,chinese,"""Two departments allocate 174 million yuan to support drought relief and water supply in Yunnan and Sichuan provinces""",neutral,0.4756093919277191,1,3,1,6
+2,chinese,"""Hong Kong Customs Cracks Largest Smuggling Case of Gold in History""",negative,0.8421109318733215,-2,3,1,6
+3,chinese,"""British Scholar: The Western World Should Welcome the ""Unique"" China""",neutral,0.48833268880844116,1,3,1,6
+4,chinese,"""Agricultural Industry Chain: Standardized Cultivation and Branded Development""",neutral,0.8729813694953918,1,3,1,6
+5,chinese,"""Stability Takes the Lead: Six Major Banks' Asset Quality Continues to Improve""",positive,0.6662872433662415,2,3,1,6
+6,chinese,"""Rare Total Solar Eclipse Occurs in North America Region""",neutral,0.8147975206375122,1,3,1,6
+7,chinese,"Ministry of Education: 6,068 New Vocational and Technical College Majors Added, Can Enroll Students Starting from 2024",neutral,0.5672426819801331,1,3,1,6
+8,chinese,"""Chinese icebreaker ""Snow Dragon 2"" and the 40th Chinese Antarctic Expedition Team hold open day in Hong Kong""",neutral,0.7508977651596069,1,3,1,6
+9,chinese,"""Successful World Chinese Studies Forum Held""",positive,0.8808161020278931,3,3,1,6
