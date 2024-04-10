@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-speed rail boosts Indonesia's record-breaking number of travelers during Eid al-Fitr holiday""",positive,0.7562873363494873,3,5,1,4
+0,chinese,"""High-speed rail boosts Indonesia's record high number of travelers returning home for Eid al-Fitr""",positive,0.690946102142334,2,5,1,4
 1,chinese,"""Diary of the ""Snow Dragon 2"" Expedition""",neutral,0.7808548212051392,1,5,1,4
 2,chinese,"""China's 40th Antarctic Expedition Successfully Completes Mission and Returns Home""",positive,0.7925639748573303,3,5,1,4
 3,chinese,"""China and Vietnam to Hold 8th Border Defense Friendly Exchange Activity""",neutral,0.5731779932975769,1,5,1,4
-4,chinese,"""Chinese and Tanzanian Experts Discuss Development Cooperation between China and Africa""",neutral,0.739587664604187,1,5,1,4
+4,chinese,"""Chinese and Tanzanian Experts Discuss Development Cooperation in Africa""",neutral,0.8065998554229736,1,5,1,4
 5,chinese,"""Chinese 27th Batch of Peacekeeping Troops to the Democratic Republic of Congo Honored with United Nations ""Peace Medal""""",positive,0.6249758005142212,2,5,1,4
-6,chinese,"""AI+Education is Accelerating the Digital Transformation of Education""",positive,0.74748295545578,3,5,1,4
-7,chinese,"""Seven Departments Issue Documents to Promote Equipment Upgrades in the Industrial Sector""",neutral,0.7977885603904724,1,5,1,4
-8,chinese,"""Authoritative Announcement: Strengthening Efforts to Protect Consumer Rights and Interests""",positive,0.5660182237625122,2,5,1,4
-9,chinese,"""Debate and Reasoning: Partisan Struggles in the US Cast a Shadow over Janet Yellen's Visit to China""",negative,0.7057011127471924,-2,5,1,4
+6,chinese,"""AI+ Education is Accelerating the Digital Transformation of Education""",positive,0.8313167095184326,3,5,1,4
+7,chinese,"""Seven departments issue document to promote equipment updates in the industrial sector""",neutral,0.7070639133453369,1,5,1,4
+8,chinese,"""Authoritative Announcement: Comprehensive Increase in Protection of Consumer Rights""",positive,0.49122291803359985,2,5,1,4
+9,chinese,"""Debate and Justice | Partisan Struggle in the US Casts Shadow over Yellen's Visit to China""",negative,0.7913520336151123,-2,5,1,4
