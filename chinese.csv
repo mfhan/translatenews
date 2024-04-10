@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-speed rail boosts Indonesia's record-breaking number of travelers returning home for Eid al-Fitr""",positive,0.7265897989273071,3,4,1,5
-1,chinese,"""Diary of the ""Snow Dragon 2"" Expedition""",neutral,0.7808548212051392,1,4,1,5
-2,chinese,"""China's 40th Antarctic Expedition Completes Mission and Returns Home""",neutral,0.5435150265693665,1,4,1,5
-3,chinese,"""China and Vietnam to Hold 8th Border Defense Friendly Exchange Activity""",neutral,0.5731779932975769,1,4,1,5
-4,chinese,"""Chinese and Tanzanian Experts Discuss Development Cooperation between China and Africa""",neutral,0.739587664604187,1,4,1,5
-5,chinese,"""Chinese 27th Batch of Peacekeeping Troops to the Democratic Republic of Congo Honored with United Nations ""Peace Medal""""",positive,0.6249758005142212,2,4,1,5
-6,chinese,"""AI+ Education is Accelerating the Digital Transformation of Education""",positive,0.8313167095184326,3,4,1,5
-7,chinese,"""Seven departments issue document to promote equipment updates in the industrial sector""",neutral,0.7070639133453369,1,4,1,5
-8,chinese,"""Authoritative Announcement: Strengthening the Protection of Consumer Rights and Interests in All Aspects""",positive,0.6215189695358276,2,4,1,5
-9,chinese,"""Analysis | Partisan Struggle in the US Casts a Shadow over Janet Yellen's Visit to China""",negative,0.7818386554718018,-2,4,1,5
+0,chinese,"""High-speed Rail Boosts Indonesia's Record High Number of Returnees for Eid al-Fitr""",positive,0.6614261269569397,2,3,1,6
+1,chinese,"""Diary of the ""Snow Dragon 2"" Expedition""",neutral,0.7808548212051392,1,3,1,6
+2,chinese,"""China's 40th Antarctic Expedition Completes Mission and Returns Home""",neutral,0.5435150265693665,1,3,1,6
+3,chinese,"""China and Vietnam to Hold 8th Border Defense Friendly Exchange Activity""",neutral,0.5731779932975769,1,3,1,6
+4,chinese,"""Chinese and Tanzanian Experts Discuss Sino-African Development Cooperation""",neutral,0.7829602360725403,1,3,1,6
+5,chinese,"""Chinese 27th Batch of Peacekeeping Troops in the Democratic Republic of Congo Honored with United Nations ""Peace Medal""""",positive,0.6444223523139954,2,3,1,6
+6,chinese,"""AI+ Education is Accelerating the Digital Transformation of Education""",positive,0.8313167095184326,3,3,1,6
+7,chinese,"""Seven Departments Issue Document to Promote Equipment Upgrades in the Industrial Sector""",neutral,0.7766640186309814,1,3,1,6
+8,chinese,"""Authoritative Announcement: Strengthening Consumer Rights Protection Efforts Across the Board""",neutral,0.587651252746582,1,3,1,6
+9,chinese,"""Analysis | Partisan Struggle in the United States Casts a Shadow over Janet Yellen's Visit to China""",negative,0.7901319861412048,-2,3,1,6
