@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Market Supervision Administration Deploys Key Legislative Tasks for 2024""",neutral,0.8533788919448853,1,2,1,7
-1,chinese,"""Collision Accident in Southwest Sea of Hainan Confirmed to Have Caused Death of 6 Fishermen, 2 Still Missing and Being Searched For""",negative,0.7310017347335815,-2,2,1,7
-2,chinese,"""Yanyuan Talks and Joyful Reunion: Ma Ying-jeou Leads Taiwanese Youth to Visit Peking University""",positive,0.7788013815879822,3,2,1,7
-3,chinese,"""Six Dynasties' Noble Tombs Discovered at Guantang Bridge in Zhenjiang, Jiangsu""",neutral,0.7390357255935669,1,2,1,7
-4,chinese,"""How Much Impact Does Microplastics Have on the Human Body?""",neutral,0.8328487277030945,1,2,1,7
-5,chinese,"Beijing: Taxi industry plans to update ""first violation exemption"" list",neutral,0.8266215324401855,1,2,1,7
-6,chinese,"""Scenic Area to Achieve Full Coverage of Accepting Domestic and Foreign Bank Cards""",neutral,0.7979678511619568,1,2,1,7
-7,chinese,"""New Business Models Spark New Vitality, Rural Consumption Continues to Rise""",positive,0.6721311211585999,2,2,1,7
-8,chinese,"""Colombia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5215686559677124,1,2,1,7
-9,chinese,"""Latest International Study Claims Thousands of Meteorites May Sink Faster into Antarctic Ice Due to Global Warming""",neutral,0.6415379047393799,1,2,1,7
+0,chinese,"""Promoting High-Quality Development: Shandong Province Takes Solid Steps towards High-Quality Development and Modernization""",positive,0.7326804399490356,3,3,1,6
+1,chinese,"""Promoting High-Quality Development: Accelerating the Construction of Livable and Business-Friendly Beautiful Villages, Shandong Solidly Builds a Model of Rural Revitalization in the ""Qilu"" Region""",positive,0.8227655291557312,3,3,1,6
+2,chinese,"""International Commercial Arbitration Center Pilot Project Advances with Meeting in Shanghai""",neutral,0.7679077982902527,1,3,1,6
+3,chinese,"""Market Supervision Administration Deploys Key Legislative Tasks for 2024""",neutral,0.8533788919448853,1,3,1,6
+4,chinese,"""Collision Accident in Southwest Sea Area of Hainan Confirmed to Have Caused Death of 6 Fishermen, 2 Still Missing and Being Searched for""",negative,0.749896764755249,-2,3,1,6
+5,chinese,"""Yan Yuan Reunites and Celebrates: Ma Ying-jeou Leads Taiwanese Youth to Visit Peking University""",positive,0.5228263139724731,2,3,1,6
+6,chinese,"""Six Dynasty Noble Tombs Discovered at Guantang Bridge in Zhenjiang, Jiangsu""",neutral,0.7675073742866516,1,3,1,6
+7,chinese,"""How much impact does microplastics have on the human body?""",neutral,0.811590313911438,1,3,1,6
+8,chinese,"""Beijing: Taxi Industry to Update ""First Violation Exemption"" List""",neutral,0.7500563859939575,1,3,1,6
+9,chinese,"""Scenic Area to Achieve Full Coverage of Accepting Domestic and Foreign Bank Cards""",neutral,0.7979678511619568,1,3,1,6
