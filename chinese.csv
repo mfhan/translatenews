@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Market Supervision Administration Deploys Key Legislative Tasks for 2024""",neutral,0.8533788919448853,1,2,2,6
-1,chinese,"""Collision Accident in Southwest Sea of Hainan Confirms Death of 6 Fishermen, 2 Still Missing in Search and Rescue""",negative,0.7291246652603149,-2,2,2,6
-2,chinese,"""Yan Yuan Reunites and Shares Joy: Ma Ying-jeou Leads Taiwanese Youth to Visit Peking University""",positive,0.7366673350334167,3,2,2,6
-3,chinese,"""Six Dynasties' Noble Tombs Discovered at Guantang Bridge in Zhenjiang, Jiangsu""",neutral,0.7390357255935669,1,2,2,6
-4,chinese,"""How big is the impact of ""microplastics"" invading the human body?""",negative,0.6488217115402222,-1,2,2,6
-5,chinese,"Beijing: Taxi industry plans to update ""first violation exemption"" list",neutral,0.8266215324401855,1,2,2,6
-6,chinese,"""Scenic Area to Achieve Full Coverage of Accepting Domestic and Foreign Bank Cards""",neutral,0.7979678511619568,1,2,2,6
-7,chinese,"""New Business Formats Spark New Vitality, Rural Consumption Continues to Heat Up""",positive,0.6495238542556763,2,2,2,6
-8,chinese,"""Colombia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5215686559677124,1,2,2,6
-9,chinese,"""Latest International Study Suggests Thousands of Meteorites May Sink Faster into Antarctic Ice Due to Global Warming""",neutral,0.651945173740387,1,2,2,6
+0,chinese,"""Market Supervision Administration Deploys Key Legislative Tasks for 2024""",neutral,0.8533788919448853,1,2,1,7
+1,chinese,"""Collision Accident in Southwest Sea of Hainan Confirmed to Have Caused Death of 6 Fishermen, 2 Still Missing and Being Searched For""",negative,0.7310017347335815,-2,2,1,7
+2,chinese,"""Yanyuan Talks and Joyful Reunion: Ma Ying-jeou Leads Taiwanese Youth to Visit Peking University""",positive,0.7788013815879822,3,2,1,7
+3,chinese,"""Six Dynasties' Noble Tombs Discovered at Guantang Bridge in Zhenjiang, Jiangsu""",neutral,0.7390357255935669,1,2,1,7
+4,chinese,"""How Much Impact Does Microplastics Have on the Human Body?""",neutral,0.8328487277030945,1,2,1,7
+5,chinese,"Beijing: Taxi industry plans to update ""first violation exemption"" list",neutral,0.8266215324401855,1,2,1,7
+6,chinese,"""Scenic Area to Achieve Full Coverage of Accepting Domestic and Foreign Bank Cards""",neutral,0.7979678511619568,1,2,1,7
+7,chinese,"""New Business Models Spark New Vitality, Rural Consumption Continues to Rise""",positive,0.6721311211585999,2,2,1,7
+8,chinese,"""Colombia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5215686559677124,1,2,1,7
+9,chinese,"""Latest International Study Claims Thousands of Meteorites May Sink Faster into Antarctic Ice Due to Global Warming""",neutral,0.6415379047393799,1,2,1,7
