@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Columbia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5241812467575073,1,5,2,3
-1,chinese,"""Latest International Research Shows Thousands of Meteorites May Sink Faster into Antarctic Ice Sheets Due to Global Warming""",neutral,0.6638968586921692,1,5,2,3
-2,chinese,"""Promoting High-Quality Development: Inheriting and Promoting the ""Jinjiang Experience"", Fujian Fully Supports the Development and Growth of Private Enterprises""",positive,0.7992858290672302,3,5,2,3
-3,chinese,"""Promoting High-Quality Development: Mechanism Active, Industries Superior, People Prosperous, and Environment Beautiful, Fujian's New Era Construction Takes a New Step""",positive,0.8228042721748352,3,5,2,3
-4,chinese,"""Millennial Intangible Cultural Heritage Embroidery Creates New Fashionable ""National Tide""""",positive,0.6776953339576721,2,5,2,3
-5,chinese,"""Dual-Language Financial News: Foreign Entrepreneurs: China's Tourism Market Shows Strong Recovery, Will Seize Opportunities to Expand Cooperation""",positive,0.6803320050239563,2,5,2,3
-6,chinese,"""Beautiful Life in Yunnan: A Magnificent Scenery""",positive,0.9287337064743042,3,5,2,3
-7,chinese,"""Chinese Embassy in the US: US Continues to Harass Chinese Visitors, China Insists on ""Dealing with Each Incident as it Occurs""""",negative,0.8857787251472473,-2,5,2,3
-8,chinese,"""Fairness and Justice | Strictly Investigating ""Small Exemption"" Shipments, US Suppressing Cross-border E-commerce Harms American Consumers""",negative,0.7629114389419556,-2,5,2,3
-9,chinese,"""Wang Yi Talks about the ""Five Consistencies"" of China-Russia Relations""",neutral,0.7952619791030884,1,5,2,3
+0,chinese,"""Market Supervision Administration Deploys Key Legislative Tasks for 2024""",neutral,0.8533788919448853,1,2,2,6
+1,chinese,"""Collision Accident in Southwest Sea of Hainan Confirms Death of 6 Fishermen, 2 Still Missing in Search and Rescue""",negative,0.7291246652603149,-2,2,2,6
+2,chinese,"""Yan Yuan Reunites and Shares Joy: Ma Ying-jeou Leads Taiwanese Youth to Visit Peking University""",positive,0.7366673350334167,3,2,2,6
+3,chinese,"""Six Dynasties' Noble Tombs Discovered at Guantang Bridge in Zhenjiang, Jiangsu""",neutral,0.7390357255935669,1,2,2,6
+4,chinese,"""How big is the impact of ""microplastics"" invading the human body?""",negative,0.6488217115402222,-1,2,2,6
+5,chinese,"Beijing: Taxi industry plans to update ""first violation exemption"" list",neutral,0.8266215324401855,1,2,2,6
+6,chinese,"""Scenic Area to Achieve Full Coverage of Accepting Domestic and Foreign Bank Cards""",neutral,0.7979678511619568,1,2,2,6
+7,chinese,"""New Business Formats Spark New Vitality, Rural Consumption Continues to Heat Up""",positive,0.6495238542556763,2,2,2,6
+8,chinese,"""Colombia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5215686559677124,1,2,2,6
+9,chinese,"""Latest International Study Suggests Thousands of Meteorites May Sink Faster into Antarctic Ice Due to Global Warming""",neutral,0.651945173740387,1,2,2,6
