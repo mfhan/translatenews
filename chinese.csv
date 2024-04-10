@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese 27th Batch of Peacekeeping Troops to the Democratic Republic of Congo Honored with United Nations ""Peace Medal""""",positive,0.6249758005142212,2,5,2,3
-1,chinese,"""AI+Education Accelerates the Digital Transformation of Education""",positive,0.6516391634941101,2,5,2,3
-2,chinese,"""Seven Departments Issue Documents to Promote Equipment Upgrades in the Industrial Sector""",neutral,0.7977885603904724,1,5,2,3
-3,chinese,"""Authoritative Announcement: Strengthening Efforts to Protect Consumer Rights and Interests""",positive,0.5660182237625122,2,5,2,3
-4,chinese,"""Analysis | Partisan Struggles in the US Cast a Shadow over Yellen's Visit to China""",negative,0.7116413712501526,-2,5,2,3
-5,chinese,"""Promoting High-Quality Development: Shandong Takes Solid Steps towards High-Quality Development and Modernization""",positive,0.7518482208251953,3,5,2,3
-6,chinese,"""Promoting High-Quality Development: Accelerating the Construction of Livable and Business-Friendly Beautiful Villages, Shandong Solidly Builds a ""Qilu Model"" for Rural Revitalization""",positive,0.8195761442184448,3,5,2,3
-7,chinese,"""International Commercial Arbitration Center Pilot Program Advances at Conference in Shanghai""",neutral,0.8174225687980652,1,5,2,3
-8,chinese,"""Market Supervision Administration Deploys Key Legislative Tasks for 2024""",neutral,0.8533788919448853,1,5,2,3
-9,chinese,"""Collision Accident in Southwest Sea of Hainan Confirmed to Have Caused 6 Fishermen's Deaths, 2 Still Missing and Being Searched For""",negative,0.7223858833312988,-2,5,2,3
+0,chinese,"""China's 40th Antarctic Expedition Successfully Completes Mission and Returns Home""",positive,0.7925639748573303,3,5,1,4
+1,chinese,"""China and Vietnam to Hold 8th Border Defense Friendly Exchange Activity""",neutral,0.5731779932975769,1,5,1,4
+2,chinese,"""Experts from China and Tanzania Discuss Development Cooperation between China and Africa""",neutral,0.7580435276031494,1,5,1,4
+3,chinese,"""Chinese 27th Batch of Peacekeeping Troops in the Democratic Republic of Congo Honored with United Nations ""Peace Medal""""",positive,0.6444223523139954,2,5,1,4
+4,chinese,"""AI+ Education is Accelerating the Digital Transformation of Education""",positive,0.8313167095184326,3,5,1,4
+5,chinese,"""Seven departments issue document to promote equipment updates in the industrial sector""",neutral,0.7070639133453369,1,5,1,4
+6,chinese,"""Authoritative Release: Comprehensive Increase in Consumer Rights Protection Efforts""",neutral,0.7422428131103516,1,5,1,4
+7,chinese,"""Analysis | Partisan Struggle in the United States Casts a Shadow over Yellen's Visit to China""",negative,0.8015115857124329,-2,5,1,4
+8,chinese,"""Promoting High-Quality Development: Shandong Takes Solid Steps towards High-Quality Development and Modernization""",positive,0.7518482208251953,3,5,1,4
+9,chinese,"""Promoting High-Quality Development: Accelerating the Construction of Livable and Business-Friendly Beautiful Countryside - Shandong Solidly Builds a ""Qilu Model"" for Rural Revitalization""",positive,0.8326701521873474,3,5,1,4
