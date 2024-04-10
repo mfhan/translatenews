@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Columbia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5241812467575073,1,5,2,3
+0,chinese,"""Colombia's Capital to Implement Water Restrictions to Alleviate Drought""",neutral,0.5215686559677124,1,5,2,3
 1,chinese,"""Latest International Research Shows Thousands of Meteorites May Sink Faster into Antarctic Ice Due to Global Warming""",neutral,0.6676658391952515,1,5,2,3
 2,chinese,"""Promoting High-Quality Development: Inheriting and Promoting the ""Jinjiang Experience"", Fujian Fully Supports the Development and Growth of Private Enterprises""",positive,0.7992858290672302,3,5,2,3
-3,chinese,"""Promoting High-Quality Development: Mechanism, Industry, People's Wealth, and Ecological Beauty - Fujian's New Era Construction Takes a New Step Forward""",positive,0.6685256361961365,2,5,2,3
-4,chinese,"""Millennial Intangible Cultural Heritage Embroidery Creates New Fashion Trend ""National Style""""",positive,0.7119560241699219,3,5,2,3
+3,chinese,"""Promoting High-Quality Development: Mechanism Active, Industries Superior, People Prosperous, and Ecology Beautiful, Fujian's Construction in the New Era Takes a New Step""",positive,0.8155238628387451,3,5,2,3
+4,chinese,"""Millennium Intangible Cultural Heritage Embroidery Creates New Fashion Trend ""National Tide""""",positive,0.6651374697685242,2,5,2,3
 5,chinese,"""Bilingual Financial News: Foreign Entrepreneurs: China's Tourism Market Shows Strong Recovery, Will Seize Opportunities to Expand Cooperation""",positive,0.6777316927909851,2,5,2,3
-6,chinese,"""Beautiful Life in Yunnan: A Magnificent Landscape of ""Zhuang"" Culture""",positive,0.8707789182662964,3,5,2,3
+6,chinese,"""Beautiful Life in Yunnan: A Magnificent Scenery of ""Zhuang"" Culture""",positive,0.8813353180885315,3,5,2,3
 7,chinese,"""Chinese Embassy in the US: US Continues to Harass Chinese Visitors, China Insists on ""Dealing with Each Incident as it Occurs""""",negative,0.8857787251472473,-2,5,2,3
-8,chinese,"""Fairness and Justice | Strictly Investigating ""Small Exemption"" Shipments, US Attempts to Suppress Cross-border E-commerce and Harm American Consumers""",negative,0.8321289420127869,-2,5,2,3
-9,chinese,"""Wang Yi discusses the ""Five Consistencies"" of Sino-Russian relations""",neutral,0.8098978996276855,1,5,2,3
+8,chinese,"""Fairness and Justice | Strictly Investigating ""Small Exemption"" Shipments, US Suppressing Cross-border E-commerce Harms American Consumers""",negative,0.7629114389419556,-2,5,2,3
+9,chinese,"""Wang Yi talks about the ""Five Consistencies"" of Sino-Russian relations""",neutral,0.7945120334625244,1,5,2,3
