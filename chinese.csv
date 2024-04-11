@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,0,7,3
-1,chinese,"""Malaysian Scholar: ""Belt and Road"" is the Gateway to the Future""",neutral,0.5626041293144226,1,0,7,3
-2,chinese,"""China strongly urges Canada to stop spreading the falsehood of ""Chinese interference""""",negative,0.7731086015701294,-2,0,7,3
-3,chinese,"""Bilingual News: Global Temperature Breaks Record for Ten Consecutive Months! Scientists: Has the El Niño Event Not Ended and is the Earth's Climate Accelerating in Deterioration?""",negative,0.7044112086296082,-2,0,7,3
-4,chinese,"""Iran's Supreme Leader Reiterates Punishment for Israel""",negative,0.8761683106422424,-2,0,7,3
-5,chinese,"""Russia Announces Ban on Entry for 22 British Citizens""",negative,0.8354313373565674,-2,0,7,3
-6,chinese,"""Gunshot incident in northeast residential area of Washington D.C. results in 1 death and 5 injuries""",negative,0.7052212357521057,-2,0,7,3
-7,chinese,"""Six former American police officers sentenced to heavy prison terms for abusing and mistreating black individuals""",negative,0.871808648109436,-2,0,7,3
-8,chinese,"Death toll rises to 16 in Hualien earthquake, entering the recovery and reconstruction phase",neutral,0.48355618119239807,1,0,7,3
-9,chinese,Investigation: Most of the victims of the Kobayashi Pharmaceutical incident have developed Fanconi syndrome.,negative,0.6868841052055359,-1,0,7,3
+0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,2,1,7
+1,chinese,"""Harmony and Rationality | Sino-Russian Pragmatic Cooperation Injects Positive Energy into Improving Global Governance""",positive,0.7638342976570129,3,2,1,7
+2,chinese,"""Ministry of Commerce Launches Serious Negotiations on EU's Investigation into China and Other Issues""",neutral,0.5433143377304077,1,2,1,7
+3,chinese,"""Promoting High-Quality Development: Free Trade Port Construction Leads High-Level Opening, Hainan Runs at High-Speed for High-Quality Development""",positive,0.7515141367912292,3,2,1,7
+4,chinese,"""In March, CPI rose by 0.1% year-on-year, while PPI's month-on-month decline narrowed.""",neutral,0.679581344127655,1,2,1,7
+5,chinese,"""China's 5G Mobile Phone User Scale Reaches 851 Million Households""",neutral,0.6891495585441589,1,2,1,7
+6,chinese,"""Japanese Poll Shows Abe Cabinet's Approval Rating Drops to Lowest Level Since Establishment""",neutral,0.5270837545394897,1,2,1,7
+7,chinese,"""Results of the 22nd South Korean National Assembly Elections Revealed, ""Small Wild Goose"" Pattern Continues""",neutral,0.7013920545578003,1,2,1,7
+8,chinese,"""Key Points to Know Quickly About the Press Conference on Medical Treatment and Prescription""",neutral,0.8011704087257385,1,2,1,7
+9,chinese,"""China strongly urges Canada to stop spreading the false accusation of ""Chinese interference""""",negative,0.7978072166442871,-2,2,1,7
