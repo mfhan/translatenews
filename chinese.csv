@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,2,1,7
-1,chinese,"""National Development and Reform Commission: China's Long-Term Economic Growth Trend Will Not Change""",neutral,0.7200425863265991,1,2,1,7
-2,chinese,"""Schedule Overview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6779416799545288,1,2,1,7
-3,chinese,"""Go Out, Welcome In: Multiple Overseas Investment Events Held to Enhance the ""Invest in China"" Brand""",positive,0.6137653589248657,2,2,1,7
-4,chinese,"""US Includes Six Chinese Companies on Export Control Entity List, Ministry of Commerce Responds""",neutral,0.7900922298431396,1,2,1,7
-5,chinese,"""Israeli Military Intensively Bombs Nuseirat Refugee Camp in Central Gaza, Causing Numerous Casualties""",negative,0.8350799083709717,-2,2,1,7
-6,chinese,"""Guangdong-West: Not Far, Endless Potential - Hong Kong Business Community Praises New Opportunities in the Greater Bay Area""",positive,0.8385776281356812,3,2,1,7
-7,chinese,Ministry of Foreign Affairs: The reasons behind the current situation at Ren'ai Reef are clear and obvious.,neutral,0.7373453378677368,1,2,1,7
-8,chinese,German Geopolitical Experts Call for Not Blindly Following the United States,neutral,0.618899405002594,1,2,1,7
-9,chinese,Ministry of Commerce Launches Serious Negotiations on EU's Investigation into China and Other Issues,neutral,0.6518837809562683,1,2,1,7
+0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,2,2,6
+1,chinese,"""National Development and Reform Commission: China's Long-Term Economic Trend Remains Unchanged and Will Not Change""",neutral,0.6625404953956604,1,2,2,6
+2,chinese,"""Ministry of Foreign Affairs: 27 Chinese Citizens Safely Evacuated from Haiti""",neutral,0.44036003947257996,1,2,2,6
+3,chinese,"""Schedule Overview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6779416799545288,1,2,2,6
+4,chinese,"""Going Out and Inviting In: Multiple Overseas Investment Events Held to Enhance the ""Invest in China"" Brand""",positive,0.5212814211845398,2,2,2,6
+5,chinese,"""US Includes Six Chinese Companies on Export Control Entity List, Ministry of Commerce Responds""",neutral,0.7900922298431396,1,2,2,6
+6,chinese,"""Israeli Military Intensively Bombs Nuseirat Refugee Camp in Central Gaza, Causing Numerous Casualties""",negative,0.8350799083709717,-2,2,2,6
+7,chinese,"""Unlimited Potential in Close Proximity to Guangdong - Hong Kong Business Community Praises New Opportunities in the Greater Bay Area""",positive,0.841855525970459,3,2,2,6
+8,chinese,"""Ministry of Foreign Affairs: The reasons behind the current situation at Ren'ai Reef are clear and obvious""",neutral,0.7251584529876709,1,2,2,6
+9,chinese,"""German Geopolitical Experts Urge: Do Not Blindly Follow the United States""",negative,0.4733768105506897,-1,2,2,6
