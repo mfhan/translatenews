@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Iran's Supreme Leader Reiterates That Israel Will Be Punished""",negative,0.6799137592315674,-1,3,6,1
-1,chinese,"""Russia Announces Ban on Entry for 22 British Citizens""",negative,0.8354313373565674,-2,3,6,1
-2,chinese,"""Gunshot Incident in Northeast Residential Area of Washington D.C. Leaves 1 Dead and 5 Injured""",negative,0.7211809158325195,-2,3,6,1
-3,chinese,"""Six Former American Police Officers Sentenced to Heavy Prison Terms for Abusing and Mistreating Black Individuals""",negative,0.8366829752922058,-2,3,6,1
-4,chinese,"Hualien earthquake death toll rises to 16, entering recovery and reconstruction phase",neutral,0.5537967085838318,1,3,6,1
-5,chinese,Investigation: Most of the victims of the Kobayashi Pharmaceutical incident suffer from Fanconi syndrome.,negative,0.6672706604003906,-1,3,6,1
-6,chinese,"""Israeli Military Announces Killing of 3 Sons of Hamas Leader""",negative,0.7246530652046204,-2,3,6,1
-7,chinese,Seven departments issue documents to further strengthen financial support for green and low-carbon development.,positive,0.6121909618377686,2,3,6,1
-8,chinese,China to Launch Pilot Program to Expand Opening Up of Value-Added Telecommunications Services,positive,0.6497161984443665,2,3,6,1
-9,chinese,"""High-speed rail boosts Indonesia's record-breaking number of travelers returning home for Eid al-Fitr""",positive,0.7265897989273071,3,3,6,1
+0,chinese,"""Iran's Supreme Leader Reiterates that Israel Will Be Punished""",negative,0.713749349117279,-2,2,6,2
+1,chinese,"""Russia Announces Ban on Entry for 22 British Citizens""",negative,0.8354313373565674,-2,2,6,2
+2,chinese,"""Gunshot Incident in Northeast Residential Area of Washington D.C. Leaves 1 Dead and 5 Injured""",negative,0.7211809158325195,-2,2,6,2
+3,chinese,"""Six former American police officers sentenced to heavy prison terms for abusing and mistreating black individuals""",negative,0.871808648109436,-2,2,6,2
+4,chinese,"Hualien Earthquake Death Toll Rises to 16, Entering Recovery and Reconstruction Phase",neutral,0.6455762386322021,1,2,6,2
+5,chinese,Investigation: Most of the health damage victims in the Kobayashi Pharmaceutical incident show symptoms of Fanconi syndrome.,negative,0.6883880496025085,-1,2,6,2
+6,chinese,"""Israeli Military Announces Killing of 3 Sons of Hamas Leader""",negative,0.7246530652046204,-2,2,6,2
+7,chinese,"""Seven Departments Issue Document to Further Strengthen Financial Support for Green and Low-Carbon Development""",neutral,0.5858943462371826,1,2,6,2
+8,chinese,China to Launch Pilot Program for Expanding Opening-up of Value-added Telecommunications Services,positive,0.5693032145500183,2,2,6,2
+9,chinese,"""High-speed rail boosts Indonesia's record-breaking number of travelers returning home for Eid al-Fitr""",positive,0.7265897989273071,3,2,6,2
