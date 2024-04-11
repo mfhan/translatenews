@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share the Benefits of Development""",positive,0.5012942552566528,2,3,2,5
-1,chinese,"""National Development and Reform Commission: China's Long-Term Economic Growth Trend Remains Unchanged and Will Not Change""",neutral,0.6098261475563049,1,3,2,5
-2,chinese,"""Going Out, Welcoming In: Multiple Overseas Investment Events Held to Enhance the ""Invest in China"" Brand""",neutral,0.5009032487869263,1,3,2,5
-3,chinese,"""US Includes Six Chinese Companies on Export Control Entity List, Ministry of Commerce Responds""",neutral,0.7900922298431396,1,3,2,5
-4,chinese,"""Israeli Military Intensively Bombs Nuseirat Refugee Camp in Central Gaza, Causing Numerous Casualties""",negative,0.8350799083709717,-2,3,2,5
-5,chinese,"""Unlimited Potential in Close Proximity to Western Guangdong - Hong Kong Business Community Praises New Opportunities in the Greater Bay Area""",positive,0.8263688087463379,3,3,2,5
-6,chinese,Ministry of Foreign Affairs: The reasons behind the current situation at Ren'ai Reef are clear and obvious.,neutral,0.7373453378677368,1,3,2,5
-7,chinese,"""German Geopolitical Experts Call for Caution: Do Not Blindly Follow the United States""",negative,0.6170269846916199,-1,3,2,5
-8,chinese,"""Ministry of Commerce Launches Serious Negotiations on EU's Investigation on China and Other Issues""",neutral,0.4849295914173126,1,3,2,5
-9,chinese,"""Promoting High-Quality Development: Free Trade Port Construction Leads to High-Level Opening, Hainan Runs with ""Acceleration"" of High-Quality Development""",positive,0.7708413004875183,3,3,2,5
+0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share the Benefits of Development""",positive,0.5012942552566528,2,2,2,6
+1,chinese,"""National Development and Reform Commission: China's Long-Term Economic Growth Trend Remains Unchanged and Will Not Change""",neutral,0.6098261475563049,1,2,2,6
+2,chinese,"""Schedule Overview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6779416799545288,1,2,2,6
+3,chinese,"""Going Out, Inviting In: Multiple Overseas Investment Events Held to Enhance the ""Invest in China"" Brand""",neutral,0.49509018659591675,1,2,2,6
+4,chinese,"""US Includes Six Chinese Companies in Export Control Entity List, Ministry of Commerce Responds""",neutral,0.7893701195716858,1,2,2,6
+5,chinese,"""Israeli Military Intensively Bombs Nuseirat Refugee Camp in Central Gaza, Causing Numerous Casualties""",negative,0.8350799083709717,-2,2,2,6
+6,chinese,"""Unlimited Potential in Close Proximity to Western Guangdong - Hong Kong Business Community Praises New Opportunities in the Greater Bay Area""",positive,0.8263688087463379,3,2,2,6
+7,chinese,Ministry of Foreign Affairs: The reasons behind the current situation at Ren'ai Reef are clear and obvious.,neutral,0.7373453378677368,1,2,2,6
+8,chinese,"""German Geopolitical Experts Urge: Do Not Blindly Follow the United States""",negative,0.4733768105506897,-1,2,2,6
+9,chinese,"""Ministry of Commerce Launches Serious Negotiations on EU's Investigation into China and Other Issues""",neutral,0.5433143377304077,1,2,2,6
