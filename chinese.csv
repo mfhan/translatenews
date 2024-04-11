@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Six Former American Police Officers Sentenced to Heavy Prison Terms for Abuse of Power and Mistreatment of Black Individuals""",negative,0.8529943227767944,-2,4,3,3
-1,chinese,"Hualien Earthquake Death Toll Rises to 16, Entering Recovery and Reconstruction Phase",neutral,0.6455762386322021,1,4,3,3
-2,chinese,Investigation: Most of the health damage victims in the Kobayashi Pharmaceutical incident have developed Fanconi syndrome.,negative,0.6992679238319397,-1,4,3,3
-3,chinese,"""Israeli Army Announces Killing of 3 Sons of Hamas Leader""",negative,0.7162588238716125,-2,4,3,3
-4,chinese,"""Seven departments issue document to further strengthen financial support for green and low-carbon development""",positive,0.5610038638114929,2,4,3,3
+0,chinese,"""Six former American police officers sentenced to heavy prison terms for abusing and mistreating black individuals""",negative,0.871808648109436,-2,4,3,3
+1,chinese,"Hualien earthquake death toll rises to 16, entering the recovery and reconstruction phase.",neutral,0.6108116507530212,1,4,3,3
+2,chinese,Investigation: Most of the victims of the Kobayashi Pharmaceutical incident suffer from Fanconi Syndrome.,negative,0.641901433467865,-1,4,3,3
+3,chinese,"""Israeli Military Announces Killing of 3 Sons of Hamas Leader""",negative,0.7246530652046204,-2,4,3,3
+4,chinese,"""Seven departments issue documents to further strengthen financial support for green and low-carbon development""",positive,0.620222806930542,2,4,3,3
 5,chinese,China to Launch Pilot Program to Expand Opening Up of Value-Added Telecommunications Services,positive,0.6497161984443665,2,4,3,3
-6,chinese,"""High-speed rail boosts Indonesia's record-breaking number of travelers returning home for Eid al-Fitr""",positive,0.7265897989273071,3,4,3,3
-7,chinese,"""Diary of the ""Snow Dragon 2"" Voyage""",neutral,0.8207979202270508,1,4,3,3
+6,chinese,"""High-speed Rail Boosts Indonesia's Record-High Number of Returnees for Eid al-Fitr""",positive,0.6787802577018738,2,4,3,3
+7,chinese,"""Diary of the ""Snow Dragon 2"" Expedition""",neutral,0.7808548212051392,1,4,3,3
 8,chinese,"""China's 40th Antarctic Expedition Successfully Completes Mission and Returns Home""",positive,0.7925639748573303,3,4,3,3
 9,chinese,"""China and Vietnam to Hold 8th Border Defense Friendly Exchange Activity""",neutral,0.5731779932975769,1,4,3,3
