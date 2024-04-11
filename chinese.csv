@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,1,2,7
-1,chinese,"""National Development and Reform Commission: China's Long-Term Economic Growth Trend Remains Unchanged and Will Not Change""",neutral,0.6098261475563049,1,1,2,7
+1,chinese,"""National Development and Reform Commission: China's Long-Term Economic Upward Trend Remains Unchanged and Will Not Change""",neutral,0.6558237671852112,1,1,2,7
 2,chinese,"""Ministry of Foreign Affairs: 27 Chinese Citizens Safely Evacuated from Haiti""",neutral,0.44036003947257996,1,1,2,7
 3,chinese,"""Schedule Overview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6779416799545288,1,1,2,7
 4,chinese,"""Going Out, Welcoming In: Multiple Overseas Investment Events Held to Enhance the ""Invest in China"" Brand""",neutral,0.5009032487869263,1,1,2,7
-5,chinese,"""US Includes Six Chinese Companies in Export Control Entity List, Ministry of Commerce Responds""",neutral,0.7893701195716858,1,1,2,7
+5,chinese,"""US Includes Six Chinese Companies on Export Control Entity List, Ministry of Commerce Responds""",neutral,0.7900922298431396,1,1,2,7
 6,chinese,"""Israeli Military Intensively Bombs Nuseirat Refugee Camp in Central Gaza, Causing Numerous Casualties""",negative,0.8350799083709717,-2,1,2,7
 7,chinese,"""Guangdong-West: Not Far and Endless Potential - Hong Kong Business Community Praises New Opportunities in the Greater Bay Area""",positive,0.8188697099685669,3,1,2,7
-8,chinese,Ministry of Foreign Affairs: The Reasons for the Current Situation at Ren'ai Reef are Clear and Obvious,neutral,0.7447856664657593,1,1,2,7
+8,chinese,"""Ministry of Foreign Affairs: The Reasons for the Current Situation at Ren'ai Reef are Clear and Obvious""",neutral,0.7454585433006287,1,1,2,7
 9,chinese,"""German Geopolitical Experts Call for Caution: Do Not Blindly Follow the United States""",negative,0.6170269846916199,-1,1,2,7
