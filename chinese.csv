@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""China Injects New Momentum into Global AI Governance""",positive,0.5773438811302185,2,3,1,6
-1,chinese,"""Over 1,500 Suspects of Online Rumor Crimes Captured Since December Last Year""",neutral,0.6459236741065979,1,3,1,6
-2,chinese,"""China ranks first for 7 consecutive years! World Trade Organization releases 2023 global goods trade data""",positive,0.5775715112686157,2,3,1,6
+1,chinese,"""Over 1500 Suspects of Online Rumor Crimes Captured Since Last December""",neutral,0.6264192461967468,1,3,1,6
+2,chinese,"""China Tops Global Trade for 7th Consecutive Year! World Trade Organization Releases 2023 Global Goods Trade Data""",positive,0.5905037522315979,2,3,1,6
 3,chinese,"""May Day Holiday Approaching, Tourism Market Heats Up with New and Creative Travel Options""",positive,0.6408293843269348,2,3,1,6
-4,chinese,"Ministry of National Defense: The People's Liberation Army will firmly strike against any form of ""Taiwan independence"" separatist actions.",neutral,0.4843442440032959,1,3,1,6
+4,chinese,"""Ministry of National Defense: PLA will firmly strike any form of ""Taiwan independence"" separatist actions""",neutral,0.5082144737243652,1,3,1,6
 5,chinese,"""Gold Hits New High Again! New York Gold Futures Surpass $2400""",neutral,0.5137432217597961,1,3,1,6
 6,chinese,"""Multiple Factors Affecting the Change in Expectations for Fed Interest Rate Cut""",neutral,0.5830289125442505,1,3,1,6
-7,chinese,"""Starting from April 13th, 1 additional pair of international passenger trains will be added to the China-Laos Railway""",neutral,0.7813144326210022,1,3,1,6
+7,chinese,"""Starting April 13th, 1 additional international passenger train will be added to the China-Laos Railway""",neutral,0.7976409196853638,1,3,1,6
 8,chinese,"""World Health Organization: Healthcare System in Gaza Strip Has Collapsed""",negative,0.777649462223053,-2,3,1,6
 9,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,3,1,6
