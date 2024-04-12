@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,3,2,5
-1,chinese,"""Magpie Bridge II Relay Satellite Mission Achieves Complete Success""",positive,0.809641420841217,3,3,2,5
-2,chinese,"""From Yemen to Shikumen: Foreign Actor Hamza Al-sal Realizes His Acting Dream in China with ""Love Myth""""",neutral,0.6482739448547363,1,3,2,5
-3,chinese,"""Chinese Embassy in Japan: Interference in China's Internal Affairs and Provoking Confrontation by the Legacy of the Cold War between Japan and the US Will Only Backfire""",negative,0.8860406875610352,-2,3,2,5
-4,chinese,"""Jingjing's Wisdom | Digital RMB Facilitates Overseas Personnel Payments""",positive,0.537055253982544,2,3,2,5
-5,chinese,"""Multiple Measures to Promote Large-scale Equipment Upgrades and Trade-in of Consumer Goods""",positive,0.5350479483604431,2,3,2,5
-6,chinese,"""Before Closing Down, Education and Training Institutions Are Still Encouraging Parents to Pay Fees: Experts Say Such Behavior May Involve Fraud Charges""",negative,0.6975196599960327,-1,3,2,5
-7,chinese,"""Charging Pile Products Accelerate ""Going Abroad"" Companies ""Recruiting Soldiers and Buying Horses"" to Develop Overseas Markets""",neutral,0.5640222430229187,1,3,2,5
-8,chinese,"""Ministry of Foreign Affairs: 27 Chinese Citizens Safely Evacuated from Haiti""",neutral,0.44036003947257996,1,3,2,5
-9,chinese,"""Schedule Preview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6390769481658936,1,3,2,5
+0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,2,2,6
+1,chinese,"""Queqiao-2 Relay Satellite Mission Achieves Complete Success""",positive,0.7688493728637695,3,2,2,6
+2,chinese,"""From Yemen to Shikumen: Foreign Actor Hamza Al-sal Realizes His Acting Dream in China with ""Love Myth""""",neutral,0.6482739448547363,1,2,2,6
+3,chinese,"""Chinese Embassy in Japan: Interference in China's Internal Affairs and Provoking Confrontation by the Legacy of the Cold War between Japan and the United States Will Only Backfire""",negative,0.8956525921821594,-2,2,2,6
+4,chinese,"""Jingjing's Wisdom | Digital RMB Facilitates Overseas Personnel Payments""",positive,0.537055253982544,2,2,2,6
+5,chinese,"""Multiple Measures Promote Large-scale Equipment Upgrades and Consumer Goods Trade-ins""",neutral,0.49980053305625916,1,2,2,6
+6,chinese,"""Education and Training Institutions Encouraging Parents to Pay Fees Before Closing Down; Experts: Such Behavior by Education and Training Institutions May Involve Fraud""",negative,0.8036100268363953,-2,2,2,6
+7,chinese,"""Charging Pile Products Accelerate ""Going Abroad"" Companies ""Recruiting and Purchasing"" to Develop Overseas Markets""",neutral,0.7048484086990356,1,2,2,6
+8,chinese,"""Ministry of Foreign Affairs: 27 Chinese Citizens Safely Evacuated from Haiti""",neutral,0.44036003947257996,1,2,2,6
+9,chinese,"""Schedule Preview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6390769481658936,1,2,2,6
