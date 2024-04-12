@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Injects New Momentum into Global AI Governance""",positive,0.5773438811302185,2,5,1,4
-1,chinese,"""Over 1,500 Suspects of Online Rumor Crimes Captured Since December Last Year""",neutral,0.6459236741065979,1,5,1,4
-2,chinese,"""China ranks first for 7 consecutive years! World Trade Organization releases 2023 global goods trade data""",positive,0.5775715112686157,2,5,1,4
-3,chinese,"""May Day Holiday Approaching, Tourism Market Heats Up with New Creative Travel Options""",positive,0.6146842241287231,2,5,1,4
-4,chinese,"""Ministry of National Defense: People's Liberation Army will resolutely strike back against any form of ""Taiwan independence"" separatist actions""",neutral,0.46487271785736084,1,5,1,4
-5,chinese,"""Gold hits a new high again! New York gold futures break through $2400""",positive,0.5788362622261047,2,5,1,4
-6,chinese,"""Multiple Factors Affecting Change in Expectations for Fed Interest Rate Cut""",neutral,0.698674201965332,1,5,1,4
-7,chinese,"""Starting from April 13th, the China-Laos Railway will add 1 pair of international passenger trains""",neutral,0.784523069858551,1,5,1,4
-8,chinese,"""World Health Organization: Healthcare System in Gaza Strip Has Collapsed""",negative,0.777649462223053,-2,5,1,4
-9,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share the Fruits of Development""",positive,0.6129528284072876,2,5,1,4
+0,chinese,"""China Injects New Momentum into Global AI Governance""",positive,0.5773438811302185,2,4,1,5
+1,chinese,"""Over 1,500 Suspects of Online Rumor Crimes Arrested Since December Last Year""",neutral,0.5476758480072021,1,4,1,5
+2,chinese,"""China ranks first for 7 consecutive years! World Trade Organization releases 2023 global goods trade data""",positive,0.5775715112686157,2,4,1,5
+3,chinese,"""May Day Holiday Approaching, Tourism Market Heats Up with New and Creative Travel Options""",positive,0.6408293843269348,2,4,1,5
+4,chinese,"""Ministry of National Defense: PLA will firmly strike any form of ""Taiwan independence"" separatist actions""",neutral,0.5082144737243652,1,4,1,5
+5,chinese,"""Gold Hits Another Record High! New York Gold Futures Surpass $2400""",positive,0.556175708770752,2,4,1,5
+6,chinese,"""Multiple Factors Affecting Change in Expectations for Fed Interest Rate Cut""",neutral,0.698674201965332,1,4,1,5
+7,chinese,"""Starting April 13th, 1 additional international passenger train will be added to the China-Laos Railway""",neutral,0.7976409196853638,1,4,1,5
+8,chinese,"""World Health Organization: Healthcare System in Gaza Strip Has Collapsed""",negative,0.777649462223053,-2,4,1,5
+9,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,4,1,5
