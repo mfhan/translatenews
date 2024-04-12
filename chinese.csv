@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order, Share Development Achievements""",neutral,0.5018402934074402,1,1,1,8
-1,chinese,"""Jingjing's Wisdom | Digital RMB Facilitates Overseas Personnel Payments""",positive,0.537055253982544,2,1,1,8
-2,chinese,"""Multiple Measures Promote Large-Scale Equipment Upgrades and Consumer Goods Trade-Ins""",neutral,0.5313437581062317,1,1,1,8
-3,chinese,"""Before closing down, education and training institutions are still urging parents to pay fees. Experts: Such behavior by education and training institutions may involve fraud charges.""",negative,0.7869916558265686,-2,1,1,8
-4,chinese,"""Charging Pile Products Accelerate ""Going Global"" Enterprises ""Recruiting and Purchasing"" to Develop Overseas Markets""",neutral,0.5832580327987671,1,1,1,8
-5,chinese,"""Ministry of Foreign Affairs: 27 Chinese Citizens Safely Evacuated from Haiti""",neutral,0.44036003947257996,1,1,1,8
-6,chinese,"""Schedule Overview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6779416799545288,1,1,1,8
-7,chinese,"""National Development and Reform Commission: China's Long-Term Economic Growth Trend Remains Unchanged and Will Not Change""",neutral,0.6098261475563049,1,1,1,8
-8,chinese,"""Going Out, Welcoming In: Multiple Overseas Investment Events Held to Enhance the ""Invest in China"" Brand""",neutral,0.5009032487869263,1,1,1,8
-9,chinese,"""US Includes Six Chinese Companies in Export Control Entity List, Ministry of Commerce Responds""",neutral,0.7893701195716858,1,1,1,8
+0,chinese,"""Former Egyptian Foreign Minister: Uphold Fair Order and Share Development Achievements""",positive,0.5171966552734375,2,4,2,4
+1,chinese,"""Queqiao-2 relay satellite mission achieves complete success""",positive,0.8384360671043396,3,4,2,4
+2,chinese,"""From Yemen to Shikumen: Foreign Actor Hamza Al-sal Realizes Dream of Acting in China in ""Love Myth""""",neutral,0.6953235268592834,1,4,2,4
+3,chinese,"""Chinese Embassy in Japan: Interference in China's Internal Affairs and Provoking Confrontation are Products of the Cold War Between Japan and the US, Only Leading to Self-Destruction""",negative,0.8984512090682983,-2,4,2,4
+4,chinese,"""Jingjing's Wisdom | Digital RMB Facilitates Overseas Personnel Payments""",positive,0.537055253982544,2,4,2,4
+5,chinese,"""Multiple Measures Promote Large-scale Equipment Upgrades and Trade-ins for Consumer Goods""",positive,0.5780184864997864,2,4,2,4
+6,chinese,"""Before Closing Down, Education and Training Institutions are Still Encouraging Parents to Pay Fees: Experts Say Such Behavior May Involve Fraud Charges""",negative,0.7089530229568481,-2,4,2,4
+7,chinese,"""Charging Pile Products Accelerate ""Going Abroad"" Companies ""Recruiting and Buying Horses"" to Develop Overseas Markets""",neutral,0.6116743683815002,1,4,2,4
+8,chinese,"""Ministry of Foreign Affairs: 27 Chinese Citizens Safely Evacuated from Haiti""",neutral,0.44036003947257996,1,4,2,4
+9,chinese,"""Schedule Overview! Digital Silk Road Development Forum to be Held Soon""",neutral,0.6779416799545288,1,4,2,4
