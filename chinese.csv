@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Core Perspective | German Scholar: Sino-German Relations Should Strengthen Exchange and Deepen Cooperation for Mutual Benefit""",positive,0.497161328792572,2,3,1,6
-1,chinese,"""Goldman Sachs and Citigroup Raise Forecast for China's Economic Growth in 2024""",neutral,0.6121581792831421,1,3,1,6
-2,chinese,"""Major Economic Indicators Show Bright Performance: China's Economy Starts Steadily and Continues to Improve""",positive,0.8477064371109009,3,3,1,6
-3,chinese,"""Knife Attack at Australian Shopping Center Leaves 6 Dead""",negative,0.7817342877388,-2,3,1,6
-4,chinese,"""China Makes Three Demands Regarding Handling of the Ren'ai Reef Situation""",neutral,0.8001387119293213,1,3,1,6
+1,chinese,"""Goldman Sachs and Citigroup Raise Forecast for China's Economic Growth Rate in 2024""",neutral,0.7049365639686584,1,3,1,6
+2,chinese,"""Major Economic Indicators Show Bright Performance, China's Economy Starts Steadily and Continues to Improve""",positive,0.8476228713989258,3,3,1,6
+3,chinese,"""Knife Attack at Shopping Center in Australia Leaves 6 Dead""",negative,0.7938324213027954,-2,3,1,6
+4,chinese,"""China Puts Forward Three Demands for Handling the Situation at Ren'ai Reef""",neutral,0.6786786317825317,1,3,1,6
 5,chinese,"""China's Total Currency Surpasses 30 Trillion Yuan: What Impact Will It Have on the Chinese Economy? Economists Provide Detailed Analysis""",neutral,0.800919771194458,1,3,1,6
-6,chinese,Ministry of Housing and Urban-Rural Development: Conducting National Village Construction Statistical Survey,neutral,0.8781043291091919,1,3,1,6
-7,chinese,"""First Quarter Goods Trade Import and Export Total Value Increases by 5% Year-on-Year, Growth Rate Reaches New High in 6 Quarters""",neutral,0.48987632989883423,1,3,1,6
-8,chinese,"""5.2 Magnitude Earthquake Occurs in Ritu County, Ali Region, Tibet with a Depth of 10 Kilometers""",neutral,0.52147376537323,1,3,1,6
+6,chinese,Ministry of Housing and Urban-Rural Development: Conducting National Village Construction Statistics Survey,neutral,0.874613881111145,1,3,1,6
+7,chinese,"""First Quarter Goods Trade Import and Export Value Increases by 5%, Growth Rate Reaches New High in 6 Quarters""",neutral,0.48481979966163635,1,3,1,6
+8,chinese,"""5.2 Magnitude Earthquake Occurs in Rituxian County, Ali Region, Tibet with a Depth of 10 Kilometers""",neutral,0.5276502966880798,1,3,1,6
 9,chinese,"""San Francisco Mayor Breed: ""Willing to Promote US-China Friendship through Cultural Exchange""""",positive,0.6461432576179504,2,3,1,6
