@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Injects New Momentum into Global AI Governance""",positive,0.5773438811302185,2,3,1,6
-1,chinese,"""9508 Meters! China's First Deep-Sea Well Officially in Production""",neutral,0.5291953682899475,1,3,1,6
-2,chinese,"""World Health Organization: Approximately 15 million people in Sudan in need of urgent health assistance""",neutral,0.5915927290916443,1,3,1,6
-3,chinese,"""4.3 Magnitude Earthquake Occurs in Chiayi County, Taiwan""",neutral,0.4965668320655823,1,3,1,6
-4,chinese,"""The Big Industry in a Small Town""",neutral,0.7352085709571838,1,3,1,6
-5,chinese,"""Over 1,500 Suspects of Spreading Online Rumors Arrested Since December Last Year""",negative,0.6297658681869507,-1,3,1,6
-6,chinese,"""China ranks first for 7 consecutive years! World Trade Organization releases 2023 global merchandise trade data""",positive,0.5767000913619995,2,3,1,6
-7,chinese,"""May Day Holiday Approaching, Tourism Market Heats Up with New and Creative Travel Options""",positive,0.6408293843269348,2,3,1,6
-8,chinese,"""Ministry of National Defense: The People's Liberation Army will strike back against any form of ""Taiwan independence"" separatist actions""",neutral,0.4915434718132019,1,3,1,6
-9,chinese,"""Gold Sets New High Again! New York Gold Futures Surpass $2400""",neutral,0.5670490860939026,1,3,1,6
+0,chinese,"""China Injects New Energy into Global AI Governance""",neutral,0.4923495948314667,1,2,1,7
+1,chinese,"""9508 Meters! China's First Deep-Sea Well Officially Begins Production""",neutral,0.5405098795890808,1,2,1,7
+2,chinese,"""World Health Organization: Sudan in Need of Urgent Health Assistance for Approximately 15 Million People""",neutral,0.6809428334236145,1,2,1,7
+3,chinese,"""4.3 Magnitude Earthquake Strikes Chiayi County, Taiwan""",negative,0.4665523171424866,-1,2,1,7
+4,chinese,"""The Big Industry in a Small Town""",neutral,0.7352085709571838,1,2,1,7
+5,chinese,"""Over 1,500 Suspects of Internet Rumor Crimes Arrested Since December Last Year""",neutral,0.5254654884338379,1,2,1,7
+6,chinese,"""China ranks first for 7 consecutive years! World Trade Organization releases 2023 global merchandise trade data""",positive,0.5767000913619995,2,2,1,7
+7,chinese,"""May Day Holiday Approaching, Tourism Market Heats Up with New ""Fancy"" Travel Modes""",neutral,0.5088651776313782,1,2,1,7
+8,chinese,"""Ministry of National Defense: PLA Will Strike Back Against Any Form of ""Taiwan Independence"" Separatist Actions""",neutral,0.5282348394393921,1,2,1,7
+9,chinese,"""Gold Hits Another Record High! New York Gold Futures Surpass $2400""",positive,0.556175708770752,2,2,1,7
