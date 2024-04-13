@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Proposes Three Demands for Handling the Ren'ai Reef Situation""",neutral,0.7041198015213013,1,3,3,4
-1,chinese,"""Sydney Shopping Center Experiences Indiscriminate Knife Attack, 4 Dead and Attacker Shot by Police""",negative,0.7379554510116577,-2,3,3,4
-2,chinese,Ministry of Housing and Urban-Rural Development: Conducting National Village Construction Statistical Survey,neutral,0.8781043291091919,1,3,3,4
-3,chinese,"""Total Value of Goods Trade Imports and Exports in the First Quarter Increases by 5% Year-on-Year, Reaching the Highest Growth Rate in 6 Quarters""",positive,0.5217581391334534,2,3,3,4
-4,chinese,"""5.2 Magnitude Earthquake Strikes Rutog County in Ali Region, Tibet with a Depth of 10 Kilometers""",neutral,0.49754077196121216,1,3,3,4
-5,chinese,"""San Francisco Mayor Breed: ""Willing to Promote US-China Friendship through Cultural Exchange""""",positive,0.6461432576179504,2,3,3,4
-6,chinese,"""China is a Key Driver of Global Trade Growth - Interview with WTO Chief Economist Ralph Ossa""",neutral,0.6011455059051514,1,3,3,4
-7,chinese,"""130 Chinese Nationals Involved in Gambling Fraud Returned to China from Cambodia""",negative,0.7628207802772522,-2,3,3,4
-8,chinese,"""Tianhe Satellite Successfully Transmits Latest Images, New Technology Experiments Progress Smoothly""",positive,0.8327624201774597,3,3,3,4
-9,chinese,"""Yangtze River Fishing Ban for Over Three Years: What New Changes Have Occurred from the Water to Both Sides?""",negative,0.5246354937553406,-1,3,3,4
+0,chinese,"""China Proposes Three Demands for Handling the Situation at Ren'ai Reef""",neutral,0.7322514057159424,1,3,2,5
+1,chinese,"""Major Economic Indicators Show Bright Performance: China's Economy Starts Steadily and Continues to Improve""",positive,0.8477064371109009,3,3,2,5
+2,chinese,"""Knife Attack at Australian Shopping Center Leaves 6 Dead""",negative,0.7817342877388,-2,3,2,5
+3,chinese,"""China's Total Currency Surpasses 30 Trillion Yuan: What Impact Will It Have on the Chinese Economy? Economists Provide Detailed Analysis""",neutral,0.800919771194458,1,3,2,5
+4,chinese,Ministry of Housing and Urban-Rural Development: Conducting National Village Construction Statistical Survey,neutral,0.8781043291091919,1,3,2,5
+5,chinese,"""First Quarter Goods Trade Import and Export Value Increases by 5% Year-on-Year, Reaching Highest Growth Rate in 6 Quarters""",positive,0.5553703308105469,2,3,2,5
+6,chinese,"""5.2 Magnitude Earthquake Strikes Ritu County, Ali Region, Tibet with a Depth of 10 Kilometers""",neutral,0.4725281000137329,1,3,2,5
+7,chinese,"""San Francisco Mayor Breed: ""Willing to Promote US-China Friendship through Cultural Exchange""""",positive,0.6461432576179504,2,3,2,5
+8,chinese,"""China is a Key Driver of Global Trade Growth - Interview with WTO Chief Economist Ralph Ossa""",neutral,0.6011455059051514,1,3,2,5
+9,chinese,"""130 Chinese Nationals Involved in Gambling and Fraud Repatriated from Cambodia""",negative,0.8286856412887573,-2,3,2,5
