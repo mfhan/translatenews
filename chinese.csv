@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""130 Chinese Nationals Involved in Gambling Scam Extradited from Cambodia to China""",negative,0.788602888584137,-2,3,5,2
-1,chinese,"""Tianhe Satellite Successfully Transmits Latest Images, New Technology Testing Progresses Smoothly""",positive,0.8022609949111938,3,3,5,2
-2,chinese,"""Yangtze River Fishing Ban for Over Three Years: What Are the New Changes from the Water to Both Sides?""",negative,0.48392513394355774,-1,3,5,2
-3,chinese,"""State Administration of Foreign Exchange Releases New Version of Capital Project Foreign Exchange Business Guidelines""",neutral,0.8742401003837585,1,3,5,2
-4,chinese,"""International Market Share Remains Stable, China Maintains Position as World's Top Goods Trading Country for 7 Consecutive Years""",negative,0.5273116827011108,-1,3,5,2
-5,chinese,"""New Delisting Regulations Lower the Time Limit, Amount, and Proportion for Financial Fraud Triggering Delisting""",negative,0.8042823672294617,-2,3,5,2
-6,chinese,"""Vibrant and Confident: China Remains the Global Center for Resource Allocation""",positive,0.753471851348877,3,3,5,2
-7,chinese,"""9508 Meters! China's First Deep Sea Well Officially in Production""",positive,0.5139326453208923,2,3,5,2
-8,chinese,"""World Health Organization: Approximately 15 million people in Sudan in need of urgent health assistance""",neutral,0.5915927290916443,1,3,5,2
-9,chinese,"""4.3 Magnitude Earthquake Strikes Jiayi County, Taiwan""",negative,0.48657795786857605,-1,3,5,2
+0,chinese,"""130 Chinese Nationals Involved in Gambling Fraud Repatriated from Cambodia""",negative,0.8139408826828003,-2,2,3,5
+1,chinese,"""Tianhe Satellite Successfully Transmits Latest Images, New Technology Testing Progresses Smoothly""",positive,0.8022609949111938,3,2,3,5
+2,chinese,"""Yangtze River Fishing Ban for Over Three Years: What New Changes Have Occurred from the Water to the Banks?""",neutral,0.5545973777770996,1,2,3,5
+3,chinese,"""State Administration of Foreign Exchange Releases New Version of Guidelines for Capital Project Foreign Exchange Transactions""",neutral,0.8651384115219116,1,2,3,5
+4,chinese,"""International Market Share Remains Stable, China Maintains Position as World's Largest Goods Trading Country for 7 Consecutive Years""",negative,0.5936835408210754,-1,2,3,5
+5,chinese,"""New Delisting Regulations Lower the Time Limit, Amount, and Proportion for Financial Fraud Triggering Delisting""",negative,0.8042823672294617,-2,2,3,5
+6,chinese,"""Vibrant and Confident: China Remains the Global Hub for Resource Allocation""",positive,0.7819408774375916,3,2,3,5
+7,chinese,"""9508 Meters! China's First Deep-Sea Well Officially Begins Production""",neutral,0.5405098795890808,1,2,3,5
+8,chinese,"""World Health Organization: Approximately 15 million people in Sudan in need of urgent health assistance""",neutral,0.5915927290916443,1,2,3,5
+9,chinese,"""4.3 Magnitude Earthquake Occurs in Chiayi County, Taiwan""",neutral,0.4965668320655823,1,2,3,5
