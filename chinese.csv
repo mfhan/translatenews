@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""130 Chinese Nationals Involved in Gambling Fraud Repatriated from Cambodia""",negative,0.8139408826828003,-2,2,3,5
-1,chinese,"""Tianhe Satellite Successfully Transmits Latest Images, New Technology Testing Progresses Smoothly""",positive,0.8022609949111938,3,2,3,5
-2,chinese,"""Yangtze River Fishing Ban for Over Three Years: What New Changes Have Occurred from the Water to the Banks?""",neutral,0.5545973777770996,1,2,3,5
-3,chinese,"""State Administration of Foreign Exchange Releases New Version of Guidelines for Capital Project Foreign Exchange Transactions""",neutral,0.8651384115219116,1,2,3,5
-4,chinese,"""International Market Share Remains Stable, China Maintains Position as World's Largest Goods Trading Country for 7 Consecutive Years""",negative,0.5936835408210754,-1,2,3,5
-5,chinese,"""New Delisting Regulations Lower the Time Limit, Amount, and Proportion for Financial Fraud Triggering Delisting""",negative,0.8042823672294617,-2,2,3,5
-6,chinese,"""Vibrant and Confident: China Remains the Global Hub for Resource Allocation""",positive,0.7819408774375916,3,2,3,5
-7,chinese,"""9508 Meters! China's First Deep-Sea Well Officially Begins Production""",neutral,0.5405098795890808,1,2,3,5
-8,chinese,"""World Health Organization: Approximately 15 million people in Sudan in need of urgent health assistance""",neutral,0.5915927290916443,1,2,3,5
-9,chinese,"""4.3 Magnitude Earthquake Occurs in Chiayi County, Taiwan""",neutral,0.4965668320655823,1,2,3,5
+0,chinese,"""China Proposes Three Demands for Handling the Ren'ai Reef Situation""",neutral,0.7041198015213013,1,3,3,4
+1,chinese,"""Sydney Shopping Center Experiences Indiscriminate Knife Attack, 4 Dead and Attacker Shot by Police""",negative,0.7379554510116577,-2,3,3,4
+2,chinese,Ministry of Housing and Urban-Rural Development: Conducting National Village Construction Statistical Survey,neutral,0.8781043291091919,1,3,3,4
+3,chinese,"""Total Value of Goods Trade Imports and Exports in the First Quarter Increases by 5% Year-on-Year, Reaching the Highest Growth Rate in 6 Quarters""",positive,0.5217581391334534,2,3,3,4
+4,chinese,"""5.2 Magnitude Earthquake Strikes Rutog County in Ali Region, Tibet with a Depth of 10 Kilometers""",neutral,0.49754077196121216,1,3,3,4
+5,chinese,"""San Francisco Mayor Breed: ""Willing to Promote US-China Friendship through Cultural Exchange""""",positive,0.6461432576179504,2,3,3,4
+6,chinese,"""China is a Key Driver of Global Trade Growth - Interview with WTO Chief Economist Ralph Ossa""",neutral,0.6011455059051514,1,3,3,4
+7,chinese,"""130 Chinese Nationals Involved in Gambling Fraud Returned to China from Cambodia""",negative,0.7628207802772522,-2,3,3,4
+8,chinese,"""Tianhe Satellite Successfully Transmits Latest Images, New Technology Experiments Progress Smoothly""",positive,0.8327624201774597,3,3,3,4
+9,chinese,"""Yangtze River Fishing Ban for Over Three Years: What New Changes Have Occurred from the Water to Both Sides?""",negative,0.5246354937553406,-1,3,3,4
