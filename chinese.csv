@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Injects New Energy into Global AI Governance""",neutral,0.4923495948314667,1,2,1,7
-1,chinese,"""9508 Meters! China's First Deep-Sea Well Officially Begins Production""",neutral,0.5405098795890808,1,2,1,7
-2,chinese,"""World Health Organization: Sudan in Need of Urgent Health Assistance for Approximately 15 Million People""",neutral,0.6809428334236145,1,2,1,7
-3,chinese,"""4.3 Magnitude Earthquake Strikes Chiayi County, Taiwan""",negative,0.4665523171424866,-1,2,1,7
-4,chinese,"""The Big Industry in a Small Town""",neutral,0.7352085709571838,1,2,1,7
-5,chinese,"""Over 1,500 Suspects of Internet Rumor Crimes Arrested Since December Last Year""",neutral,0.5254654884338379,1,2,1,7
-6,chinese,"""China ranks first for 7 consecutive years! World Trade Organization releases 2023 global merchandise trade data""",positive,0.5767000913619995,2,2,1,7
-7,chinese,"""May Day Holiday Approaching, Tourism Market Heats Up with New ""Fancy"" Travel Modes""",neutral,0.5088651776313782,1,2,1,7
-8,chinese,"""Ministry of National Defense: PLA Will Strike Back Against Any Form of ""Taiwan Independence"" Separatist Actions""",neutral,0.5282348394393921,1,2,1,7
-9,chinese,"""Gold Hits Another Record High! New York Gold Futures Surpass $2400""",positive,0.556175708770752,2,2,1,7
+0,chinese,"""Yangtze River Fishing Ban for Over Three Years: What New Changes Can Be Seen from the Water to the Banks?""",neutral,0.6314914226531982,1,1,2,7
+1,chinese,"""State Administration of Foreign Exchange Releases New Version of Guidelines for Capital Account Foreign Exchange Transactions""",neutral,0.8743852972984314,1,1,2,7
+2,chinese,"""New Delisting Regulations Lower Timeframe, Amount, and Proportion for Financial Fraud Triggering Delisting""",negative,0.7167605757713318,-2,1,2,7
+3,chinese,"""9508 Meters! China's First Deep Sea Well Officially Begins Production""",neutral,0.526545524597168,1,1,2,7
+4,chinese,"""World Health Organization: Approximately 15 million people in Sudan in need of urgent health assistance""",neutral,0.5915927290916443,1,1,2,7
+5,chinese,"""4.3 Magnitude Earthquake Strikes Chiayi County, Taiwan""",negative,0.4665523171424866,-1,1,2,7
+6,chinese,"""The Big Industry in a Small Town""",neutral,0.7352085709571838,1,1,2,7
+7,chinese,"""Over 1,500 Suspects of Online Rumor Crimes Captured Since December Last Year""",neutral,0.6459236741065979,1,1,2,7
+8,chinese,"""China ranks first for 7 consecutive years! World Trade Organization releases 2023 global merchandise trade data""",positive,0.5767000913619995,2,1,2,7
+9,chinese,"""May Day Holiday Approaching, Tourism Market Heats Up with New ""Fancy"" Travel Modes""",neutral,0.5088651776313782,1,1,2,7
