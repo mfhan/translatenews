@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Perspective | German Scholar: Sino-German Relations Should Strengthen Exchange and Deepen Cooperation for Mutual Benefit""",positive,0.497161328792572,2,3,3,4
-1,chinese,"""31 People Fall into Water and 12 Dead in Ship Capsizing Accident at Taolinkou Village in Qinhuangdao, Hebei""",negative,0.7624061107635498,-2,3,3,4
-2,chinese,"""Multiple Countries Issue Travel Warnings for Iran, US Urges Iran to ""Not Take Action""""",negative,0.6937830448150635,-1,3,3,4
-3,chinese,"""Spokesperson of Chinese Embassy in India Issues Statement on Indian Media Interview with Head of Taiwan's Foreign Affairs Department""",neutral,0.762162983417511,1,3,3,4
-4,chinese,"""Building a Convenient Channel for Passenger and Logistics Flow: China-Laos Railway Facilitates Two-Way Travel for People of Both Countries""",positive,0.5951623916625977,2,3,3,4
-5,chinese,"""Goldman Sachs and Citigroup Raise Forecast for China's Economic Growth in 2024""",neutral,0.6121581792831421,1,3,3,4
-6,chinese,"""Major Economic Indicators Show Strong Performance: China's Economy Starts Steadily and Continues to Improve""",positive,0.8509016633033752,3,3,3,4
-7,chinese,"""Six People Dead in Knife Attack at Australian Shopping Center""",negative,0.7366750836372375,-2,3,3,4
-8,chinese,"""China Puts Forward Three Demands for Handling the Ren'ai Reef Situation""",neutral,0.6780069470405579,1,3,3,4
-9,chinese,"""China's Total Currency Surpasses 30 Trillion Yuan, What Impact Will It Have on the Chinese Economy? Economists Provide Detailed Analysis""",neutral,0.8124805092811584,1,3,3,4
+0,chinese,"""Core View | German Scholar: Sino-German Relations Should Strengthen Exchange and Deepen Cooperation for Mutual Benefit""",positive,0.532379150390625,2,3,3,4
+1,chinese,"""Iran Claims to be Prepared for Defense and Attack Against Israel's Launch of Drones""",neutral,0.5204797983169556,1,3,3,4
+2,chinese,"""Boat Capsizes in Taolinkou Village, Qinhuangdao, Hebei Province, 31 People Fall into Water, 12 Confirmed Dead""",negative,0.7591081261634827,-2,3,3,4
+3,chinese,"""Multiple Countries Issue Travel Warnings for Iran, US Urges Iran to ""Hands Off""""",negative,0.6569432020187378,-1,3,3,4
+4,chinese,"""Spokesperson of Chinese Embassy in India Issues Statement on Indian Media Interview with Head of Taiwan's Foreign Affairs Department""",neutral,0.762162983417511,1,3,3,4
+5,chinese,"""Building a Convenient Channel for Passenger and Cargo Flow: China-Laos Railway Enables Two-Way Travel for People from Both Countries""",positive,0.5237317085266113,2,3,3,4
+6,chinese,"""Goldman Sachs and Citigroup Raise Forecast for China's Economic Growth in 2024""",neutral,0.6121581792831421,1,3,3,4
+7,chinese,"""Major Economic Indicators Show Bright Performance, China's Economy Starts Steadily and Continues to Improve""",positive,0.8476228713989258,3,3,3,4
+8,chinese,"""Knife Attack at Australian Shopping Center Leaves 6 Dead""",negative,0.7817342877388,-2,3,3,4
+9,chinese,"""China Makes Three Demands Regarding the Handling of the Ren'ai Reef Situation""",neutral,0.8124786615371704,1,3,3,4
