@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Steady and Far-reaching Modernization""",positive,0.6246766448020935,2,3,4,3
 1,chinese,"""Chinese Citizen Dies in Sydney Knife Attack""",negative,0.752777099609375,-2,3,4,3
-2,chinese,"""China International Fair for Trade in Services: Bringing New Opportunities for Foreign Companies in China's Development""",positive,0.7797779440879822,3,3,4,3
-3,chinese,"""International Observation: Will the ""War Edge Policy"" Push the Middle East Situation off the Cliff?""",neutral,0.6658298373222351,1,3,4,3
+2,chinese,"""China International Import Expo: Chinese Development Brings New Opportunities for Enterprises from All Countries""",positive,0.744722843170166,3,3,4,3
+3,chinese,"""International Observation: Will the ""War Edge Policy"" Push the Middle East Situation Over the Cliff?""",neutral,0.7937471270561218,1,3,4,3
 4,chinese,"""Chinese Embassy in Syria: Reminder to Chinese Citizens to Avoid Traveling to Syria in the Near Future""",neutral,0.6058400869369507,1,3,4,3
 5,chinese,"""Central Meteorological Observatory: Some areas in Xinjiang, Inner Mongolia, Hebei, and other regions will experience sandstorms from 20:00 on the 14th to 20:00 on the 15th""",neutral,0.7955453395843506,1,3,4,3
 6,chinese,"""US Media: Biden Expresses Opposition to Israel's Counterattack Against Iran""",negative,0.5466511845588684,-1,3,4,3
 7,chinese,"""Chinese Embassy in Iraq: Special Reminder for Chinese Citizens and Institutions to Strengthen Security Awareness""",positive,0.43752238154411316,2,3,4,3
-8,chinese,"""Australian police say Sydney shopping mall knife attacker has mental illness""",negative,0.7747238874435425,-2,3,4,3
-9,chinese,"""Preliminary Investigation of Hebei Lulong County Ship Capsizing Incident Reveals Villagers' Homemade Boat as Cause""",negative,0.5717730522155762,-1,3,4,3
+8,chinese,"""Australian police say Sydney mall knife attacker has mental illness""",negative,0.7780774235725403,-2,3,4,3
+9,chinese,"""Preliminary Investigation of Hebei Lulong County Boat Capsizing Incident Reveals Village Residents' Self-Made Boat as Cause""",negative,0.6231310963630676,-1,3,4,3
