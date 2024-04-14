@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Modernization for Steady and Far-reaching Progress""",positive,0.6963227391242981,2,3,4,3
-1,chinese,"""Australian Police: Sydney Shopping Mall Attacker Has Mental Illness""",negative,0.7104042172431946,-2,3,4,3
-2,chinese,"""Iranian Military: Military Operations Have Ended, Armed Forces Are on High Alert""",negative,0.6266951560974121,-1,3,4,3
-3,chinese,"""New Technology Depicts Modern Spring Plowing Scene""",neutral,0.740394651889801,1,3,4,3
-4,chinese,"""China's Exports Maintain Global Top Spot for 15 Consecutive Years""",positive,0.5341596603393555,2,3,4,3
-5,chinese,"""Building a New Consumer Scene: The 4th Consumer Expo Presents Multiple New Highlights""",positive,0.7977421879768372,3,3,4,3
-6,chinese,"""Gongbei Port's Daily Passenger Traffic Reaches 358,000, Reaching a Near 4-Year High""",neutral,0.60386723279953,1,3,4,3
-7,chinese,"""Why does the United States frequently hype the ""China's overcapacity"" theory?""",negative,0.8127896785736084,-2,3,4,3
-8,chinese,"""Israeli Airspace Reopens""",neutral,0.7738170027732849,1,3,4,3
-9,chinese,"""Foreign Ministry Spokesperson Answers Press Questions Regarding Iran's Military Strike on Israeli Territory""",negative,0.5197767019271851,-1,3,4,3
+0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Steady and Far-reaching Modernization""",positive,0.6246766448020935,2,4,4,2
+1,chinese,"""US Media: Biden Expresses Opposition to Israel's Counterattack Against Iran""",negative,0.5466511845588684,-1,4,4,2
+2,chinese,"""Chinese Embassy in Iraq: Special Reminder for Chinese Citizens and Institutions to Strengthen Security Awareness""",positive,0.43752238154411316,2,4,4,2
+3,chinese,"""Australian police say Sydney shopping mall attacker has mental illness""",negative,0.754332959651947,-2,4,4,2
+4,chinese,"""Preliminary Investigation of Hebei Lulong County Ship Capsizing Accident Reveals Villagers' Homemade Boat as Cause""",negative,0.5464794039726257,-1,4,4,2
+5,chinese,"""Iranian Military: Military Operation Has Ended, Armed Forces on High Alert""",negative,0.7177152633666992,-2,4,4,2
+6,chinese,"""New Technology Depicts Modern Spring Plowing Scene""",neutral,0.740394651889801,1,4,4,2
+7,chinese,"""China's Exports Maintain Global Top Spot for 15 Consecutive Years""",positive,0.5341596603393555,2,4,4,2
+8,chinese,"""Building a New Consumer Scene: The 4th Consumer Expo Showcases Multiple New Highlights""",positive,0.6955674886703491,2,4,4,2
+9,chinese,"""Gongbei Port's Daily Passenger Flow Reaches 358,000, Reaching a Near 4-Year High""",neutral,0.5724760890007019,1,4,4,2
