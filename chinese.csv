@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Perspective | German Scholar: Sino-German Relations Should Strengthen Exchange and Deepen Cooperation for Mutual Benefit""",positive,0.497161328792572,2,4,3,3
-1,chinese,"""UN Security Council to Hold Emergency Meeting on Iran's Attack on Israel on the 14th""",neutral,0.6015645861625671,1,4,3,3
-2,chinese,"""Iran Claims to Be Ready for Defense and Attack Against Israel's Drone Launch""",neutral,0.6399902105331421,1,4,3,3
-3,chinese,"""Foreign Ministry Spokesperson Answers Questions on Iran's Military Strike on Israeli Territory""",negative,0.502894401550293,-1,4,3,3
-4,chinese,"""Israeli Army Spokesperson: Israel Currently Suffers ""Minor Losses""""",negative,0.6712765693664551,-1,4,3,3
-5,chinese,"""Core Perspective | Deeply Implementing the Overall National Security Concept to Safeguard China's Steady and Far-reaching Modernization""",positive,0.5029671788215637,2,4,3,3
-6,chinese,"""Just now, Schultz arrived in Chongqing""",neutral,0.8734322786331177,1,4,3,3
-7,chinese,"""East-West Calculation"" Project Progressing Steadily",positive,0.5540841817855835,2,4,3,3
-8,chinese,"""Multiple regions continue to improve payment convenience""",positive,0.6985434889793396,2,4,3,3
-9,chinese,"""Iran Launches Dozens of Suicide Drones and First Batch of Ballistic Missiles at Israeli Targets""",negative,0.5513143539428711,-1,4,3,3
+0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Modernization for Steady and Far-reaching Progress""",positive,0.6963227391242981,2,3,4,3
+1,chinese,"""Australian Police: Sydney Shopping Mall Attacker Has Mental Illness""",negative,0.7104042172431946,-2,3,4,3
+2,chinese,"""Iranian Military: Military Operations Have Ended, Armed Forces Are on High Alert""",negative,0.6266951560974121,-1,3,4,3
+3,chinese,"""New Technology Depicts Modern Spring Plowing Scene""",neutral,0.740394651889801,1,3,4,3
+4,chinese,"""China's Exports Maintain Global Top Spot for 15 Consecutive Years""",positive,0.5341596603393555,2,3,4,3
+5,chinese,"""Building a New Consumer Scene: The 4th Consumer Expo Presents Multiple New Highlights""",positive,0.7977421879768372,3,3,4,3
+6,chinese,"""Gongbei Port's Daily Passenger Traffic Reaches 358,000, Reaching a Near 4-Year High""",neutral,0.60386723279953,1,3,4,3
+7,chinese,"""Why does the United States frequently hype the ""China's overcapacity"" theory?""",negative,0.8127896785736084,-2,3,4,3
+8,chinese,"""Israeli Airspace Reopens""",neutral,0.7738170027732849,1,3,4,3
+9,chinese,"""Foreign Ministry Spokesperson Answers Press Questions Regarding Iran's Military Strike on Israeli Territory""",negative,0.5197767019271851,-1,3,4,3
