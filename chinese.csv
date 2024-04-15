@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Steady and Far-reaching Modernization""",positive,0.6246766448020935,2,4,3,3
-1,chinese,"""[C Finance] German Chancellor Scholz visits China: accompanying German business executives optimistic about Chinese market, will continue to increase investment in China""",positive,0.7149249911308289,3,4,3,3
-2,chinese,"""Chinese Citizen Killed in Sydney Knife Attack""",negative,0.7879413366317749,-2,4,3,3
-3,chinese,"""China International Fair for Trade in Services: Bringing New Opportunities for Enterprises from All Countries""",positive,0.7633886337280273,3,4,3,3
-4,chinese,"""International Observation: Will the ""War Edge Policy"" Push the Middle East Situation Over the Cliff?""",neutral,0.7937471270561218,1,4,3,3
-5,chinese,"""Chinese Embassy in Syria: Reminder to Chinese Citizens to Avoid Traveling to Syria in the Near Future""",neutral,0.6058400869369507,1,4,3,3
-6,chinese,"""Central Meteorological Observatory: Some areas in Xinjiang, Inner Mongolia, Hebei, and other regions will experience sandstorms from 20:00 on the 14th to 20:00 on the 15th""",neutral,0.7955453395843506,1,4,3,3
-7,chinese,"""US Media: Biden Expresses Opposition to Israel's Counterattack Against Iran""",negative,0.5466511845588684,-1,4,3,3
-8,chinese,"""Chinese Embassy in Iraq: Special Reminder for Chinese Citizens and Institutions to Strengthen Security Awareness""",positive,0.43752238154411316,2,4,3,3
-9,chinese,"""Australian police say Sydney shopping mall attacker has mental illness""",negative,0.754332959651947,-2,4,3,3
+0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Modernization for Steady and Far-reaching Progress""",positive,0.6963227391242981,2,2,4,4
+1,chinese,"""Ceasefire negotiations in Gaza temporarily at a standstill, with no change in positions from both sides of the conflict""",neutral,0.6221943497657776,1,2,4,4
+2,chinese,"""May Day Holiday is Coming Soon: These Uncivilized Behaviors are Not Acceptable When Taking the Train""",negative,0.8808208107948303,-2,2,4,4
+3,chinese,"""4.1% Increase in Bilateral Goods Trade between China and Australia in 2023""",neutral,0.5953385829925537,1,2,4,4
+4,chinese,"""Argentina has reported over 252,000 confirmed cases of dengue fever this year""",negative,0.49883222579956055,-1,2,4,4
+5,chinese,"""It concerns you and me! A Comprehensive Explanation of the National Security Concept in One Picture""",neutral,0.6903379559516907,1,2,4,4
+6,chinese,"""Israeli Military Attacks Central Gaza Strip, At Least 12 People Dead""",negative,0.7680513858795166,-2,2,4,4
+7,chinese,"""National Style Personalized Consumption is Booming: Sales of ""New Chinese Style"" Women's Clothing Increased by 400% Year-on-Year""",neutral,0.5253620147705078,1,2,4,4
+8,chinese,"""Strong rainfall hits the south twice this week, followed by a new cold air bringing cooler temperatures""",positive,0.5161964297294617,2,2,4,4
+9,chinese,"""Iranian media reports multiple airports in Iran cancel all flights on the 14th""",negative,0.7355625033378601,-2,2,4,4
