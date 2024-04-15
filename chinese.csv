@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,3,2,5
-1,chinese,"""Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th""",neutral,0.8120656609535217,1,3,2,5
-2,chinese,Overview | How much longer can the gold price continue to rise?,neutral,0.6560180187225342,1,3,2,5
-3,chinese,Chinese Citizen Injured in Sydney Shopping Center Attack Not in Life-Threatening Condition,negative,0.8627898693084717,-2,3,2,5
-4,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,3,2,5
-5,chinese,"Positive Factors Accumulate, Development Momentum is Strong! China's Economy Shows an Upward Trend of ""Stepping Up""",positive,0.7903110980987549,3,3,2,5
-6,chinese,"""Media Reports the Release of 150 Detained Palestinians""",neutral,0.5587929487228394,1,3,2,5
-7,chinese,"""Digital Interconnection 'Shaan' Shines on the Silk Road"" Visit, Foreign Internet Celebrities Have Something to Say",neutral,0.5052768588066101,1,3,2,5
-8,chinese,"""Strengthened Regulation, Risk Prevention, and Development Promotion: Implementation Accelerated for the ""1+N"" Policy System in the Capital Market""",neutral,0.6654812693595886,1,3,2,5
-9,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,3,2,5
+0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,4,2,4
+1,chinese,Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th,neutral,0.7903444170951843,1,4,2,4
+2,chinese,Overview | How much longer can the price of gold rise?,neutral,0.7166089415550232,1,4,2,4
+3,chinese,Chinese Citizens Injured in Sydney Shopping Center Attack Not in Life-Threatening Condition,negative,0.8734545111656189,-2,4,2,4
+4,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,4,2,4
+5,chinese,"Positive Factors Accumulate, Strong Development Momentum! China's Economy Shows an Upward Trend of ""Climbing Step by Step""",positive,0.7880293726921082,3,4,2,4
+6,chinese,"""Media Reports the Release of 150 Detained Palestinians""",neutral,0.5587929487228394,1,4,2,4
+7,chinese,"""Digital Interconnection Shines on the Silk Road in Shaanxi: Foreign Internet Celebrities Share Their Thoughts""",positive,0.5285409092903137,2,4,2,4
+8,chinese,"""Strengthened Supervision, Risk Prevention, and Development Promotion: Implementation of the ""1+N"" Policy System in the Capital Market Accelerates""",neutral,0.7273123860359192,1,4,2,4
+9,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,4,2,4
