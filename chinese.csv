@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,3,4,3
-1,chinese,"""China International Consumer Expo: Multinational Companies Optimistic about China's Large Consumer Market""",positive,0.7074058651924133,3,3,4,3
-2,chinese,"""German Chancellor Scholz: German Market Welcomes Chinese Automobiles""",neutral,0.527784526348114,1,3,4,3
-3,chinese,"""4 Dead, 12 Injured in Attack on Town in Central Myanmar""",negative,0.7802340984344482,-2,3,4,3
-4,chinese,"""Possible Knife Attack at a Church in Sydney, Australia Leaves at Least 4 Injured""",negative,0.7791857123374939,-2,3,4,3
-5,chinese,"""Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th""",neutral,0.8120656609535217,1,3,4,3
-6,chinese,"""Overview | How much longer can the gold price rise?""",neutral,0.7482585310935974,1,3,4,3
-7,chinese,Chinese Citizen Injured in Sydney Shopping Center Attack Not in Life-Threatening Condition,negative,0.8627898693084717,-2,3,4,3
-8,chinese,"""Iran Warns Several Countries of Possible Attacks, US Officials Claim No Information Received""",negative,0.6554350852966309,-1,3,4,3
-9,chinese,"Positive Factors Accumulate, Development Momentum is Strong! China's Economy Shows a Positive Trend of ""Climbing Step by Step""",positive,0.780243456363678,3,3,4,3
+0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,3,5,2
+1,chinese,"""Israeli Military Warns Gaza Residents Not to Return to Northern Areas""",negative,0.754851758480072,-2,3,5,2
+2,chinese,"""China International Consumer Expo: Multinational Companies Optimistic about China's Large Consumer Market""",positive,0.7074058651924133,3,3,5,2
+3,chinese,"""German Chancellor Scholz: German market welcomes Chinese cars""",positive,0.6085334420204163,2,3,5,2
+4,chinese,"""4 Dead, 12 Injured in Attack on Town in Central Myanmar""",negative,0.7802340984344482,-2,3,5,2
+5,chinese,"""Possible Knife Attack at a Church in Sydney, Australia Leaves at Least 4 Injured""",negative,0.7791857123374939,-2,3,5,2
+6,chinese,"""Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th""",neutral,0.8120656609535217,1,3,5,2
+7,chinese,Overview | How much longer can the gold price rise?,neutral,0.7324828505516052,1,3,5,2
+8,chinese,Chinese Citizens Injured in Sydney Shopping Center Attack Not in Life-Threatening Condition,negative,0.8734545111656189,-2,3,5,2
+9,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,3,5,2
