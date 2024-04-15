@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,3,2,5
-1,chinese,Chinese Citizen Injured in Sydney Shopping Center Attack is Not in Life-Threatening Condition,negative,0.8599016666412354,-2,3,2,5
-2,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,3,2,5
-3,chinese,"Positive Factors Accumulate, Development Momentum is Strong! China's Economy Shows a Positive Trend of ""Climbing Upward""",positive,0.8029996156692505,3,3,2,5
-4,chinese,"""Media Reports the Release of 150 Detained Palestinians""",neutral,0.5587929487228394,1,3,2,5
-5,chinese,"""Exploring the 'Digital Silk Road' in Shaanxi: Foreign Internet Celebrities Share Their Thoughts""",neutral,0.7332931756973267,1,3,2,5
-6,chinese,"""Strengthened Supervision, Risk Prevention, and Development Promotion: Implementation of the ""1+N"" Policy System in the Capital Market Accelerates""",neutral,0.7273123860359192,1,3,2,5
-7,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,3,2,5
-8,chinese,"""Beihai Receives 1.4715 Million Tourists during ""Guangxi March 3rd""""",neutral,0.6191166639328003,1,3,2,5
-9,chinese,"""High Passenger Traffic Operation in Guangdong, Hong Kong, and Macau; Multiple Ports in Guangdong Experience Peak Customs Clearance""",neutral,0.7130556106567383,1,3,2,5
+0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,3,2,5
+1,chinese,"""Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th""",neutral,0.8120656609535217,1,3,2,5
+2,chinese,Overview | How much longer can the gold price continue to rise?,neutral,0.6560180187225342,1,3,2,5
+3,chinese,Chinese Citizen Injured in Sydney Shopping Center Attack Not in Life-Threatening Condition,negative,0.8627898693084717,-2,3,2,5
+4,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,3,2,5
+5,chinese,"Positive Factors Accumulate, Development Momentum is Strong! China's Economy Shows an Upward Trend of ""Stepping Up""",positive,0.7903110980987549,3,3,2,5
+6,chinese,"""Media Reports the Release of 150 Detained Palestinians""",neutral,0.5587929487228394,1,3,2,5
+7,chinese,"""Digital Interconnection 'Shaan' Shines on the Silk Road"" Visit, Foreign Internet Celebrities Have Something to Say",neutral,0.5052768588066101,1,3,2,5
+8,chinese,"""Strengthened Regulation, Risk Prevention, and Development Promotion: Implementation Accelerated for the ""1+N"" Policy System in the Capital Market""",neutral,0.6654812693595886,1,3,2,5
+9,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,3,2,5
