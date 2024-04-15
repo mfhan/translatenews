@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,3,4,3
-1,chinese,"""Israeli Military Warns Gaza Residents Not to Return to Northern Areas""",negative,0.754851758480072,-2,3,4,3
-2,chinese,"""China International Consumer Expo: Multinational Companies Optimistic about China's Large Consumer Market""",positive,0.7074058651924133,3,3,4,3
-3,chinese,"""German Chancellor Scholz: German Market Welcomes Chinese Cars""",neutral,0.6013528108596802,1,3,4,3
-4,chinese,"""Chinese Embassy in Pakistan Reminds Travelers to Pakistan and Chinese Personnel in Pakistan to Increase Security Awareness and Strengthen Risk Prevention""",positive,0.5016126036643982,2,3,4,3
-5,chinese,"""4 Dead, 12 Injured in Attack on Town in Central Myanmar""",negative,0.7802340984344482,-2,3,4,3
-6,chinese,"""Possible Knife Attack at a Church in Sydney, Australia Leaves at Least 4 Injured""",negative,0.7791857123374939,-2,3,4,3
-7,chinese,"""Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th""",neutral,0.8120656609535217,1,3,4,3
-8,chinese,Overview | How much longer can the price of gold rise?,neutral,0.7166089415550232,1,3,4,3
-9,chinese,Chinese Citizen Injured in Sydney Shopping Mall Attack Not in Life-Threatening Condition,negative,0.8706085681915283,-2,3,4,3
+0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,4,4,2
+1,chinese,"""Israeli Military Warns Gaza Residents Not to Return to Northern Areas""",negative,0.754851758480072,-2,4,4,2
+2,chinese,"""China International Consumer Expo: Multinational Companies Optimistic about China's Large Consumer Market""",positive,0.7074058651924133,3,4,4,2
+3,chinese,"""German Chancellor Scholz: German market welcomes Chinese cars""",positive,0.6085334420204163,2,4,4,2
+4,chinese,"""Chinese Embassy in Pakistan Reminds Chinese Citizens and Personnel in Pakistan to Increase Security Awareness and Strengthen Risk Prevention""",positive,0.52414870262146,2,4,4,2
+5,chinese,"""4 Dead, 12 Injured in Attack on Town in Central Myanmar""",negative,0.7802340984344482,-2,4,4,2
+6,chinese,"""Possible Knife Attack at a Church in Sydney, Australia Leaves at Least 4 Injured""",negative,0.7791857123374939,-2,4,4,2
+7,chinese,"""Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th""",neutral,0.8120656609535217,1,4,4,2
+8,chinese,Overview | How much longer can the gold price rise?,neutral,0.7324828505516052,1,4,4,2
+9,chinese,Chinese Citizen Injured in Sydney Shopping Center Attack Not in Life-Threatening Condition,negative,0.8627898693084717,-2,4,4,2
