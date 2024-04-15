@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,4,2,4
-1,chinese,Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th,neutral,0.7903444170951843,1,4,2,4
-2,chinese,Overview | How much longer can the price of gold rise?,neutral,0.7166089415550232,1,4,2,4
-3,chinese,Chinese Citizens Injured in Sydney Shopping Center Attack Not in Life-Threatening Condition,negative,0.8734545111656189,-2,4,2,4
-4,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,4,2,4
-5,chinese,"Positive Factors Accumulate, Strong Development Momentum! China's Economy Shows an Upward Trend of ""Climbing Step by Step""",positive,0.7880293726921082,3,4,2,4
-6,chinese,"""Media Reports the Release of 150 Detained Palestinians""",neutral,0.5587929487228394,1,4,2,4
-7,chinese,"""Digital Interconnection Shines on the Silk Road in Shaanxi: Foreign Internet Celebrities Share Their Thoughts""",positive,0.5285409092903137,2,4,2,4
-8,chinese,"""Strengthened Supervision, Risk Prevention, and Development Promotion: Implementation of the ""1+N"" Policy System in the Capital Market Accelerates""",neutral,0.7273123860359192,1,4,2,4
-9,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,4,2,4
+0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,3,4,3
+1,chinese,"""German Chancellor Scholz: German market welcomes Chinese cars""",positive,0.6085334420204163,2,3,4,3
+2,chinese,"""4 Dead, 12 Injured in Attack on Town in Central Myanmar""",negative,0.7802340984344482,-2,3,4,3
+3,chinese,"""Possible Knife Attack at a Church in Sydney, Australia Leaves at Least 4 Injured""",negative,0.7791857123374939,-2,3,4,3
+4,chinese,"""Singapore Prime Minister Lee Hsien Loong to Resign from Prime Minister Position on May 15th""",neutral,0.8120656609535217,1,3,4,3
+5,chinese,"""Overview | How Much Longer Can the Price of Gold Rise?""",neutral,0.7887985110282898,1,3,4,3
+6,chinese,Chinese Citizen Injured in Sydney Shopping Center Attack is Not in Life-threatening Condition,negative,0.8653982281684875,-2,3,4,3
+7,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,3,4,3
+8,chinese,"Positive Factors Add Up, Strong Development Momentum! Chinese Economy Shows an Upward Trend of ""Climbing Step by Step""",positive,0.7984381318092346,3,3,4,3
+9,chinese,"""Media Reports the Release of 150 Detained Palestinians""",neutral,0.5587929487228394,1,3,4,3
