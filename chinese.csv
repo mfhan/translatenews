@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Steady and Far-reaching Modernization""",positive,0.6246766448020935,2,1,5,4
-1,chinese,"""North Sea Receives 1.4715 Million Tourists During ""Guangxi March 3rd"" Festival""",neutral,0.591333270072937,1,1,5,4
-2,chinese,"""High Passenger Traffic in Guangdong, Hong Kong, and Macau; Multiple Ports in Guangdong Experience Peak Customs Clearance""",neutral,0.6323353052139282,1,1,5,4
-3,chinese,"""Is AI a ""power-hungry monster""? Will it face ""power shortage""? China's solution is worth paying attention to.""",negative,0.7533762454986572,-2,1,5,4
-4,chinese,"""World Report: Pew Survey Shows Majority of American Teachers Worry About School Shootings, Only a Few Approve of School's Response Measures""",negative,0.559545636177063,-1,1,5,4
-5,chinese,"""Gaza Ceasefire Negotiations Make No Progress, Both Sides' Stances Remain Unchanged""",negative,0.7771856188774109,-2,1,5,4
-6,chinese,"""May Day holiday is approaching, these uncivilized behaviors are not acceptable when taking the train →""",negative,0.9274905920028687,-2,1,5,4
-7,chinese,"""Bilateral Trade Volume Between China and Australia to Increase by 4.1% in 2023""",neutral,0.6282973885536194,1,1,5,4
-8,chinese,"""Argentina has reported over 252,000 confirmed cases of dengue fever this year""",negative,0.49883222579956055,-1,1,5,4
-9,chinese,"""It concerns you and me! A comprehensive explanation of the overall national security concept""",neutral,0.7059895396232605,1,1,5,4
+0,chinese,"""Promoting the Development of Sino-German and Sino-European Relations through Deepening Practical Cooperation""",positive,0.5300734639167786,2,2,4,4
+1,chinese,"""Digital Interconnection ""Shaan"" Shines on the Silk Road"" Visit, Foreign Internet Celebrities Have Something to Say""",neutral,0.5686829686164856,1,2,4,4
+2,chinese,"""Strengthened Regulation, Risk Prevention, and Development Promotion: Accelerating the Implementation of the ""1+N"" Policy System in the Capital Market""",neutral,0.6504755616188049,1,2,4,4
+3,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,2,4,4
+4,chinese,"""North Sea Receives 1.4715 Million Tourists During ""Guangxi March 3rd"" Festival""",neutral,0.591333270072937,1,2,4,4
+5,chinese,"""High Volume of Passengers Traveling Between Guangdong, Hong Kong, and Macau; Multiple Ports in Guangdong Experience Peak Customs Clearance""",neutral,0.5595011115074158,1,2,4,4
+6,chinese,"""Is AI a ""power-hungry monster""? Will it face ""power shortage""? This solution from China is worth paying attention to.""",negative,0.7176483273506165,-2,2,4,4
+7,chinese,"""World Report: Pew Survey - Majority of American Teachers Worry About School Shootings, Only a Few Approve of School's Response Measures""",negative,0.5442046523094177,-1,2,4,4
+8,chinese,"""Ceasefire Negotiations in Gaza Make No Progress, Both Sides Maintain Unchanged Positions in Conflict""",negative,0.8142497539520264,-2,2,4,4
+9,chinese,"""The May Day holiday is coming soon, these uncivilized behaviors are not acceptable when taking the train →""",negative,0.9203228950500488,-2,2,4,4
