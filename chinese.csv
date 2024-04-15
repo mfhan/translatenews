@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Steady and Far-reaching Modernization""",positive,0.6246766448020935,2,2,5,3
-1,chinese,"""Ceasefire negotiations in Gaza show no progress, with no change in stance from both conflicting parties""",negative,0.8293913006782532,-2,2,5,3
-2,chinese,"""May Day holiday is coming soon, these uncivilized behaviors are not acceptable when taking the train →""",negative,0.922416627407074,-2,2,5,3
-3,chinese,"""China-Australia Bilateral Trade Volume Expected to Increase by 4.1% in 2023""",neutral,0.6020162105560303,1,2,5,3
-4,chinese,"""Argentina has reported over 252,000 confirmed cases of dengue fever this year""",negative,0.49883222579956055,-1,2,5,3
-5,chinese,"""It concerns you and me! A comprehensive explanation of the overall national security concept""",neutral,0.7059895396232605,1,2,5,3
-6,chinese,"""Israeli Attack on Central Gaza Strip Leaves at Least 12 Dead""",negative,0.731777012348175,-2,2,5,3
-7,chinese,"""National Style Personalized Consumption is on Fire: Sales of ""New Chinese Style"" Women's Clothing Increased by 400% Year-on-Year""",neutral,0.4951961636543274,1,2,5,3
-8,chinese,"""Strong rainfall hits southern regions this week, followed by a new cold air mass bringing cooler temperatures""",positive,0.4920925498008728,2,2,5,3
-9,chinese,"""Iranian Media Reports Multiple Airports in Iran Cancel All Flights on the 14th""",negative,0.6973453164100647,-1,2,5,3
+0,chinese,"""Core Concept | Deeply Implementing the Overall National Security Concept, Fully Safeguarding China's Steady and Far-reaching Modernization""",positive,0.6246766448020935,2,1,5,4
+1,chinese,"""North Sea Receives 1.4715 Million Tourists During ""Guangxi March 3rd"" Festival""",neutral,0.591333270072937,1,1,5,4
+2,chinese,"""High Passenger Traffic in Guangdong, Hong Kong, and Macau; Multiple Ports in Guangdong Experience Peak Customs Clearance""",neutral,0.6323353052139282,1,1,5,4
+3,chinese,"""Is AI a ""power-hungry monster""? Will it face ""power shortage""? China's solution is worth paying attention to.""",negative,0.7533762454986572,-2,1,5,4
+4,chinese,"""World Report: Pew Survey Shows Majority of American Teachers Worry About School Shootings, Only a Few Approve of School's Response Measures""",negative,0.559545636177063,-1,1,5,4
+5,chinese,"""Gaza Ceasefire Negotiations Make No Progress, Both Sides' Stances Remain Unchanged""",negative,0.7771856188774109,-2,1,5,4
+6,chinese,"""May Day holiday is approaching, these uncivilized behaviors are not acceptable when taking the train →""",negative,0.9274905920028687,-2,1,5,4
+7,chinese,"""Bilateral Trade Volume Between China and Australia to Increase by 4.1% in 2023""",neutral,0.6282973885536194,1,1,5,4
+8,chinese,"""Argentina has reported over 252,000 confirmed cases of dengue fever this year""",negative,0.49883222579956055,-1,1,5,4
+9,chinese,"""It concerns you and me! A comprehensive explanation of the overall national security concept""",neutral,0.7059895396232605,1,1,5,4
