@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting the Development of Sino-German and Sino-European Relations through Deepening Practical Cooperation""",positive,0.5300734639167786,2,2,4,4
-1,chinese,"""Digital Interconnection ""Shaan"" Shines on the Silk Road"" Visit, Foreign Internet Celebrities Have Something to Say""",neutral,0.5686829686164856,1,2,4,4
-2,chinese,"""Strengthened Regulation, Risk Prevention, and Development Promotion: Accelerating the Implementation of the ""1+N"" Policy System in the Capital Market""",neutral,0.6504755616188049,1,2,4,4
-3,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,2,4,4
-4,chinese,"""North Sea Receives 1.4715 Million Tourists During ""Guangxi March 3rd"" Festival""",neutral,0.591333270072937,1,2,4,4
-5,chinese,"""High Volume of Passengers Traveling Between Guangdong, Hong Kong, and Macau; Multiple Ports in Guangdong Experience Peak Customs Clearance""",neutral,0.5595011115074158,1,2,4,4
-6,chinese,"""Is AI a ""power-hungry monster""? Will it face ""power shortage""? This solution from China is worth paying attention to.""",negative,0.7176483273506165,-2,2,4,4
-7,chinese,"""World Report: Pew Survey - Majority of American Teachers Worry About School Shootings, Only a Few Approve of School's Response Measures""",negative,0.5442046523094177,-1,2,4,4
-8,chinese,"""Ceasefire Negotiations in Gaza Make No Progress, Both Sides Maintain Unchanged Positions in Conflict""",negative,0.8142497539520264,-2,2,4,4
-9,chinese,"""The May Day holiday is coming soon, these uncivilized behaviors are not acceptable when taking the train →""",negative,0.9203228950500488,-2,2,4,4
+0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,3,2,5
+1,chinese,Chinese Citizen Injured in Sydney Shopping Center Attack is Not in Life-Threatening Condition,negative,0.8599016666412354,-2,3,2,5
+2,chinese,"""Iran Warns Several Countries of Attack, US Officials Claim No Information Received""",negative,0.7404745221138,-2,3,2,5
+3,chinese,"Positive Factors Accumulate, Development Momentum is Strong! China's Economy Shows a Positive Trend of ""Climbing Upward""",positive,0.8029996156692505,3,3,2,5
+4,chinese,"""Media Reports the Release of 150 Detained Palestinians""",neutral,0.5587929487228394,1,3,2,5
+5,chinese,"""Exploring the 'Digital Silk Road' in Shaanxi: Foreign Internet Celebrities Share Their Thoughts""",neutral,0.7332931756973267,1,3,2,5
+6,chinese,"""Strengthened Supervision, Risk Prevention, and Development Promotion: Implementation of the ""1+N"" Policy System in the Capital Market Accelerates""",neutral,0.7273123860359192,1,3,2,5
+7,chinese,"""New Concepts, New Designs! The 4th Consumer Expo Showcases the Trend of Green and Low-Carbon Consumption""",positive,0.522824764251709,2,3,2,5
+8,chinese,"""Beihai Receives 1.4715 Million Tourists during ""Guangxi March 3rd""""",neutral,0.6191166639328003,1,3,2,5
+9,chinese,"""High Passenger Traffic Operation in Guangdong, Hong Kong, and Macau; Multiple Ports in Guangdong Experience Peak Customs Clearance""",neutral,0.7130556106567383,1,3,2,5
