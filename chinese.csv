@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,5,1,4
-1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,5,1,4
-2,chinese,"""Digital Silk Road Development Forum | Foreign Internet Celebrities Experience Digital Trade""",neutral,0.8619329333305359,1,5,1,4
-3,chinese,"""Full of ""green"" content! Over 450,000 environmentally-friendly and low-carbon products at this year's Canton Fair""",positive,0.7657475471496582,3,5,1,4
-4,chinese,"Another ""Made in China""! China successfully develops 100-ton super-thrust electric vibration testing system",positive,0.6607542037963867,2,5,1,4
-5,chinese,"""China's Nuclear Power Generation Ranks Second in the World in 2023""",neutral,0.6613946557044983,1,5,1,4
-6,chinese,"""World Internet Conference Digital Silk Road Development Forum Opens in Xi'an""",neutral,0.8062548637390137,1,5,1,4
-7,chinese,"""135th Canton Fair Implements Multiple Measures to Facilitate Payments, Over 60,000 Overseas Buyers Attend on First Day""",positive,0.5500565767288208,2,5,1,4
-8,chinese,"""China's First Quarter Economic ""Report Card"" Released, These Indicators Achieve Rapid Growth""",positive,0.626880407333374,2,5,1,4
-9,chinese,"""Over 26 million Public Participants in 6 Years, Agricultural Science Open Day Plants Curiosity Seeds in Children's Hearts""",neutral,0.6012620329856873,1,5,1,4
+0,chinese,"""Strengthening Pragmatic Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6646902561187744,2,4,2,4
+1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,4,2,4
+2,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Foreign Ministry: Strongly Opposes""",negative,0.7403535842895508,-2,4,2,4
+3,chinese,"""Digital Silk Road Development Forum | Foreign Internet Celebrities Experience Digital Trade""",neutral,0.8619329333305359,1,4,2,4
+4,chinese,"""Full of 'Green' Content! Over 450,000 Green and Low-Carbon Products at This Year's Canton Fair""",neutral,0.49891433119773865,1,4,2,4
+5,chinese,"Another ""Made in China""! China successfully developed a 100-ton super-thrust electric vibration testing system.",positive,0.6053688526153564,2,4,2,4
+6,chinese,"""China's Nuclear Power Generation Ranks Second in the World in 2023""",neutral,0.6613946557044983,1,4,2,4
+7,chinese,"""World Internet Conference Digital Silk Road Development Forum Opens in Xi'an""",neutral,0.8062548637390137,1,4,2,4
+8,chinese,"""135th Canton Fair Implements Multiple Measures to Facilitate Payment, Over 60,000 Overseas Buyers Attended on the First Day""",positive,0.5578374266624451,2,4,2,4
+9,chinese,"""China's Economic First Quarter ""Report Card"" Released, These Indicators Achieve Rapid Growth""",positive,0.6266213655471802,2,4,2,4
