@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,4,3,3
-1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,4,3,3
-2,chinese,"""Over 26 million public participants in 6 years, Agricultural Science Open Day plants the seed of curiosity in children's hearts""",positive,0.7550790905952454,3,4,3,3
-3,chinese,"""Visitors to Hong Kong in the first quarter of this year reached approximately 11.23 million, an increase of 1.5 times compared to the previous year""",neutral,0.657538115978241,1,4,3,3
-4,chinese,"""Can 12306 points be exchanged for train tickets? How to exchange? Tutorial is here →""",neutral,0.8948178887367249,1,4,3,3
-5,chinese,"""Opposition against Government's Expansion of Enrollment: Over Half of South Korean Medical University Students Apply for Leave of Absence""",negative,0.8031439185142517,-2,4,3,3
-6,chinese,"""Year-on-Year Increase of 28.5%! First Quarter National Railway Passenger Volume Surpasses 1 Billion""",neutral,0.575115978717804,1,4,3,3
-7,chinese,"""10 Provinces and Cities Issued Yellow Alert for Severe Convective Weather""",negative,0.48254314064979553,-1,4,3,3
-8,chinese,"""Digital Interconnection Shines on the Silk Road in Shaanxi: Foreign Internet Celebrities Share Their Thoughts""",positive,0.5285409092903137,2,4,3,3
-9,chinese,"""China's GDP grew by 5.3% year-on-year in the first quarter of this year""",positive,0.4682610332965851,2,4,3,3
+0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,5,2,3
+1,chinese,"""Brazilian Scholar: Fitch Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8597924709320068,-2,5,2,3
+2,chinese,"""World Internet Conference Digital Silk Road Development Forum Opens in Xi'an""",neutral,0.8062548637390137,1,5,2,3
+3,chinese,"""The 135th Canton Fair Implements Multiple Measures to Facilitate Payment, Over 60,000 Overseas Buyers Attend on the First Day""",positive,0.6117935180664062,2,5,2,3
+4,chinese,"""China's Economic ""Report Card"" for the First Quarter Released, These Indicators Achieved Rapid Growth""",positive,0.6821402907371521,2,5,2,3
+5,chinese,"""Over 26 million Public Participants in 6 Years, Agricultural Science Open Day Plants the Seed of Curiosity in Children's Hearts""",positive,0.556473970413208,2,5,2,3
+6,chinese,"""Visitors to Hong Kong in the first quarter of this year reached approximately 11.23 million, an increase of 1.5 times compared to the previous year.""",neutral,0.6465073227882385,1,5,2,3
+7,chinese,"""Can 12306 points be exchanged for train tickets? How to exchange? Tutorial is here →""",neutral,0.8948178887367249,1,5,2,3
+8,chinese,"""Opposition to Government's Expansion of Enrollment: Over Half of Medical University Students in South Korea Apply for Leave of Absence""",negative,0.752515971660614,-2,5,2,3
+9,chinese,"""Year-on-year growth of 28.5%! National railway sends over 1 billion passengers in the first quarter""",positive,0.6382021307945251,2,5,2,3
