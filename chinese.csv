@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting the Development of Sino-German and Sino-European Relations through Deepening Practical Cooperation""",positive,0.5300734639167786,2,5,2,3
-1,chinese,"""Brazilian Scholar: Moody's Downgrade of China's Sovereign Credit Rating is Driven by Deep-rooted Economic and Political Interests""",negative,0.6346662640571594,-1,5,2,3
-2,chinese,"""International Passenger Train on China-Laos Railway Achieves Impressive Results in First Year of Operation""",positive,0.8761967420578003,3,5,2,3
-3,chinese,"""Gasoline and Diesel Prices Increase, Raising by 200 Yuan and 195 Yuan per Ton Respectively""",neutral,0.8080132007598877,1,5,2,3
-4,chinese,"""China's Industrialization Rate of Invented Patents Achieves Five Consecutive Increases""",neutral,0.5267690420150757,1,5,2,3
-5,chinese,"""Paris Olympic Flame Successfully Lit at Ancient Olympia in Greece""",positive,0.6407592296600342,2,5,2,3
-6,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Foreign Ministry: Strongly Opposes""",negative,0.7403535842895508,-2,5,2,3
-7,chinese,"""Digital Silk Road Development Forum | Foreign Internet Celebrities Experience Digital Trade""",neutral,0.8619329333305359,1,5,2,3
-8,chinese,"""Full of ""green"" content! Over 450,000 environmentally friendly and low-carbon products showcased at this year's Canton Fair""",positive,0.7815858721733093,3,5,2,3
-9,chinese,"Another ""Made in China""! China successfully develops 100-ton super large thrust electric vibration test system",positive,0.6414679288864136,2,5,2,3
+0,chinese,"""Promoting the Development of Sino-German and Sino-European Relations through Strengthening Practical Cooperation and Fairness""",positive,0.5842603445053101,2,4,2,4
+1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,4,2,4
+2,chinese,"""China-Laos Railway International Passenger Train Achieves Outstanding Results in Its First Year of Operation""",positive,0.8637535572052002,3,4,2,4
+3,chinese,"""Gasoline and diesel prices increase, with a raise of 200 yuan and 195 yuan per ton respectively""",neutral,0.7781280875205994,1,4,2,4
+4,chinese,"""China's Industrialization Rate of Invention Patents Achieves Five Consecutive Increases""",neutral,0.5021678805351257,1,4,2,4
+5,chinese,"""The Olympic Flame for the Paris Olympics Successfully Lit in Ancient Olympia, Greece""",neutral,0.5777245759963989,1,4,2,4
+6,chinese,"""British government releases so-called ""Hong Kong Issue Semi-Annual Report"", Ministry of Foreign Affairs: Strongly Opposes""",negative,0.8189185261726379,-2,4,2,4
+7,chinese,"""Digital Silk Road Development Forum | Foreign Internet Celebrities Experience Digital Trade""",neutral,0.8619329333305359,1,4,2,4
+8,chinese,"""Full of ""green"" content! Over 450,000 environmentally-friendly and low-carbon products at this year's Canton Fair""",positive,0.7657475471496582,3,4,2,4
+9,chinese,"Another ""Made in China""! China successfully develops 100-ton super-thrust electric vibration testing system",positive,0.6607542037963867,2,4,2,4
