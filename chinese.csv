@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,3,2,5
-1,chinese,"""Visitors to Hong Kong in the first quarter of this year reached approximately 11.23 million, an increase of 1.5 times compared to the previous year""",neutral,0.657538115978241,1,3,2,5
+1,chinese,"""Visitors to Hong Kong in the first quarter of this year reached approximately 11.23 million, an increase of 1.5 times compared to last year.""",neutral,0.64903324842453,1,3,2,5
 2,chinese,"""Can 12306 points be exchanged for train tickets? How to exchange? Tutorial is here →""",neutral,0.8948178887367249,1,3,2,5
-3,chinese,"""Opposition to Government's Expansion of Enrollment: Over Half of Medical University Students in South Korea Apply for Leave of Absence""",negative,0.752515971660614,-2,3,2,5
-4,chinese,"""Year-on-Year Growth of 28.5%! First Quarter National Railway Passenger Volume Exceeds 1 Billion""",positive,0.5165932774543762,2,3,2,5
-5,chinese,"""10 Provinces and Cities Issued Yellow Alert for Severe Convective Weather""",negative,0.48254314064979553,-1,3,2,5
-6,chinese,"""Digital Interconnection Shines on the Silk Road in Shaanxi Province: Foreign Internet Celebrities Share Their Thoughts""",positive,0.5567694902420044,2,3,2,5
+3,chinese,"""Opposition to Government's Expansion of Enrollment: Over Half of South Korean Medical Students Apply for Leave of Absence""",negative,0.7315177321434021,-2,3,2,5
+4,chinese,"""Year-on-Year Growth of 28.5%! National Railway Sends Over 1 Billion Passengers in the First Quarter""",positive,0.5952879786491394,2,3,2,5
+5,chinese,"""10 Provinces and Cities Issued Yellow Warning for Severe Convective Weather""",negative,0.5541251301765442,-1,3,2,5
+6,chinese,"""Digital Connection Shines on the Silk Road: Foreign Internet Celebrities Share Their Thoughts on Visiting Shaanxi""",positive,0.6052294373512268,2,3,2,5
 7,chinese,"""China's GDP grew 5.3% year-on-year in the first quarter of this year""",neutral,0.49941375851631165,1,3,2,5
 8,chinese,"""National Box Office Revenue for Commercial Performances Reaches 10.8 Billion Yuan in the First Quarter""",neutral,0.7199097871780396,1,3,2,5
 9,chinese,"""US President Meets with Iraqi Prime Minister to Discuss Regional Situation and More""",neutral,0.765129566192627,1,3,2,5
