@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Pragmatic Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6646902561187744,2,5,2,3
+0,chinese,"""Promoting the Development of Sino-German and Sino-European Relations through Deepening Practical Cooperation""",positive,0.5300734639167786,2,5,2,3
 1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,5,2,3
-2,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Foreign Ministry: Strongly Opposes""",negative,0.7403535842895508,-2,5,2,3
+2,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Ministry of Foreign Affairs: Strongly Opposes""",negative,0.7759444117546082,-2,5,2,3
 3,chinese,"""Digital Silk Road Development Forum | Foreign Internet Celebrities Experience Digital Trade""",neutral,0.8619329333305359,1,5,2,3
-4,chinese,"""Full of ""Green"" Content! Over 450,000 Pieces of Green and Low-Carbon Products at This Year's Canton Fair""",positive,0.5071202516555786,2,5,2,3
-5,chinese,"Another ""Made in China""! China successfully develops 100-ton super-thrust electric vibration testing system",positive,0.6607542037963867,2,5,2,3
-6,chinese,"""China's Nuclear Power Generation Ranks Second in the World in 2023""",neutral,0.6613946557044983,1,5,2,3
+4,chinese,"""Full of ""Green"" Content! Over 450,000 Green and Low-Carbon Products at This Year's Canton Fair""",positive,0.49437353014945984,2,5,2,3
+5,chinese,"Another ""Made in China""! China successfully developed a 100-ton super-thrust electric vibration test system.",positive,0.6039720773696899,2,5,2,3
+6,chinese,"""China's Nuclear Power Generation Ranks Second Globally in 2023""",neutral,0.7082582712173462,1,5,2,3
 7,chinese,"""World Internet Conference Digital Silk Road Development Forum Opens in Xi'an""",neutral,0.8062548637390137,1,5,2,3
-8,chinese,"""The 135th Canton Fair Introduces Multiple Measures to Facilitate Payment, Over 60,000 Overseas Buyers Attend on the First Day""",positive,0.5818015336990356,2,5,2,3
-9,chinese,"""China's first quarter economic report card released, these indicators show rapid growth""",positive,0.623496413230896,2,5,2,3
+8,chinese,"""The 135th Canton Fair Implements Multiple Measures to Facilitate Payment, Over 60,000 Overseas Buyers Attend on the First Day""",positive,0.6117935180664062,2,5,2,3
+9,chinese,"""China's Economic ""Report Card"" for the First Quarter Released, These Indicators Achieve Rapid Growth""",positive,0.6285762786865234,2,5,2,3
