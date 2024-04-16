@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,5,2,3
+0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,5,2,3
 1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,5,2,3
-2,chinese,"""International Passenger Train on China-Laos Railway Achieves Impressive Results in First Year of Operation""",positive,0.8761967420578003,3,5,2,3
-3,chinese,"""Gasoline and Diesel Prices Increase, Raising by 200 Yuan and 195 Yuan per Ton Respectively""",neutral,0.8080132007598877,1,5,2,3
+2,chinese,"""China-Laos Railway's International Passenger Train Achieves Outstanding Results in Its First Year of Operation""",positive,0.8664914965629578,3,5,2,3
+3,chinese,"""Gasoline and diesel prices increase, with a rise of 200 yuan and 195 yuan per ton respectively""",neutral,0.7663804292678833,1,5,2,3
 4,chinese,"""China's Industrialization Rate of Invention Patents Achieves Five Consecutive Increases""",neutral,0.5021678805351257,1,5,2,3
 5,chinese,"""Paris Olympic Flame Successfully Lit at Ancient Olympia in Greece""",positive,0.6407592296600342,2,5,2,3
 6,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Foreign Ministry: Strongly Opposes""",negative,0.7403535842895508,-2,5,2,3
 7,chinese,"""Digital Silk Road Development Forum | Foreign Internet Celebrities Experience Digital Trade""",neutral,0.8619329333305359,1,5,2,3
-8,chinese,"""Full of ""Green"" Content! Over 450,000 Green and Low-Carbon Products at This Year's Canton Fair""",positive,0.49437353014945984,2,5,2,3
-9,chinese,"Another ""Made in China""! Our country successfully developed a 100-ton super thrust electric vibration test system.",positive,0.6067355275154114,2,5,2,3
+8,chinese,"""Full of ""green"" content! Over 450,000 environmentally-friendly and low-carbon products showcased at this year's Canton Fair""",positive,0.7846386432647705,3,5,2,3
+9,chinese,"Another ""Made in China""! Our country successfully developed a 100-ton super-thrust electric vibration test system.",positive,0.6035864353179932,2,5,2,3
