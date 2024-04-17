@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,5,3,2
-1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,5,3,2
-2,chinese,"""World Report: Study Shows Overdose Crisis, Economic Insecurity, and Lack of Healthcare Contribute to a Decade of Rising ""Despair Death Rates"" Among African American and Native American Populations in the United States""",negative,0.792689323425293,-2,5,3,2
-3,chinese,"""Listen! American students sing 'On the Field of Hope'""",positive,0.5307848453521729,2,5,3,2
-4,chinese,"""Mercedes-Benz: Optimistic about Long-term Development, Will Continue to Invest in China""",positive,0.7847070693969727,3,5,3,2
-5,chinese,"""China-Laos Railway's International Passenger Train Achieves Impressive Results in Its First Year of Operation""",positive,0.884739339351654,3,5,3,2
-6,chinese,"""Gasoline and Diesel Prices Increase, Raising by 200 yuan and 195 yuan per ton respectively""",neutral,0.7823284864425659,1,5,3,2
-7,chinese,"""China's Industrialization Rate of Invention Patents Achieves Five Consecutive Increases""",neutral,0.5021678805351257,1,5,3,2
-8,chinese,"""Paris Olympic Flame Successfully Lit at Ancient Olympia in Greece""",positive,0.6407592296600342,2,5,3,2
-9,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Foreign Ministry: Strongly Opposes""",negative,0.7403535842895508,-2,5,3,2
+0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,2,1,7
+1,chinese,"""American Scholar: During Yellen's Visit to China, She Didn't Mention ""Containment"" but Every Sentence Implies It""",neutral,0.6758821606636047,1,2,1,7
+2,chinese,"""Building the Digital Silk Road Together, Sharing the ""Digital Dividend""""",positive,0.48221686482429504,2,2,1,7
+3,chinese,"""Shenzhou-18 spacecraft and rocket combination transported to launch area, planned to launch in the near future""",neutral,0.6556706428527832,1,2,1,7
+4,chinese,"""Southern Theater Command: Starting Today, Our Side of the China-Myanmar Border Conducts Live Fire Air Defense Exercise""",neutral,0.8228645324707031,1,2,1,7
+5,chinese,"""Tickets for ""May Day"" Holiday Train Now on Sale, These Cities are the Most Popular""",neutral,0.5144242644309998,1,2,1,7
+6,chinese,"""Temperature Rising in the North, Continued Cooling in Many Southern Regions, New Round of Precipitation to Affect China Starting Tomorrow""",neutral,0.5516872406005859,1,2,1,7
+7,chinese,"""Do we need to ""fight for tickets"" to come to China with Joe Kaeser? Siemens CEO: We don't need to""",neutral,0.7657345533370972,1,2,1,7
+8,chinese,"""Free Trade Port Construction Drives Hainan's Quarterly Imports and Exports to Exceed 60 Billion Yuan for the First Time""",neutral,0.5047764182090759,1,2,1,7
+9,chinese,"""World Report: Study Finds Overdose Crisis, Economic Insecurity, and Lack of Healthcare Contribute to a Decade of Rising 'Despair Death Rates' Among African American and Native American Populations in the United States""",negative,0.7847894430160522,-2,2,1,7
