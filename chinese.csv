@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,2,1,7
-1,chinese,"""American Scholar: During Yellen's Visit to China, She Didn't Mention ""Containment"" but Every Sentence Implies It""",neutral,0.6758821606636047,1,2,1,7
-2,chinese,"""Building the Digital Silk Road Together, Sharing the ""Digital Dividend""""",positive,0.48221686482429504,2,2,1,7
-3,chinese,"""Shenzhou-18 spacecraft and rocket combination transported to launch area, planned to launch in the near future""",neutral,0.6556706428527832,1,2,1,7
-4,chinese,"""Southern Theater Command: Starting Today, Our Side of the China-Myanmar Border Conducts Live Fire Air Defense Exercise""",neutral,0.8228645324707031,1,2,1,7
-5,chinese,"""Tickets for ""May Day"" Holiday Train Now on Sale, These Cities are the Most Popular""",neutral,0.5144242644309998,1,2,1,7
-6,chinese,"""Temperature Rising in the North, Continued Cooling in Many Southern Regions, New Round of Precipitation to Affect China Starting Tomorrow""",neutral,0.5516872406005859,1,2,1,7
-7,chinese,"""Do we need to ""fight for tickets"" to come to China with Joe Kaeser? Siemens CEO: We don't need to""",neutral,0.7657345533370972,1,2,1,7
-8,chinese,"""Free Trade Port Construction Drives Hainan's Quarterly Imports and Exports to Exceed 60 Billion Yuan for the First Time""",neutral,0.5047764182090759,1,2,1,7
-9,chinese,"""World Report: Study Finds Overdose Crisis, Economic Insecurity, and Lack of Healthcare Contribute to a Decade of Rising 'Despair Death Rates' Among African American and Native American Populations in the United States""",negative,0.7847894430160522,-2,2,1,7
+0,chinese,"""Strengthening Pragmatic Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6646902561187744,2,5,1,4
+1,chinese,"""American Scholar: Yellen's Visit to China, No Mention of ""Containment"" but Every Sentence Hints at ""Containment""""",neutral,0.7645556926727295,1,5,1,4
+2,chinese,"""Ministry of Foreign Affairs: China's Strong Economic Start Boosts International Community's Confidence in China""",positive,0.772444486618042,3,5,1,4
+3,chinese,"""Ren Xianliang: Digital Silk Road is an Organic Combination of Digital Economic Development and the ""Belt and Road"" Initiative""",neutral,0.682998776435852,1,5,1,4
+4,chinese,"""Francis Gao Rui: Digital Technology Accelerates Interconnection""",positive,0.6986691355705261,2,5,1,4
+5,chinese,"""Three Departments Issue Document to Promote High-Quality Development of Financial Support for Manufacturing Industry""",positive,0.5698323845863342,2,5,1,4
+6,chinese,"""UAE Experiences Strongest Recorded Rainfall in History""",positive,0.4426480829715729,2,5,1,4
+7,chinese,"""May Day holiday train tickets go on sale today! Railway officials respond: ""Some trains sold out within seconds of being available.""""",neutral,0.7255642414093018,1,5,1,4
+8,chinese,"""Our Favorite Local Snacks We've Tried"" Episode 1 | Yunnan Rice Cakes",neutral,0.6930920481681824,1,5,1,4
+9,chinese,"""Bilingual News: Survey Shows Over One-Third of Translators Have Lost Their Jobs Due to Generative Artificial Intelligence""",negative,0.7234587669372559,-2,5,1,4
