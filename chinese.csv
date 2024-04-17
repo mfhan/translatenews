@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,4,2,4
-1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,4,2,4
-2,chinese,"""China-Laos Railway's International Passenger Train Achieves Impressive Results in Its First Year of Operation""",positive,0.884739339351654,3,4,2,4
-3,chinese,"""Gasoline and Diesel Prices Increase, with a Rise of 200 Yuan and 195 Yuan per Ton Respectively""",neutral,0.8054519295692444,1,4,2,4
-4,chinese,"""China's Industrialization Rate of Invention Patents Achieves Five Consecutive Increases""",neutral,0.5021678805351257,1,4,2,4
-5,chinese,"""The Flame of the Paris Olympics Successfully Lit at Ancient Olympia in Greece""",neutral,0.5113311409950256,1,4,2,4
-6,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Ministry of Foreign Affairs: Strongly Opposes""",negative,0.7759444117546082,-2,4,2,4
-7,chinese,"""Digital Silk Road Development Forum | Foreign Internet Celebrities Experience Digital Trade""",neutral,0.8619329333305359,1,4,2,4
-8,chinese,"""Full of ""Green"" Content! Over 450,000 Green and Low-Carbon Products at This Year's Canton Fair""",positive,0.49437353014945984,2,4,2,4
-9,chinese,"Another ""Made in China""! China successfully develops 100-ton super-thrust electric vibration testing system",positive,0.6607542037963867,2,4,2,4
+0,chinese,"""Strengthening Practical Cooperation and Promoting the Development of Sino-German and Sino-European Relations""",positive,0.6195971369743347,2,5,3,2
+1,chinese,"""Brazilian Scholar: S&P Downgrades China's Sovereign Credit Rating, Rooted in Deep-Seated Economic and Political Interests""",negative,0.8627034425735474,-2,5,3,2
+2,chinese,"""World Report: Study Shows Overdose Crisis, Economic Insecurity, and Lack of Healthcare Contribute to a Decade of Rising ""Despair Death Rates"" Among African American and Native American Populations in the United States""",negative,0.792689323425293,-2,5,3,2
+3,chinese,"""Listen! American students sing 'On the Field of Hope'""",positive,0.5307848453521729,2,5,3,2
+4,chinese,"""Mercedes-Benz: Optimistic about Long-term Development, Will Continue to Invest in China""",positive,0.7847070693969727,3,5,3,2
+5,chinese,"""China-Laos Railway's International Passenger Train Achieves Impressive Results in Its First Year of Operation""",positive,0.884739339351654,3,5,3,2
+6,chinese,"""Gasoline and Diesel Prices Increase, Raising by 200 yuan and 195 yuan per ton respectively""",neutral,0.7823284864425659,1,5,3,2
+7,chinese,"""China's Industrialization Rate of Invention Patents Achieves Five Consecutive Increases""",neutral,0.5021678805351257,1,5,3,2
+8,chinese,"""Paris Olympic Flame Successfully Lit at Ancient Olympia in Greece""",positive,0.6407592296600342,2,5,3,2
+9,chinese,"""British Government Releases So-Called ""Hong Kong Issue Semi-Annual Report"", Foreign Ministry: Strongly Opposes""",negative,0.7403535842895508,-2,5,3,2
