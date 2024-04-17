@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Pragmatic Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6646902561187744,2,5,1,4
-1,chinese,"""American Scholar: Yellen's Visit to China, No Mention of ""Containment"" but Every Sentence Hints at ""Containment""""",neutral,0.7645556926727295,1,5,1,4
-2,chinese,"""Ministry of Foreign Affairs: China's Strong Economic Start Boosts International Community's Confidence in China""",positive,0.772444486618042,3,5,1,4
-3,chinese,"""Ren Xianliang: Digital Silk Road is an Organic Combination of Digital Economic Development and the ""Belt and Road"" Initiative""",neutral,0.682998776435852,1,5,1,4
+0,chinese,"""Promoting the Development of Sino-German and Sino-European Relations through Deepening Practical Cooperation""",positive,0.5300734639167786,2,5,1,4
+1,chinese,"""American Scholar: During Yellen's Visit to China, She Didn't Say ""Containment"" Out Loud, But Every Sentence Implied It""",neutral,0.5777010917663574,1,5,1,4
+2,chinese,Ministry of Foreign Affairs: China's Strong Economic Start Boosts International Community's Confidence in China,positive,0.7888115644454956,3,5,1,4
+3,chinese,"""Ren Xianliang: Digital Silk Road is an Organic Integration of Digital Economic Development and the ""Belt and Road"" Initiative""",neutral,0.6983481049537659,1,5,1,4
 4,chinese,"""Francis Gao Rui: Digital Technology Accelerates Interconnection""",positive,0.6986691355705261,2,5,1,4
 5,chinese,"""Three Departments Issue Document to Promote High-Quality Development of Financial Support for Manufacturing Industry""",positive,0.5698323845863342,2,5,1,4
 6,chinese,"""UAE Experiences Strongest Recorded Rainfall in History""",positive,0.4426480829715729,2,5,1,4
-7,chinese,"""May Day holiday train tickets go on sale today! Railway officials respond: ""Some trains sold out within seconds of being available.""""",neutral,0.7255642414093018,1,5,1,4
-8,chinese,"""Our Favorite Local Snacks We've Tried"" Episode 1 | Yunnan Rice Cakes",neutral,0.6930920481681824,1,5,1,4
+7,chinese,"""May Day holiday train tickets go on sale today! Railway officials respond: ""Some trains sold out within seconds of opening sales.""",neutral,0.7054482698440552,1,5,1,4
+8,chinese,"""Our Pursuit of Unique Snacks"" Episode 1 | Yunnan Rice Cakes",neutral,0.8416174054145813,1,5,1,4
 9,chinese,"""Bilingual News: Survey Shows Over One-Third of Translators Have Lost Their Jobs Due to Generative Artificial Intelligence""",negative,0.7234587669372559,-2,5,1,4
