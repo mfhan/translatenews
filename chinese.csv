@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strengthening Pragmatic Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6646902561187744,2,5,0,5
-1,chinese,"""American Scholar: During Yellen's Visit to China, She Didn't Say ""Containment"" Out Loud, but Every Sentence Implied It""",neutral,0.5761594772338867,1,5,0,5
-2,chinese,"Dutch lithography giant ASML releases latest financial report, with revenue from mainland China accounting for 49%",neutral,0.514387845993042,1,5,0,5
-3,chinese,"""Successfully retrieved from the United States! 38 lost cultural relics and artworks will be returned to the motherland""",positive,0.6775738596916199,2,5,0,5
-4,chinese,"""Ministry of Commerce Spokesperson Issues Statement on US Launching 301 Investigation against China""",neutral,0.5462281703948975,1,5,0,5
-5,chinese,"""Top 10 Popular Domestic Destinations for the ""May Day"" Holiday Revealed! Flight Bookings Soar""",neutral,0.7134012579917908,1,5,0,5
-6,chinese,"""Foreign Ministry: China's Strong Economic Start Boosts International Community's Confidence in China""",positive,0.7721399664878845,3,5,0,5
-7,chinese,"""Ren Xianliang: Digital Silk Road is an Organic Integration of Digital Economic Development and the ""Belt and Road"" Initiative""",neutral,0.6983481049537659,1,5,0,5
-8,chinese,"""Francis Gao Rui: Digital Technology Accelerates Interconnection""",positive,0.6986691355705261,2,5,0,5
-9,chinese,"""Three Departments Issue Document to Promote High-Quality Development of Financial Support for Manufacturing Industry""",positive,0.5698323845863342,2,5,0,5
+0,chinese,"""Strengthening Practical Cooperation to Promote the Development of Sino-German and Sino-European Relations""",positive,0.6427642107009888,2,4,0,6
+1,chinese,"""American Scholar: During Yellen's Visit to China, She Didn't Mention ""Containment"" but Every Sentence Implied It""",neutral,0.6146247982978821,1,4,0,6
+2,chinese,"""Food Diplomacy"" Builds a Bridge for Communication Between China and the US, American People Praise Chinese Cuisine Culture",positive,0.8138962984085083,3,4,0,6
+3,chinese,"""Number of Visa-Free Foreign Visitors Reaching 1.988 Million in the First Quarter""",neutral,0.6386476755142212,1,4,0,6
+4,chinese,"""Trillion-Yuan Ultra-Long-Term Special National Bonds to Be Issued at a Chosen Time""",neutral,0.8451117277145386,1,4,0,6
+5,chinese,"""Wang Yi: China Supports Palestine Becoming a Formal Member of the United Nations""",positive,0.5805859565734863,2,4,0,6
+6,chinese,"Dutch lithography giant ASML releases latest financial report, net system sales from mainland China account for 49%",neutral,0.6101782321929932,1,4,0,6
+7,chinese,"""Successfully Retrieving from the United States! 38 Lost Cultural Relics and Artworks Will Return to the Motherland""",positive,0.5921894907951355,2,4,0,6
+8,chinese,"""Ministry of Commerce Spokesperson Issues Statement on US Launching 301 Investigation Against China""",neutral,0.6315401196479797,1,4,0,6
+9,chinese,"""Top 10 Popular Domestic Destinations for the ""May Day"" Holiday Revealed! Flight Bookings Soar!""",neutral,0.6189385652542114,1,4,0,6
