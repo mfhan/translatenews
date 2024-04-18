@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Fairness | Let Mutual Benefit and Win-Win Continue to be the Touchstone of Sino-German Relations""",positive,0.6836408972740173,2,4,3,3
-1,chinese,"""American Scholar: During Yellen's Visit to China, She Didn't Mention ""Containment"" but Every Sentence Implies It""",neutral,0.6758821606636047,1,4,3,3
-2,chinese,"""Ministry of Education Releases First Batch of 18 Typical Case Studies of ""Artificial Intelligence + Higher Education"" Application Scenarios""",neutral,0.8677389621734619,1,4,3,3
-3,chinese,"""Jilin Reports Investigation into Death of Student in Baicheng: Revocation of Involved Teacher's Qualifications""",negative,0.6496407985687256,-1,4,3,3
-4,chinese,"""Japanese Kobayashi Pharmaceutical Company's problematic health products have caused 236 people to be hospitalized""",negative,0.8700942993164062,-2,4,3,3
-5,chinese,"""Accelerating Innovation, Empowering Applications, and Sharing Benefits: Significant Progress in High-Quality Development of China's Information and Communication Industry in the First Quarter""",positive,0.8307603597640991,3,4,3,3
-6,chinese,"""A Good Start! Industrial Economy Maintains Rapid Growth in the First Quarter of 2024""",positive,0.9109132289886475,3,4,3,3
-7,chinese,"""Ministry of Foreign Affairs: Strongly Opposes US Deployment of Intermediate-Range Missiles in the Asia-Pacific Region for Unilateral Military Advantage""",negative,0.7129655480384827,-2,4,3,3
-8,chinese,"""State Administration of Foreign Exchange: Banks Accumulated a Total of 3.8514 Trillion Yuan in Foreign Exchange Settlements in the First Three Months of this Year""",neutral,0.7007864117622375,1,4,3,3
-9,chinese,"""Steady Growth in China's Fixed Asset Investment in Transportation Last Year""",positive,0.525473952293396,2,4,3,3
+0,chinese,"""Harmony and Fairness: Let Mutual Benefit and Win-Win Continue to be the Touchstone of Sino-German Relations""",positive,0.7002665400505066,3,4,3,3
+1,chinese,"""American Scholar: Yellen's Visit to China, No Mention of ""Containment"" but Every Sentence Implies ""Containment""""",neutral,0.7388390302658081,1,4,3,3
+2,chinese,"""National Archaeological Site Park Receives Over 67 Million Visitors in 2023""",positive,0.5637468099594116,2,4,3,3
+3,chinese,"Ministry of Education Releases First Batch of 18 Typical Cases of ""Artificial Intelligence + Higher Education"" Application Scenarios",neutral,0.8712682127952576,1,4,3,3
+4,chinese,"""Jilin Reports Investigation Results of Student Death in Baicheng: Revokes Qualifications of Involved Teacher""",negative,0.6340404152870178,-1,4,3,3
+5,chinese,"""Japanese Kobayashi Pharmaceutical Company's problematic health products have caused 236 people to be hospitalized""",negative,0.8700942993164062,-2,4,3,3
+6,chinese,"""Accelerating Innovation, Empowering Applications, and Sharing Benefits: Significant Progress in High-Quality Development of China's Information and Communication Industry in the First Quarter""",positive,0.8307603597640991,3,4,3,3
+7,chinese,"""A Good Start! Industrial Economy Maintains Rapid Growth in the First Quarter of 2024""",positive,0.9109132289886475,3,4,3,3
+8,chinese,Ministry of Foreign Affairs: Strongly Opposes the US Deployment of Intermediate-Range Missiles in the Asia-Pacific Region for the Purpose of Seeking Unilateral Military Advantage,negative,0.480363130569458,-1,4,3,3
+9,chinese,"""State Administration of Foreign Exchange: Banks Accumulated 3.8514 Trillion Yuan in Foreign Exchange Settlements in the First Three Months of This Year""",neutral,0.7456292510032654,1,4,3,3
