@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Debating Fairness | Stirring Up the Hype of ""China's Overcapacity"": Another Political Calculation for the US Election""",negative,0.8284057378768921,-2,1,2,7
-1,chinese,"""Ministry of National Defense Introduces Information Support Troops""",neutral,0.721216082572937,1,1,2,7
-2,chinese,"""China Securities Regulatory Commission Releases 5 Measures for Capital Market Cooperation with Hong Kong""",neutral,0.8044195771217346,1,1,2,7
-3,chinese,"""UN Chinese Language Day: 6-Minute Journey Through Dream of the Red Chamber""",neutral,0.8365464210510254,1,1,2,7
-4,chinese,"""UN Chinese Language Day: Listening to Chinese Students Read Letters from Their Homeland""",neutral,0.7012409567832947,1,1,2,7
-5,chinese,"""China Wildlife Conservation Association and San Francisco Zoo to Launch International Cooperation for Giant Panda Conservation""",positive,0.5065692663192749,2,1,2,7
-6,chinese,Ministry of Water Resources Launches Level IV Emergency Response for Flood and Drought Disasters in 5 Provinces and Regions,neutral,0.6108579039573669,1,1,2,7
-7,chinese,"""International Atomic Energy Agency Confirms Iran's Nuclear Facilities Undamaged""",negative,0.6553507447242737,-1,1,2,7
-8,chinese,"""National Carbon Market Activity Increases""",neutral,0.6949836015701294,1,1,2,7
-9,chinese,"""Industrial Added Value of Large Enterprises Increases by 6.1% Year-on-Year in the First Quarter""",neutral,0.5889413356781006,1,1,2,7
+0,chinese,"""Debating Reason and Fairness | Stirring up the ""China Overcapacity"" Issue: Another Calculation in the US Election""",negative,0.825840175151825,-2,2,2,6
+1,chinese,"""UN Chinese Language Day: Learning Chinese has such wonderful stories""",positive,0.9263038635253906,3,2,2,6
+2,chinese,"""Expansion of ""Visa-Free Moments"" Continues! Hangzhou and Shanghai Become Popular Destinations for Inbound Tourism""",positive,0.7315955758094788,3,2,2,6
+3,chinese,"""Ministry of National Defense Introduces Information Support Troops""",neutral,0.721216082572937,1,2,2,6
+4,chinese,"""China Securities Regulatory Commission Releases 5 Measures for Capital Market Cooperation with Hong Kong""",neutral,0.8044195771217346,1,2,2,6
+5,chinese,"""UN Chinese Language Day: 6-Minute Journey Through Dream of the Red Chamber""",neutral,0.8365464210510254,1,2,2,6
+6,chinese,"""UN Chinese Language Day: Listening to Chinese Students Read Letters from Home""",neutral,0.7281635999679565,1,2,2,6
+7,chinese,"""China Wildlife Conservation Association and San Francisco Zoo in the United States to Launch International Cooperation for Giant Panda Conservation""",neutral,0.5123056173324585,1,2,2,6
+8,chinese,Ministry of Water Resources Launches Level IV Emergency Response for Flood and Drought Disasters in 5 Provinces,neutral,0.6427550315856934,1,2,2,6
+9,chinese,"""International Atomic Energy Agency Confirms Iran's Nuclear Facilities Unharmed""",negative,0.5393524765968323,-1,2,2,6
