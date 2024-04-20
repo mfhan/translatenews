@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fair and Reasonable | Stirring up the ""China Overcapacity"" Narrative: Another Calculation in the US Election""",neutral,0.4855419993400574,1,3,1,6
-1,chinese,"""North Korea Test-Fires New Anti-Air Missile""",neutral,0.5394971370697021,1,3,1,6
-2,chinese,"Ministry of Foreign Affairs: The so-called ""overcapacity"" claimed by the United States is actually aimed at containing and suppressing China's industrial development.",negative,0.8829089403152466,-2,3,1,6
-3,chinese,"""Beijing's Middle School Entrance Exam Total Score Increases to 670 Points this Year""",neutral,0.6684154272079468,1,3,1,6
-4,chinese,"""China's Newly Established Foreign Enterprises Increase by 20.7% Year-on-Year in the First Quarter""",neutral,0.5878795385360718,1,3,1,6
-5,chinese,"""China Securities Regulatory Commission Releases Sixteen Measures to Promote Capital Market to Better Serve Technological Innovation""",positive,0.5383596420288086,2,3,1,6
-6,chinese,"""UN Chinese Language Day: Learning Chinese Has Such Wonderful Stories""",positive,0.9296551942825317,3,3,1,6
-7,chinese,"""Expansion of ""Visa-Free Moments"" Continues! Hangzhou and Shanghai Become Popular Destinations for Inbound Tourism""",positive,0.7315955758094788,3,3,1,6
-8,chinese,"""Ministry of National Defense Introduces Information Support Troops""",neutral,0.721216082572937,1,3,1,6
-9,chinese,"""China Securities Regulatory Commission Releases 5 Measures for Capital Market Cooperation with Hong Kong""",neutral,0.8044195771217346,1,3,1,6
+0,chinese,"""Analysis and Reasoning | Stirring Up the ""China's Overcapacity"" Narrative: Another Political Calculation for the US Election""",neutral,0.6103829145431519,1,1,3,6
+1,chinese,"""Electricity Consumption in the First Quarter of the Year Increases by 9.8% Compared to the Previous Year""",neutral,0.7182102203369141,1,1,3,6
+2,chinese,"""First Quarter Sees Steady Start for Agricultural and Rural Economy (Official Release)""",positive,0.5322694182395935,2,1,3,6
+3,chinese,"""Gunshot Incident in Maryland, USA Injures 5 Teenagers""",negative,0.7519391775131226,-2,1,3,6
+4,chinese,Police report on the death of a Xiangtan University student: Roommate has major suspicion of committing a crime.,negative,0.7908982038497925,-2,1,3,6
+5,chinese,"""Unexpected Substances Detected in Xiao Lin Pharmaceutical's Red Yeast Rice Raw Materials""",neutral,0.8319157958030701,1,1,3,6
+6,chinese,"""North Korea Test-Fires New Anti-Air Missile""",neutral,0.5394971370697021,1,1,3,6
+7,chinese,"Ministry of Foreign Affairs: US's so-called ""overcapacity"" is actually aimed at suppressing China's industrial development",negative,0.8683170676231384,-2,1,3,6
+8,chinese,"""This year, the total score of the Beijing Senior High School Entrance Examination has increased to 670 points""",neutral,0.673611044883728,1,1,3,6
+9,chinese,"""China's Newly Established Foreign Companies Increase by 20.7% Year-on-Year in the First Quarter""",neutral,0.6152477860450745,1,1,3,6
