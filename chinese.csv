@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Debating Reasonably | Manipulating the ""China's Overcapacity"" Narrative: Another Political Calculation for the US Election""",negative,0.6831857562065125,-1,2,1,7
-1,chinese,China's first deep-sea multi-functional scientific research and cultural relics archaeology ship launched from dock.,neutral,0.5092677474021912,1,2,1,7
+0,chinese,"""Debate and Reasoning | Manipulating the ""China Overcapacity"" Narrative: Another Calculation in the U.S. Election""",negative,0.5274630188941956,-1,2,1,7
+1,chinese,"""China's First Deep-Sea Multi-Functional Scientific Research and Cultural Relics Archaeological Ship Launches""",neutral,0.6487308144569397,1,2,1,7
 2,chinese,"""International Community Holds Event to Celebrate the 15th United Nations Chinese Language Day""",neutral,0.6506022810935974,1,2,1,7
-3,chinese,"""More Extreme Weather During Flood Season, How to Respond Properly?""",neutral,0.5638915300369263,1,2,1,7
-4,chinese,"Chengdu: Confirms Overcharged Gas Fees, Will Hold Relevant Gas Companies Fully Responsible for Refunds",neutral,0.574632465839386,1,2,1,7
+3,chinese,"""More Extreme Weather During Flood Season, How to Properly Respond?""",neutral,0.5644441246986389,1,2,1,7
+4,chinese,"Chengdu: Confirms Overcharged Gas Fees, Holds Relevant Gas Companies Responsible for Full Refund",neutral,0.5574731826782227,1,2,1,7
 5,chinese,"""Cultural Revitalization Unleashes New Potential for Chinese Rural Tourism""",positive,0.7089399695396423,3,2,1,7
-6,chinese,"""China Achieves Comprehensive Localization of Carbon-14 Isotope Supply""",positive,0.6137381792068481,2,2,1,7
+6,chinese,"""China Achieves Comprehensive Domestic Production of Carbon-14 Isotopes""",positive,0.6793412566184998,2,2,1,7
 7,chinese,"""Nansha Free Trade Pilot Zone Turns 9 Years Old! A Set of Data Shows Its Growth →""",neutral,0.6444319486618042,1,2,1,7
-8,chinese,"""Have you seen a 4-kilometer-long train? This train sets two ""mosts"" in our country.""",neutral,0.7476988434791565,1,2,1,7
+8,chinese,"""Have you seen the 4-kilometer-long train? This train sets two ""firsts"" in our country.""",neutral,0.7532281875610352,1,2,1,7
 9,chinese,"""Electricity Consumption in the First Quarter of the Year Increases by 9.8% Compared to the Previous Year""",neutral,0.7182102203369141,1,2,1,7
