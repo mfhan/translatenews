@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Analysis and Reasoning | Stirring Up the ""China's Overcapacity"" Narrative: Another Political Calculation for the US Election""",neutral,0.6103829145431519,1,1,3,6
-1,chinese,"""Electricity Consumption in the First Quarter of the Year Increases by 9.8% Compared to the Previous Year""",neutral,0.7182102203369141,1,1,3,6
-2,chinese,"""First Quarter Sees Steady Start for Agricultural and Rural Economy (Official Release)""",positive,0.5322694182395935,2,1,3,6
-3,chinese,"""Gunshot Incident in Maryland, USA Injures 5 Teenagers""",negative,0.7519391775131226,-2,1,3,6
-4,chinese,Police report on the death of a Xiangtan University student: Roommate has major suspicion of committing a crime.,negative,0.7908982038497925,-2,1,3,6
-5,chinese,"""Unexpected Substances Detected in Xiao Lin Pharmaceutical's Red Yeast Rice Raw Materials""",neutral,0.8319157958030701,1,1,3,6
-6,chinese,"""North Korea Test-Fires New Anti-Air Missile""",neutral,0.5394971370697021,1,1,3,6
-7,chinese,"Ministry of Foreign Affairs: US's so-called ""overcapacity"" is actually aimed at suppressing China's industrial development",negative,0.8683170676231384,-2,1,3,6
-8,chinese,"""This year, the total score of the Beijing Senior High School Entrance Examination has increased to 670 points""",neutral,0.673611044883728,1,1,3,6
-9,chinese,"""China's Newly Established Foreign Companies Increase by 20.7% Year-on-Year in the First Quarter""",neutral,0.6152477860450745,1,1,3,6
+0,chinese,"""Debating Reasonably | Manipulating the ""China's Overcapacity"" Narrative: Another Political Calculation for the US Election""",negative,0.6831857562065125,-1,2,1,7
+1,chinese,China's first deep-sea multi-functional scientific research and cultural relics archaeology ship launched from dock.,neutral,0.5092677474021912,1,2,1,7
+2,chinese,"""International Community Holds Event to Celebrate the 15th United Nations Chinese Language Day""",neutral,0.6506022810935974,1,2,1,7
+3,chinese,"""More Extreme Weather During Flood Season, How to Respond Properly?""",neutral,0.5638915300369263,1,2,1,7
+4,chinese,"Chengdu: Confirms Overcharged Gas Fees, Will Hold Relevant Gas Companies Fully Responsible for Refunds",neutral,0.574632465839386,1,2,1,7
+5,chinese,"""Cultural Revitalization Unleashes New Potential for Chinese Rural Tourism""",positive,0.7089399695396423,3,2,1,7
+6,chinese,"""China Achieves Comprehensive Localization of Carbon-14 Isotope Supply""",positive,0.6137381792068481,2,2,1,7
+7,chinese,"""Nansha Free Trade Pilot Zone Turns 9 Years Old! A Set of Data Shows Its Growth →""",neutral,0.6444319486618042,1,2,1,7
+8,chinese,"""Have you seen a 4-kilometer-long train? This train sets two ""mosts"" in our country.""",neutral,0.7476988434791565,1,2,1,7
+9,chinese,"""Electricity Consumption in the First Quarter of the Year Increases by 9.8% Compared to the Previous Year""",neutral,0.7182102203369141,1,2,1,7
