@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Debating Reason and Fairness | Stirring up the ""China Overcapacity"" Issue: Another Calculation in the US Election""",negative,0.825840175151825,-2,2,2,6
-1,chinese,"""UN Chinese Language Day: Learning Chinese has such wonderful stories""",positive,0.9263038635253906,3,2,2,6
-2,chinese,"""Expansion of ""Visa-Free Moments"" Continues! Hangzhou and Shanghai Become Popular Destinations for Inbound Tourism""",positive,0.7315955758094788,3,2,2,6
-3,chinese,"""Ministry of National Defense Introduces Information Support Troops""",neutral,0.721216082572937,1,2,2,6
-4,chinese,"""China Securities Regulatory Commission Releases 5 Measures for Capital Market Cooperation with Hong Kong""",neutral,0.8044195771217346,1,2,2,6
-5,chinese,"""UN Chinese Language Day: 6-Minute Journey Through Dream of the Red Chamber""",neutral,0.8365464210510254,1,2,2,6
-6,chinese,"""UN Chinese Language Day: Listening to Chinese Students Read Letters from Home""",neutral,0.7281635999679565,1,2,2,6
-7,chinese,"""China Wildlife Conservation Association and San Francisco Zoo in the United States to Launch International Cooperation for Giant Panda Conservation""",neutral,0.5123056173324585,1,2,2,6
-8,chinese,Ministry of Water Resources Launches Level IV Emergency Response for Flood and Drought Disasters in 5 Provinces,neutral,0.6427550315856934,1,2,2,6
-9,chinese,"""International Atomic Energy Agency Confirms Iran's Nuclear Facilities Unharmed""",negative,0.5393524765968323,-1,2,2,6
+0,chinese,"""Fair and Reasonable | Stirring up the ""China Overcapacity"" Narrative: Another Calculation in the US Election""",neutral,0.4855419993400574,1,3,1,6
+1,chinese,"""North Korea Test-Fires New Anti-Air Missile""",neutral,0.5394971370697021,1,3,1,6
+2,chinese,"Ministry of Foreign Affairs: The so-called ""overcapacity"" claimed by the United States is actually aimed at containing and suppressing China's industrial development.",negative,0.8829089403152466,-2,3,1,6
+3,chinese,"""Beijing's Middle School Entrance Exam Total Score Increases to 670 Points this Year""",neutral,0.6684154272079468,1,3,1,6
+4,chinese,"""China's Newly Established Foreign Enterprises Increase by 20.7% Year-on-Year in the First Quarter""",neutral,0.5878795385360718,1,3,1,6
+5,chinese,"""China Securities Regulatory Commission Releases Sixteen Measures to Promote Capital Market to Better Serve Technological Innovation""",positive,0.5383596420288086,2,3,1,6
+6,chinese,"""UN Chinese Language Day: Learning Chinese Has Such Wonderful Stories""",positive,0.9296551942825317,3,3,1,6
+7,chinese,"""Expansion of ""Visa-Free Moments"" Continues! Hangzhou and Shanghai Become Popular Destinations for Inbound Tourism""",positive,0.7315955758094788,3,3,1,6
+8,chinese,"""Ministry of National Defense Introduces Information Support Troops""",neutral,0.721216082572937,1,3,1,6
+9,chinese,"""China Securities Regulatory Commission Releases 5 Measures for Capital Market Cooperation with Hong Kong""",neutral,0.8044195771217346,1,3,1,6
