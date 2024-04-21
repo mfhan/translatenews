@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Debate and Reasoning | Manipulating the ""China Overcapacity"" Narrative: Another Calculation in the U.S. Election""",negative,0.5274630188941956,-1,2,1,7
-1,chinese,"""China's First Deep-Sea Multi-Functional Scientific Research and Cultural Relics Archaeological Ship Launches""",neutral,0.6487308144569397,1,2,1,7
-2,chinese,"""International Community Holds Event to Celebrate the 15th United Nations Chinese Language Day""",neutral,0.6506022810935974,1,2,1,7
-3,chinese,"""More Extreme Weather During Flood Season, How to Properly Respond?""",neutral,0.5644441246986389,1,2,1,7
-4,chinese,"Chengdu: Confirms Overcharged Gas Fees, Holds Relevant Gas Companies Responsible for Full Refund",neutral,0.5574731826782227,1,2,1,7
-5,chinese,"""Cultural Revitalization Unleashes New Potential for Chinese Rural Tourism""",positive,0.7089399695396423,3,2,1,7
-6,chinese,"""China Achieves Comprehensive Domestic Production of Carbon-14 Isotopes""",positive,0.6793412566184998,2,2,1,7
-7,chinese,"""Nansha Free Trade Pilot Zone Turns 9 Years Old! A Set of Data Shows Its Growth →""",neutral,0.6444319486618042,1,2,1,7
-8,chinese,"""Have you seen the 4-kilometer-long train? This train sets two ""firsts"" in our country.""",neutral,0.7532281875610352,1,2,1,7
-9,chinese,"""Electricity Consumption in the First Quarter of the Year Increases by 9.8% Compared to the Previous Year""",neutral,0.7182102203369141,1,2,1,7
+0,chinese,"""US House of Representatives Passes Resolution on Involvement in Ukraine and Israel!""",neutral,0.7157607078552246,1,2,0,8
+1,chinese,"""China's First Deep-Sea Multi-Functional Scientific Research and Cultural Relics Archaeological Ship Launches""",neutral,0.6487308144569397,1,2,0,8
+2,chinese,"""International Community Holds Event to Celebrate the 15th United Nations Chinese Language Day""",neutral,0.6506022810935974,1,2,0,8
+3,chinese,"""More Extreme Weather During Flood Season: How to Respond Properly?""",neutral,0.5888121724128723,1,2,0,8
+4,chinese,Chengdu: Confirmed Overcharged Gas Fees Will Require Relevant Gas Companies to Fully Refund,neutral,0.5286286473274231,1,2,0,8
+5,chinese,"""Cultural Revitalization Unleashes New Potential for Chinese Rural Tourism""",positive,0.7089399695396423,3,2,0,8
+6,chinese,"""China Achieves Comprehensive Domestic Production of Carbon-14 Isotope Supply""",positive,0.6665189862251282,2,2,0,8
+7,chinese,"""Nansha Free Trade Pilot Zone Turns 9 Years Old! A Set of Data Shows Its Growth →""",neutral,0.6444319486618042,1,2,0,8
+8,chinese,"""Have You Seen the 4-Kilometer-Long Train? This Train Sets Two ""Firsts"" in China""",neutral,0.7964916825294495,1,2,0,8
+9,chinese,"""Electricity Consumption in the First Quarter of the Year Increases by 9.8% Compared to Last Year""",neutral,0.7217419147491455,1,2,0,8
