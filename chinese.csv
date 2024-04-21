@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""US House of Representatives Passes Resolution on Involvement in Ukraine and Israel!""",neutral,0.7157607078552246,1,2,0,8
-1,chinese,"""China's First Deep-Sea Multi-Functional Scientific Research and Cultural Relics Archaeological Ship Launches""",neutral,0.6487308144569397,1,2,0,8
-2,chinese,"""International Community Holds Event to Celebrate the 15th United Nations Chinese Language Day""",neutral,0.6506022810935974,1,2,0,8
-3,chinese,"""More Extreme Weather During Flood Season: How to Respond Properly?""",neutral,0.5888121724128723,1,2,0,8
-4,chinese,Chengdu: Confirmed Overcharged Gas Fees Will Require Relevant Gas Companies to Fully Refund,neutral,0.5286286473274231,1,2,0,8
-5,chinese,"""Cultural Revitalization Unleashes New Potential for Chinese Rural Tourism""",positive,0.7089399695396423,3,2,0,8
-6,chinese,"""China Achieves Comprehensive Domestic Production of Carbon-14 Isotope Supply""",positive,0.6665189862251282,2,2,0,8
-7,chinese,"""Nansha Free Trade Pilot Zone Turns 9 Years Old! A Set of Data Shows Its Growth →""",neutral,0.6444319486618042,1,2,0,8
-8,chinese,"""Have You Seen the 4-Kilometer-Long Train? This Train Sets Two ""Firsts"" in China""",neutral,0.7964916825294495,1,2,0,8
-9,chinese,"""Electricity Consumption in the First Quarter of the Year Increases by 9.8% Compared to Last Year""",neutral,0.7217419147491455,1,2,0,8
+0,chinese,"""US House of Representatives Passes Bill on Ukraine and Israel!""",neutral,0.724023163318634,1,3,2,5
+1,chinese,"""Flood Control Emergency Response Upgraded to Level Three! National Flood Control Headquarters Supports Guangdong in Inspecting and Reinforcing Dikes""",positive,0.49745649099349976,2,3,2,5
+2,chinese,"""9 Rivers in Guangdong's Qingyuan Yingde City Exceed Warning Levels, 19,349 People Evacuated""",negative,0.6846268773078918,-1,3,2,5
+3,chinese,"""4.6 Magnitude Earthquake Occurs in Eastern Taiwan Waters""",neutral,0.5014007687568665,1,3,2,5
+4,chinese,"""Israeli Military Bombs Southern Gaza City of Rafah, at Least 16 Dead""",negative,0.7360695600509644,-2,3,2,5
+5,chinese,"""Bloomberg: China to be the Biggest Contributor to Global Economic Growth in the Next 5 Years, Surpassing the G7 Countries""",positive,0.8130991458892822,3,3,2,5
+6,chinese,"""PLA Hong Kong Garrison Troops Participate in 2024 Hong Kong Tree Planting Day Event""",neutral,0.7237008810043335,1,3,2,5
+7,chinese,"""Hong Kong Tourism Revitalized with New Energy""",positive,0.5502829551696777,2,3,2,5
+8,chinese,"""China's First Deep-sea Multi-functional Scientific Research and Cultural Relics Archaeological Ship Launches""",neutral,0.6315908432006836,1,3,2,5
+9,chinese,"""International Community Holds Event to Celebrate the 15th United Nations Chinese Language Day""",neutral,0.6506022810935974,1,3,2,5
