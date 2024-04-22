@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""US House of Representatives Passes Resolution on Ukraine and Israel!""",neutral,0.7043649554252625,1,3,2,5
-1,chinese,"""Everything Can Fly to the Sky! Weifang International Kite Festival Through the Eyes of Foreigners""",neutral,0.6233876347541809,1,3,2,5
-2,chinese,"""Saudi Arabian Delegation Visits China, Bringing ""Super Projects"" to Seek More Cooperation Potential""",positive,0.5554611682891846,2,3,2,5
-3,chinese,"""National Disaster Management Authority Raises Guangdong Flood Emergency Response Level from Level Four to Level Three""",neutral,0.7377545237541199,1,3,2,5
-4,chinese,"""Gunshot Incident in Memphis, USA Leaves 2 Dead and 6 Injured""",negative,0.7461841702461243,-2,3,2,5
-5,chinese,"""Retail Sales in March Increase by 3.1% Year-on-Year""",neutral,0.6913232803344727,1,3,2,5
-6,chinese,"""Our country's comprehensive grain production capacity will steadily increase""",positive,0.734570324420929,3,3,2,5
-7,chinese,"""9 Rivers in Guangdong's Qingyuan Yingde City Exceed Warning Levels, 19,349 People Evacuated""",negative,0.6846268773078918,-1,3,2,5
-8,chinese,"""Bloomberg: China to be the Largest Contributor to Global Economic Growth in the Next 5 Years, Surpassing the G7 Countries""",positive,0.7951531410217285,3,3,2,5
-9,chinese,"""Japanese Prime Minister Fumio Kishida Offers Sacrificial Offerings at Yasukuni Shrine""",neutral,0.5612040162086487,1,3,2,5
+0,chinese,"""Chinese Ambassador to the US: Hopes for Both Sides to Work Together and Explore Ways to Coexist""",positive,0.7185074687004089,3,3,2,5
+1,chinese,"""Transforming Internet Celebrities into Long-Term Influencers, Turning Online Traffic into Actual Visitors: Various Regions Create Unique Cultural and Tourism IPs to Welcome the Travel Boom""",neutral,0.49442240595817566,1,3,2,5
+2,chinese,"""Canton Fair showcases new outlook for ""Made in China"", gains global orders through innovation""",positive,0.756074070930481,3,3,2,5
+3,chinese,"""Everything Can Fly to the Sky! Weifang International Kite Festival Through the Eyes of Foreigners""",neutral,0.6233876347541809,1,3,2,5
+4,chinese,"""Saudi Arabian Delegation Visits China, Bringing ""Super Projects"" to Seek More Cooperation Potential""",positive,0.5554611682891846,2,3,2,5
+5,chinese,"""National Disaster Management Authority Raises Guangdong Flood Emergency Response Level from Level Four to Level Three""",neutral,0.7377545237541199,1,3,2,5
+6,chinese,"""Gunshot Incident in Memphis, USA Leaves 2 Dead and 6 Injured""",negative,0.7461841702461243,-2,3,2,5
+7,chinese,"""Retail Sales in March Increase by 3.1% Year-on-Year""",neutral,0.6913232803344727,1,3,2,5
+8,chinese,"""China's Comprehensive Grain Production Capacity Will Steadily Increase""",neutral,0.5194121599197388,1,3,2,5
+9,chinese,"""9 Rivers in Guangdong's Qingyuan Yingde City Exceed Warning Levels, 19,349 People Evacuated""",negative,0.6846268773078918,-1,3,2,5
