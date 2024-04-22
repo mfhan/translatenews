@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Ambassador to the US: Hopes for the US and China to Work Together to Explore Ways of Coexistence""",positive,0.7587133049964905,3,5,1,4
-1,chinese,"""Promoting High-Quality Development: Jilin Pushes for Revitalization and Enters the ""Fast Lane"" of Development""",positive,0.6664046049118042,2,5,1,4
-2,chinese,"""Turning Internet Celebrities into Long-lasting Fame, Transforming Traffic into Retention: Various Regions Create Unique Cultural and Tourism IP to Welcome the Travel Boom""",positive,0.6820400357246399,2,5,1,4
-3,chinese,"""Canton Fair showcases new outlook for ""Made in China"" with global orders achieved through innovation""",positive,0.7097824215888977,3,5,1,4
-4,chinese,"""Everything Can Fly to the Sky! Weifang International Kite Festival Through the Eyes of Foreigners""",neutral,0.6233876347541809,1,5,1,4
-5,chinese,"""Saudi Arabian Delegation Visits China, Bringing ""Super Projects"" to Seek More Cooperation Potential""",positive,0.5554611682891846,2,5,1,4
-6,chinese,"""National Disaster Management Authority Raises Guangdong's Flood Emergency Response Level from Level Four to Level Three""",neutral,0.7056290507316589,1,5,1,4
-7,chinese,"""Gunshot incident in Memphis, USA leaves 2 dead and 6 injured""",negative,0.8071084022521973,-2,5,1,4
-8,chinese,"""Retail Sales in March Increase by 3.1% Compared to the Same Period Last Year""",neutral,0.6937844753265381,1,5,1,4
-9,chinese,"""China's Comprehensive Grain Production Capacity Will Steadily Increase""",neutral,0.5194121599197388,1,5,1,4
+0,chinese,"""Chinese Ambassador to the US: Hopes for the US and China to Explore Ways to Coexist Together""",positive,0.7418988943099976,3,6,0,4
+1,chinese,"""In Xiong'an, Chinese and American students study and share joy together""",positive,0.6917424201965332,2,6,0,4
+2,chinese,"""2024 Navy Theme Promotional Film 'Hidden in the Deep Sea'""",neutral,0.8746244311332703,1,6,0,4
+3,chinese,"""Dong Ethnic Group's Grand Song, a Cultural Heritage that Embodies the Achievements of a Great Cause""",positive,0.7728108167648315,3,6,0,4
+4,chinese,"Passionate Performance: Chinese and American Students Play ""Eternal Friendship"" Together on the Hulusi Flute",positive,0.7655858397483826,3,6,0,4
+5,chinese,"""2024 Dazhou Marathon Successfully Completed, Four Event Records Broken""",neutral,0.6225971579551697,1,6,0,4
+6,chinese,"""German Citizens: China Hosts International Forum Benefiting Multiple Countries to Promote Global Development""",positive,0.6400917172431946,2,6,0,4
+7,chinese,"""April LPR Rates Released: 1-Year and 5-Year Interest Rates Remain Unchanged""",neutral,0.8422131538391113,1,6,0,4
+8,chinese,"""Vice President of China World Trade Organization Research Association, Huo Jianguo: China's High-level Opening-up Benefits the World""",neutral,0.5776262283325195,1,6,0,4
+9,chinese,"""Promoting High-Quality Development: Jilin Pushes for Revitalization and Enters the ""Fast Lane"" of Development""",positive,0.6664046049118042,2,6,0,4
