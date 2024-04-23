@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Foreign Media: China's ""Green Overcapacity"" Endangers Global Energy Transformation",negative,0.7732881307601929,-2,5,2,3
-1,chinese,"""National Reading Flourishes, Adding Vibrancy to Literary China""",negative,0.5940688252449036,-1,5,2,3
-2,chinese,"""Strong Momentum in Asia's Economic Growth and Regional Economic Integration""",positive,0.6801419258117676,2,5,2,3
-3,chinese,"""Music Island: Xiamen's Zheng Xiaoying Opera Art Center's Concert Hall Reopens with a New Look""",neutral,0.5775643587112427,1,5,2,3
-4,chinese,"""In Xiong'an, Chinese and American students study and share happiness together""",positive,0.6178874373435974,2,5,2,3
-5,chinese,"""2024 Navy Theme Promotional Video 'Hidden in the Deep Sea'""",neutral,0.8888432383537292,1,5,2,3
-6,chinese,"""Dong Ethnic Group's Epic Songs: A Cultural Heritage that Embodies the Achievements of a Grand Undertaking""",positive,0.7100168466567993,3,5,2,3
-7,chinese,"Passionate Performance: Chinese and American Students Play ""Eternal Friendship"" Together on the Hulusi Flute",positive,0.7655858397483826,3,5,2,3
-8,chinese,"""2024 Dazhou Marathon Successfully Completed, Four Event Records Broken""",neutral,0.6225971579551697,1,5,2,3
-9,chinese,German nationals: China hosts international forum benefiting multiple countries to promote global development,positive,0.68365478515625,2,5,2,3
+0,chinese,"""Foreign Media: China's ""Green Overcapacity"" Threatens Global Energy Transformation""",negative,0.7954226136207581,-2,2,2,6
+1,chinese,"""What details does the emblem of the Shenzhou-18 manned spaceflight mission reveal? - A closer look""",neutral,0.8735294342041016,1,2,2,6
+2,chinese,"""Cultural Journey through China: The Enduring Legacy of the Ancient Canals and the Revitalization of the Scenic Jiangnan Region""",neutral,0.4954880177974701,1,2,2,6
+3,chinese,"""Egyptian Expert: Who Says Only Western Democracy is True Democracy? China Offers a New Perspective to the World""",neutral,0.5698807239532471,1,2,2,6
+4,chinese,"""World Earth Day | Co-Chairman of the Club of Rome: Don't Just Stand By in the Face of Environmental Destruction""",neutral,0.5302309989929199,1,2,2,6
+5,chinese,"""Subsidies for Trading in Old for New Implemented in Multiple Regions, Stimulating Consumer Spending with Real Money""",neutral,0.6026006937026978,1,2,2,6
+6,chinese,"""What signal does the launch of new international routes send?""",neutral,0.8965393900871277,1,2,2,6
+7,chinese,"""American People from All Walks of Life: Maintaining Dialogue between China and the US is Crucial, Hoping for Improvement in Bilateral Relations""",positive,0.574678361415863,2,2,2,6
+8,chinese,"""Two Helicopters Collide and Crash in Malaysia, All 10 People on Board Perish""",negative,0.7719807624816895,-2,2,2,6
+9,chinese,"""National Reading Flourishes, Adding Vitality to Book-loving China""",positive,0.6506020426750183,2,2,2,6
