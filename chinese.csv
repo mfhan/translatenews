@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Ambassador to the US: Hopes for the US and China to Explore Ways to Coexist Together""",positive,0.7418988943099976,3,6,0,4
-1,chinese,"""In Xiong'an, Chinese and American students study and share joy together""",positive,0.6917424201965332,2,6,0,4
-2,chinese,"""2024 Navy Theme Promotional Film 'Hidden in the Deep Sea'""",neutral,0.8746244311332703,1,6,0,4
-3,chinese,"""Dong Ethnic Group's Grand Song, a Cultural Heritage that Embodies the Achievements of a Great Cause""",positive,0.7728108167648315,3,6,0,4
-4,chinese,"Passionate Performance: Chinese and American Students Play ""Eternal Friendship"" Together on the Hulusi Flute",positive,0.7655858397483826,3,6,0,4
-5,chinese,"""2024 Dazhou Marathon Successfully Completed, Four Event Records Broken""",neutral,0.6225971579551697,1,6,0,4
-6,chinese,"""German Citizens: China Hosts International Forum Benefiting Multiple Countries to Promote Global Development""",positive,0.6400917172431946,2,6,0,4
-7,chinese,"""April LPR Rates Released: 1-Year and 5-Year Interest Rates Remain Unchanged""",neutral,0.8422131538391113,1,6,0,4
-8,chinese,"""Vice President of China World Trade Organization Research Association, Huo Jianguo: China's High-level Opening-up Benefits the World""",neutral,0.5776262283325195,1,6,0,4
-9,chinese,"""Promoting High-Quality Development: Jilin Pushes for Revitalization and Enters the ""Fast Lane"" of Development""",positive,0.6664046049118042,2,6,0,4
+0,chinese,"Foreign Media: China's ""Green Overcapacity"" Threatens Global Energy Transformation",negative,0.8144155740737915,-2,5,1,4
+1,chinese,"""In Xiong'an, Chinese and American students study and share happiness together""",positive,0.6178874373435974,2,5,1,4
+2,chinese,"""2024 Navy Theme Promo Video 'Hidden in the Deep Sea'""",neutral,0.8796895742416382,1,5,1,4
+3,chinese,"""Dong Ethnic Group's Grand Song: A Cultural Heritage that Achieves a Magnificent Cause""",positive,0.8074467778205872,3,5,1,4
+4,chinese,"Passionate Performance: Chinese and American Students Play ""Eternal Friendship"" Together on the Hulusi Flute",positive,0.7655858397483826,3,5,1,4
+5,chinese,"""2024 Dazhou Marathon Successfully Completed, Four Event Records Broken""",neutral,0.6225971579551697,1,5,1,4
+6,chinese,"""German Citizens: China Hosts International Forum Benefitting Multiple Countries and Promoting Global Development""",positive,0.6744287014007568,2,5,1,4
+7,chinese,"""April LPR Quotes Released: 1-year and 5-year Interest Rates Remain Unchanged""",neutral,0.8430399298667908,1,5,1,4
+8,chinese,"""Vice President of China World Trade Organization Research Association, Huo Jianguo: China's High-level Opening Benefits the World""",neutral,0.5655632019042969,1,5,1,4
+9,chinese,"""Promoting High-Quality Development: Jilin Pushes for Revitalization and Enters the ""Fast Lane"" of Development""",positive,0.6664046049118042,2,5,1,4
