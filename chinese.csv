@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Foreign media: China's ""excessive green capacity"" threatens global energy transition",negative,0.8631992340087891,-2,1,4,5
-1,chinese,Breaking News! An American plane crashes.,negative,0.6483474373817444,-1,1,4,5
-2,chinese,"""Independent Review Group: Israel Fails to Prove Connection Between UN Staff and Terrorist Organizations""",negative,0.8700045347213745,-2,1,4,5
-3,chinese,"""Chinese Representative Expresses China's Stance on the Issue of Gender-Based Violence in Conflicts""",negative,0.5548380613327026,-1,1,4,5
-4,chinese,"""Central Cyberspace Administration Launches Special Operation to Regulate ""Self-Media"" with No Bottom Line for Clickbait""",neutral,0.7120827436447144,1,1,4,5
-5,chinese,"""Next Step to Stabilize Employment, These Four Measures Will Be Launched""",neutral,0.5179272294044495,1,1,4,5
-6,chinese,"""China has signed AEO mutual recognition agreements with 26 economies""",positive,0.5080541968345642,2,1,4,5
-7,chinese,"""2024 Zhongguancun Forum Annual Meeting Beijing International Youth Innovation Development Forum to Commence Soon""",neutral,0.6655312180519104,1,1,4,5
-8,chinese,"""Naval 75th Anniversary Series of Promotional and Educational Activities Held in Shanghai""",neutral,0.6999778747558594,1,1,4,5
-9,chinese,"""What details does the emblem of the Shenzhou-18 manned spaceflight mission reveal? [Qiao Yi Qiao]""",neutral,0.8707476854324341,1,1,4,5
+0,chinese,"""American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5146041512489319,-1,3,2,5
+1,chinese,"""Shenzhou-18 Manned Spaceflight Mission: Astronauts Meet with Reporters""",neutral,0.8389442563056946,1,3,2,5
+2,chinese,"""[Overseas Perspective] Shenzhou-18 Astronaut Ye Guangfu: Returning to Space, Sincerely Welcoming International Colleagues to Explore the Vast Universe Together""",positive,0.5585094690322876,2,3,2,5
+3,chinese,"""Cultural Journey in China: Xijin Ferry in Zhenjiang - A Thousand Years at a Glance, Enduring Cultural Heritage""",positive,0.44374120235443115,2,3,2,5
+4,chinese,"""[Overseas Perspective] Shenzhou-18 Astronaut Li Guangsu: Wanting to See if the Stars in the Sky Blink for Children""",neutral,0.6908181309700012,1,3,2,5
+5,chinese,"""Resume of Shenzhou-18 Astronauts Released""",neutral,0.83548504114151,1,3,2,5
+6,chinese,"""Global South"" Battle for Dominance",neutral,0.8005162477493286,1,3,2,5
+7,chinese,"""National Intellectual Property Administration: China's Number of Top 100 Global Science and Technology Clusters Ranks First in the World for the First Time""",positive,0.49176523089408875,2,3,2,5
+8,chinese,"""Shenzhou-18 Manned Spaceship Aims to Launch at 20:59 on April 25th""",neutral,0.7629600167274475,1,3,2,5
+9,chinese,Breaking News! An American Plane Crashes,negative,0.6456964612007141,-1,3,2,5
