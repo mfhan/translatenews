@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5146041512489319,-1,3,2,5
-1,chinese,"""Shenzhou-18 Manned Spaceflight Mission: Astronauts Meet with Reporters""",neutral,0.8389442563056946,1,3,2,5
-2,chinese,"""[Overseas Perspective] Shenzhou-18 Astronaut Ye Guangfu: Returning to Space, Sincerely Welcoming International Colleagues to Explore the Vast Universe Together""",positive,0.5585094690322876,2,3,2,5
-3,chinese,"""Cultural Journey in China: Xijin Ferry in Zhenjiang - A Thousand Years at a Glance, Enduring Cultural Heritage""",positive,0.44374120235443115,2,3,2,5
-4,chinese,"""[Overseas Perspective] Shenzhou-18 Astronaut Li Guangsu: Wanting to See if the Stars in the Sky Blink for Children""",neutral,0.6908181309700012,1,3,2,5
-5,chinese,"""Resume of Shenzhou-18 Astronauts Released""",neutral,0.83548504114151,1,3,2,5
-6,chinese,"""Global South"" Battle for Dominance",neutral,0.8005162477493286,1,3,2,5
-7,chinese,"""National Intellectual Property Administration: China's Number of Top 100 Global Science and Technology Clusters Ranks First in the World for the First Time""",positive,0.49176523089408875,2,3,2,5
-8,chinese,"""Shenzhou-18 Manned Spaceship Aims to Launch at 20:59 on April 25th""",neutral,0.7629600167274475,1,3,2,5
-9,chinese,Breaking News! An American Plane Crashes,negative,0.6456964612007141,-1,3,2,5
+0,chinese,"""American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5146041512489319,-1,3,1,6
+1,chinese,"""Infographic: ""May Day"" Holiday Bookings are Hot, Cultural and Tourism Market is Operating at a High Level""",positive,0.6247772574424744,2,3,1,6
+2,chinese,"""Intensive Policy Updates: What Benefits Will the Adjustment of Housing Provident Fund Policies Bring to Multiple Regions?""",neutral,0.7678642272949219,1,3,1,6
+3,chinese,"""Multiple Sources of Funds Accelerate Disbursement, Major Projects Welcome a ""Timely Rain""""",neutral,0.5702770948410034,1,3,1,6
+4,chinese,"""Shenzhou 18 Manned Spaceflight Mission: Astronauts Meet with Journalists""",neutral,0.8045045137405396,1,3,1,6
+5,chinese,"""[Overseas Perspective] Shenzhou 18 Astronaut Ye Guangfu: Returning to Space, Sincerely Welcoming International Colleagues to Explore the Vast Universe Together""",positive,0.5230761766433716,2,3,1,6
+6,chinese,"""Cultural Journey in China: Xijin Ferry in Zhenjiang - A Thousand Years at a Glance, Long-lasting Cultural Heritage""",positive,0.5163164734840393,2,3,1,6
+7,chinese,"""[Overseas Perspective] Astronaut Li Guangsu of Shenzhou 18: Wanting to See if the Stars in the Sky Blink for My Children""",neutral,0.7093165516853333,1,3,1,6
+8,chinese,"""Resume of Shenzhou-18 Astronauts Released""",neutral,0.83548504114151,1,3,1,6
+9,chinese,"""Global South"" Battle for Supremacy",neutral,0.7312670350074768,1,3,1,6
