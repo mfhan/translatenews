@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Foreign Media: China's ""Green Overcapacity"" Threatens Global Energy Transition",negative,0.8044959306716919,-2,1,3,6
-1,chinese,"""What details are revealed by the emblem of the Shenzhou-18 manned spaceflight mission? - A Look at Qiao""",neutral,0.8362597823143005,1,1,3,6
-2,chinese,"""Cultural Tour of China: The Enduring Legacy of the Grand Canal and the Revitalization of Jiangnan Scenery in the Modern Era""",neutral,0.46923354268074036,1,1,3,6
-3,chinese,"""Egyptian Expert: Who Says Only Western Democracy is True Democracy? China Offers a New Perspective to the World""",neutral,0.5698807239532471,1,1,3,6
-4,chinese,"""World Earth Day | Co-Chair of the Club of Rome: Don't Just Be a Bystander in the Face of Environmental Destruction""",neutral,0.5011287927627563,1,1,3,6
-5,chinese,"""Subsidies for Trading in Old for New Implemented in Multiple Regions, ""Real Money"" Stimulates Consumer Activity""",neutral,0.5107028484344482,1,1,3,6
-6,chinese,"""What signal does the launch of new international routes send?""",neutral,0.8965393900871277,1,1,3,6
-7,chinese,"""American People from All Walks of Life: Maintaining Dialogue between China and the US is Crucial, Hoping for Improved Bilateral Relations""",positive,0.47950971126556396,2,1,3,6
-8,chinese,"""Two Helicopters Collide and Crash in Malaysia, All 10 Passengers on Board Perish""",negative,0.7533725500106812,-2,1,3,6
-9,chinese,"""National Reading Flourishes, Adding Vibrancy to Book-Loving China""",negative,0.6208785176277161,-1,1,3,6
+0,chinese,"Foreign media: China's ""excessive green capacity"" threatens global energy transition",negative,0.8631992340087891,-2,1,4,5
+1,chinese,Breaking News! An American plane crashes.,negative,0.6483474373817444,-1,1,4,5
+2,chinese,"""Independent Review Group: Israel Fails to Prove Connection Between UN Staff and Terrorist Organizations""",negative,0.8700045347213745,-2,1,4,5
+3,chinese,"""Chinese Representative Expresses China's Stance on the Issue of Gender-Based Violence in Conflicts""",negative,0.5548380613327026,-1,1,4,5
+4,chinese,"""Central Cyberspace Administration Launches Special Operation to Regulate ""Self-Media"" with No Bottom Line for Clickbait""",neutral,0.7120827436447144,1,1,4,5
+5,chinese,"""Next Step to Stabilize Employment, These Four Measures Will Be Launched""",neutral,0.5179272294044495,1,1,4,5
+6,chinese,"""China has signed AEO mutual recognition agreements with 26 economies""",positive,0.5080541968345642,2,1,4,5
+7,chinese,"""2024 Zhongguancun Forum Annual Meeting Beijing International Youth Innovation Development Forum to Commence Soon""",neutral,0.6655312180519104,1,1,4,5
+8,chinese,"""Naval 75th Anniversary Series of Promotional and Educational Activities Held in Shanghai""",neutral,0.6999778747558594,1,1,4,5
+9,chinese,"""What details does the emblem of the Shenzhou-18 manned spaceflight mission reveal? [Qiao Yi Qiao]""",neutral,0.8707476854324341,1,1,4,5
