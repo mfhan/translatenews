@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5146041512489319,-1,3,1,6
-1,chinese,"""Infographic: ""May Day"" Holiday Bookings are Hot, Cultural and Tourism Market is Operating at a High Level""",positive,0.6247772574424744,2,3,1,6
-2,chinese,"""Intensive Policy Updates: What Benefits Will the Adjustment of Housing Provident Fund Policies Bring to Multiple Regions?""",neutral,0.7678642272949219,1,3,1,6
-3,chinese,"""Multiple Sources of Funds Accelerate Disbursement, Major Projects Welcome a ""Timely Rain""""",neutral,0.5702770948410034,1,3,1,6
-4,chinese,"""Shenzhou 18 Manned Spaceflight Mission: Astronauts Meet with Journalists""",neutral,0.8045045137405396,1,3,1,6
-5,chinese,"""[Overseas Perspective] Shenzhou 18 Astronaut Ye Guangfu: Returning to Space, Sincerely Welcoming International Colleagues to Explore the Vast Universe Together""",positive,0.5230761766433716,2,3,1,6
-6,chinese,"""Cultural Journey in China: Xijin Ferry in Zhenjiang - A Thousand Years at a Glance, Long-lasting Cultural Heritage""",positive,0.5163164734840393,2,3,1,6
-7,chinese,"""[Overseas Perspective] Astronaut Li Guangsu of Shenzhou 18: Wanting to See if the Stars in the Sky Blink for My Children""",neutral,0.7093165516853333,1,3,1,6
-8,chinese,"""Resume of Shenzhou-18 Astronauts Released""",neutral,0.83548504114151,1,3,1,6
-9,chinese,"""Global South"" Battle for Supremacy",neutral,0.7312670350074768,1,3,1,6
+0,chinese,"""American Expert: ""Decoupling"" Will Not Make the US Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5217158198356628,-1,1,4,5
+1,chinese,"""Public Security Agencies Crack Down on Intellectual Property Crimes in Accordance with the Law, Fully Serving and Safeguarding High-Quality Development""",negative,0.699979841709137,-1,1,4,5
+2,chinese,"""Wherever the Road Leads, Electricity Will Follow""",neutral,0.5424286723136902,1,1,4,5
+3,chinese,"Ministry of Foreign Affairs: The So-Called ""China's Overcapacity"" Theory is Only Used as an Excuse for Protectionism",negative,0.8125863671302795,-2,1,4,5
+4,chinese,"""Pride of the Chinese, Pride of Asia!""",neutral,0.4553320109844208,1,1,4,5
+5,chinese,"State Council Taiwan Affairs Office: Hope Taiwan compatriots come to mainland to seek roots, ""make up for the lessons not taken in Taiwan""",neutral,0.44599679112434387,1,1,4,5
+6,chinese,Experts believe that Japan's insufficient development in 5G may affect its development in 6G.,negative,0.6248620748519897,-1,1,4,5
+7,chinese,Mexico Announces Imposition of Temporary Tariffs on Certain Imported Goods,neutral,0.622833251953125,1,1,4,5
+8,chinese,"""Infographic: ""May Day"" Holiday Reservations are Hot, Cultural and Tourism Market is Operating at a High Level""",positive,0.622719407081604,2,1,4,5
+9,chinese,"""Intensive Policy Updates: What Benefits Will the Adjustment of Housing Provident Fund Policies Bring to Multiple Regions?""",neutral,0.7678642272949219,1,1,4,5
