@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice",negative,0.5133944153785706,-1,3,3,4
+0,chinese,"""American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5146041512489319,-1,3,3,4
 1,chinese,"""Shenzhou 18 Astronaut Crew Receives Orders to Embark on Mission!""",neutral,0.5377619862556458,1,3,3,4
-2,chinese,"""Shenzhou-18 Manned Space Mission Launch Ceremony Held at Jiuquan Satellite Launch Center""",neutral,0.8563089370727539,1,3,3,4
-3,chinese,"""US Accuses China of Excessive New Energy Production Capacity? Zhou Hongyi: Not Accusing Clothing But Strategic Emerging Industries""",negative,0.6233076453208923,-1,3,3,4
-4,chinese,"""Former Egyptian Diplomat: Palace Museum Exhibition Proves China's Commitment to Promoting Civilizational Exchange and Mutual Learning""",positive,0.6066497564315796,2,3,3,4
-5,chinese,"""Ministry of National Defense: Positive and Pragmatic Results Achieved in China-US Defense Ministers' Phone Call""",positive,0.7873682379722595,3,3,3,4
-6,chinese,"""China's First Quarter Consumer Highlights Help Drive High-Quality Economic Development""",positive,0.7762650847434998,3,3,3,4
-7,chinese,"""Boeing Reports a Loss of $355 Million in the First Quarter""",negative,0.6321196556091309,-1,3,3,4
+2,chinese,"""Shenzhou-18 Manned Spaceflight Mission Astronaut Team Departure Ceremony Held at Jiuquan Satellite Launch Center""",neutral,0.8822378516197205,1,3,3,4
+3,chinese,"""US Accuses China of Excessive New Energy Production Capacity? Zhou Hongyi: Not Blaming Clothing but Blaming Strategic Emerging Industries""",negative,0.6697170734405518,-1,3,3,4
+4,chinese,"""Former Egyptian Diplomat: Palace Museum Exhibition Proves China's Commitment to Promoting Cultural Exchange and Mutual Learning""",positive,0.6254605054855347,2,3,3,4
+5,chinese,"""Ministry of National Defense: Positive and Practical Results Achieved in Phone Call between Chinese and American Defense Ministers""",positive,0.6210872530937195,2,3,3,4
+6,chinese,"""China's First Quarter Consumer Highlights Promote High-Quality Economic Development""",positive,0.8104772567749023,3,3,3,4
+7,chinese,"""Boeing Reports a Loss of 355 Million Dollars in the First Quarter""",negative,0.6473200917243958,-1,3,3,4
 8,chinese,"""Former Polish Deputy Prime Minister: China Expands Cooperation, US Expands Arms Sales in the Face of Global Issues""",neutral,0.5714110732078552,1,3,3,4
-9,chinese,"""China and Spain Launch a New Round of Giant Panda Conservation Cooperation and Research""",neutral,0.4894518256187439,1,3,3,4
+9,chinese,"""China and Spain Launch New Round of Giant Panda Conservation Cooperation Research""",neutral,0.5278705954551697,1,3,3,4
