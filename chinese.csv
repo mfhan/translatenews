@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Expert: ""Decoupling"" Will Not Make the US Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5217158198356628,-1,1,4,5
-1,chinese,"""Public Security Agencies Crack Down on Intellectual Property Crimes in Accordance with the Law, Fully Serving and Safeguarding High-Quality Development""",negative,0.699979841709137,-1,1,4,5
-2,chinese,"""Wherever the Road Leads, Electricity Will Follow""",neutral,0.5424286723136902,1,1,4,5
-3,chinese,"Ministry of Foreign Affairs: The So-Called ""China's Overcapacity"" Theory is Only Used as an Excuse for Protectionism",negative,0.8125863671302795,-2,1,4,5
-4,chinese,"""Pride of the Chinese, Pride of Asia!""",neutral,0.4553320109844208,1,1,4,5
-5,chinese,"State Council Taiwan Affairs Office: Hope Taiwan compatriots come to mainland to seek roots, ""make up for the lessons not taken in Taiwan""",neutral,0.44599679112434387,1,1,4,5
-6,chinese,Experts believe that Japan's insufficient development in 5G may affect its development in 6G.,negative,0.6248620748519897,-1,1,4,5
-7,chinese,Mexico Announces Imposition of Temporary Tariffs on Certain Imported Goods,neutral,0.622833251953125,1,1,4,5
-8,chinese,"""Infographic: ""May Day"" Holiday Reservations are Hot, Cultural and Tourism Market is Operating at a High Level""",positive,0.622719407081604,2,1,4,5
-9,chinese,"""Intensive Policy Updates: What Benefits Will the Adjustment of Housing Provident Fund Policies Bring to Multiple Regions?""",neutral,0.7678642272949219,1,1,4,5
+0,chinese,"""American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5146041512489319,-1,2,4,4
+1,chinese,"""The World's Largest Metamorphic Rock Oil Field Officially Begins Drilling""",neutral,0.7620173692703247,1,2,4,4
+2,chinese,"""Japanese Boeing Plane Leaks Oil and Smokes During Landing, No Injuries Reported""",negative,0.5730736255645752,-1,2,4,4
+3,chinese,"""[Overseas Perspective] Yang Liwei Sends Blessings to Post-80s Astronauts of Shenzhou-18 Mission""",positive,0.6217512488365173,2,2,4,4
+4,chinese,"""Ministry of Commerce responds to EU's surprise inspection of Chinese companies' offices in Europe""",neutral,0.5169730186462402,1,2,4,4
+5,chinese,"""Long March 2F Rocket Completes Fueling, Launch Site Ready to Ensure Successful Flight of Shenzhou-18""",positive,0.4928187429904938,2,2,4,4
+6,chinese,"""Public Security Agencies Crack Down on Intellectual Property Crimes in Accordance with the Law, Fully Serving and Guaranteeing High-Quality Development""",negative,0.6868593096733093,-1,2,4,4
+7,chinese,"""Where the Road Leads, Electricity Will Follow""",neutral,0.5531051158905029,1,2,4,4
+8,chinese,"""Ministry of Foreign Affairs: The So-Called ""China's Overcapacity"" Argument is Only a Pretext for Protectionism""",negative,0.7896168828010559,-2,2,4,4
+9,chinese,"""Pride of the Chinese, Pride of Asia!""",neutral,0.4553320109844208,1,2,4,4
