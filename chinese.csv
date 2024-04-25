@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice""",negative,0.5146041512489319,-1,2,4,4
-1,chinese,"""The World's Largest Metamorphic Rock Oil Field Officially Begins Drilling""",neutral,0.7620173692703247,1,2,4,4
-2,chinese,"""Japanese Boeing Plane Leaks Oil and Smokes During Landing, No Injuries Reported""",negative,0.5730736255645752,-1,2,4,4
-3,chinese,"""[Overseas Perspective] Yang Liwei Sends Blessings to Post-80s Astronauts of Shenzhou-18 Mission""",positive,0.6217512488365173,2,2,4,4
-4,chinese,"""Ministry of Commerce responds to EU's surprise inspection of Chinese companies' offices in Europe""",neutral,0.5169730186462402,1,2,4,4
-5,chinese,"""Long March 2F Rocket Completes Fueling, Launch Site Ready to Ensure Successful Flight of Shenzhou-18""",positive,0.4928187429904938,2,2,4,4
-6,chinese,"""Public Security Agencies Crack Down on Intellectual Property Crimes in Accordance with the Law, Fully Serving and Guaranteeing High-Quality Development""",negative,0.6868593096733093,-1,2,4,4
-7,chinese,"""Where the Road Leads, Electricity Will Follow""",neutral,0.5531051158905029,1,2,4,4
-8,chinese,"""Ministry of Foreign Affairs: The So-Called ""China's Overcapacity"" Argument is Only a Pretext for Protectionism""",negative,0.7896168828010559,-2,2,4,4
-9,chinese,"""Pride of the Chinese, Pride of Asia!""",neutral,0.4553320109844208,1,2,4,4
+0,chinese,"American Expert: ""Decoupling"" Will Not Make America Stronger, Deepening Cooperation is the Wise Choice",negative,0.5133944153785706,-1,3,3,4
+1,chinese,"""China's First Quarter Consumer Highlights Boost High-Quality Economic Development""",positive,0.80364590883255,3,3,3,4
+2,chinese,"""Boeing Reports $355 Million Loss in First Quarter""",negative,0.6424803733825684,-1,3,3,4
+3,chinese,"""Former Polish Deputy Prime Minister: In the Face of Global Issues, China Expands Cooperation, US Expands Arms Sales""",neutral,0.5220124125480652,1,3,3,4
+4,chinese,"""China and Spain Launch New Round of Giant Panda Conservation Cooperation Research""",neutral,0.5278705954551697,1,3,3,4
+5,chinese,"""The world's largest metamorphic rock oil field officially begins drilling""",neutral,0.5725328326225281,1,3,3,4
+6,chinese,"""Japanese Boeing Aircraft Leaks Oil and Smokes During Landing, No Casualties Reported""",negative,0.5598050355911255,-1,3,3,4
+7,chinese,"""[Qiao Yi Qiao] Yang Liwei Sends Blessings to Post-80s Astronauts of Shenzhou 18""",positive,0.6294161677360535,2,3,3,4
+8,chinese,"""Ministry of Commerce responds to EU's surprise inspection of Chinese companies' offices in Europe""",neutral,0.5169730186462402,1,3,3,4
+9,chinese,"""Long March 2F Rocket Completes Fueling, Launch Site Ready to Ensure Successful Flight of Shenzhou-18""",positive,0.4928187429904938,2,3,3,4
