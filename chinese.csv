@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Exploring a Thousand-Year-Old Ancient Town: How Did a Piece of Tofu Attract Overseas Tourists?""",neutral,0.5778279304504395,1,3,3,4
-1,chinese,"Giant Pandas ""Jinxi"" and ""Zhuyu"" to travel to Spain",neutral,0.7677225470542908,1,3,3,4
-2,chinese,"""How long can you resist laughing while chatting with people from Tianjin?""",neutral,0.412881076335907,1,3,3,4
-3,chinese,"""Tourism Bookings Increase by 140% Year-on-Year: How ""Small Cities"" Are Attracting Large Numbers of Visitors""",neutral,0.5335679054260254,1,3,3,4
-4,chinese,"""Authorized 921,000 Patents, 82.04 Satisfaction Rating... China's Intellectual Property Protection Achieves Excellent Results""",positive,0.8430325388908386,3,3,3,4
-5,chinese,"""Hamas: Permanent Ceasefire is a Prerequisite, US Pressure is Meaningless""",negative,0.7496564984321594,-2,3,3,4
-6,chinese,"""Russia claims to strike Ukrainian military ammunition depot, Ukraine claims to attack Russian air defense system""",negative,0.7680012583732605,-2,3,3,4
-7,chinese,"""Accident at a Mining Enterprise in Yudu, Jiangxi Province Results in 3 Deaths and 2 Injuries""",negative,0.7544291615486145,-2,3,3,4
-8,chinese,"""Shenzhou-18 Manned Spaceship Launch Achieves Complete Success""",positive,0.8314410448074341,3,3,3,4
-9,chinese,"Ministry of Commerce: China's New Energy Industry Continuously Provides Affordable and High-Quality Production Capacity, Making Significant Contributions to Global Green Development",positive,0.8515438437461853,3,3,3,4
+0,chinese,"""Launch of National Media News Photography Interview Event: ""Entering the Starting Point of the Red Boat, Composing a New Chapter for Jiaxing""""",neutral,0.8584178686141968,1,3,2,5
+1,chinese,"""World Intellectual Property Day: Chinese Companies Continue to Increase Patent Quantity""",positive,0.5157438516616821,2,3,2,5
+2,chinese,"""National Healthcare Bureau Reminds: Please Stop Selling Medicine to Drug Dealers!""",negative,0.5664374232292175,-1,3,2,5
+3,chinese,"""2024 Miyun Ecological Marathon to Start on May 26th""",neutral,0.8100306987762451,1,3,2,5
+4,chinese,"""Beijing International Film Festival holds ""AIGC Short Film Competition"" Award Ceremony""",neutral,0.6985651850700378,1,3,2,5
+5,chinese,"""Five departments issue guidance to strengthen management of rural housing construction""",positive,0.6264910697937012,2,3,2,5
+6,chinese,"""China Tourism Research Institute Releases First Half Forecast Report: Tourism Economy Returns to Stable Growth Trend""",neutral,0.7286818623542786,1,3,2,5
+7,chinese,"""Dialogue and Reasoning | Trade Protectionism Damages the China-Europe Partnership""",negative,0.8865616321563721,-2,3,2,5
+8,chinese,"""2024 Zhongguancun Forum Annual Meeting Opens: Contributing Wisdom and Strength to Build a Better World""",positive,0.5822731852531433,2,3,2,5
+9,chinese,"""Exploring a Thousand-Year-Old Ancient Town: How Did a Piece of Tofu Attract Overseas Tourists?""",neutral,0.5778279304504395,1,3,2,5
