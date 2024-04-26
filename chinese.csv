@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Launch of National Media News Photography Interview Event: ""Entering the Starting Point of the Red Boat, Composing a New Chapter for Jiaxing""""",neutral,0.8584178686141968,1,3,2,5
-1,chinese,"""World Intellectual Property Day: Chinese Companies Continue to Increase Patent Quantity""",positive,0.5157438516616821,2,3,2,5
-2,chinese,"""National Healthcare Bureau Reminds: Please Stop Selling Medicine to Drug Dealers!""",negative,0.5664374232292175,-1,3,2,5
-3,chinese,"""2024 Miyun Ecological Marathon to Start on May 26th""",neutral,0.8100306987762451,1,3,2,5
-4,chinese,"""Beijing International Film Festival holds ""AIGC Short Film Competition"" Award Ceremony""",neutral,0.6985651850700378,1,3,2,5
-5,chinese,"""Five departments issue guidance to strengthen management of rural housing construction""",positive,0.6264910697937012,2,3,2,5
-6,chinese,"""China Tourism Research Institute Releases First Half Forecast Report: Tourism Economy Returns to Stable Growth Trend""",neutral,0.7286818623542786,1,3,2,5
-7,chinese,"""Dialogue and Reasoning | Trade Protectionism Damages the China-Europe Partnership""",negative,0.8865616321563721,-2,3,2,5
-8,chinese,"""2024 Zhongguancun Forum Annual Meeting Opens: Contributing Wisdom and Strength to Build a Better World""",positive,0.5822731852531433,2,3,2,5
-9,chinese,"""Exploring a Thousand-Year-Old Ancient Town: How Did a Piece of Tofu Attract Overseas Tourists?""",neutral,0.5778279304504395,1,3,2,5
+0,chinese,"""Launching the National Media News Photography Interview Event: Entering the Starting Point of the Red Boat and Composing a New Chapter for Jiaxing""",neutral,0.7720271944999695,1,2,2,6
+1,chinese,"""World Intellectual Property Day: China's Enterprise Patent Quantity Continuously Increases""",neutral,0.5863667726516724,1,2,2,6
+2,chinese,"""National Healthcare Bureau Reminds: Please Stop Selling Medicine to Drug Dealers!""",negative,0.5664374232292175,-1,2,2,6
+3,chinese,"""2024 Miyun Ecological Marathon to Start on May 26th""",neutral,0.8100306987762451,1,2,2,6
+4,chinese,"""Beijing International Film Festival Holds ""AIGC Short Film Competition"" Awards Ceremony""",neutral,0.7729820013046265,1,2,2,6
+5,chinese,"""Five departments issue guidance to strengthen management of rural housing construction""",positive,0.6264910697937012,2,2,2,6
+6,chinese,"""China Tourism Research Institute Releases Forecast Report for First Half of the Year: Tourism Economy Returns to Stable Growth Trend""",neutral,0.7293002009391785,1,2,2,6
+7,chinese,"""Dialogue and Justice | Trade Protectionism Damages the EU-China Partnership""",negative,0.8878373503684998,-2,2,2,6
+8,chinese,"""2024 Zhongguancun Forum Annual Meeting Opens: Contributing Wisdom and Strength to Building a Better World""",positive,0.5935499668121338,2,2,2,6
+9,chinese,"""Exploring the Ancient Town of a Thousand Years: How Did a Block of Tofu Attract Overseas Tourists?""",neutral,0.5995108485221863,1,2,2,6
