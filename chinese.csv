@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fire Breaks Out in a Residential Area in Nanchang, Jiangxi, Resulting in 3 Deaths and 2 Injuries""",negative,0.7973227500915527,-2,0,5,5
-1,chinese,"""UN Iraq Assistance Mission Condemns Attack on Gas Field in Kurdistan Region""",negative,0.6768791675567627,-1,0,5,5
-2,chinese,"""May Launch Planned! This Time, It Will ""Travel"" to the Far Side of the Moon →""",neutral,0.7518415451049805,1,0,5,5
-3,chinese,"""Indonesia's Mount Semeru Erupts Twice in a Row, Ash Column Reaches 800 Meters""",negative,0.6365113854408264,-1,0,5,5
-4,chinese,"""Chang'e-6 mission rocket assembly completes vertical transfer, planned for launch in early May""",neutral,0.5074291825294495,1,0,5,5
-5,chinese,"""US Military Launches Strikes on Houthi Targets in Yemen""",neutral,0.5718663334846497,1,0,5,5
-6,chinese,"""Several States in Central China Facing Severe Weather, Threatened by Floods and Tornadoes""",negative,0.7753964066505432,-2,0,5,5
-7,chinese,"""Russia claims attack on Ukrainian military using train, Ukraine claims strike on Russian logistics warehouse""",negative,0.7841352224349976,-2,0,5,5
-8,chinese,"""Hamas is studying Israel's formal response to its negotiating position""",neutral,0.7273097038269043,1,0,5,5
-9,chinese,"Confirmed! Giant pandas ""Yun Chuan"" and ""Xin Bao"" will go to the United States.",neutral,0.7316284775733948,1,0,5,5
+0,chinese,"""Mainland China's Taiwan Affairs Office: Willing to Donate Temporary Housing to Hualien Earthquake Disaster Area""",neutral,0.6588996052742004,1,3,2,5
+1,chinese,"""Focus on High-Quality Journal Construction: ""International First-Class Scientific and Technological Journal Development"" Forum Held in Beijing""",neutral,0.5074378252029419,1,3,2,5
+2,chinese,"""Tai Chi widely popular in Brazil, gaining a strong following""",positive,0.7947781085968018,3,3,2,5
+3,chinese,"""10 Million Trips! Please Sign for the Achievement of the Hong Kong-Zhuhai-Macao Bridge After 5 Years of Operation""",neutral,0.5238597393035889,1,3,2,5
+4,chinese,"""Shenzhou-17 astronauts return home on the 30th! Dongfeng Landing Site is ready to welcome them""",positive,0.6269726157188416,2,3,2,5
+5,chinese,"""100 Orders Placed for Domestic Large Aircraft C919!""",neutral,0.7640525102615356,1,3,2,5
+6,chinese,"""National Industrial Enterprises with Scale Above a Certain Level See a Year-on-Year Increase of 4.3% in Profits in the First Quarter""",positive,0.46842169761657715,2,3,2,5
+7,chinese,"""Implementation Details of Subsidies for Replacing Old Cars with New Ones Released, Subsidy Amount of 7000 or 10000 Yuan""",neutral,0.8615832328796387,1,3,2,5
+8,chinese,"""Fire Breaks Out in a Residential Area in Nanchang, Jiangxi Province, Resulting in 3 Deaths and 2 Injuries""",negative,0.7942038774490356,-2,3,2,5
+9,chinese,"""UN Iraq Assistance Mission Condemns Attack on Gas Field in Kurdistan Region""",negative,0.6768791675567627,-1,3,2,5
