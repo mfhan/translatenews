@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Mainland China's Taiwan Affairs Office: Willing to Donate Temporary Housing to Hualien Earthquake Disaster Area""",neutral,0.6588996052742004,1,3,2,5
-1,chinese,"""Focus on High-Quality Journal Construction: ""International First-Class Scientific and Technological Journal Development"" Forum Held in Beijing""",neutral,0.5074378252029419,1,3,2,5
-2,chinese,"""Tai Chi widely popular in Brazil, gaining a strong following""",positive,0.7947781085968018,3,3,2,5
-3,chinese,"""10 Million Trips! Please Sign for the Achievement of the Hong Kong-Zhuhai-Macao Bridge After 5 Years of Operation""",neutral,0.5238597393035889,1,3,2,5
-4,chinese,"""Shenzhou-17 astronauts return home on the 30th! Dongfeng Landing Site is ready to welcome them""",positive,0.6269726157188416,2,3,2,5
-5,chinese,"""100 Orders Placed for Domestic Large Aircraft C919!""",neutral,0.7640525102615356,1,3,2,5
-6,chinese,"""National Industrial Enterprises with Scale Above a Certain Level See a Year-on-Year Increase of 4.3% in Profits in the First Quarter""",positive,0.46842169761657715,2,3,2,5
-7,chinese,"""Implementation Details of Subsidies for Replacing Old Cars with New Ones Released, Subsidy Amount of 7000 or 10000 Yuan""",neutral,0.8615832328796387,1,3,2,5
-8,chinese,"""Fire Breaks Out in a Residential Area in Nanchang, Jiangxi Province, Resulting in 3 Deaths and 2 Injuries""",negative,0.7942038774490356,-2,3,2,5
-9,chinese,"""UN Iraq Assistance Mission Condemns Attack on Gas Field in Kurdistan Region""",negative,0.6768791675567627,-1,3,2,5
+0,chinese,"International Experts Refute ""Overcapacity Theory"": China's New Energy Products Contribute Significantly to Global Green Transformation",positive,0.5109420418739319,2,2,1,7
+1,chinese,"""Mainland China's Taiwan Affairs Office: Willing to Donate Temporary Housing to Hualien Earthquake Disaster Area""",neutral,0.6588996052742004,1,2,1,7
+2,chinese,"""Focus on High-Quality Journal Construction: ""International First-Class Scientific and Technological Journal Development"" Forum Held in Beijing""",neutral,0.5074378252029419,1,2,1,7
+3,chinese,"""Tai Chi Gains Popularity in Brazil, Attracting Fans with its Strength""",positive,0.842130184173584,3,2,1,7
+4,chinese,"""10 Million Trips! Please Sign for This Achievement Sheet of the Hong Kong-Zhuhai-Macao Bridge After More Than 5 Years of Operation""",neutral,0.5572078824043274,1,2,1,7
+5,chinese,"""Shenzhou-17 Astronauts Return Home on the 30th! Dongfeng Landing Site is Ready for Their Arrival""",neutral,0.5359214544296265,1,2,1,7
+6,chinese,"""100 Aircraft! Domestic Large Aircraft C919 Signs New Order""",neutral,0.7652121186256409,1,2,1,7
+7,chinese,"""National Profits of Large-Scale Industrial Enterprises Increase by 4.3% Year-on-Year in the First Quarter""",neutral,0.5353877544403076,1,2,1,7
+8,chinese,"""Implementation Details of Subsidies for Replacing Old Cars with New Ones Released, Subsidy Amounts of 7000 or 10000 Yuan""",neutral,0.8687835335731506,1,2,1,7
+9,chinese,"""Fire Breaks Out in a Residential Area in Nanchang, Jiangxi, Resulting in 3 Deaths and 2 Injuries""",negative,0.7973227500915527,-2,2,1,7
