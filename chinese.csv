@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""US Military Launches Strike on Houthi Targets in Yemen""",neutral,0.4923274517059326,1,0,3,7
-1,chinese,"""Severe Weather Threatens Several States in Central United States with Flooding and Tornadoes""",negative,0.7823144197463989,-2,0,3,7
-2,chinese,"""Russia claims attack on Ukrainian military using train, Ukraine claims strike on Russian logistics warehouse""",negative,0.7841352224349976,-2,0,3,7
-3,chinese,"""Hamas is studying Israel's formal response to its negotiating position""",neutral,0.7273097038269043,1,0,3,7
-4,chinese,"Confirmed! Giant pandas ""Yun Chuan"" and ""Xin Bao"" will go to the United States.",neutral,0.7316284775733948,1,0,3,7
-5,chinese,"""Nearly 4,000 individual stocks rise, A-share trading volume returns to trillion yuan""",neutral,0.5847235918045044,1,0,3,7
-6,chinese,"""Boosting Consumption and Building Confidence: Seven Departments Collaborate to Promote Vehicle Scrappage and Replacement""",neutral,0.5802502036094666,1,0,3,7
-7,chinese,"""Launching the National Media News Photography Interview Event in the Birthplace of the Red Boat, Creating a New Chapter for Jiaxing""",neutral,0.6745187044143677,1,0,3,7
-8,chinese,"""World Intellectual Property Day: China's Enterprise Patent Quantity Continuously Increases""",neutral,0.5863667726516724,1,0,3,7
-9,chinese,"""National Healthcare Bureau Reminder: Please Stop Selling Medicine to Illegal Drug Dealers!""",negative,0.5537925362586975,-1,0,3,7
+0,chinese,"""Fire Breaks Out in a Residential Area in Nanchang, Jiangxi, Resulting in 3 Deaths and 2 Injuries""",negative,0.7973227500915527,-2,0,5,5
+1,chinese,"""UN Iraq Assistance Mission Condemns Attack on Gas Field in Kurdistan Region""",negative,0.6768791675567627,-1,0,5,5
+2,chinese,"""May Launch Planned! This Time, It Will ""Travel"" to the Far Side of the Moon →""",neutral,0.7518415451049805,1,0,5,5
+3,chinese,"""Indonesia's Mount Semeru Erupts Twice in a Row, Ash Column Reaches 800 Meters""",negative,0.6365113854408264,-1,0,5,5
+4,chinese,"""Chang'e-6 mission rocket assembly completes vertical transfer, planned for launch in early May""",neutral,0.5074291825294495,1,0,5,5
+5,chinese,"""US Military Launches Strikes on Houthi Targets in Yemen""",neutral,0.5718663334846497,1,0,5,5
+6,chinese,"""Several States in Central China Facing Severe Weather, Threatened by Floods and Tornadoes""",negative,0.7753964066505432,-2,0,5,5
+7,chinese,"""Russia claims attack on Ukrainian military using train, Ukraine claims strike on Russian logistics warehouse""",negative,0.7841352224349976,-2,0,5,5
+8,chinese,"""Hamas is studying Israel's formal response to its negotiating position""",neutral,0.7273097038269043,1,0,5,5
+9,chinese,"Confirmed! Giant pandas ""Yun Chuan"" and ""Xin Bao"" will go to the United States.",neutral,0.7316284775733948,1,0,5,5
