@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Launching the National Media News Photography Interview Event: Entering the Starting Point of the Red Boat and Composing a New Chapter for Jiaxing""",neutral,0.7720271944999695,1,2,2,6
-1,chinese,"""World Intellectual Property Day: China's Enterprise Patent Quantity Continuously Increases""",neutral,0.5863667726516724,1,2,2,6
-2,chinese,"""National Healthcare Bureau Reminds: Please Stop Selling Medicine to Drug Dealers!""",negative,0.5664374232292175,-1,2,2,6
-3,chinese,"""2024 Miyun Ecological Marathon to Start on May 26th""",neutral,0.8100306987762451,1,2,2,6
-4,chinese,"""Beijing International Film Festival Holds ""AIGC Short Film Competition"" Awards Ceremony""",neutral,0.7729820013046265,1,2,2,6
-5,chinese,"""Five departments issue guidance to strengthen management of rural housing construction""",positive,0.6264910697937012,2,2,2,6
-6,chinese,"""China Tourism Research Institute Releases Forecast Report for First Half of the Year: Tourism Economy Returns to Stable Growth Trend""",neutral,0.7293002009391785,1,2,2,6
-7,chinese,"""Dialogue and Justice | Trade Protectionism Damages the EU-China Partnership""",negative,0.8878373503684998,-2,2,2,6
-8,chinese,"""2024 Zhongguancun Forum Annual Meeting Opens: Contributing Wisdom and Strength to Building a Better World""",positive,0.5935499668121338,2,2,2,6
-9,chinese,"""Exploring the Ancient Town of a Thousand Years: How Did a Block of Tofu Attract Overseas Tourists?""",neutral,0.5995108485221863,1,2,2,6
+0,chinese,"""US Military Launches Strike on Houthi Targets in Yemen""",neutral,0.4923274517059326,1,0,3,7
+1,chinese,"""Severe Weather Threatens Several States in Central United States with Flooding and Tornadoes""",negative,0.7823144197463989,-2,0,3,7
+2,chinese,"""Russia claims attack on Ukrainian military using train, Ukraine claims strike on Russian logistics warehouse""",negative,0.7841352224349976,-2,0,3,7
+3,chinese,"""Hamas is studying Israel's formal response to its negotiating position""",neutral,0.7273097038269043,1,0,3,7
+4,chinese,"Confirmed! Giant pandas ""Yun Chuan"" and ""Xin Bao"" will go to the United States.",neutral,0.7316284775733948,1,0,3,7
+5,chinese,"""Nearly 4,000 individual stocks rise, A-share trading volume returns to trillion yuan""",neutral,0.5847235918045044,1,0,3,7
+6,chinese,"""Boosting Consumption and Building Confidence: Seven Departments Collaborate to Promote Vehicle Scrappage and Replacement""",neutral,0.5802502036094666,1,0,3,7
+7,chinese,"""Launching the National Media News Photography Interview Event in the Birthplace of the Red Boat, Creating a New Chapter for Jiaxing""",neutral,0.6745187044143677,1,0,3,7
+8,chinese,"""World Intellectual Property Day: China's Enterprise Patent Quantity Continuously Increases""",neutral,0.5863667726516724,1,0,3,7
+9,chinese,"""National Healthcare Bureau Reminder: Please Stop Selling Medicine to Illegal Drug Dealers!""",negative,0.5537925362586975,-1,0,3,7
