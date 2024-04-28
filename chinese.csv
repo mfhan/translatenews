@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The ""Overcapacity Theory"" Goes Against the Law of Global Development, China is Needed for the World Economy's Green Transformation""",negative,0.6495792865753174,-1,2,2,6
-1,chinese,"""Stephen Stojacic: I Want to Permanently Settle in Wuxi, China""",neutral,0.7959688901901245,1,2,2,6
-2,chinese,"""China's online literature user base exceeds 500 million people""",neutral,0.6871781945228577,1,2,2,6
-3,chinese,"""Online Application for Entry and Exit Documents is Now Available!""",neutral,0.7569501399993896,1,2,2,6
-4,chinese,"""American Experts: ""Decoupling"" is Impractical, Imposing Tariffs is Harmful to Both Sides""",negative,0.9082099199295044,-2,2,2,6
-5,chinese,"""3 Consecutive Quarters of Growth - Profits of Large-Scale Industrial Enterprises Continue to Recover""",positive,0.563233494758606,2,2,2,6
-6,chinese,"""Holiday Economy"" Continues to Heat Up, Various Regions Intensify Efforts to ""Boost Consumption""",positive,0.7082156538963318,3,2,2,6
-7,chinese,"""May Day Holiday Approaching, Shanghai's Cross-River Ferry Routes to be Adjusted""",neutral,0.7269109487533569,1,2,2,6
-8,chinese,"""General Administration of Customs: Will Approve Qualified Taiwanese Pomelos and Other Agricultural and Fishery Products for Import into Mainland China""",neutral,0.5983940958976746,1,2,2,6
-9,chinese,"""Another Round of Heavy Rainfall Expected in Guangdong on the Eve of May Day, Official Reminder →""",neutral,0.7042856216430664,1,2,2,6
+0,chinese,"""The ""Overcapacity Theory"" Violates the Law of Global Development, China is Needed for the World Economy's Green Transformation""",negative,0.8752844333648682,-2,2,3,5
+1,chinese,"""Directly Generating 16-Second High-Definition Video: China's Self-Developed Video Large Model Released in Beijing""",neutral,0.673721194267273,1,2,3,5
+2,chinese,"""Multiple Currencies Experience Significant Depreciation Against the US Dollar, What is the Reason Behind the Continuous Decline?""",negative,0.8207170963287354,-2,2,3,5
+3,chinese,"""Space Handover Completed! Shenzhou 17 Astronauts' Crew Set to Return Home""",neutral,0.6050733327865601,1,2,3,5
+4,chinese,"""Stefan Stojacic: I Want to Permanently Settle in Wuxi, China""",neutral,0.7942044138908386,1,2,3,5
+5,chinese,"""China's Online Literature User Base Exceeds 500 Million People""",neutral,0.7685451507568359,1,2,3,5
+6,chinese,"""Online Application for Entry and Exit Documents is Now Available""",neutral,0.8294179439544678,1,2,3,5
+7,chinese,"""American Experts: ""Decoupling"" is Impractical, Imposing Tariffs Harms Oneself and Others""",negative,0.90579754114151,-2,2,3,5
+8,chinese,"""Continuous Growth for 3 Quarters - Profits of Large-Scale Industrial Enterprises Continue to Recover""",positive,0.6309072375297546,2,2,3,5
+9,chinese,"""Holiday Economy"" Continues to Heat Up, Various Regions Intensify Efforts to ""Promote Consumption""",positive,0.6903493404388428,2,2,3,5
