@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Multiple online platforms data shows: ""May Day"" holiday travel orders are stable and increasing.",positive,0.49612221121788025,2,6,0,4
-1,chinese,"""Accelerated Construction Projects, Strong Growth in Foreign Trade... Various Industries Forge Ahead to Steer China's Economy Steadily Towards Success""",positive,0.8245568871498108,3,6,0,4
-2,chinese,"International Experts Refute ""Overcapacity Theory"": China's New Energy Products Contribute Greatly to Global Green Transformation",positive,0.6916333436965942,2,6,0,4
-3,chinese,"""Taiwan Affairs Office: Mainland China Willing to Donate Temporary Housing to Hualien Earthquake Disaster Area""",neutral,0.6297856569290161,1,6,0,4
-4,chinese,"""Focus on High-Quality Journal Construction: ""International First-Class Scientific and Technological Journal Development"" Forum Held in Beijing""",neutral,0.5074378252029419,1,6,0,4
-5,chinese,"""Tai Chi Gains Popularity in Brazil, Attracting Fans with its Strength""",positive,0.842130184173584,3,6,0,4
-6,chinese,"""10 Million Trips! Please Sign for This Achievement as the Hong Kong-Zhuhai-Macao Bridge Opens for Over 5 Years""",positive,0.5572422742843628,2,6,0,4
-7,chinese,"""Shenzhou 17 astronauts return home on the 30th! Dongfeng landing site is ready to welcome them""",positive,0.5648951530456543,2,6,0,4
-8,chinese,"""100 Orders Signed for Domestic Large Aircraft C919!""",neutral,0.7482977509498596,1,6,0,4
-9,chinese,"""National Profits of Large-Scale Industrial Enterprises Increase by 4.3% Year-on-Year in the First Quarter""",neutral,0.5353877544403076,1,6,0,4
+0,chinese,"""The ""Overcapacity Theory"" Goes Against the Law of Globalization, China is Needed for the Green Transformation of the World Economy""",negative,0.6368747353553772,-1,1,3,6
+1,chinese,"""May Day Holiday is Coming, These Cross-River Routes in Shanghai Will Have Adjustments""",neutral,0.6657829880714417,1,1,3,6
+2,chinese,"""General Administration of Customs: Will approve the import of qualified Taiwanese agricultural and fishery products such as pomelos to the mainland""",neutral,0.5158690214157104,1,1,3,6
+3,chinese,"""Another Round of Heavy Rain Expected in Guangdong on the Eve of May Day, Official Reminder →""",neutral,0.7434020042419434,1,1,3,6
+4,chinese,"""Beijing and Shanghai residents of six categories can apply for talent endorsement to go to Hong Kong and Macau""",neutral,0.6004815101623535,1,1,3,6
+5,chinese,"""Ministry of Culture and Tourism announces new measures to resume cross-strait tourism: Fujian residents will be the first to visit Matsu""",positive,0.657321572303772,2,1,3,6
+6,chinese,"""Where Can We Find Such Clean Water? Integration of Urban and Rural Water Supply Achieves ""Good Water"" from ""Available Water""""",neutral,0.5262830257415771,1,1,3,6
+7,chinese,"""Southern Rain to Continue Until the End of This Month, These Areas Will Experience a Drop in Temperature""",neutral,0.6071726679801941,1,1,3,6
+8,chinese,"""Tanzania suffers severe flooding, largest city turns into ""swamp country""""",negative,0.9021997451782227,-2,1,3,6
+9,chinese,"""Sudanese Armed Conflict Continues to Escalate as Both Sides Engage in Ongoing Fire Exchange in Western Region""",negative,0.6862356662750244,-1,1,3,6
