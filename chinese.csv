@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The ""Overcapacity Theory"" Violates the Law of Global Development, China is Needed for the World Economy's Green Transformation""",negative,0.8752844333648682,-2,2,3,5
-1,chinese,"""Directly Generating 16-Second High-Definition Video: China's Self-Developed Video Large Model Released in Beijing""",neutral,0.673721194267273,1,2,3,5
-2,chinese,"""Multiple Currencies Experience Significant Depreciation Against the US Dollar, What is the Reason Behind the Continuous Decline?""",negative,0.8207170963287354,-2,2,3,5
-3,chinese,"""Space Handover Completed! Shenzhou 17 Astronauts' Crew Set to Return Home""",neutral,0.6050733327865601,1,2,3,5
-4,chinese,"""Stefan Stojacic: I Want to Permanently Settle in Wuxi, China""",neutral,0.7942044138908386,1,2,3,5
-5,chinese,"""China's Online Literature User Base Exceeds 500 Million People""",neutral,0.7685451507568359,1,2,3,5
-6,chinese,"""Online Application for Entry and Exit Documents is Now Available""",neutral,0.8294179439544678,1,2,3,5
-7,chinese,"""American Experts: ""Decoupling"" is Impractical, Imposing Tariffs Harms Oneself and Others""",negative,0.90579754114151,-2,2,3,5
-8,chinese,"""Continuous Growth for 3 Quarters - Profits of Large-Scale Industrial Enterprises Continue to Recover""",positive,0.6309072375297546,2,2,3,5
-9,chinese,"""Holiday Economy"" Continues to Heat Up, Various Regions Intensify Efforts to ""Promote Consumption""",positive,0.6903493404388428,2,2,3,5
+0,chinese,"""The ""overcapacity theory"" violates the laws of global development, China is needed for the world economy's green transformation""",negative,0.8798466920852661,-2,1,6,3
+1,chinese,"""Media Predicts Biden Wins Puerto Rico Democratic Primary Election""",neutral,0.638159990310669,1,1,6,3
+2,chinese,"""14 people killed in a bus overturning accident in central Mexico""",negative,0.7661131620407104,-2,1,6,3
+3,chinese,"""Tornado Strikes Oklahoma, USA, at Least 3 Dead""",negative,0.5995194315910339,-1,1,6,3
+4,chinese,"""Russian Court Freezes US JPMorgan Chase Bank's Assets in Russia""",negative,0.7122719287872314,-2,1,6,3
+5,chinese,"""Severe Weather in Central United States Has Caused 5 Deaths""",negative,0.6291350722312927,-1,1,6,3
+6,chinese,"""Gathering the Strength of Youth to Promote Innovative Development: Successful Beijing International Youth Innovation Development Forum Held""",positive,0.7122517228126526,3,1,6,3
+7,chinese,"""Directly Generating 16-Second High-Definition Video: China's Self-Developed Large Video Model Released in Beijing""",neutral,0.6284279227256775,1,1,6,3
+8,chinese,"""Multiple Currencies Experience Significant Depreciation Against the US Dollar, What is the Reason Behind the Continuous Decline?""",negative,0.8207170963287354,-2,1,6,3
+9,chinese,"""Space Handover Completed! Shenzhou 17 Astronaut Crew Set to Return Home""",neutral,0.5902002453804016,1,1,6,3
