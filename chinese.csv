@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The ""overcapacity theory"" violates the law of globalization development, China is needed for the world economy's green transformation""",negative,0.8652729988098145,-2,5,1,4
-1,chinese,"""Unleashing the Potential for Development of New Productive Forces, Shaping New Advantages in an Open Economy""",positive,0.8069289922714233,3,5,1,4
-2,chinese,"""Yen Hits New Low Against US Dollar Since April 1990""",neutral,0.7851272225379944,1,5,1,4
-3,chinese,"""The 28th ""China Youth May Fourth Medal"" Selection Announced""",neutral,0.7939665913581848,1,5,1,4
-4,chinese,"""International Experts: US Cancelling Additional Tariffs Will Help Reduce Inflation and Increase Employment""",neutral,0.44714808464050293,1,5,1,4
-5,chinese,"""Multiple Ports Resume International Passenger Services, Border Cities Welcome Cross-Border Tourism Boom""",positive,0.5254421234130859,2,5,1,4
-6,chinese,National Bureau of Statistics: Steady Progress in the Development of Cultural Enterprises in the First Quarter,positive,0.7635717391967773,3,5,1,4
-7,chinese,"""New Policies Help Promote Macau's Economic Diversification and Better Integration into National Development""",positive,0.7412495017051697,3,5,1,4
-8,chinese,"""China Independently Develops World's Largest Diameter High-Speed Rail Shield Tunneling Machine ""Leading Number"" Successfully Departs""",positive,0.6130385994911194,2,5,1,4
-9,chinese,"""The 11th batch of negotiations for the handover of remains of Chinese volunteers martyrs in Korea is underway""",neutral,0.747413694858551,1,5,1,4
+0,chinese,"""The ""Overcapacity Theory"" Goes Against the Law of Global Development, China is Needed for the World Economy's Green Transformation""",negative,0.6495792865753174,-1,5,1,4
+1,chinese,"""First Quarter Sees 20.7% Year-on-Year Growth in Newly Established Foreign-funded Enterprises""",neutral,0.4827491343021393,1,5,1,4
+2,chinese,"""State Council Tariff Commission Announces the Fourteenth Batch of Exclusion and Extension Lists for Goods Subject to Tariffs on the US and Canada""",neutral,0.8544842600822449,1,5,1,4
+3,chinese,"""Unleashing the Potential of New Productive Forces, Shaping New Advantages in an Open Economy""",positive,0.8024651408195496,3,5,1,4
+4,chinese,"""Yen Hits New Low Against US Dollar Since April 1990""",neutral,0.7851272225379944,1,5,1,4
+5,chinese,"""The 28th ""China Youth May Fourth Medal"" Selection Revealed""",neutral,0.8313988447189331,1,5,1,4
+6,chinese,"""International Experts: US Cancellation of Additional Tariffs Will Help Reduce Inflation and Increase Employment""",positive,0.4638364315032959,2,5,1,4
+7,chinese,"""Multiple Ports Resume International Passenger Services, Border Cities Welcome Cross-Border Tourism Boom""",positive,0.5254421234130859,2,5,1,4
+8,chinese,"""National Bureau of Statistics: Cultural Enterprises Show Steady Progress in the First Quarter""",positive,0.7146987318992615,3,5,1,4
+9,chinese,"""New Policies Help Promote Macau's Economic Diversification and Better Integration into National Development""",positive,0.7412495017051697,3,5,1,4
