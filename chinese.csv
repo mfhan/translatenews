@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The ""overcapacity theory"" violates the laws of global development, China is needed for the world economy's green transformation""",negative,0.8798466920852661,-2,1,6,3
-1,chinese,"""Media Predicts Biden Wins Puerto Rico Democratic Primary Election""",neutral,0.638159990310669,1,1,6,3
-2,chinese,"""14 people killed in a bus overturning accident in central Mexico""",negative,0.7661131620407104,-2,1,6,3
-3,chinese,"""Tornado Strikes Oklahoma, USA, at Least 3 Dead""",negative,0.5995194315910339,-1,1,6,3
-4,chinese,"""Russian Court Freezes US JPMorgan Chase Bank's Assets in Russia""",negative,0.7122719287872314,-2,1,6,3
-5,chinese,"""Severe Weather in Central United States Has Caused 5 Deaths""",negative,0.6291350722312927,-1,1,6,3
-6,chinese,"""Gathering the Strength of Youth to Promote Innovative Development: Successful Beijing International Youth Innovation Development Forum Held""",positive,0.7122517228126526,3,1,6,3
-7,chinese,"""Directly Generating 16-Second High-Definition Video: China's Self-Developed Large Video Model Released in Beijing""",neutral,0.6284279227256775,1,1,6,3
-8,chinese,"""Multiple Currencies Experience Significant Depreciation Against the US Dollar, What is the Reason Behind the Continuous Decline?""",negative,0.8207170963287354,-2,1,6,3
-9,chinese,"""Space Handover Completed! Shenzhou 17 Astronaut Crew Set to Return Home""",neutral,0.5902002453804016,1,1,6,3
+0,chinese,"""Overcapacity Theory"" Goes Against the Law of Globalization, China is Needed for the Green Transformation of the World Economy",negative,0.6241899728775024,-1,2,4,4
+1,chinese,"""New policies promote Macau's economic diversification and better integration into the national development framework""",positive,0.7193398475646973,3,2,4,4
+2,chinese,"""Our country independently develops! The world's largest diameter high-speed rail shield machine ""Navigator"" successfully departs""",positive,0.7862114906311035,3,2,4,4
+3,chinese,"""The 11th batch of negotiations for the handover of remains of Chinese volunteers in Korea is underway""",neutral,0.8351023197174072,1,2,4,4
+4,chinese,"""Hamas-affiliated militants claim to have ambushed Israeli troops in the Gaza Strip""",negative,0.7949324250221252,-2,2,4,4
+5,chinese,"""Giant Pandas ""Jinxi"" and ""Zhuyu"" Depart for Spain""",neutral,0.8655229806900024,1,2,4,4
+6,chinese,"""May Day"" Car Rental Rate Exceeds 90%",neutral,0.8319336771965027,1,2,4,4
+7,chinese,"""Media Predicts Biden Wins Puerto Rico Democratic Primary Election""",neutral,0.638159990310669,1,2,4,4
+8,chinese,"""14 people killed in bus overturning in central Mexico""",negative,0.7533199787139893,-2,2,4,4
+9,chinese,"""Tornado Strikes Oklahoma, USA, at Least 3 Dead""",negative,0.5995194315910339,-1,2,4,4
