@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fairness and Reasoning | Expanding Openness and Embracing High-Quality Production Capacity: China's Contribution to Global Green Transformation Should Not Be Slandered""",positive,0.4875626564025879,2,2,3,5
-1,chinese,"""Shenzhou-17 Successfully Evacuates from Space Station""",neutral,0.7122085690498352,1,2,3,5
-2,chinese,"""Cross-Strait Life: Taipei Guy Wants to Travel Across Mainland China in Hanfu""",neutral,0.7676439881324768,1,2,3,5
-3,chinese,"""Aviation Public Security Authorities Deepen Efforts to Crack Down on ""Air Rage"" Incidents""",negative,0.7160359025001526,-2,2,3,5
-4,chinese,"""May Day Holiday"" Little Sun"" City Heat Rises""",positive,0.5535938143730164,2,2,3,5
-5,chinese,"""Swedish Scholar: The Rational Wisdom of Western Pioneers 300 Years Ago Has Been Lost by Today's European and American Politicians""",negative,0.6388846635818481,-1,2,3,5
-6,chinese,"""US House of Representatives Passes ""TikTok Divestment"" Bill, American Scholars: Familiar Taste from 40 Years Ago""",neutral,0.7517423629760742,1,2,3,5
-7,chinese,"""Bullying Incident Occurs at a High School in Nanning, Guangxi - 8 Individuals Involved Receive Administrative Detention and Other Punishments""",negative,0.8140274882316589,-2,2,3,5
-8,chinese,"""China's Comprehensive Three-Dimensional Transportation Main Framework Completion Rate Reaches Approximately 90%""",neutral,0.779019832611084,1,2,3,5
-9,chinese,"""Wang Yi Meets with Peruvian Foreign Minister González-Olaechea""",neutral,0.856852114200592,1,2,3,5
+0,chinese,"""Fairness and Reasoning | Expanding Openness and Embracing High-Quality Production Capacity: China's Contribution to Global Green Transformation Should Not Be Slandered""",positive,0.4875626564025879,2,5,0,5
+1,chinese,Shenzhou 17 manned spacecraft successfully landed at the Dongfeng landing site,positive,0.6159334778785706,2,5,0,5
+2,chinese,"""2024 Zhongguancun Forum Annual Meeting: Chinese and Foreign Guests Discuss the Cultivation of New Productive Forces with Technological Innovation as the Main Driver""",neutral,0.5081254243850708,1,5,0,5
+3,chinese,"""Israel to Send Delegation to Egypt for Ceasefire Negotiations""",neutral,0.5610909461975098,1,5,0,5
+4,chinese,"""Deadlock in the Development of Electric Cars in the United States""",neutral,0.6614866852760315,1,5,0,5
+5,chinese,"""Zero Tariffs! Take Advantage of China's Opportunities in Hainan""",positive,0.5127816796302795,2,5,0,5
+6,chinese,"""Central Enterprises Have a Good Start in the First Quarter, Achieving an Added Value of 2.5 Trillion Yuan""",positive,0.8665723204612732,3,5,0,5
+7,chinese,"""April PMI at 50.4%, Manufacturing Industry Continues to Maintain Recovery and Development Momentum""",positive,0.5775910019874573,2,5,0,5
+8,chinese,"""Shenzhou-17 Successfully Departs from Space Station""",neutral,0.6200413703918457,1,5,0,5
+9,chinese,"""Cross-Strait Life: Taipei Young Man Wants to Wear Hanfu and Travel Across Mainland China""",neutral,0.7220430374145508,1,5,0,5
