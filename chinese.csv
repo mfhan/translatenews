@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The ""Overcapacity Theory"" Goes Against the Law of Global Development, China is Needed for the World Economy's Green Transformation""",negative,0.6495792865753174,-1,5,1,4
-1,chinese,"""First Quarter Sees 20.7% Year-on-Year Growth in Newly Established Foreign-funded Enterprises""",neutral,0.4827491343021393,1,5,1,4
-2,chinese,"""State Council Tariff Commission Announces the Fourteenth Batch of Exclusion and Extension Lists for Goods Subject to Tariffs on the US and Canada""",neutral,0.8544842600822449,1,5,1,4
-3,chinese,"""Unleashing the Potential of New Productive Forces, Shaping New Advantages in an Open Economy""",positive,0.8024651408195496,3,5,1,4
-4,chinese,"""Yen Hits New Low Against US Dollar Since April 1990""",neutral,0.7851272225379944,1,5,1,4
-5,chinese,"""The 28th ""China Youth May Fourth Medal"" Selection Revealed""",neutral,0.8313988447189331,1,5,1,4
-6,chinese,"""International Experts: US Cancellation of Additional Tariffs Will Help Reduce Inflation and Increase Employment""",positive,0.4638364315032959,2,5,1,4
-7,chinese,"""Multiple Ports Resume International Passenger Services, Border Cities Welcome Cross-Border Tourism Boom""",positive,0.5254421234130859,2,5,1,4
-8,chinese,"""National Bureau of Statistics: Cultural Enterprises Show Steady Progress in the First Quarter""",positive,0.7146987318992615,3,5,1,4
-9,chinese,"""New Policies Help Promote Macau's Economic Diversification and Better Integration into National Development""",positive,0.7412495017051697,3,5,1,4
+0,chinese,"""The Fallacy of Overcapacity Goes Against the Law of Globalization, China is Needed for the World Economy's Green Transformation""",negative,0.7850446105003357,-2,4,1,5
+1,chinese,"""Strong Growth of China-Europe Freight Trains Promotes Mutual Benefit and Win-Win Cooperation in Asia-Europe Region""",positive,0.7192959785461426,3,4,1,5
+2,chinese,"""Newly Established Foreign-funded Enterprises Increase by 20.7% Year-on-Year in the First Quarter""",neutral,0.6287115812301636,1,4,1,5
+3,chinese,"""State Council Tariff Commission Announces Fourteenth Round of Exclusion Extension List for Goods Subject to Tariffs on the US and Canada""",neutral,0.8299510478973389,1,4,1,5
+4,chinese,"""Unleashing the Potential of New Productive Forces, Shaping New Advantages of an Open Economy""",positive,0.8399502038955688,3,4,1,5
+5,chinese,"""Japanese Yen Hits New Low Against US Dollar Since April 1990""",neutral,0.7788041234016418,1,4,1,5
+6,chinese,"""The 28th ""Chinese Youth May Fourth Medal"" Selection Revealed""",neutral,0.8147366046905518,1,4,1,5
+7,chinese,"""International Experts: US Cancellation of Additional Tariffs Contributes to Reducing Inflation and Increasing Employment""",neutral,0.5201935768127441,1,4,1,5
+8,chinese,"""Multiple Ports Resume International Passenger Transport Services, Border Cities Experience a Boom in Cross-Border Tourism""",positive,0.6943017244338989,2,4,1,5
+9,chinese,National Bureau of Statistics: Cultural Enterprises Show Steady Progress in the First Quarter,positive,0.7468385100364685,3,4,1,5
