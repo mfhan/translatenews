@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fairness and Reasoning | Expanding Openness and Embracing High-Quality Production Capacity: China's Contribution to Global Green Transformation Should Not Be Slandered""",positive,0.4875626564025879,2,5,0,5
-1,chinese,"""30 Provinces Release ""First Quarter Report"" with Strong Start to Regional Economy""",positive,0.5939139127731323,2,5,0,5
-2,chinese,"""New Regulations Take Effect in May - Which Ones Will Affect Your Life?""",neutral,0.8303911685943604,1,5,0,5
-3,chinese,"""Only 4 Months, National Delivery Volume Reaches 50 Billion Pieces This Year""",neutral,0.5555153489112854,1,5,0,5
-4,chinese,"""Beijing City Optimizes and Adjusts Housing Purchase Restriction Policies""",positive,0.6276933550834656,2,5,0,5
-5,chinese,"""Shenzhou 17 manned spacecraft successfully lands at the Dongfeng landing site""",positive,0.6382871866226196,2,5,0,5
-6,chinese,"""2024 Zhongguancun Forum Annual Meeting: Chinese and Foreign Guests Discuss the Cultivation of New Productive Forces with Technological Innovation as the Main Driver""",neutral,0.5081254243850708,1,5,0,5
-7,chinese,"""Israel to Send Delegation to Egypt for Ceasefire Negotiations""",neutral,0.5610909461975098,1,5,0,5
-8,chinese,"""US Electric Car Development Hits a ""Deadlock""""",neutral,0.6103230714797974,1,5,0,5
-9,chinese,"""Zero Tariffs! Take Advantage of China's Opportunities in Hainan""",positive,0.5127816796302795,2,5,0,5
+0,chinese,"""Poster | Extraordinary Labor, Saluting Glory""",positive,0.8735877275466919,3,3,2,5
+1,chinese,"""Fairness and Reasoning | Expanding Opening Up and Embracing High-Quality Production Capacity: China's Contribution to Global Green Transformation Should Not Be Slandered""",positive,0.49349677562713623,2,3,2,5
+2,chinese,"""National Express Delivery Volume Surpasses 50 Billion Pieces in First 4 Months""",neutral,0.5905427932739258,1,3,2,5
+3,chinese,"""Central Enterprises Achieve an Added Value of 2.5 Trillion Yuan in the First Quarter""",positive,0.6102823615074158,2,3,2,5
+4,chinese,"""Additional Train 1738 Added for May Day Holiday: Which Cities are the Most Popular?""",neutral,0.8934550285339355,1,3,2,5
+5,chinese,"""National Railways Expected to Transport 20.4 Million Passengers on May 1st""",neutral,0.7023952603340149,1,3,2,5
+6,chinese,"""Officially Entering the Off-Season Fishing Ban Period Starting at 12:00 Today!""",neutral,0.8478021621704102,1,3,2,5
+7,chinese,"""19 People Dead in Collapse Accident on Chaoyang Road Section of Guangdong Meida Expressway""",negative,0.7195277810096741,-2,3,2,5
+8,chinese,"""Yen Exchange Rate Fluctuations: Japanese Media Reports Government May Have Intervened in Currency Market""",neutral,0.7191303372383118,1,3,2,5
+9,chinese,"""Rain in Southern China Weakens on the First Day of the ""May Day"" Holiday, Most of the Country Suitable for Travel""",negative,0.5694979429244995,-1,3,2,5
