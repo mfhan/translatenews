@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Poster | Extraordinary Labor, Saluting Glory""",positive,0.8735877275466919,3,2,2,6
-1,chinese,"""Welcome and Assist You"": Shanghai International Service Portal Multilingual Website Fully Launched",neutral,0.671532928943634,1,2,2,6
-2,chinese,"""36 People Dead in Guangdong Meida Expressway Road Collapse Accident""",negative,0.7131157517433167,-2,2,2,6
-3,chinese,"""New Trend in Dining Consumption in Our Country""",neutral,0.79613196849823,1,2,2,6
-4,chinese,"""China Securities Association: 3,859 Listed Companies Distribute a Total of 2.24 Trillion Yuan in Cash Dividends""",neutral,0.810361921787262,1,2,2,6
-5,chinese,"""Travel Through Time in One Meal: ""National Trend"" Dining Searches Increase ↑""",neutral,0.8145495653152466,1,2,2,6
-6,chinese,"""Thousands of Years of ""Masterpieces"" Hidden in Ancient Books, Specially Made Rice Paper Allows Traditional Treasures to ""Move Towards the New""""",positive,0.5782296061515808,2,2,2,6
-7,chinese,"""Where is the most popular destination for outbound travel during this year's May Day holiday? A set of data will show you.""",neutral,0.7877306938171387,1,2,2,6
-8,chinese,"Breaking News! Russian Oil Refinery Attacked, Explosion Occurs",negative,0.7836154699325562,-2,2,2,6
-9,chinese,"""First Day of ""May Day"" Holiday Sees Peak in Traffic Travel""",neutral,0.4833282232284546,1,2,2,6
+0,chinese,"""Welcome and Assist You"": Shanghai International Service Portal Multilingual Website Fully Launched",neutral,0.671532928943634,1,3,1,6
+1,chinese,"""Attitude, Strength, Contribution: China's High-Quality Production Capacity Benefits the World""",positive,0.720166802406311,3,3,1,6
+2,chinese,Ministry of Natural Resources: Ocean Production Value Increases by 5.7% Year-on-Year in the First Quarter,neutral,0.5464977025985718,1,3,1,6
+3,chinese,"""100 billion yuan of additional national debt funds have been fully allocated to local areas""",neutral,0.6881389021873474,1,3,1,6
+4,chinese,"""80% of French Respondents Praise China's Influence""",positive,0.684484601020813,2,3,1,6
+5,chinese,"""Premiere! Epic Documentary 'Naval Academy' Tells Touching Stories of Sino-French Cultural Exchange History""",positive,0.5875687599182129,2,3,1,6
+6,chinese,"""36 People Dead in Guangdong Meida Expressway Collapse Accident""",negative,0.7141969799995422,-2,3,1,6
+7,chinese,"""New Trends in Dining Consumption in Our Country""",neutral,0.837827742099762,1,3,1,6
+8,chinese,"""China Securities Association: 3,859 Listed Companies Distribute a Total of 2.24 Trillion Yuan in Cash Dividends""",neutral,0.810361921787262,1,3,1,6
+9,chinese,"""Travel Through Time in One Meal: ""National Trend"" Dining Searches Increase ↑""",neutral,0.8145495653152466,1,3,1,6
