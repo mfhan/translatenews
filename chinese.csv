@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Attitude, Strength, Contribution: China's High-Quality Production Capacity Benefits the World""",positive,0.720166802406311,3,5,3,2
-1,chinese,"""France Becomes China's Third Largest Trading Partner in the EU through Active Cooperation in the Economic and Trade Sector""",positive,0.7074894309043884,3,5,3,2
-2,chinese,"""Spokesperson of the Ministry of Foreign Affairs Responds to US Secretary of State Blinken's Statement on Taiwan's Participation in the World Health Assembly""",neutral,0.8406452536582947,1,5,3,2
-3,chinese,"""Building a Bridge for EU-China Cooperation - Interview with Airbus China's Chief Financial Officer, Mailei""",neutral,0.6191851496696472,1,5,3,2
-4,chinese,"""More than 200 people seek medical treatment after a collective food poisoning incident in Vietnam""",negative,0.645536482334137,-1,5,3,2
-5,chinese,"""UAE Experiences Widespread Heavy Rainfall Again, Dubai Closes Beaches and Other Public Places""",negative,0.5050092339515686,-1,5,3,2
-6,chinese,"""Convenient Payment for Inbound Tourism: Foreign Tourists Can Experience Scanning and ""Buying, Buying, Buying""""",positive,0.4983510673046112,2,5,3,2
-7,chinese,"""48 People Dead in Guangdong Meida Expressway Collapse Disaster""",negative,0.777568519115448,-2,5,3,2
-8,chinese,"""Adding Core Strength to the Deep Sea! Chinese Navy's Fujian Ship Attracts World Attention During Its First Sea Trial""",positive,0.689499020576477,2,5,3,2
-9,chinese,"""China-Europe ""Two-Way Travel"" Attracts Attention, Multiple Foreign Media Positively Evaluate China's Expansion of ""Visa-Free"" Circle of Friends""",positive,0.7333422303199768,3,5,3,2
+0,chinese,"""Attitude, Strength, and Contribution: China's High-Quality Production Capacity Benefits the World""",positive,0.7001664042472839,3,5,3,2
+1,chinese,"""Egyptian Official: Positive Progress Made in Negotiations for Ceasefire Agreement in Gaza""",positive,0.706865668296814,3,5,3,2
+2,chinese,"""France Becomes China's Third Largest Trading Partner in the EU through Active Cooperation in the Economic and Trade Sector""",positive,0.7074894309043884,3,5,3,2
+3,chinese,"""Foreign Ministry Spokesperson Responds to US Secretary of State Blinken's Statement on Taiwan's Participation in the World Health Assembly""",neutral,0.8247846364974976,1,5,3,2
+4,chinese,"""Building a Bridge for EU-China Cooperation - Interview with Airbus China's Chief Financial Officer, Mailei""",neutral,0.6191851496696472,1,5,3,2
+5,chinese,"""Over 200 People Seek Medical Treatment After Collective Food Poisoning Incident in Vietnam""",negative,0.5280349850654602,-1,5,3,2
+6,chinese,"""UAE Experiences Widespread Heavy Rain Again, Dubai Closes Beaches and Other Public Places""",negative,0.5351185202598572,-1,5,3,2
+7,chinese,"""Convenient Payment for Inbound Tourism: Foreign Tourists Can Now Experience Scanning QR Codes to Shop""",positive,0.5420621037483215,2,5,3,2
+8,chinese,"""48 People Dead in Guangdong Meida Expressway Collapse Disaster""",negative,0.777568519115448,-2,5,3,2
+9,chinese,"""Adding Core Strength to Explore the Deep Sea! Chinese Navy's Fujian Ship Attracts Worldwide Attention During First Sea Trial""",positive,0.6319321990013123,2,5,3,2
