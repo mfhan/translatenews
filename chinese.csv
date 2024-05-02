@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Welcome and Assist You"": Shanghai International Service Portal Multilingual Website Fully Launched",neutral,0.671532928943634,1,3,1,6
-1,chinese,"""Attitude, Strength, Contribution: China's High-Quality Production Capacity Benefits the World""",positive,0.720166802406311,3,3,1,6
-2,chinese,Ministry of Natural Resources: Ocean Production Value Increases by 5.7% Year-on-Year in the First Quarter,neutral,0.5464977025985718,1,3,1,6
-3,chinese,"""100 billion yuan of additional national debt funds have been fully allocated to local areas""",neutral,0.6881389021873474,1,3,1,6
-4,chinese,"""80% of French Respondents Praise China's Influence""",positive,0.684484601020813,2,3,1,6
-5,chinese,"""Premiere! Epic Documentary 'Naval Academy' Tells Touching Stories of Sino-French Cultural Exchange History""",positive,0.5875687599182129,2,3,1,6
-6,chinese,"""36 People Dead in Guangdong Meida Expressway Collapse Accident""",negative,0.7141969799995422,-2,3,1,6
-7,chinese,"""New Trends in Dining Consumption in Our Country""",neutral,0.837827742099762,1,3,1,6
-8,chinese,"""China Securities Association: 3,859 Listed Companies Distribute a Total of 2.24 Trillion Yuan in Cash Dividends""",neutral,0.810361921787262,1,3,1,6
-9,chinese,"""Travel Through Time in One Meal: ""National Trend"" Dining Searches Increase ↑""",neutral,0.8145495653152466,1,3,1,6
+0,chinese,"""Attitude, Strength, Contribution: China's High-Quality Production Capacity Benefits the World""",positive,0.720166802406311,3,5,3,2
+1,chinese,"""France Becomes China's Third Largest Trading Partner in the EU through Active Cooperation in the Economic and Trade Sector""",positive,0.7074894309043884,3,5,3,2
+2,chinese,"""Spokesperson of the Ministry of Foreign Affairs Responds to US Secretary of State Blinken's Statement on Taiwan's Participation in the World Health Assembly""",neutral,0.8406452536582947,1,5,3,2
+3,chinese,"""Building a Bridge for EU-China Cooperation - Interview with Airbus China's Chief Financial Officer, Mailei""",neutral,0.6191851496696472,1,5,3,2
+4,chinese,"""More than 200 people seek medical treatment after a collective food poisoning incident in Vietnam""",negative,0.645536482334137,-1,5,3,2
+5,chinese,"""UAE Experiences Widespread Heavy Rainfall Again, Dubai Closes Beaches and Other Public Places""",negative,0.5050092339515686,-1,5,3,2
+6,chinese,"""Convenient Payment for Inbound Tourism: Foreign Tourists Can Experience Scanning and ""Buying, Buying, Buying""""",positive,0.4983510673046112,2,5,3,2
+7,chinese,"""48 People Dead in Guangdong Meida Expressway Collapse Disaster""",negative,0.777568519115448,-2,5,3,2
+8,chinese,"""Adding Core Strength to the Deep Sea! Chinese Navy's Fujian Ship Attracts World Attention During Its First Sea Trial""",positive,0.689499020576477,2,5,3,2
+9,chinese,"""China-Europe ""Two-Way Travel"" Attracts Attention, Multiple Foreign Media Positively Evaluate China's Expansion of ""Visa-Free"" Circle of Friends""",positive,0.7333422303199768,3,5,3,2
