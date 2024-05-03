@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Attitude, Strength, and Contribution: China's High-Quality Production Capacity Benefits the World""",positive,0.7001664042472839,3,4,1,5
-1,chinese,"""International Olympic Committee Announces List of Refugee Delegation for Paris Olympics""",neutral,0.8337644338607788,1,4,1,5
-2,chinese,"""Chang'e-6 Mission Aims for First Preferred Launch Window at 17:27 Today""",neutral,0.8228690028190613,1,4,1,5
-3,chinese,"""Zhang Guoqing Rushes to Meizhou City, Guangdong Province to Guide Emergency Response Work for the Collapsed Section of Chaoyang Road on Meida Expressway""",neutral,0.6501787900924683,1,4,1,5
-4,chinese,"""Laborers, Dream Chasers, Creating Excellence in Their Jobs""",positive,0.7115403413772583,3,4,1,5
-5,chinese,"""Egyptian Official: Positive Progress Made in Negotiations for Gaza Ceasefire Agreement""",positive,0.7307591438293457,3,4,1,5
-6,chinese,"""France Becomes China's Third Largest Trading Partner in the EU through Active Cooperation in the Economic and Trade Sector""",positive,0.7074894309043884,3,4,1,5
-7,chinese,"""Foreign Ministry Spokesperson Responds to US Secretary of State Blinken's Statement on Taiwan's Participation in World Health Assembly""",neutral,0.8100616335868835,1,4,1,5
-8,chinese,"""Building a Bridge for EU-China Cooperation - Interview with Airbus China's Chief Financial Officer, Maire""",neutral,0.6001948118209839,1,4,1,5
-9,chinese,"""Vietnam Experiences Mass Food Poisoning Incident, Over 200 People Seek Medical Treatment""",negative,0.6288440823554993,-1,4,1,5
+0,chinese,"""Attitude, Strength, Contribution: China's High-Quality Production Capacity Benefits the World""",positive,0.720166802406311,3,7,0,3
+1,chinese,"""They, First Time Stop Vehicles""",neutral,0.7870760560035706,1,7,0,3
+2,chinese,"""Fujian Liancheng: Spectacular Performance of Intangible Cultural Heritage on a Wonderful Night, Sharing the Charm of Hakka Culture during the Holiday""",positive,0.8959802389144897,3,7,0,3
+3,chinese,"""Green loans maintain high-speed growth in the first quarter""",positive,0.7227323651313782,3,7,0,3
+4,chinese,"""Getting Closer to Role Models of Chinese and Foreign Youth, Feeling the Power of Youth""",positive,0.774808943271637,3,7,0,3
+5,chinese,"""State Council State-owned Assets Supervision and Administration Commission: Promoting High-Quality Development of Enterprises through Large-scale Equipment Upgrades""",positive,0.5551171898841858,2,7,0,3
+6,chinese,"""Steady Growth in China's Consumer Market in the First Quarter""",positive,0.5095122456550598,2,7,0,3
+7,chinese,"""Passion for Travel Strong: Over 300 Million People Cross Regions on First Day of May Day Holiday""",positive,0.5704692602157593,2,7,0,3
+8,chinese,"""International Olympic Committee Announces List of Refugee Delegation for Paris Olympics""",neutral,0.8337644338607788,1,7,0,3
+9,chinese,"""Chang'e-6 Mission Targets First Preferred Launch Window for 17:27 Today""",neutral,0.8169292211532593,1,7,0,3
