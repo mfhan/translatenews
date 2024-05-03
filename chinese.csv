@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Get Closer to Exemplary Chinese and Foreign Youth, Feel the Power of Youth""",positive,0.6487360000610352,2,3,1,6
-1,chinese,"""Multiple Measures Implemented to Make Payment for Foreign Tourists During Holidays More Convenient""",neutral,0.49297747015953064,1,3,1,6
-2,chinese,"""Transportation Department Refines Services to Improve Quality of Travel During May Day Holiday""",positive,0.5795979499816895,2,3,1,6
-3,chinese,"""New Journey Begins for Lunar Exploration! Chang'e 6 Probe Launch Mission Achieves Complete Success""",positive,0.8139625787734985,3,3,1,6
-4,chinese,There are a total of 74.167 million Communist Youth League members nationwide.,neutral,0.7681633234024048,1,3,1,6
-5,chinese,"""Lincoln claims US ""strongly encourages"" WHO to invite Taiwan to attend World Health Assembly, Taiwan Affairs Office refutes!""",neutral,0.39765283465385437,1,3,1,6
-6,chinese,"""Chang'e 6 Launches!""",neutral,0.6386879682540894,1,3,1,6
-7,chinese,"""New Trends in Consumption Activities Added During ""May Day"" Holiday, Significant Release of Consumption Potential in Various Fields""",neutral,0.6076318621635437,1,3,1,6
-8,chinese,"""Thunderstorms in Multiple Areas of Bangladesh Result in 11 Deaths and 9 Injuries""",negative,0.792860746383667,-2,3,1,6
-9,chinese,"""Paris Olympics Refugee Team Established, 36 Athletes Participating in 12 Events""",neutral,0.7888402342796326,1,3,1,6
+0,chinese,"""Chang'e-6 ""Rushes to the Moon""! Challenging the First Human Lunar Far Side Sampling""",neutral,0.759820818901062,1,4,3,3
+1,chinese,"""Getting Closer to Outstanding Young Role Models from China and Abroad, Feeling the Power of Youth""",positive,0.880621075630188,3,4,3,3
+2,chinese,"""Relevant personnel held accountable as investigation escalates for Henan University's Great Hall fire""",negative,0.6666010022163391,-1,4,3,3
+3,chinese,"""Multiple Measures Implemented for More Convenient Payment by Foreign Tourists During Holidays""",positive,0.5376867651939392,2,4,3,3
+4,chinese,"""Over 487 People in Thanh Hoa Province, Vietnam Have Suffered from Food Poisoning""",negative,0.7108542323112488,-2,4,3,3
+5,chinese,"""Transportation Department Refines Services to Improve Quality of Travel During May Day Holiday""",positive,0.5795979499816895,2,4,3,3
+6,chinese,"""New Journey Begins for Lunar Exploration! Chang'e-6 Probe Launch Mission Achieves Complete Success""",positive,0.8090550303459167,3,4,3,3
+7,chinese,There are a total of 74.167 million Communist Youth League members nationwide.,neutral,0.7681633234024048,1,4,3,3
+8,chinese,"""Lincoln states that the US ""strongly encourages"" the WHO to invite Taiwan to participate in the World Health Assembly, but the Taiwan Affairs Office refutes it!""",negative,0.5140164494514465,-1,4,3,3
+9,chinese,"""Chang'e 6 Launches!""",neutral,0.6386879682540894,1,4,3,3
