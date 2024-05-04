@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chang'e 6 ""Rushes to the Moon""! Challenging the First Human Lunar Back Sampling""",neutral,0.78304523229599,1,7,0,3
-1,chinese,"""Culture is a Moving Business Card: Diversity and Interaction Promote Mutual Understanding and Create a Bright Future for Sino-French Relations""",positive,0.6821216344833374,2,7,0,3
-2,chinese,"""The Belt and Road Initiative Deepens and Solidifies, ""Danube Corridor"" Boosts Serbia's Economic Development""",positive,0.7339569330215454,3,7,0,3
-3,chinese,"""Egyptian Media: Significant Progress Made in Gaza Ceasefire Agreement between Hamas and Egypt""",positive,0.7633789777755737,3,7,0,3
-4,chinese,"""Holiday Economy"" Continues to Heat Up, Small Cities Drive the ""Big Market"" of Cultural Tourism",positive,0.7256031036376953,3,7,0,3
-5,chinese,"""China Listed Companies Association: Number of Manufacturing Listed Companies Reaches 3629 by the End of March""",neutral,0.7983298897743225,1,7,0,3
-6,chinese,"""Production Front Moves Towards the ""New"": Accelerating the Release of New Productive Potential""",positive,0.7361530065536499,3,7,0,3
-7,chinese,"""Cultural Empowerment Boosts Tourism: Vibrant ""Mobile China"" Brings About Beautiful Scenery during Holidays""",positive,0.8188264966011047,3,7,0,3
-8,chinese,"Special Report | China-France Practical Cooperation Moves Towards ""New""",neutral,0.60307776927948,1,7,0,3
-9,chinese,"""May the road be completed soon and benefit the local people - Remembering the Chinese youth builders fighting in Indonesia""",positive,0.5199649930000305,2,7,0,3
+0,chinese,"""Chang'e-6 ""Races to the Moon""! Challenging the First Human Lunar Far Side Sampling""",neutral,0.7854811549186707,1,6,0,4
+1,chinese,"""Transportation Department Takes Multiple Measures to Cope with High Peak of Return Traffic""",neutral,0.6038962602615356,1,6,0,4
+2,chinese,"""Culture is a Moving Calling Card: Multidimensional Interaction Promotes Mutual Understanding and Creates a Bright Future for Sino-French Relations""",positive,0.7349247932434082,3,6,0,4
+3,chinese,"""“Belt and Road” Goes Deeper and More Practical, “Danube Corridor” Boosts Serbia's Economic Development""",positive,0.7251929044723511,3,6,0,4
+4,chinese,"""Egyptian Media: Significant Progress Made in Gaza Ceasefire Agreement between Hamas and Egypt""",positive,0.7633789777755737,3,6,0,4
+5,chinese,"""Holiday Economy"" Continues to Heat Up, Small Cities Drive the ""Big Market"" of Cultural Tourism",positive,0.7256031036376953,3,6,0,4
+6,chinese,"""China Listed Companies Association: Number of Manufacturing Listed Companies Reaches 3629 by the End of March""",neutral,0.7983298897743225,1,6,0,4
+7,chinese,"""Production Frontline Moves Towards ""New"" - Accelerating the Release of Potential New Productivity""",positive,0.7270845174789429,3,6,0,4
+8,chinese,"""Cultural Empowerment Boosts Tourism: Witness the Vibrant Scenery of ""Mobile China"" During Holidays""",positive,0.7232816219329834,3,6,0,4
+9,chinese,"Special Report | China-France Practical Cooperation Moves Towards ""New""",neutral,0.60307776927948,1,6,0,4
