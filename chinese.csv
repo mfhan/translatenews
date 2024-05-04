@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chang'e 6 ""Rushes to the Moon""! Challenging the First Human Sample Collection on the Far Side of the Moon""",neutral,0.7594549059867859,1,3,2,5
-1,chinese,"""Getting Closer to the Exemplary Youth from China and Abroad, Feeling the Power of Youth""",positive,0.7915825843811035,3,3,2,5
-2,chinese,"""National Railways Expected to Transport 17.35 Million Passengers Today""",neutral,0.6638476252555847,1,3,2,5
-3,chinese,"""This year's theme for ""China Tourism Day"" is ""Traveling through China, Living a Happy Life.""",positive,0.6254007816314697,2,3,2,5
-4,chinese,"""Yellow Rainstorm Warning: Heavy to Torrential Rain Expected in 8 Provinces, Parts of Guangdong and Jiangxi May Experience Severe Rainfall""",negative,0.6048813462257385,-1,3,2,5
-5,chinese,"""Can Vision Training and Dietary Therapy Help Improve Children's Eyesight?""",neutral,0.6016650199890137,1,3,2,5
-6,chinese,"""Chang'e's Journey to the Moon: A Timeline to Help You Understand →""",neutral,0.7205097079277039,1,3,2,5
-7,chinese,"""Booking Volume Surges Over 600%: Korean Tourists Fall in Love with ""Traveling to China""""",positive,0.786266028881073,3,3,2,5
-8,chinese,"""Russian Government Temporarily Bans Sugar Exports""",negative,0.8293203711509705,-2,3,2,5
-9,chinese,"""New Trend in ""Holiday Economy"": Strong Consumption of Green Waters, Blue Mountains, and Small Town Stories""",neutral,0.5447492599487305,1,3,2,5
+0,chinese,"""Chang'e-6 ""Races to the Moon""! Challenging the First Human Lunar Far Side Sampling""",neutral,0.7854811549186707,1,3,3,4
+1,chinese,"""Getting to Know the Role Models of Chinese and Foreign Youth, Feeling the Power of Youth""",positive,0.7453071475028992,3,3,3,4
+2,chinese,"""First Public Release! New Evidence of Crimes Committed by Japanese Army Unit 731 in China""",negative,0.5373233556747437,-1,3,3,4
+3,chinese,"""May 5th marks the arrival of ""Li Xia"": After Li Xia, health preservation and disease prevention must resist damp and hot evil qi""",neutral,0.4278508424758911,1,3,3,4
+4,chinese,"""3-0 Victory over Japan, Congratulations to China for Advancing to the Uber Cup Finals""",positive,0.8984023928642273,3,3,3,4
+5,chinese,"""World Food Programme Executive Officer States Northern Gaza Strip Facing ""Severe Famine""""",negative,0.8170121908187866,-2,3,3,4
+6,chinese,"""National Railways Expected to Transport 17.35 Million Passengers Today""",neutral,0.6638476252555847,1,3,3,4
+7,chinese,"The theme of this year's ""China Tourism Day"" event is ""Traveling in China, Happy Life"".",positive,0.5725259184837341,2,3,3,4
+8,chinese,"""Yellow Rainstorm Warning: Heavy to Torrential Rain Expected in 8 Provinces, with Some Areas in Guangdong and Jiangxi Experiencing Severe Downpours""",negative,0.66725093126297,-1,3,3,4
+9,chinese,"""Can Vision Training and Dietary Adjustment Help Improve Children's Eyesight?""",neutral,0.6004971265792847,1,3,3,4
