@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chang'e-6 ""Races to the Moon""! Challenging the First Human Lunar Far Side Sampling""",neutral,0.7854811549186707,1,6,0,4
-1,chinese,"""Transportation Department Takes Multiple Measures to Cope with High Peak of Return Traffic""",neutral,0.6038962602615356,1,6,0,4
-2,chinese,"""Culture is a Moving Calling Card: Multidimensional Interaction Promotes Mutual Understanding and Creates a Bright Future for Sino-French Relations""",positive,0.7349247932434082,3,6,0,4
-3,chinese,"""“Belt and Road” Goes Deeper and More Practical, “Danube Corridor” Boosts Serbia's Economic Development""",positive,0.7251929044723511,3,6,0,4
-4,chinese,"""Egyptian Media: Significant Progress Made in Gaza Ceasefire Agreement between Hamas and Egypt""",positive,0.7633789777755737,3,6,0,4
-5,chinese,"""Holiday Economy"" Continues to Heat Up, Small Cities Drive the ""Big Market"" of Cultural Tourism",positive,0.7256031036376953,3,6,0,4
-6,chinese,"""China Listed Companies Association: Number of Manufacturing Listed Companies Reaches 3629 by the End of March""",neutral,0.7983298897743225,1,6,0,4
-7,chinese,"""Production Frontline Moves Towards ""New"" - Accelerating the Release of Potential New Productivity""",positive,0.7270845174789429,3,6,0,4
-8,chinese,"""Cultural Empowerment Boosts Tourism: Witness the Vibrant Scenery of ""Mobile China"" During Holidays""",positive,0.7232816219329834,3,6,0,4
-9,chinese,"Special Report | China-France Practical Cooperation Moves Towards ""New""",neutral,0.60307776927948,1,6,0,4
+0,chinese,"""Beginning of Summer - The First Solar Term of Summer""",neutral,0.8483147621154785,1,5,0,5
+1,chinese,"""Examining How Cultural Tourism Consumption Creates New Demands Through Changing Tourist Photos""",neutral,0.7160856127738953,1,5,0,5
+2,chinese,"""Beijing Stage Blooms with Colorful Flowers During ""May Day"" Holiday""",positive,0.7488799095153809,3,5,0,5
+3,chinese,"""Millennial Classic Meets New Trends: When Silk Meets New Productivity""",neutral,0.49277225136756897,1,5,0,5
+4,chinese,"""Transportation Department Takes Multiple Measures to Address High Peak of Return Travelers""",neutral,0.8328588008880615,1,5,0,5
+5,chinese,"""Cultural Exchange is the Key to Promoting Mutual Understanding and Creating a Bright Future for Sino-French Relations""",positive,0.6752374172210693,2,5,0,5
+6,chinese,"""“Belt and Road” Goes Deeper and More Practical, ""Danube Corridor"" Boosts Serbia's Economic Development""",positive,0.7336304783821106,3,5,0,5
+7,chinese,"""Egyptian Media: Significant Progress Made in Hamas and Egypt's Ceasefire Agreement for Gaza""",positive,0.7752193212509155,3,5,0,5
+8,chinese,"""Holiday Economy"" Continues to Heat Up: Small Cities Drive the ""Big Market"" of Cultural Tourism",positive,0.741102397441864,3,5,0,5
+9,chinese,"""China Listed Companies Association: Number of Manufacturing Listed Companies Reached 3629 by the End of March""",neutral,0.7987867593765259,1,5,0,5
