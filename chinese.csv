@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""French Experts: Sino-French Pragmatic Cooperation Promotes Global Peace and Development""",positive,0.6888496279716492,2,2,1,7
-1,chinese,"""Report on Progress and Prospects of China-EU Environmental and Climate Cooperation Released by Think Tank""",neutral,0.7697147130966187,1,2,1,7
-2,chinese,"""Infographic | International Voices: No Evidence Suggests China's ""Overcapacity""! The West Should Not Speculate, But Face Competition Directly""",negative,0.7478724718093872,-2,2,1,7
-3,chinese,"""Beijing's Charm for Inbound Tourism is Abundant""",positive,0.8025039434432983,3,2,1,7
-4,chinese,"""Service Trade Volume Increases by 14.7% Year-on-Year in the First Quarter""",neutral,0.631493330001831,1,2,1,7
-5,chinese,"""Beginning of Summer - The First Solar Term of Summer""",neutral,0.8483147621154785,1,2,1,7
-6,chinese,"""Examining How Cultural Tourism Consumption Creates New Demands through Changing Tourist Photos""",neutral,0.7089038491249084,1,2,1,7
-7,chinese,"""Flourishing Stage in Beijing during the ""May Day"" Holiday""",neutral,0.7308412194252014,1,2,1,7
-8,chinese,"""Millennial Classic Meets New Trends | When Silk Meets New Productivity""",neutral,0.5211191773414612,1,2,1,7
-9,chinese,"""Transportation Department Implements Multiple Measures to Cope with High Volume of Return Travelers""",neutral,0.6745918393135071,1,2,1,7
+0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities to Deepen Cultural Exchange and Friendship""",positive,0.7620457410812378,3,4,2,4
+1,chinese,"""May Day Holiday Sees a Total of 1.36 Billion People Cross Regional Borders in Society""",neutral,0.7565858960151672,1,4,2,4
+2,chinese,"""Israel's Northern Region Hit by Approximately 20 Rockets""",negative,0.5363569855690002,-1,4,2,4
+3,chinese,"""This round of Israeli-Palestinian conflict has resulted in 34,683 deaths in the Gaza Strip""",negative,0.7660574316978455,-2,4,2,4
+4,chinese,"""Canton Fair Successfully Concludes Today with 246,000 Overseas Buyers Attending Offline""",positive,0.6062291264533997,2,4,2,4
+5,chinese,"""Beautiful Scenery on the Journey of ""Mobile China"": The ""May Day"" Holiday is Full of Fun and Rewards""",positive,0.9207596778869629,3,4,2,4
+6,chinese,"""Cultural, Culinary, Sports, Aviation, Economic and Trade... Sino-French Relations to Forge Ahead at a Higher Level of Cooperation""",neutral,0.48645561933517456,1,4,2,4
+7,chinese,"""Abundant Achievements in China-Serbia Cooperation: ""Steel"" Friendship Shines with Youthful Vitality in the New Era""",positive,0.8073947429656982,3,4,2,4
+8,chinese,"""Return peak encounters rainy and convective weather, various measures taken to ensure safe travel in all regions""",neutral,0.48653021454811096,1,4,2,4
+9,chinese,"""From ""Internet Celebrity"" to ""Long-lasting Fame"": A Small Tent Supporting the ""Poetry and Faraway Places"" Around Us""",neutral,0.700790286064148,1,4,2,4
