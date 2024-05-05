@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities to Deepen Cultural Exchange and Friendship""",positive,0.7620457410812378,3,4,2,4
-1,chinese,"""May Day Holiday Sees a Total of 1.36 Billion People Cross Regional Borders in Society""",neutral,0.7565858960151672,1,4,2,4
-2,chinese,"""Israel's Northern Region Hit by Approximately 20 Rockets""",negative,0.5363569855690002,-1,4,2,4
-3,chinese,"""This round of Israeli-Palestinian conflict has resulted in 34,683 deaths in the Gaza Strip""",negative,0.7660574316978455,-2,4,2,4
-4,chinese,"""Canton Fair Successfully Concludes Today with 246,000 Overseas Buyers Attending Offline""",positive,0.6062291264533997,2,4,2,4
-5,chinese,"""Beautiful Scenery on the Journey of ""Mobile China"": The ""May Day"" Holiday is Full of Fun and Rewards""",positive,0.9207596778869629,3,4,2,4
-6,chinese,"""Cultural, Culinary, Sports, Aviation, Economic and Trade... Sino-French Relations to Forge Ahead at a Higher Level of Cooperation""",neutral,0.48645561933517456,1,4,2,4
-7,chinese,"""Abundant Achievements in China-Serbia Cooperation: ""Steel"" Friendship Shines with Youthful Vitality in the New Era""",positive,0.8073947429656982,3,4,2,4
-8,chinese,"""Return peak encounters rainy and convective weather, various measures taken to ensure safe travel in all regions""",neutral,0.48653021454811096,1,4,2,4
-9,chinese,"""From ""Internet Celebrity"" to ""Long-lasting Fame"": A Small Tent Supporting the ""Poetry and Faraway Places"" Around Us""",neutral,0.700790286064148,1,4,2,4
+0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities for Deepening Cultural Exchange and Friendship""",positive,0.7738302946090698,3,5,2,3
+1,chinese,"""May Day Holiday Sees Approximately 1.36 Billion People Cross Regional Borders Across Society""",neutral,0.7933251857757568,1,5,2,3
+2,chinese,"""Israel's Northern Region Hit by Approximately 20 Rockets""",negative,0.5363569855690002,-1,5,2,3
+3,chinese,"""This round of Israel-Palestine conflict has resulted in 34,683 deaths in the Gaza Strip""",negative,0.7515168190002441,-2,5,2,3
+4,chinese,"""Canton Fair Successfully Concludes Today with 246,000 Overseas Buyers Attending Offline""",positive,0.6062291264533997,2,5,2,3
+5,chinese,"""Unlimited Scenery on the Journey of ""Mobile China"": ""May Day"" Holiday is Full of Flavor and Rewards""",positive,0.7525330185890198,3,5,2,3
+6,chinese,"""Cultural, Culinary, Sports, Aviation, Economic and Trade... China-France Relations to Forge Ahead at a Higher Level of Cooperation""",positive,0.48350608348846436,2,5,2,3
+7,chinese,"""China-Serbia Cooperation Yields Abundant Fruits: ""Steel"" Friendship Shines with Youthful Vigor in the New Era""",positive,0.7902109026908875,3,5,2,3
+8,chinese,"""Return peak encounters rainy and convective weather, various measures taken to ensure safe travel in all regions""",neutral,0.48653021454811096,1,5,2,3
+9,chinese,"""From ""Internet Celebrity"" to ""Long-lasting Fame"": Small Tent Supports the ""Poetry and Distant Places"" Around Us""",neutral,0.5690317153930664,1,5,2,3
