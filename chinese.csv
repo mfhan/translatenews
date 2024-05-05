@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Beginning of Summer - The First Solar Term of Summer""",neutral,0.8483147621154785,1,5,0,5
-1,chinese,"""Examining How Cultural Tourism Consumption Creates New Demands Through Changing Tourist Photos""",neutral,0.7160856127738953,1,5,0,5
-2,chinese,"""Beijing Stage Blooms with Colorful Flowers During ""May Day"" Holiday""",positive,0.7488799095153809,3,5,0,5
-3,chinese,"""Millennial Classic Meets New Trends: When Silk Meets New Productivity""",neutral,0.49277225136756897,1,5,0,5
-4,chinese,"""Transportation Department Takes Multiple Measures to Address High Peak of Return Travelers""",neutral,0.8328588008880615,1,5,0,5
-5,chinese,"""Cultural Exchange is the Key to Promoting Mutual Understanding and Creating a Bright Future for Sino-French Relations""",positive,0.6752374172210693,2,5,0,5
-6,chinese,"""“Belt and Road” Goes Deeper and More Practical, ""Danube Corridor"" Boosts Serbia's Economic Development""",positive,0.7336304783821106,3,5,0,5
-7,chinese,"""Egyptian Media: Significant Progress Made in Hamas and Egypt's Ceasefire Agreement for Gaza""",positive,0.7752193212509155,3,5,0,5
-8,chinese,"""Holiday Economy"" Continues to Heat Up: Small Cities Drive the ""Big Market"" of Cultural Tourism",positive,0.741102397441864,3,5,0,5
-9,chinese,"""China Listed Companies Association: Number of Manufacturing Listed Companies Reached 3629 by the End of March""",neutral,0.7987867593765259,1,5,0,5
+0,chinese,"""French Experts: Sino-French Pragmatic Cooperation Promotes Global Peace and Development""",positive,0.6888496279716492,2,2,1,7
+1,chinese,"""Report on Progress and Prospects of China-EU Environmental and Climate Cooperation Released by Think Tank""",neutral,0.7697147130966187,1,2,1,7
+2,chinese,"""Infographic | International Voices: No Evidence Suggests China's ""Overcapacity""! The West Should Not Speculate, But Face Competition Directly""",negative,0.7478724718093872,-2,2,1,7
+3,chinese,"""Beijing's Charm for Inbound Tourism is Abundant""",positive,0.8025039434432983,3,2,1,7
+4,chinese,"""Service Trade Volume Increases by 14.7% Year-on-Year in the First Quarter""",neutral,0.631493330001831,1,2,1,7
+5,chinese,"""Beginning of Summer - The First Solar Term of Summer""",neutral,0.8483147621154785,1,2,1,7
+6,chinese,"""Examining How Cultural Tourism Consumption Creates New Demands through Changing Tourist Photos""",neutral,0.7089038491249084,1,2,1,7
+7,chinese,"""Flourishing Stage in Beijing during the ""May Day"" Holiday""",neutral,0.7308412194252014,1,2,1,7
+8,chinese,"""Millennial Classic Meets New Trends | When Silk Meets New Productivity""",neutral,0.5211191773414612,1,2,1,7
+9,chinese,"""Transportation Department Implements Multiple Measures to Cope with High Volume of Return Travelers""",neutral,0.6745918393135071,1,2,1,7
