@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities for Deepening Cultural Exchange and Friendship""",positive,0.7738302946090698,3,5,2,3
-1,chinese,"""May Day Holiday Sees Approximately 1.36 Billion People Cross Regional Borders Across Society""",neutral,0.7933251857757568,1,5,2,3
-2,chinese,"""Israel's Northern Region Hit by Approximately 20 Rockets""",negative,0.5363569855690002,-1,5,2,3
-3,chinese,"""This round of Israel-Palestine conflict has resulted in 34,683 deaths in the Gaza Strip""",negative,0.7515168190002441,-2,5,2,3
-4,chinese,"""Canton Fair Successfully Concludes Today with 246,000 Overseas Buyers Attending Offline""",positive,0.6062291264533997,2,5,2,3
-5,chinese,"""Unlimited Scenery on the Journey of ""Mobile China"": ""May Day"" Holiday is Full of Flavor and Rewards""",positive,0.7525330185890198,3,5,2,3
-6,chinese,"""Cultural, Culinary, Sports, Aviation, Economic and Trade... China-France Relations to Forge Ahead at a Higher Level of Cooperation""",positive,0.48350608348846436,2,5,2,3
-7,chinese,"""China-Serbia Cooperation Yields Abundant Fruits: ""Steel"" Friendship Shines with Youthful Vigor in the New Era""",positive,0.7902109026908875,3,5,2,3
-8,chinese,"""Return peak encounters rainy and convective weather, various measures taken to ensure safe travel in all regions""",neutral,0.48653021454811096,1,5,2,3
-9,chinese,"""From ""Internet Celebrity"" to ""Long-lasting Fame"": Small Tent Supports the ""Poetry and Distant Places"" Around Us""",neutral,0.5690317153930664,1,5,2,3
+0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities for Deepening Cultural Exchange and Friendship""",positive,0.7738302946090698,3,7,2,1
+1,chinese,"""Inbound Tourism on the Rise, Improved Convenience in Travel Payments""",positive,0.736392080783844,3,7,2,1
+2,chinese,"""2024 May Day Box Office Surpasses Last Year, Enters Top Three in Film History""",positive,0.6212008595466614,2,7,2,1
+3,chinese,"""Innovative Products: China's Bicycles Use These Advantages to Secure Export Orders""",positive,0.6658796668052673,2,7,2,1
+4,chinese,"""I want to make some French friends"" - Chinese Children's Choir Goes to France for Exchange and Experience French Music Culture",positive,0.5428903698921204,2,7,2,1
+5,chinese,"""May Day Holiday Sees Approximately 1.36 Billion People Travel Across Regions in the Whole Society""",neutral,0.6906499266624451,1,7,2,1
+6,chinese,"""Israel's North Hit by About 20 Rockets""",negative,0.5830715298652649,-1,7,2,1
+7,chinese,"""This round of Israeli-Palestinian conflict has caused 34,683 deaths in the Gaza Strip""",negative,0.7646705508232117,-2,7,2,1
+8,chinese,"""Canton Fair Successfully Concludes Today with 246,000 Overseas Buyers Attending Offline""",positive,0.6062291264533997,2,7,2,1
+9,chinese,"""Unlimited Scenery on the Journey of ""Mobile China"": ""May Day"" Holiday is Full of Flavor and Rewards""",positive,0.7525330185890198,3,7,2,1
