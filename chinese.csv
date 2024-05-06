@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities, Cultural Exchange Deepens Friendship""",positive,0.6953697204589844,2,6,0,4
-1,chinese,"""Preview of ""Mutual Learning"" Cultural Salon: Impressions of Sino-French Harmony and Cooperation""",neutral,0.8190653920173645,1,6,0,4
-2,chinese,"""Major Breakthrough! Chinese Scientists Achieve Anomalous Fractional Quantum Hall State in Photons for the First Time""",positive,0.7496062517166138,3,6,0,4
-3,chinese,"""Over 8 million people enter and exit the country during the ""May Day"" holiday""",neutral,0.5947409868240356,1,6,0,4
-4,chinese,"""Enhancing Cooperation and Mutual Learning between Chinese and French Museums - Interview with Director of the Louvre Museum, Jean-Luc Martinez""",positive,0.5449172854423523,2,6,0,4
-5,chinese,"""National Social Stability and Good Public Security Maintained During the ""May Day"" Holiday""",neutral,0.6294665336608887,1,6,0,4
-6,chinese,"""Harmony and Justice | Strengthening Sino-French Friendship for the Benefit of Both Countries and the World""",positive,0.6036307215690613,2,6,0,4
-7,chinese,"""French Parliament Member: China and France are Embarking on a Hopeful New ""Jiazi"" Era""",positive,0.6307486891746521,2,6,0,4
-8,chinese,"""Southern China to Experience Increased Rainfall in the Next Few Days, While Some Areas in the North May Reach a High Temperature of Over 30℃""",neutral,0.5358497500419617,1,6,0,4
-9,chinese,"""Scenic Area on Fire, Small and Large Cities Turn Red Together During ""May Day"" Holiday, Four Highlights in the Holiday Economy""",positive,0.5922996997833252,2,6,0,4
+0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities, Cultural Exchange Deepens Friendship""",positive,0.6953697204589844,2,3,0,7
+1,chinese,"""Ministry of Foreign Affairs: Urges the Philippine side to abide by commitments and stop infringement and provocation""",neutral,0.4589465856552124,1,3,0,7
+2,chinese,"""May Day Box Office Reaches 1.527 Billion Yuan in 2024""",neutral,0.6100965738296509,1,3,0,7
+3,chinese,"""[Bilingual Financial News] 2024 Spring Recruitment Season: More Overseas Students Entering the Domestic Job Market""",neutral,0.8413774371147156,1,3,0,7
+4,chinese,"""2024 May Day Holiday: 295 Million Domestic Tourists Traveling""",neutral,0.824586808681488,1,3,0,7
+5,chinese,"""6G Development Enters Critical Window Period, Standard Development to Begin This Year""",neutral,0.6511152386665344,1,3,0,7
+6,chinese,"""Multiple Regions Implementing Intensive Policy Adjustments to Optimize Real Estate Industry, Promoting Healthy Market Development""",positive,0.6556248068809509,2,3,0,7
+7,chinese,"""Preview of ""Mutual Learning"" Cultural Salon: Impressions of Sino-French Harmony and Cooperation""",neutral,0.8190653920173645,1,3,0,7
+8,chinese,"""Major Breakthrough! Chinese Scientists Achieve Anomalous Fractional Quantum Hall State in Photons for the First Time""",positive,0.7496062517166138,3,3,0,7
+9,chinese,"""Over 8 million people enter and exit the country during the ""May Day"" holiday""",neutral,0.5947409868240356,1,3,0,7
