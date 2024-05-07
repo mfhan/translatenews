@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities for Cultural Exchange and Deepening Friendship""",positive,0.7661318778991699,3,2,0,8
-1,chinese,"""Belgrade, capital of Serbia, hangs flags of China and Serbia on its streets""",neutral,0.5308128595352173,1,2,0,8
-2,chinese,"""Ministry of Foreign Affairs: Advising the US to Stop Crossing China's Bottom Line and Red Line on the Taiwan Issue""",neutral,0.4712848365306854,1,2,0,8
-3,chinese,"""Ministry of Foreign Affairs: Urges the Philippine side to Fulfill Promises and Stop Infringement and Provocation""",neutral,0.5192792415618896,1,2,0,8
-4,chinese,"""May Day Box Office Reaches 1.527 Billion Yuan in 2024""",neutral,0.6100965738296509,1,2,0,8
-5,chinese,"""[Bilingual Financial News] 2024 Spring Recruitment Season: More Overseas Students Entering the Domestic Job Market""",neutral,0.8413774371147156,1,2,0,8
-6,chinese,"""2.95 Billion Domestic Tourists Travel During the 2024 ""May Day"" Holiday""",neutral,0.8132414221763611,1,2,0,8
-7,chinese,"""6G Development Enters Critical Window Period, Standard Development to Begin This Year""",neutral,0.6511152386665344,1,2,0,8
-8,chinese,"""Multiple Regions Implementing Intensive Policy Adjustments to Optimize Real Estate Market and Promote Healthy Development""",positive,0.6114608645439148,2,2,0,8
-9,chinese,"""Preview of ""Mutual Learning"" Cultural Salon: Impressions of Sino-French Harmony and Cooperation""",neutral,0.8190653920173645,1,2,0,8
+0,chinese,"""Core Perspective | French Teacher: China Provides Many Opportunities for Deepening Cultural Exchange and Friendship""",positive,0.7738302946090698,3,3,0,7
+1,chinese,"""Belgrade, capital of Serbia, hangs flags of both China and Serbia on its streets""",neutral,0.5991184711456299,1,3,0,7
+2,chinese,"""French Sinologist: Sino-French Cultural Exchange Has a Long History and a Broad Future""",neutral,0.5961487293243408,1,3,0,7
+3,chinese,"""Village Superstars Pave the Way, ""Village Competitions"" Become the Engine""",positive,0.6316471695899963,2,3,0,7
+4,chinese,Ministry of Commerce: Promoting Further Improvement and Upgrading of China-Russia Bilateral Trade,positive,0.6359162926673889,2,3,0,7
+5,chinese,"""Lithium Battery Safety Standards Released, Concerning Electric Bicycle Safety""",neutral,0.778568685054779,1,3,0,7
+6,chinese,"""Ministry of Foreign Affairs: Advising the US to Stop Crossing China's Bottom Line and Red Line on the Taiwan Issue""",neutral,0.4712848365306854,1,3,0,7
+7,chinese,"""Ministry of Foreign Affairs: Urges the Philippine side to abide by commitments and cease infringement provocations""",neutral,0.4859815239906311,1,3,0,7
+8,chinese,"""Box Office for May Day Holiday Movies Reaches 1.527 Billion Yuan in 2024""",neutral,0.6128678321838379,1,3,0,7
+9,chinese,"""Bilingual Financial News: 2024 Spring Recruitment Season - More Overseas Students Enter the Domestic Job Market""",neutral,0.8122972846031189,1,3,0,7
