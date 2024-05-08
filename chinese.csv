@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Serbian Scholar: ""Serbian Iron"" Can Be Even ""Iron-er""""",neutral,0.8039264678955078,1,6,0,4
-1,chinese,"""China's Affairs: Foreign Media Focus on the Everlasting ""Ironclad"" Friendship between China and Serbia, Hand in Hand on the Path of ""Win-Win"" Cooperation""",positive,0.6433127522468567,2,6,0,4
-2,chinese,"""Commemorative Forum for the 50th Anniversary of China-Malaysia Diplomatic Relations Held in Kuala Lumpur - Strengthening the Bonds between China and Malaysia and Exploring New Opportunities for Cooperation Together""",positive,0.715828537940979,3,6,0,4
-3,chinese,"""274.06 Billion Yuan! China's Advertising Industry Shows Strong Growth in the First Quarter""",positive,0.7602130770683289,3,6,0,4
-4,chinese,"""Serbian Experts: China and Serbia Practice Multilateralism to Promote the Construction of a Community with a Shared Future for Mankind""",positive,0.58733069896698,2,6,0,4
-5,chinese,Ministry of Finance strengthens and improves the level of funding for compulsory education,positive,0.7841413021087646,3,6,0,4
-6,chinese,"Exclusive! China May Support Tesla's Testing of ""Driverless Ride-Hailing""",positive,0.5736587643623352,2,6,0,4
-7,chinese,"""State Administration of Foreign Exchange: China's Foreign Exchange Reserves Reached 3.2 Trillion US Dollars at the End of April""",neutral,0.7580955624580383,1,6,0,4
-8,chinese,"""25 Years of Operation for the Special Rice Transplanting Train, Transporting Nearly 1.9 Million Passengers""",neutral,0.5337108373641968,1,6,0,4
-9,chinese,"""John Swinney Elected as New Chief Minister of Scotland's Local Government in the UK""",neutral,0.7346031069755554,1,6,0,4
+0,chinese,"""Chinese Navy's Fujian Ship Successfully Completes Its First Sea Trial""",positive,0.7779635190963745,3,6,2,2
+1,chinese,"""TikTok and its parent company jointly sue the US government for forcing illegal sale""",negative,0.8348300457000732,-2,6,2,2
+2,chinese,"""Bilingual Financial News: Expert Says China's Green Products Will Benefit the World""",positive,0.5514087677001953,2,6,2,2
+3,chinese,"""Shared Impressions of China and France: Hutongs and French Style Lost in Translation""",neutral,0.4944536089897156,1,6,2,2
+4,chinese,"""Efforts to Ensure a Bountiful Harvest for the Whole Year: Utilizing Good Land, Opportunities, and Methods to Create a ""Modern Spring Planting Plan""""",positive,0.6327401995658875,2,6,2,2
+5,chinese,"""AIGC Application Surges, Related Job Demands Increase by Over 300%""",neutral,0.6250620484352112,1,6,2,2
+6,chinese,"""Serbian Scholar: ""Serbian Iron"" Can Be Even Stronger""",positive,0.5517315864562988,2,6,2,2
+7,chinese,"""Shanxi Releases Assessment Report on the ""12.28"" Major Explosion in Linfen, 22 People Held Accountable""",negative,0.6039454936981201,-1,6,2,2
+8,chinese,"""【China News】Foreign Media Focus: China-Serbia ""Ironclad"" Friendship Continues to Strengthen, Hand in Hand on the Road to ""Win-Win"" Cooperation""",positive,0.7280327677726746,3,6,2,2
+9,chinese,"""Commemorative Forum for the 50th Anniversary of China-Malaysia Diplomatic Relations Held in Kuala Lumpur - Strengthening Ties and Exploring New Opportunities for Cooperation Together""",positive,0.7117090821266174,3,6,2,2
