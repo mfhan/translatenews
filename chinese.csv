@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese-style Massage on the Streets of Hungary! Spectators' Reactions are Full of Energy Throughout...""",positive,0.6132277250289917,2,5,2,3
-1,chinese,"""Serbian Scholar: China Has Its Own Way of Governing""",neutral,0.49628299474716187,1,5,2,3
-2,chinese,"""Bangkok Successfully Hosts ""Tasting Tea, Appreciating Tibet"" Cultural and Tourism Exchange Event""",positive,0.7430011630058289,3,5,2,3
-3,chinese,"""Shanghai Ocean University Successfully Develops Intelligent Bionic Fish""",positive,0.7679293751716614,3,5,2,3
-4,chinese,"""Exporting Nearly 40 Million Vehicles! Come See the New Track of the Bicycle Kingdom""",positive,0.49989691376686096,2,5,2,3
-5,chinese,"""Xi'an: Complete Cancellation of Housing Purchase Restrictions""",negative,0.6884626746177673,-1,5,2,3
-6,chinese,"""World Affairs: Hungarian Officials: ""Opening Up to the East"" Joins Hands with ""Belt and Road"", Awaiting Broader, Closer, and Deeper Cooperation between Hungary and China""",positive,0.598250687122345,2,5,2,3
-7,chinese,"""Gold Prices Have Recently Fallen, Experts Say Central Bank's Increase in Gold Holdings is the Main Direction""",neutral,0.7023860216140747,1,5,2,3
-8,chinese,"""Renminbi Remains Stable Against Basket of Currencies, Little Risk of Unexpected Depreciation in RMB Exchange Rate""",negative,0.7912825345993042,-2,5,2,3
-9,chinese,"""Cultural Journey in China: Impressions of Sino-French Cooperation: Cultural Confidence is the First Step of Mutual Learning""",neutral,0.6710688471794128,1,5,2,3
+0,chinese,"""Chinese-style massage performed on the streets of Hungary! Spectators' reactions are full of energy throughout the process...""",positive,0.5311846733093262,2,5,3,2
+1,chinese,"""Serbian Scholar: China Has Its Own Way of Governing""",neutral,0.49628299474716187,1,5,3,2
+2,chinese,"""Ministry of Commerce: Strongly Opposes US Sanctions on Chinese Companies""",negative,0.8418756127357483,-2,5,3,2
+3,chinese,"Bangkok Successfully Hosts ""Tea Tasting and Tibetan Culture"" Cultural and Tourism Exchange Event",positive,0.5643123388290405,2,5,3,2
+4,chinese,"""Shanghai Ocean University Successfully Develops Intelligent Bionic Fish""",positive,0.7679293751716614,3,5,3,2
+5,chinese,"""Nearly 40 million exports! Come see the new track of the bicycle kingdom""",positive,0.5875434279441833,2,5,3,2
+6,chinese,"""Xi'an: Complete Cancellation of Housing Purchase Restrictions""",negative,0.6884626746177673,-1,5,3,2
+7,chinese,"""World Affairs: Hungarian Officials: ""Opening Up to the East"" Joins Hands with ""Belt and Road"", Looking Forward to Broader, Closer, and Deeper Cooperation between Hungary and China""",positive,0.623526394367218,2,5,3,2
+8,chinese,"""Gold Prices Have Recently Fallen, Experts Say: Central Bank's Increase in Gold Holdings is the Main Direction""",neutral,0.7162622809410095,1,5,3,2
+9,chinese,"""Renminbi Remains Stable Against a Basket of Currencies, Little Risk of Unexpected Depreciation in Renminbi Exchange Rate""",negative,0.7726454734802246,-2,5,3,2
