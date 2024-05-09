@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Navy's Fujian Ship Successfully Completes First Sea Trial""",positive,0.7503371238708496,3,4,0,6
-1,chinese,"""China's Giant Panda National Park Forms Friendly Cooperation with France's Pyrenees National Park""",positive,0.7351818084716797,3,4,0,6
-2,chinese,Chinese scientists create a new map of the macaque brain network,neutral,0.5191314816474915,1,4,0,6
-3,chinese,"""China's First Medium-Orbit Broadband Communication Satellite, ""Intelligent Sky Net 01"", Successfully Launched""",neutral,0.5931459665298462,1,4,0,6
-4,chinese,"""Hungarian Ambassador to China's Cultural and Educational Counselor Encounters Chinese Cuisine, Discovers His Favorite Dish!""",positive,0.616571843624115,2,4,0,6
-5,chinese,"""Hungarian Embassy's Cultural and Educational Counselor in China, Aidan: China-Hungary Jointly Building the ""Belt and Road"" Initiative Has Global Significance""",positive,0.5006332993507385,2,4,0,6
-6,chinese,"""China Signs Customs AEO Mutual Recognition Arrangements with Burundi and Iceland""",neutral,0.7537283897399902,1,4,0,6
-7,chinese,"""Large-scale precipitation to hit central and eastern regions starting tomorrow, while temperatures in the north continue to reach new highs""",neutral,0.5081773400306702,1,4,0,6
-8,chinese,"""Emergency Mission 2024: Flood and Typhoon Prevention Exercise to be Held on the Morning of the 10th""",neutral,0.8046211004257202,1,4,0,6
-9,chinese,"""Hungarian Expert: Multipolar World Needs ""Real Cooperation"" between China and Europe""",neutral,0.6841013431549072,1,4,0,6
+0,chinese,"""Chinese-style Massage on the Streets of Hungary! Spectators' Reactions are Full of Energy Throughout...""",positive,0.6132277250289917,2,5,2,3
+1,chinese,"""Serbian Scholar: China Has Its Own Way of Governing""",neutral,0.49628299474716187,1,5,2,3
+2,chinese,"""Bangkok Successfully Hosts ""Tasting Tea, Appreciating Tibet"" Cultural and Tourism Exchange Event""",positive,0.7430011630058289,3,5,2,3
+3,chinese,"""Shanghai Ocean University Successfully Develops Intelligent Bionic Fish""",positive,0.7679293751716614,3,5,2,3
+4,chinese,"""Exporting Nearly 40 Million Vehicles! Come See the New Track of the Bicycle Kingdom""",positive,0.49989691376686096,2,5,2,3
+5,chinese,"""Xi'an: Complete Cancellation of Housing Purchase Restrictions""",negative,0.6884626746177673,-1,5,2,3
+6,chinese,"""World Affairs: Hungarian Officials: ""Opening Up to the East"" Joins Hands with ""Belt and Road"", Awaiting Broader, Closer, and Deeper Cooperation between Hungary and China""",positive,0.598250687122345,2,5,2,3
+7,chinese,"""Gold Prices Have Recently Fallen, Experts Say Central Bank's Increase in Gold Holdings is the Main Direction""",neutral,0.7023860216140747,1,5,2,3
+8,chinese,"""Renminbi Remains Stable Against Basket of Currencies, Little Risk of Unexpected Depreciation in RMB Exchange Rate""",negative,0.7912825345993042,-2,5,2,3
+9,chinese,"""Cultural Journey in China: Impressions of Sino-French Cooperation: Cultural Confidence is the First Step of Mutual Learning""",neutral,0.6710688471794128,1,5,2,3
