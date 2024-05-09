@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Navy's Fujian Ship Successfully Completes First Sea Trial""",positive,0.7503371238708496,3,5,1,4
-1,chinese,"""French Experts: The US and the West Should View China's Rise Correctly and Promote Cooperation for Mutual Prosperity""",positive,0.51063472032547,2,5,1,4
-2,chinese,"""Hangzhou: Fully Cancels Housing Purchase Restrictions and Optimizes Residency Policies""",neutral,0.4743858575820923,1,5,1,4
-3,chinese,"""Spokesperson of the Ministry of Commerce Answers Reporters' Questions on US Revoking Export Licenses for Some Companies to Huawei""",neutral,0.7265221476554871,1,5,1,4
-4,chinese,"""National Space Weather Monitoring and Early Warning Center: Solar Flares Will Not Affect Public Health""",neutral,0.7047596573829651,1,5,1,4
-5,chinese,"""Instant Access, Instant Loading, Instant Departure! ""Silk Road Shipping"" Launches 1000 ""Daily Class"" Sea-Rail Intermodal Trains""",neutral,0.6644043922424316,1,5,1,4
-6,chinese,"""Foreign Companies Cast Their Vote of Confidence in the Chinese Economy, Full of Confidence and Expectation for the Chinese Market""",positive,0.6492202877998352,2,5,1,4
-7,chinese,"""China's Retail Industry Prosperity Index Continues to Maintain a Steady Upward Trend""",positive,0.6936678290367126,2,5,1,4
-8,chinese,"""Ministry of Foreign Affairs: China Congratulates President Putin on Inauguration""",positive,0.7969886064529419,3,5,1,4
-9,chinese,"""TikTok and its parent company jointly sue the US government for forcing illegal sale""",negative,0.8348300457000732,-2,5,1,4
+0,chinese,"""Chinese Navy's Fujian Ship Successfully Completes First Sea Trial""",positive,0.7503371238708496,3,4,0,6
+1,chinese,"""China's Giant Panda National Park Forms Friendly Cooperation with France's Pyrenees National Park""",positive,0.7351818084716797,3,4,0,6
+2,chinese,Chinese scientists create a new map of the macaque brain network,neutral,0.5191314816474915,1,4,0,6
+3,chinese,"""China's First Medium-Orbit Broadband Communication Satellite, ""Intelligent Sky Net 01"", Successfully Launched""",neutral,0.5931459665298462,1,4,0,6
+4,chinese,"""Hungarian Ambassador to China's Cultural and Educational Counselor Encounters Chinese Cuisine, Discovers His Favorite Dish!""",positive,0.616571843624115,2,4,0,6
+5,chinese,"""Hungarian Embassy's Cultural and Educational Counselor in China, Aidan: China-Hungary Jointly Building the ""Belt and Road"" Initiative Has Global Significance""",positive,0.5006332993507385,2,4,0,6
+6,chinese,"""China Signs Customs AEO Mutual Recognition Arrangements with Burundi and Iceland""",neutral,0.7537283897399902,1,4,0,6
+7,chinese,"""Large-scale precipitation to hit central and eastern regions starting tomorrow, while temperatures in the north continue to reach new highs""",neutral,0.5081773400306702,1,4,0,6
+8,chinese,"""Emergency Mission 2024: Flood and Typhoon Prevention Exercise to be Held on the Morning of the 10th""",neutral,0.8046211004257202,1,4,0,6
+9,chinese,"""Hungarian Expert: Multipolar World Needs ""Real Cooperation"" between China and Europe""",neutral,0.6841013431549072,1,4,0,6
