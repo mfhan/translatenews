@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese-style massage performed on the streets of Hungary! Spectators' reactions are full of energy throughout the process...""",positive,0.5311846733093262,2,5,3,2
-1,chinese,"""Serbian Scholar: China Has Its Own Way of Governing""",neutral,0.49628299474716187,1,5,3,2
-2,chinese,"""Ministry of Commerce: Strongly Opposes US Sanctions on Chinese Companies""",negative,0.8418756127357483,-2,5,3,2
-3,chinese,"Bangkok Successfully Hosts ""Tea Tasting and Tibetan Culture"" Cultural and Tourism Exchange Event",positive,0.5643123388290405,2,5,3,2
-4,chinese,"""Shanghai Ocean University Successfully Develops Intelligent Bionic Fish""",positive,0.7679293751716614,3,5,3,2
-5,chinese,"""Nearly 40 million exports! Come see the new track of the bicycle kingdom""",positive,0.5875434279441833,2,5,3,2
-6,chinese,"""Xi'an: Complete Cancellation of Housing Purchase Restrictions""",negative,0.6884626746177673,-1,5,3,2
-7,chinese,"""World Affairs: Hungarian Officials: ""Opening Up to the East"" Joins Hands with ""Belt and Road"", Looking Forward to Broader, Closer, and Deeper Cooperation between Hungary and China""",positive,0.623526394367218,2,5,3,2
-8,chinese,"""Gold Prices Have Recently Fallen, Experts Say: Central Bank's Increase in Gold Holdings is the Main Direction""",neutral,0.7162622809410095,1,5,3,2
-9,chinese,"""Renminbi Remains Stable Against a Basket of Currencies, Little Risk of Unexpected Depreciation in Renminbi Exchange Rate""",negative,0.7726454734802246,-2,5,3,2
+0,chinese,"""Chinese-style massage performed on the streets of Hungary! Spectators' reactions were full of energy throughout...""",positive,0.5177348852157593,2,6,1,3
+1,chinese,"""11.5 Billion Yuan Allocated! Will Drive 250,000 Rural Residents to Find Employment Locally""",positive,0.581095278263092,2,6,1,3
+2,chinese,"""Over 100 Units Join Forces! Establishment of Commercial Aerospace Industry Technology Alliance""",neutral,0.6438207030296326,1,6,1,3
+3,chinese,"""Record-breaking Achievement! China and Vietnam Jointly Release 128 Million Aquatic Organisms""",positive,0.7219913005828857,3,6,1,3
+4,chinese,"""China has over 13,000 listed products on major stock exchanges""",neutral,0.7840352058410645,1,6,1,3
+5,chinese,"""Sharing Investment Opportunities: China's Business Environment Continues to Improve""",positive,0.8056161403656006,3,6,1,3
+6,chinese,"""Russia Holds Red Square Military Parade to Commemorate the 79th Anniversary of Victory in the Great Patriotic War""",positive,0.6613973379135132,2,6,1,3
+7,chinese,"""Serbian Scholar: China Has Its Own Path of Governance""",neutral,0.519929051399231,1,6,1,3
+8,chinese,Ministry of Commerce: Strongly Opposes US Sanctions on Chinese Companies,negative,0.832216203212738,-2,6,1,3
+9,chinese,"""Bangkok Successfully Hosts ""Taste and Collect Tea, Experience Tibet"" Cultural and Tourism Exchange Event""",positive,0.6057823300361633,2,6,1,3
