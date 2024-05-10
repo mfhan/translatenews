@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese-style massage performed on the streets of Hungary! Spectators' reactions were full of energy throughout...""",positive,0.5177348852157593,2,6,1,3
-1,chinese,"""11.5 Billion Yuan Allocated! Will Drive 250,000 Rural Residents to Find Employment Locally""",positive,0.581095278263092,2,6,1,3
-2,chinese,"""Over 100 Units Join Forces! Establishment of Commercial Aerospace Industry Technology Alliance""",neutral,0.6438207030296326,1,6,1,3
-3,chinese,"""Record-breaking Achievement! China and Vietnam Jointly Release 128 Million Aquatic Organisms""",positive,0.7219913005828857,3,6,1,3
-4,chinese,"""China has over 13,000 listed products on major stock exchanges""",neutral,0.7840352058410645,1,6,1,3
-5,chinese,"""Sharing Investment Opportunities: China's Business Environment Continues to Improve""",positive,0.8056161403656006,3,6,1,3
-6,chinese,"""Russia Holds Red Square Military Parade to Commemorate the 79th Anniversary of Victory in the Great Patriotic War""",positive,0.6613973379135132,2,6,1,3
-7,chinese,"""Serbian Scholar: China Has Its Own Path of Governance""",neutral,0.519929051399231,1,6,1,3
-8,chinese,Ministry of Commerce: Strongly Opposes US Sanctions on Chinese Companies,negative,0.832216203212738,-2,6,1,3
-9,chinese,"""Bangkok Successfully Hosts ""Taste and Collect Tea, Experience Tibet"" Cultural and Tourism Exchange Event""",positive,0.6057823300361633,2,6,1,3
+0,chinese,"""Chinese-style Massage Performed on the Streets of Hungary! Spectators React with High Energy Throughout...""",positive,0.4982982575893402,2,6,0,4
+1,chinese,"""Connecting East and West for a Win-Win Future! ""Yiwu-Madrid"" China-Europe Freight Train Celebrates 10th Anniversary with Inaugural Journey""",positive,0.7648988962173462,3,6,0,4
+2,chinese,"""Policy Boosts, Car Exhibition Sets the Stage - Multiple Factors Drive Booming Holiday Car Consumption""",neutral,0.5525766015052795,1,6,0,4
+3,chinese,"""China-EU Relations Face Many Challenges, But the Main Tone is Still Cooperation""",neutral,0.6152631640434265,1,6,0,4
+4,chinese,"""Harmonious Picture of the Community of Shared Destiny for Ethnic Groups""",neutral,0.4865245819091797,1,6,0,4
+5,chinese,"""France, America, and China: Impressions of Shared Beauty and Harmony - Civilization as a Synthesis of Tangible Culture""",neutral,0.6511527895927429,1,6,0,4
+6,chinese,"""Sri Lankan Expert: China's Electric Vehicle Industry Promotes Global Green Transformation""",positive,0.6843573451042175,2,6,0,4
+7,chinese,"""11.5 Billion Yuan Allocated! Will Drive 250,000 Rural Residents to Find Employment Locally""",positive,0.581095278263092,2,6,0,4
+8,chinese,"""Over 100 Units Join Forces! Commercial Space Industry Technology Alliance Established""",positive,0.5685332417488098,2,6,0,4
+9,chinese,"""Record-breaking Achievement! China and Vietnam Jointly Release 128 Million Aquatic Organisms""",positive,0.7219913005828857,3,6,0,4
