@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,Preliminary Data: China's Current Account Surplus of 39.2 Billion US Dollars in the First Quarter,neutral,0.7770384550094604,1,3,2,5
 1,chinese,"""Paris Olympic Torch Completes First Leg of Relay in France""",neutral,0.6572444438934326,1,3,2,5
-2,chinese,"""Debate and Reasoning | Under the ""Technological Iron Curtain"", the only ones trapped will be the United States itself""",negative,0.6163982152938843,-1,3,2,5
-3,chinese,"""Germany's Various Sectors Respond Warmly to China's Extension of Visa-Free Policy, Large Number of Tourists Book Itineraries""",positive,0.5497158765792847,2,3,2,5
-4,chinese,"""GDP data for 31 provinces released in the first quarter - economy starts off well""",positive,0.7771309614181519,3,3,2,5
+2,chinese,"""Reasoning and Analysis | Under the ""Technological Iron Curtain"", the only ones trapped will be the United States itself""",negative,0.6250718832015991,-1,3,2,5
+3,chinese,"""Germany's various sectors warmly respond to China's extension of visa-free policy, with a large number of tourists booking their itineraries""",positive,0.6883314847946167,2,3,2,5
+4,chinese,"""GDP data for the first quarter released for all 31 provinces - economy starts off well""",positive,0.800029993057251,3,3,2,5
 5,chinese,"""Seven Departments: Membership Fees of Elderly Care Institutions Cannot Be Used for High-Risk Investments such as Financial Derivatives""",negative,0.7199097871780396,-2,3,2,5
 6,chinese,"""China's Books Make Official Debut at Doha International Book Fair for the First Time""",neutral,0.5430055856704712,1,3,2,5
-7,chinese,"""China Bank Holds Unveiling Ceremony for Serbian RMB Clearing Bank""",neutral,0.8724405169487,1,3,2,5
-8,chinese,"""Connecting East and West for a Win-Win Future! Launch of the 10th Anniversary Commemorative Train for the ""Yiwu-Madrid"" China-Europe Freight Train""",positive,0.6583934426307678,2,3,2,5
+7,chinese,"""China Bank Holds Unveiling Ceremony for Serbia Renminbi Clearing Bank""",neutral,0.8654326796531677,1,3,2,5
+8,chinese,"""Connecting East and West for a Win-Win Future! ""Yiwu-Madrid"" China-Europe Freight Train Celebrates 10th Anniversary with Inaugural Journey""",positive,0.7648988962173462,3,3,2,5
 9,chinese,"""Policy Boosts, Car Exhibition Sets the Stage - Multiple Factors Drive Booming Holiday Car Consumption""",neutral,0.5525766015052795,1,3,2,5
