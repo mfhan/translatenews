@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Domestic Prices Mildly Rise in April, Releasing Warmth of Economic Recovery""",positive,0.5847091674804688,2,4,2,4
-1,chinese,"""[Insight] US Media: American Consumers are Becoming Increasingly Worried about Economic Trends""",negative,0.768319845199585,-2,4,2,4
-2,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opening Up Exotic Travel Experience""",positive,0.6902874708175659,2,4,2,4
-3,chinese,"""New Third Board Listed Companies Achieve a Total Revenue of 1.57 Trillion Yuan in 2023, Marking Three Consecutive Years of Growth""",positive,0.7006208896636963,3,4,2,4
-4,chinese,"""New ""Nine Articles of the Nation"" Approaching One Month: Serving the New Productive Forces, Accelerating the Implementation of the ""1+N"" Policy System in the Capital Market""",neutral,0.48280325531959534,1,4,2,4
-5,chinese,"""Mohe, Heilongjiang Reappears the Beautiful Scenery of Aurora Borealis""",positive,0.794938862323761,3,4,2,4
-6,chinese,"""What is the experience of being a ""female pilot"" mother? | Exclusive interview with ""Good Life"" for Mother's Day""",neutral,0.7827529907226562,1,4,2,4
-7,chinese,"""UN General Assembly Passes Resolution with Overwhelming Majority Recommending Security Council Reconsider Palestine's Membership Application""",neutral,0.5878843665122986,1,4,2,4
-8,chinese,"Japanese Scholars: Speculating on ""China's Overcapacity"" is Baseless and Protectionism Goes Against Economic Laws",negative,0.9040229320526123,-2,4,2,4
-9,chinese,"""UN Passes Resolution Recognizing Palestine as a Member State of the United Nations""",neutral,0.7403303980827332,1,4,2,4
+0,chinese,"""Domestic Prices Mildly Rise in April, Releasing Warmth of Economic Recovery""",positive,0.5847091674804688,2,5,2,3
+1,chinese,"""[Insight] US Media: American Consumers are Growing Increasingly Worried about Economic Trends""",negative,0.7559609413146973,-2,5,2,3
+2,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opening Up Exotic Cultural Tourism""",positive,0.6298263072967529,2,5,2,3
+3,chinese,"""New Third Board Listed Companies Achieve a Total Revenue of 1.57 Trillion Yuan in 2023, with Continuous Growth for Three Consecutive Years""",positive,0.7043988704681396,3,5,2,3
+4,chinese,"New ""National Nine Articles"" approaching its first month: Serving as a new productive force, the ""1+N"" policy system of the capital market is accelerating its implementation.",positive,0.7551560401916504,3,5,2,3
+5,chinese,"""Heilongjiang Mohe Reappears with Stunning Aurora Borealis Scenery""",positive,0.7553923726081848,3,5,2,3
+6,chinese,"""What is the Experience of Being a ""Female Pilot"" Mother? | Mother's Day Interview with ""Good Life"" Magazine""",neutral,0.8098300099372864,1,5,2,3
+7,chinese,"""UN General Assembly Passes Resolution by Overwhelming Majority Recommending Security Council Reconsider Palestine's Application for Membership""",neutral,0.5542794466018677,1,5,2,3
+8,chinese,"Japanese Scholars: Sensationalizing ""China's Overcapacity"" is Baseless and Protectionism Goes Against Economic Laws",negative,0.8881642818450928,-2,5,2,3
+9,chinese,"""UN General Assembly Passes Resolution Recognizing Palestine as a UN Member State""",neutral,0.69276362657547,1,5,2,3
