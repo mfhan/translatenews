@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Domestic Prices Mildly Rise in April, Releasing Warmth of Economic Recovery""",positive,0.5847091674804688,2,5,2,3
-1,chinese,"""[Insight] US Media: American Consumers are Growing Increasingly Worried about Economic Trends""",negative,0.7559609413146973,-2,5,2,3
+1,chinese,"""[Insight] US Media: American Consumers Increasingly Worried About Economic Trends""",negative,0.7348909378051758,-2,5,2,3
 2,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opening Up Exotic Cultural Tourism""",positive,0.6298263072967529,2,5,2,3
-3,chinese,"""New Third Board Listed Companies Achieve a Total Revenue of 1.57 Trillion Yuan in 2023, with Continuous Growth for Three Consecutive Years""",positive,0.7043988704681396,3,5,2,3
-4,chinese,"New ""National Nine Articles"" approaching its first month: Serving as a new productive force, the ""1+N"" policy system of the capital market is accelerating its implementation.",positive,0.7551560401916504,3,5,2,3
-5,chinese,"""Heilongjiang Mohe Reappears with Stunning Aurora Borealis Scenery""",positive,0.7553923726081848,3,5,2,3
-6,chinese,"""What is the Experience of Being a ""Female Pilot"" Mother? | Mother's Day Interview with ""Good Life"" Magazine""",neutral,0.8098300099372864,1,5,2,3
+3,chinese,"""New Third Board Listed Companies Achieve a Total Revenue of 1.57 Trillion Yuan in 2023, with Three Consecutive Years of Growth""",positive,0.696057915687561,2,5,2,3
+4,chinese,"New ""National Nine Articles"" approaching its first month anniversary: Serving the new productive forces, the ""1+N"" policy system of the capital market is accelerating its implementation.",positive,0.732344388961792,3,5,2,3
+5,chinese,"""Mohe, Heilongjiang Reappears the Beautiful Scenery of Aurora Borealis""",positive,0.794938862323761,3,5,2,3
+6,chinese,"""What is the experience of being a ""female pilot"" mother? | Mother's Day Special Interview with ""Good Life"" Magazine""",neutral,0.8339259624481201,1,5,2,3
 7,chinese,"""UN General Assembly Passes Resolution by Overwhelming Majority Recommending Security Council Reconsider Palestine's Application for Membership""",neutral,0.5542794466018677,1,5,2,3
-8,chinese,"Japanese Scholars: Sensationalizing ""China's Overcapacity"" is Baseless and Protectionism Goes Against Economic Laws",negative,0.8881642818450928,-2,5,2,3
+8,chinese,"Japanese Scholars: Sensationalizing ""China's Overcapacity"" is Groundless, Protectionism Goes Against Economic Laws",negative,0.8991035223007202,-2,5,2,3
 9,chinese,"""UN General Assembly Passes Resolution Recognizing Palestine as a UN Member State""",neutral,0.69276362657547,1,5,2,3
