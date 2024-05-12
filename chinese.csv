@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Domestic Prices Mildly Rise in April, Releasing Warmth of Economic Recovery""",positive,0.5847091674804688,2,5,2,3
-1,chinese,"""[Insight] US Media: American Consumers Increasingly Worried About Economic Trends""",negative,0.7348909378051758,-2,5,2,3
-2,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opening Up Exotic Cultural Tourism""",positive,0.6298263072967529,2,5,2,3
-3,chinese,"""New Third Board Listed Companies Achieve a Total Revenue of 1.57 Trillion Yuan in 2023, with Three Consecutive Years of Growth""",positive,0.696057915687561,2,5,2,3
-4,chinese,"New ""National Nine Articles"" approaching its first month anniversary: Serving the new productive forces, the ""1+N"" policy system of the capital market is accelerating its implementation.",positive,0.732344388961792,3,5,2,3
-5,chinese,"""Mohe, Heilongjiang Reappears the Beautiful Scenery of Aurora Borealis""",positive,0.794938862323761,3,5,2,3
-6,chinese,"""What is the experience of being a ""female pilot"" mother? | Mother's Day Special Interview with ""Good Life"" Magazine""",neutral,0.8339259624481201,1,5,2,3
-7,chinese,"""UN General Assembly Passes Resolution by Overwhelming Majority Recommending Security Council Reconsider Palestine's Application for Membership""",neutral,0.5542794466018677,1,5,2,3
-8,chinese,"Japanese Scholars: Sensationalizing ""China's Overcapacity"" is Groundless, Protectionism Goes Against Economic Laws",negative,0.8991035223007202,-2,5,2,3
-9,chinese,"""UN General Assembly Passes Resolution Recognizing Palestine as a UN Member State""",neutral,0.69276362657547,1,5,2,3
+0,chinese,"""Resident Consumption Demand Continues to Recover, April CPI Slightly Increases Year-on-Year""",neutral,0.5456152558326721,1,5,1,4
+1,chinese,"""Central Bank Releases Financial Data for First 4 Months""",neutral,0.8683922290802002,1,5,1,4
+2,chinese,"""Domestic Prices Mildly Rise in April, Releasing Warmth of Economic Recovery""",positive,0.5847091674804688,2,5,1,4
+3,chinese,"""[Insight] US Media: American Consumers are Becoming Increasingly Worried about Economic Trends""",negative,0.768319845199585,-2,5,1,4
+4,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opens Up Exotic Cultural Tourism""",positive,0.5814400315284729,2,5,1,4
+5,chinese,"""New Third Board Listed Companies Achieve a Total Revenue of 1.57 Trillion Yuan in 2023, with Three Consecutive Years of Growth""",positive,0.696057915687561,2,5,1,4
+6,chinese,"New ""Nine Articles of the Country"" Approaching One Month: Serving the New Quality of Productive Forces, the ""1+N"" Policy System of the Capital Market Accelerates Landing",positive,0.48843857645988464,2,5,1,4
+7,chinese,"""Mohe, Heilongjiang showcases the stunning beauty of the Northern Lights once again""",positive,0.9055607914924622,3,5,1,4
+8,chinese,"""What is the experience of being a ""female pilot"" mother? | Exclusive interview with ""Good Life"" for Mother's Day""",neutral,0.7827529907226562,1,5,1,4
+9,chinese,"""UN General Assembly Passes Resolution with Overwhelming Majority Recommending Security Council to Re-examine Palestine's Application for Membership""",neutral,0.5592657923698425,1,5,1,4
