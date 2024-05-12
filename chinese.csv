@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""What is the purpose of the hype around China's ""overcapacity"" in new energy?""",negative,0.6316562294960022,-1,4,2,4
-1,chinese,"""Strictly Monitor and Prevent Securities Practitioners from Illegally Speculating in Stocks""",neutral,0.58604896068573,1,4,2,4
-2,chinese,"""Analyzing China's Numbers | Multiple Data Sets Show Continued Strengthening of Foreign Trade Momentum""",neutral,0.6487563848495483,1,4,2,4
+0,chinese,"""What is the purpose of hyping China's ""overcapacity"" in new energy?""",negative,0.6862225532531738,-1,4,2,4
+1,chinese,"""Close Monitoring and Strict Prevention of Securities Practitioners' Violations in Stock Speculation""",neutral,0.4759487509727478,1,4,2,4
+2,chinese,"""Analyzing China's Numbers | Multiple Data Sets Show Continuous Strengthening of Foreign Trade Momentum""",neutral,0.6578391790390015,1,4,2,4
 3,chinese,"""Resident Consumption Demand Continues to Recover, April CPI Slightly Increases Year-on-Year""",neutral,0.5456152558326721,1,4,2,4
-4,chinese,"""Central Bank Releases Financial Data for First 4 Months""",neutral,0.8683922290802002,1,4,2,4
+4,chinese,"""Central Bank Releases Financial Data for the First 4 Months""",neutral,0.8525840640068054,1,4,2,4
 5,chinese,"""Domestic Prices Mildly Rise in April, Releasing Warmth of Economic Recovery""",positive,0.5847091674804688,2,4,2,4
-6,chinese,"""[Insight] US Media: American Consumers are Becoming Increasingly Worried about the Economic Trend""",negative,0.7804496884346008,-2,4,2,4
+6,chinese,"""[Insight] US Media: American Consumers Growing Increasingly Worried about Economic Trends""",negative,0.7251589298248291,-2,4,2,4
 7,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opening Up Exotic Cultural Tourism""",positive,0.6298263072967529,2,4,2,4
 8,chinese,"""New Third Board Listed Companies Achieve a Total Revenue of 1.57 Trillion Yuan in 2023, with Three Consecutive Years of Growth""",positive,0.696057915687561,2,4,2,4
-9,chinese,"New ""Nine National Policies"" Approaching One Month: Serving New Productive Forces, Capital Market ""1+N"" Policy System Accelerates Implementation",positive,0.5592561364173889,2,4,2,4
+9,chinese,"New ""Nine Articles of the Country"" Approaching One Month: Serving New Productive Forces, ""1+N"" Policy System in Capital Market Accelerating Implementation",positive,0.5372499823570251,2,4,2,4
