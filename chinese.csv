@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Automobile Association Responds to Possible Increase in New Tariffs on Chinese Electric Vehicles by the US: Typical Trade Protectionism""",negative,0.7193630933761597,-2,3,6,1
-1,chinese,"""Reconciliation and Reasoning | ""Credit Bankruptcy"" but ""Repeated Overdraft"": US Economic Bullying Actions Do Not Help Repair Bilateral Relations""",negative,0.8390834927558899,-2,3,6,1
-2,chinese,"""Strengthening the Supply of Policy-based Financial Support""",negative,0.7895230054855347,-2,3,6,1
+0,chinese,"""China Automobile Association Responds to Possible Increase in New Tariffs on Chinese Electric Vehicles by the United States: Typical Trade Protectionism""",negative,0.7582233548164368,-2,3,6,1
+1,chinese,"""Justice and Reasoning | ""Credit Bankruptcy"" but ""Repeated Overdraft"": US Economic Bullying Actions Do Not Help Repair Bilateral Relations""",negative,0.8377183079719543,-2,3,6,1
+2,chinese,"""Strengthening the Supply of Policy-driven Financial Resources""",negative,0.8126511573791504,-2,3,6,1
 3,chinese,"""Local Versions"" Plans Released One After Another, Industrial Equipment Accelerates Renewal",neutral,0.6164959669113159,1,3,6,1
-4,chinese,"""[Insight] Envy! Indian Blogger: China's Urban Infrastructure Development Far Surpasses India""",negative,0.9362819790840149,-2,3,6,1
+4,chinese,"""Perspective: Envy! Indian Blogger: China's Urban Infrastructure Development Far Surpasses India's""",negative,0.930592954158783,-2,3,6,1
 5,chinese,"""Former Costa Rican President's Advisor: ""Overcapacity"" is Just a New Excuse for the US to Suppress China""",negative,0.6974285840988159,-1,3,6,1
-6,chinese,"""Yantai Sunrise Concert Ignites the May Day Holiday, Leading the New Trend of Cultural Tourism Integration""",positive,0.73091721534729,3,3,6,1
-7,chinese,"""Improvement in the Quality and Effectiveness of Financial Support for the Real Economy in the First Four Months""",positive,0.6583064198493958,2,3,6,1
-8,chinese,"""Data Releases Warmth, New Sources of Energy Continuously Emerge as China's Economy and Society Steadily Advance towards High-Quality Development""",positive,0.781553328037262,3,3,6,1
-9,chinese,"""What is the Purpose of Speculating on China's ""Overcapacity"" in New Energy?""",negative,0.6159334182739258,-1,3,6,1
+6,chinese,"""Yantai's Sunrise Concert Ignites May Day, Leading the New Trend of Cultural and Tourism Integration""",positive,0.6288360953330994,2,3,6,1
+7,chinese,"""Improvement in the Effectiveness of Financial Support for the Real Economy in the First Four Months""",positive,0.6499732732772827,2,3,6,1
+8,chinese,"""Data Releases Warmth, New Sources of Energy Continue to Emerge, China's Economy and Society Steadily Progress towards High-Quality Development""",positive,0.80772864818573,3,3,6,1
+9,chinese,"What is the purpose of the hype about ""overcapacity"" in China's new energy industry?",negative,0.5289425253868103,-1,3,6,1
