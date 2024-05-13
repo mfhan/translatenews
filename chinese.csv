@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Financial Support for Real Economy Improves in First Four Months""",positive,0.7389057874679565,3,4,1,5
-1,chinese,"""Data Releases Warmth, New Sources of Energy Continue to Emerge: China's Economy and Society Steadily Progress towards High-Quality Development""",positive,0.8061555624008179,3,4,1,5
-2,chinese,"""What is the Purpose of Speculating on China's ""Overcapacity"" in New Energy?""",negative,0.6159334182739258,-1,4,1,5
-3,chinese,"""Tightly Monitor and Strengthen Regulations on Securities Practitioners' Unauthorized Stock Trading""",neutral,0.7141301035881042,1,4,1,5
-4,chinese,"""Analyzing China's Numbers | Multiple Data Sets Show Continuous Strengthening of Foreign Trade Momentum""",neutral,0.6578391790390015,1,4,1,5
-5,chinese,"""Resident Consumption Demand Continues to Recover, April CPI Slightly Increases Year-on-Year""",neutral,0.5456152558326721,1,4,1,5
-6,chinese,"""Central Bank Releases Financial Data for First 4 Months""",neutral,0.8683922290802002,1,4,1,5
-7,chinese,"""Domestic Prices Mildly Rise in April, Releasing Warmth of Economic Recovery""",positive,0.5847091674804688,2,4,1,5
-8,chinese,"""Insight: US Media Reports American Consumers are Growing Increasingly Concerned about Economic Trends""",neutral,0.6460536122322083,1,4,1,5
-9,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opening Up Exotic Cultural Tourism""",positive,0.6298263072967529,2,4,1,5
+0,chinese,"""Financial Support for Real Economy Improves in First Four Months""",positive,0.7389057874679565,3,4,2,4
+1,chinese,"""Data Releases Warmth, New Sources of Energy Continue to Emerge, Steady Progress in High-Quality Development of China's Economy and Society""",positive,0.8215273022651672,3,4,2,4
+2,chinese,"""What is the intention behind the hype of ""overcapacity"" in China's new energy industry?""",negative,0.6867693662643433,-1,4,2,4
+3,chinese,"""Close Monitoring and Tight Prevention of Securities Practitioners' Violations in Stock Speculation""",neutral,0.47982847690582275,1,4,2,4
+4,chinese,"""Analyzing China's Numbers | Multiple Data Sets Show Continued Strengthening of Our Country's Foreign Trade Momentum""",neutral,0.5858084559440613,1,4,2,4
+5,chinese,"""Resident Consumption Demand Continues to Recover, April CPI Slightly Increases Compared to Last Year""",neutral,0.5486086010932922,1,4,2,4
+6,chinese,"""Central Bank Releases Financial Data for First 4 Months""",neutral,0.8683922290802002,1,4,2,4
+7,chinese,"""Domestic prices moderately rebound in April, releasing a warm signal of economic recovery""",positive,0.7537279725074768,3,4,2,4
+8,chinese,"""[Insight] US Media: American Consumers are Becoming Increasingly Worried about Economic Trends""",negative,0.768319845199585,-2,4,2,4
+9,chinese,"""Cultural Journey in China | China-Laos Railway Crosses Mountains and Rivers, Opening Up an Exotic Cultural Experience""",positive,0.7713038921356201,3,4,2,4
