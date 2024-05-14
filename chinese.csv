@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fairness and Reasoning | Imposing Tariffs on Chinese Electric Cars Ultimately Hurts US Automakers""",negative,0.893861711025238,-2,2,2,6
-1,chinese,"""International Red Cross Committee Opens Field Hospital in Gaza, Providing Medical Services for Approximately 200 People Daily""",neutral,0.6182956695556641,1,2,2,6
+0,chinese,"""Fairness and Reasoning | Imposing Tariffs on Chinese Electric Vehicles, Ultimately Hurting American Car Companies""",negative,0.8864613175392151,-2,2,2,6
+1,chinese,"""International Committee of the Red Cross Opens Field Hospital in Gaza, Providing Medical Services for Approximately 200 People Daily""",neutral,0.6556091904640198,1,2,2,6
 2,chinese,"""American Journalist Explores Innovative Agricultural Technology in Fujian, Embracing the Concept of ""Big Food""""",positive,0.7227545976638794,3,2,2,6
 3,chinese,"""Press Conference for the Release of the ""Blue Book on International Situation and Chinese Diplomacy (2023/2024)"" Held in Beijing""",neutral,0.9043135643005371,1,2,2,6
 4,chinese,"""World Talk: Racism and Historical Injustice Weave an ""Unequal Web"" in the American Healthcare System""",negative,0.8187346458435059,-2,2,2,6
 5,chinese,"""Study Finds Specific Probiotics May Alleviate Uremia""",neutral,0.5499926805496216,1,2,2,6
-6,chinese,Without hesitation! Inner Mongolia Radio and Television retired journalist saves person at West Lake.,positive,0.6462041139602661,2,2,2,6
+6,chinese,Without hesitation! Inner Mongolia Radio and Television retired journalist saves person at West Lake,positive,0.6112735867500305,2,2,2,6
 7,chinese,"""Multiple Banks Lower Deposit Interest Rates to Promote Benefits for the Real Economy""",neutral,0.5632959008216858,1,2,2,6
-8,chinese,"""Trade-in Programs Introduced in Multiple Regions to Boost Consumption""",neutral,0.5340278744697571,1,2,2,6
+8,chinese,"""Implementing Specific Action Plans in Multiple Regions to Promote Consumption through Trade-in Programs""",neutral,0.5677544474601746,1,2,2,6
 9,chinese,"""12 Negative Lists! Ministry of Education Deploys ""Standardized Management Year"" Action for Basic Education""",neutral,0.8038191199302673,1,2,2,6
