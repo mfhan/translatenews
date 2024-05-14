@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Biden Signs Bill to Ban US Imports of Russian Uranium""",negative,0.4690837562084198,-1,1,7,2
-1,chinese,"""20 Northeast Tigers Die in Wildlife Park? Official Report""",negative,0.5386813879013062,-1,1,7,2
-2,chinese,"""China and the US to Hold First Meeting of Government Dialogue on Artificial Intelligence""",neutral,0.6887786984443665,1,1,7,2
-3,chinese,"""China Automobile Association Responds to Possible Increase in New Tariffs on Chinese Electric Cars by the United States: Typical Trade Protectionism""",negative,0.7543632388114929,-2,1,7,2
-4,chinese,"""Mediation and Reasoning | ""Credit Bankruptcy"" but ""Repeated Overdraft"": US Economic Bullying Actions Do Not Help Repair Bilateral Relations""",negative,0.8315838575363159,-2,1,7,2
-5,chinese,"""Strengthening the Supply of Policy-Oriented Financial Support""",negative,0.7849524021148682,-2,1,7,2
-6,chinese,"""Local Edition"" Plans Released One After Another, Industrial Equipment Accelerates Renewal",neutral,0.6149834394454956,1,1,7,2
-7,chinese,"""[Insight] Envy! Indian Blogger: China's Urban Infrastructure Development Far Surpasses India""",negative,0.9362819790840149,-2,1,7,2
-8,chinese,"""Former Costa Rican President's Advisor: ""Overcapacity"" is just a new excuse for the US to suppress China""",negative,0.8675142526626587,-2,1,7,2
-9,chinese,"""Yantai Sunrise Concert Heats Up May Day, Leading the New Trend of Cultural Tourism Integration""",positive,0.6903845071792603,2,1,7,2
+0,chinese,"""12 Negative Lists! Ministry of Education Deploys Action Plan for Standardized Management of Basic Education Year""",neutral,0.7953498363494873,1,1,5,4
+1,chinese,"""International Community: Deepening Cooperation between China and Europe Injects Certainty into the World""",positive,0.5906951427459717,2,1,5,4
+2,chinese,"""China's Longest Non-stop International Passenger Air Route Opens""",neutral,0.6321661472320557,1,1,5,4
+3,chinese,"""World Talk: Racism and Historical Injustice in the American Healthcare System Weave an ""Unequal Web"", with African American Women Being Most Affected""",negative,0.8453096747398376,-2,1,5,4
+4,chinese,Ministry of Finance Announces Long-Term Special National Bond Issuance Arrangements,neutral,0.797222912311554,1,1,5,4
+5,chinese,"""Biden Signs Bill to Ban Import of Russian Uranium into the United States""",negative,0.46458134055137634,-1,1,5,4
+6,chinese,"""20 Northeast Tigers Die in Wildlife Park? Official Report""",negative,0.5386813879013062,-1,1,5,4
+7,chinese,"""China and the US to Hold First Meeting of Government-to-Government Dialogue on Artificial Intelligence""",neutral,0.7329646944999695,1,1,5,4
+8,chinese,"""China Automobile Association Responds to Possible Increase of New Tariffs on Chinese Electric Vehicles by the United States: Typical Trade Protectionism""",negative,0.7684407234191895,-2,1,5,4
+9,chinese,"""Justice and Reasoning | ""Credit Bankruptcy"" but ""Repeated Overdraft"": US Economic Bullying Actions are Not Helpful in Repairing Bilateral Relations""",negative,0.8896347284317017,-2,1,5,4
