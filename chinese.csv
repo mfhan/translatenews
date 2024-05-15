@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Scientists Discover Massive Magnetic Ring in the Halo of the Milky Way""",neutral,0.6797341108322144,1,4,1,5
-1,chinese,"""American Friends: The Bond of Gulou Reflects Sino-US People-to-People Friendship""",neutral,0.7617921233177185,1,4,1,5
+0,chinese,"""Chinese Scientists Discover Gigantic Magnetic Ring in the Halo of the Milky Way""",neutral,0.6660032272338867,1,4,1,5
+1,chinese,"""American Friend: Guling Love Story Reflects Sino-US People-to-People Friendship""",neutral,0.7798396348953247,1,4,1,5
 2,chinese,"""Japanese Travel Agents Experience the Charm of Hunan's Scenery, Promoting International Cultural Tourism Exchange""",positive,0.7533010840415955,3,4,1,5
-3,chinese,[Bilingual Financial News] Expert: Issuing Ultra-Long-Term National Bonds Helps Stimulate Domestic Demand and Support Continued Economic Improvement,positive,0.6956234574317932,2,4,1,5
-4,chinese,"""Chinese Buddhist Association Holds 2024 Buddha's Birthday Celebration Event in Beijing""",neutral,0.7650931477546692,1,4,1,5
-5,chinese,"""Korean Experts: 32nd Anniversary of Diplomatic Relations, Significance of Sino-Korean Cooperation and Bright Future""",positive,0.5003933310508728,2,4,1,5
-6,chinese,"""US, Japan, and Philippines' ""Luzon Corridor"" to Counter ""Belt and Road""? American Scholar: ""Big Deception"" Strikes Again""",negative,0.8109115362167358,-2,4,1,5
-7,chinese,"""American Violinist: Music Connects People from China and the United States""",neutral,0.7381138801574707,1,4,1,5
+3,chinese,"""Bilingual Financial News: Expert Says Issuing Ultra-Long-Term National Bonds Helps Stimulate Domestic Demand and Support Continued Economic Growth""",positive,0.6468803286552429,2,4,1,5
+4,chinese,"""China Buddhist Association Holds 2024 Buddha's Birthday Celebration Event in Beijing""",neutral,0.7640204429626465,1,4,1,5
+5,chinese,"""Korean Experts: Significant Significance and Promising Prospects for 32nd Anniversary of Diplomatic Relations between China and South Korea""",positive,0.4977721869945526,2,4,1,5
+6,chinese,"""US, Japan, and Philippines' ""Luzon Corridor"" to Counter ""Belt and Road""? American Scholar: ""Another Big Deception"" is Here Again""",negative,0.48058587312698364,-1,4,1,5
+7,chinese,"""American Violinist: Music Connects People of China and the United States""",neutral,0.6919978260993958,1,4,1,5
 8,chinese,"""Brazilian Scholar: China Surpasses Traditional Industrialized Countries, Becomes Leader in New Energy Revolution""",positive,0.6423134207725525,2,4,1,5
 9,chinese,"""British International Law Professor: China Has Undeniable Sovereignty over South China Sea Islands""",neutral,0.4453963041305542,1,4,1,5
