@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fairness and Reasoning | Imposing Tariffs on Chinese Electric Vehicles, Ultimately Hurting American Car Companies""",negative,0.8864613175392151,-2,2,2,6
-1,chinese,"""International Committee of the Red Cross Opens Field Hospital in Gaza, Providing Medical Services for Approximately 200 People Daily""",neutral,0.6556091904640198,1,2,2,6
-2,chinese,"""American Journalist Explores Innovative Agricultural Technology in Fujian, Embracing the Concept of ""Big Food""""",positive,0.7227545976638794,3,2,2,6
-3,chinese,"""Press Conference for the Release of the ""Blue Book on International Situation and Chinese Diplomacy (2023/2024)"" Held in Beijing""",neutral,0.9043135643005371,1,2,2,6
-4,chinese,"""World Talk: Racism and Historical Injustice Weave an ""Unequal Web"" in the American Healthcare System""",negative,0.8187346458435059,-2,2,2,6
-5,chinese,"""Study Finds Specific Probiotics May Alleviate Uremia""",neutral,0.5499926805496216,1,2,2,6
-6,chinese,Without hesitation! Inner Mongolia Radio and Television retired journalist saves person at West Lake,positive,0.6112735867500305,2,2,2,6
-7,chinese,"""Multiple Banks Lower Deposit Interest Rates to Promote Benefits for the Real Economy""",neutral,0.5632959008216858,1,2,2,6
-8,chinese,"""Implementing Specific Action Plans in Multiple Regions to Promote Consumption through Trade-in Programs""",neutral,0.5677544474601746,1,2,2,6
-9,chinese,"""12 Negative Lists! Ministry of Education Deploys ""Standardized Management Year"" Action for Basic Education""",neutral,0.8038191199302673,1,2,2,6
+0,chinese,"""Chinese Scientist Yan Ning Wins 2024 ""World Outstanding Female Scientist Award""""",positive,0.6522761583328247,2,2,3,5
+1,chinese,"""Russian President Putin Accepts Exclusive Interview with Xinhua News Agency (Full Text)""",neutral,0.8144704103469849,1,2,3,5
+2,chinese,"""Ministry of Foreign Affairs: The United States is using the banner of ""overcapacity"" to suppress advanced industries of other countries""",negative,0.8454297184944153,-2,2,3,5
+3,chinese,"""China Daily and Inner Mongolia Autonomous Region Party Committee Propaganda Department Sign International Communication Strategic Cooperation Agreement""",neutral,0.8015100359916687,1,2,3,5
+4,chinese,"""Opinion | Imposing Tariffs on Chinese Electric Cars Ultimately Hurts American Car Companies""",negative,0.8837665915489197,-2,2,3,5
+5,chinese,"""International Red Cross Committee Opens Field Hospital in Gaza, Providing Medical Services for Approximately 200 People Daily""",neutral,0.6182956695556641,1,2,3,5
+6,chinese,"""American Journalist Explores Innovative Agricultural Technology in Fujian, Embracing the Concept of ""Big Food""""",positive,0.7227545976638794,3,2,3,5
+7,chinese,"""Press Conference for the Release of the 'Blue Book on International Situation and Chinese Diplomacy (2023/2024)' Held in Beijing""",neutral,0.895508885383606,1,2,3,5
+8,chinese,"""World Talk: Racism and Historical Injustice Weave an ""Unequal Web"" in the American Healthcare System""",negative,0.8187346458435059,-2,2,3,5
+9,chinese,"""Study finds specific probiotics may alleviate uremia""",neutral,0.46396371722221375,1,2,3,5
