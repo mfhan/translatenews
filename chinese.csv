@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily's ""Green China"" International Communication Campaign Focuses on Zhungeer Banner""",neutral,0.8680633306503296,1,3,0,7
-1,chinese,"""China and US Witness the Results of Giant Panda Conservation Cooperation""",neutral,0.6038438677787781,1,3,0,7
-2,chinese,"""Beijing's First High-Speed Rail Station Opens for Autonomous Driving Testing""",positive,0.4936908185482025,2,3,0,7
-3,chinese,"""Pakistani Expert: Ensuring Safe Progress of China-Pakistan Economic Corridor is Crucial for China-Pakistan Relations""",neutral,0.4618176817893982,1,3,0,7
-4,chinese,"""Russian Expert: Putin's Visit to China Demonstrates High-level Cooperation between Russia and China""",positive,0.6468726396560669,2,3,0,7
-5,chinese,"""US Secretary of State Blinken Announces $2 Billion Military Aid to Ukraine""",neutral,0.6661209464073181,1,3,0,7
-6,chinese,"""CSRC to Investigate and Prosecute 717 Cases of Securities and Futures Violations by 2023""",neutral,0.5976085066795349,1,3,0,7
-7,chinese,"""CSRC Releases 10 Rules on Investor Protection""",neutral,0.8348932266235352,1,3,0,7
-8,chinese,"""Promoting Fairness | Do Not Let Protectionism ""Distort"" the Main Theme of China-EU Economic and Trade Cooperation""",neutral,0.5037587285041809,1,3,0,7
-9,chinese,"Mexican Scholar: ""Made in China"" is Changing the Lives of Latin Americans",positive,0.5261507630348206,2,3,0,7
+0,chinese,"""Beijing's First High-Speed Rail Station Opens for Autonomous Driving Testing""",positive,0.4936908185482025,2,3,0,7
+1,chinese,"""European Countries Granted Approval to Export Agricultural Products to China""",positive,0.6811926364898682,2,3,0,7
+2,chinese,"""China and US Witness the Achievements of Giant Panda Conservation Cooperation""",neutral,0.51336669921875,1,3,0,7
+3,chinese,"""China Daily's ""Green China"" International Communication Campaign Focuses on Jungar Banner""",neutral,0.8724900484085083,1,3,0,7
+4,chinese,"""Olympic Qualifying Series Shanghai Station Kicks Off on the Banks of the Huangpu River""",neutral,0.8746300935745239,1,3,0,7
+5,chinese,"""Pakistani Expert: Ensuring Safe Progress of China-Pakistan Economic Corridor is Crucial for China-Pakistan Relations""",neutral,0.4618176817893982,1,3,0,7
+6,chinese,"""Russian Experts: Putin's Visit to China Highlights High-level Cooperation between Russia and China""",positive,0.7515040040016174,3,3,0,7
+7,chinese,"""US Secretary of State Blinken Announces $2 Billion Military Aid to Ukraine""",neutral,0.6661209464073181,1,3,0,7
+8,chinese,"""CSRC Investigates and Prosecutes 717 Cases of Illegal Securities and Futures Activities in 2023""",neutral,0.5913283824920654,1,3,0,7
+9,chinese,"""CSRC Releases 10 Regulations on Investor Protection""",neutral,0.8710103034973145,1,3,0,7
