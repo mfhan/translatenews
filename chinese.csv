@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""【China Invites】Venezuelan Blogger: Sharing My Joy and Feelings in China with the World""",positive,0.5015763640403748,2,3,0,7
-1,chinese,"""China's ""Meet in Fujian"" 2024 International Media Interview Event Officially Launches""",neutral,0.8562610745429993,1,3,0,7
-2,chinese,"""Beijing's First High-Speed Rail Station Opens for Autonomous Driving Testing""",positive,0.4936908185482025,2,3,0,7
-3,chinese,"""European Agricultural Products Approved for Export to China""",neutral,0.8096147775650024,1,3,0,7
-4,chinese,"""China and US Witness the Achievements of Giant Panda Conservation Cooperation""",neutral,0.51336669921875,1,3,0,7
-5,chinese,"""China Daily's ""Green China"" International Communication Campaign Focuses on Zhungeer Banner""",neutral,0.8680633306503296,1,3,0,7
-6,chinese,"""Opening of Shanghai Station for Olympic Qualification Series on the Banks of the Huangpu River""",neutral,0.9161316752433777,1,3,0,7
-7,chinese,"""Pakistani Expert: Ensuring Safe Progress of China-Pakistan Economic Corridor is Crucial for China-Pakistan Relations""",neutral,0.4618176817893982,1,3,0,7
-8,chinese,"""Russian Experts: Putin's Visit to China Highlights High-level Cooperation between Russia and China""",positive,0.7515040040016174,3,3,0,7
-9,chinese,"""US Secretary of State Blinken Announces $2 Billion Military Aid to Ukraine""",neutral,0.6661209464073181,1,3,0,7
+0,chinese,"""2027 Women's World Cup to be Held in Brazil""",neutral,0.7215811014175415,1,3,1,6
+1,chinese,"""China's Hope Lies in Yan'an! Chen Zhong's Memories: My Uncle Chen Jia'geng""",neutral,0.6907981038093567,1,3,1,6
+2,chinese,"""National Economy Continues to Recover and Improve in April""",positive,0.7635431885719299,3,3,1,6
+3,chinese,"""Cancellation of National Minimum Interest Rate Policy for First and Second Home Mortgages""",neutral,0.4918917119503021,1,3,1,6
+4,chinese,"""Bicycle Olympic Champion: A Different World from Other Fields!""",neutral,0.5285895466804504,1,3,1,6
+5,chinese,"""Chinese Government's Special Representative for European Affairs: Differences between China and Europe do not hinder mutual cooperation""",neutral,0.6343250274658203,1,3,1,6
+6,chinese,"""Strictly Crack Down on Criminal Activities in the Field of Engineering Construction According to the Law""",negative,0.8272382020950317,-2,3,1,6
+7,chinese,"""China's Appointment: Shihu Port - A Thousand-Year-Old Ferry, Setting Sail on the New Silk Road""",neutral,0.7441542148590088,1,3,1,6
+8,chinese,"""The 5th ""My China Photo Album"" event strengthens the connection between China and the United States""",positive,0.7392893433570862,3,3,1,6
+9,chinese,"""Special Tourist Trains Launched Across Various Regions to Boost Tourism Economy""",positive,0.5752952694892883,2,3,1,6
