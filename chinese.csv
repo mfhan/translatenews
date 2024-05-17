@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ministry of Foreign Affairs Introduces Russian President Putin's State Visit to China""",neutral,0.7143768072128296,1,2,1,7
-1,chinese,"""Russian Experts: President Putin's Visit to China Strengthens Russian-Chinese Friendship and Deepens Mutually Beneficial Cooperation""",positive,0.7437570095062256,3,2,1,7
-2,chinese,"""UN Raises This Year's Global Economic Growth Forecast""",neutral,0.6941322088241577,1,2,1,7
-3,chinese,"""Minimum Down Payment Ratio Reduced, Lower Limit on Mortgage Interest Rates Cancelled!""",negative,0.6829856634140015,-1,2,1,7
-4,chinese,"""2027 Women's World Cup to be Held in Brazil""",neutral,0.7215811014175415,1,2,1,7
-5,chinese,"""China's Hope Lies in Yan'an! Chen Zhong's Memories: My Uncle Chen Jia'geng""",neutral,0.6907981038093567,1,2,1,7
-6,chinese,"""National Economy Continues to Recover and Improve in April""",positive,0.7635431885719299,3,2,1,7
-7,chinese,"""Cancellation of National Minimum Interest Rate Policy for First and Second Home Mortgages""",neutral,0.4918917119503021,1,2,1,7
-8,chinese,"""Bicycle Olympic Champion: A Different World!""",neutral,0.7006787061691284,1,2,1,7
-9,chinese,"""Chinese Government's Special Representative for European Affairs: Differences between China and Europe do not hinder mutual cooperation""",neutral,0.6343250274658203,1,2,1,7
+0,chinese,"""New Trends in Cultural Tourism Development: Popular Cities Rise, Hidden Gems Emerge... A Look at Several Data Sets""",neutral,0.5939134955406189,1,2,1,7
+1,chinese,"""Ministry of Foreign Affairs Introduces Russian President Putin's State Visit to China""",neutral,0.7143768072128296,1,2,1,7
+2,chinese,"""Russian Experts: President Putin's Visit to China Strengthens Russian-Chinese Friendship and Deepens Mutually Beneficial Cooperation""",positive,0.7437570095062256,3,2,1,7
+3,chinese,"""United Nations Raises This Year's Global Economic Growth Forecast""",neutral,0.712030291557312,1,2,1,7
+4,chinese,"""Minimum Down Payment Ratio Reduced, Lower Limit on Mortgage Interest Rates Cancelled!""",negative,0.6829856634140015,-1,2,1,7
+5,chinese,"""2027 Women's World Cup to be Held in Brazil""",neutral,0.7215811014175415,1,2,1,7
+6,chinese,"""China's Hope Lies in Yan'an! Chen Zhong's Memories: My Uncle Chen Jia'geng""",neutral,0.6907981038093567,1,2,1,7
+7,chinese,"""National Economy Continues to Rebound in April""",positive,0.7680079936981201,3,2,1,7
+8,chinese,"""Removal of National Minimum Interest Rate Policy for First and Second Home Loans""",neutral,0.8521198630332947,1,2,1,7
+9,chinese,"""Bicycle Olympic Champion: A Different World!""",neutral,0.7006787061691284,1,2,1,7
