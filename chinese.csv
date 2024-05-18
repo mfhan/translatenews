@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""New Trends in Cultural Tourism Development: Popular Cities Rise, Hidden Gems Emerge... A Look at Several Data Sets""",neutral,0.5939134955406189,1,2,1,7
-1,chinese,"""Ministry of Foreign Affairs Introduces Russian President Putin's State Visit to China""",neutral,0.7143768072128296,1,2,1,7
-2,chinese,"""Russian Experts: President Putin's Visit to China Strengthens Russian-Chinese Friendship and Deepens Mutually Beneficial Cooperation""",positive,0.7437570095062256,3,2,1,7
-3,chinese,"""United Nations Raises This Year's Global Economic Growth Forecast""",neutral,0.712030291557312,1,2,1,7
-4,chinese,"""Minimum Down Payment Ratio Reduced, Lower Limit on Mortgage Interest Rates Cancelled!""",negative,0.6829856634140015,-1,2,1,7
-5,chinese,"""2027 Women's World Cup to be Held in Brazil""",neutral,0.7215811014175415,1,2,1,7
-6,chinese,"""China's Hope Lies in Yan'an! Chen Zhong's Memories: My Uncle Chen Jia'geng""",neutral,0.6907981038093567,1,2,1,7
-7,chinese,"""National Economy Continues to Rebound in April""",positive,0.7680079936981201,3,2,1,7
-8,chinese,"""Removal of National Minimum Interest Rate Policy for First and Second Home Loans""",neutral,0.8521198630332947,1,2,1,7
-9,chinese,"""Bicycle Olympic Champion: A Different World!""",neutral,0.7006787061691284,1,2,1,7
+0,chinese,"""Cooperation, Mutual Trust, Opportunities - China-Russia Expo Attracts Domestic and Foreign Companies to Seek Business Opportunities""",positive,0.4975462555885315,2,2,1,7
+1,chinese,"""Ministry of Foreign Affairs responds to multiple international organizations raising China's economic growth expectations""",neutral,0.4655422568321228,1,2,1,7
+2,chinese,"""People's Bank of China Plans to Establish 300 Billion Yuan Re-Loan for Affordable Housing""",neutral,0.5520009398460388,1,2,1,7
+3,chinese,"""Foreign Exchange Bureau: Overseas Investors Net Purchases of Domestic Bonds and Stocks Total Nearly 170 Billion Yuan in April""",neutral,0.8279381394386292,1,2,1,7
+4,chinese,"""CAAC: Promoting Further Recovery of International Passenger Flights""",neutral,0.511765718460083,1,2,1,7
+5,chinese,"""New Trends in Cultural Tourism Development: Popular Cities Rise, Hidden Gems Emerge... A Look at Several Data Sets""",neutral,0.5939134955406189,1,2,1,7
+6,chinese,"""Ministry of Foreign Affairs Introduces Russian President Putin's State Visit to China""",neutral,0.7143768072128296,1,2,1,7
+7,chinese,"""Russian Experts: President Putin's Visit to China Strengthens Friendship and Deepens Mutually Beneficial Cooperation between Russia and China""",positive,0.7671012282371521,3,2,1,7
+8,chinese,"""United Nations Raises This Year's Global Economic Growth Forecast""",neutral,0.712030291557312,1,2,1,7
+9,chinese,"""Minimum Down Payment Ratio Reduced, Lower Limit on Mortgage Interest Rates Cancelled!""",negative,0.6829856634140015,-1,2,1,7
