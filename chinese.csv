@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Breaking News: The Central Committee of the Vietnamese Communist Party Proposes Minister of Public Security To Lam as President and Vice Chairman of the National Assembly Tran Thanh Man as Chairman of the National Assembly.,neutral,0.7373977899551392,1,2,0,8
-1,chinese,"""China's Satellite Navigation and Positioning Service Industry's Overall Output Value Reaches 536.2 Billion Yuan in 2023""",neutral,0.7009462714195251,1,2,0,8
-2,chinese,"""China's Appointment | Exploring the Story of ""Stone"": Foreign Media and Internet Celebrities Visit Fujian's Intelligent Manufacturing in Nanan""",neutral,0.648423433303833,1,2,0,8
-3,chinese,"""Zheng He's Voyage to the West: 500-meter Long Scroll Chinese Painting Exhibition Opens in Beijing""",neutral,0.7710247039794922,1,2,0,8
-4,chinese,"""Chinese Women's Bicycle: ""Do It Best or Don't Do It at All""""",neutral,0.7952601909637451,1,2,0,8
-5,chinese,"""Experience the Cultural Heritage and Feel the Vibrancy of the City - Foreign Friends Visit Qingdao West Coast""",positive,0.5857036113739014,2,2,0,8
-6,chinese,"""Warmth Continues to Release at the Beginning, Industrial Economy Rebounds in April""",neutral,0.5490759015083313,1,2,0,8
-7,chinese,"""In April, the overall improvement of multiple key economic indicators in operation""",positive,0.749599814414978,3,2,0,8
-8,chinese,"""[China Connects] From Passive Orders to Proactive Strikes, Shishi's Foreign Trade Embraces New Opportunities in Cross-border E-commerce""",neutral,0.5036977529525757,1,2,0,8
-9,chinese,"""【Overseas Perspective】China and Cuba Resume Direct Flights, Cuban Ambassador to China, Bai Shide, Welcomes Chinese Tourists in Fluent Chinese""",neutral,0.48875656723976135,1,2,0,8
+0,chinese,"""Chinese Ambassador to the US Xie Feng: The Two-Way Exchange between Chinese and American People Injects a Steady Stream of Warmth into the Bilateral Relationship""",positive,0.5713039636611938,2,5,0,5
+1,chinese,"Breaking News: The Central Committee of the Vietnamese Communist Party proposes that Minister of Public Security, To Lam, be appointed as President of Vietnam and Vice Chairman of the National Assembly, Tran Thanh Man, be appointed as Chairman of the National Assembly.",neutral,0.7105460166931152,1,5,0,5
+2,chinese,"In 2023, China's satellite navigation and positioning service industry will have an overall output value of 536.2 billion yuan.",neutral,0.5158178806304932,1,5,0,5
+3,chinese,"""China's Appointment | Exploring the Story of ""Stone"": Foreign Media and Internet Celebrities Visit Fujian's Manufacturing Industry in Nanan""",neutral,0.6851657629013062,1,5,0,5
+4,chinese,"""Zheng He's Voyage to the West: 500-Meter Long Chinese Painting Exhibition Opens in Beijing""",neutral,0.7073462009429932,1,5,0,5
+5,chinese,"""Chinese Women's Bicycle: ""Do It Best or Don't Do It at All""""",neutral,0.7952601909637451,1,5,0,5
+6,chinese,"""Experience the Cultural Heritage and Feel the Vibrancy of the City - Foreign Friends Visit Qingdao West Coast""",positive,0.5857036113739014,2,5,0,5
+7,chinese,"""Warmth continues to release at the beginning, industrial economy rebounds in April""",positive,0.532470166683197,2,5,0,5
+8,chinese,"""In April, overall improvement in major economic indicators""",positive,0.7796266674995422,3,5,0,5
+9,chinese,"""[China Has an Appointment] From Passive Order Taking to Proactive Strike, Shishi Foreign Trade Embraces New Opportunities in Cross-border E-commerce""",positive,0.47254785895347595,2,5,0,5
