@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China Connects] From Passive to Proactive: Shishi's Foreign Trade Embraces New Opportunities in Cross-border E-commerce""",positive,0.5387768149375916,2,4,0,6
-1,chinese,"""【Overseas Perspective】China and Cuba Resume Direct Flights, Cuban Ambassador to China, Bai Shide, Welcomes Chinese Tourists in Fluent Chinese""",neutral,0.48875656723976135,1,4,0,6
-2,chinese,"""Cooperation, Mutual Trust, Opportunities - China-Russia Expo Attracts Domestic and Foreign Companies to Seek Business Opportunities""",positive,0.4975462555885315,2,4,0,6
-3,chinese,"""Ministry of Foreign Affairs responds to multiple international institutions raising China's economic growth forecast""",neutral,0.5426493883132935,1,4,0,6
-4,chinese,"""China's Central Bank Plans to Establish 300 Billion Yuan Re-Lending Program for Affordable Housing""",positive,0.4899585545063019,2,4,0,6
-5,chinese,"""Foreign Exchange Bureau: Overseas Investors Net Purchased Nearly 170 Billion Yuan in Domestic Bonds and Stocks in April""",neutral,0.7583159804344177,1,4,0,6
-6,chinese,"""CAAC: Promoting Further Resumption of International Passenger Flights""",neutral,0.6765654683113098,1,4,0,6
-7,chinese,"""New Trends in Cultural Tourism Development: Emerging Internet-Famous Cities and Hidden Gem Towns... A Look at Several Sets of Data""",neutral,0.5976526737213135,1,4,0,6
-8,chinese,"""Ministry of Foreign Affairs Introduces Russian President Putin's State Visit to China""",neutral,0.7143768072128296,1,4,0,6
-9,chinese,"""Russian Experts: President Putin's Visit to China Strengthens Russian-Chinese Friendship and Deepens Mutually Beneficial Cooperation""",positive,0.7437570095062256,3,4,0,6
+0,chinese,Breaking News: The Central Committee of the Vietnamese Communist Party Proposes Minister of Public Security To Lam as President and Vice Chairman of the National Assembly Tran Thanh Man as Chairman of the National Assembly.,neutral,0.7373977899551392,1,2,0,8
+1,chinese,"""China's Satellite Navigation and Positioning Service Industry's Overall Output Value Reaches 536.2 Billion Yuan in 2023""",neutral,0.7009462714195251,1,2,0,8
+2,chinese,"""China's Appointment | Exploring the Story of ""Stone"": Foreign Media and Internet Celebrities Visit Fujian's Intelligent Manufacturing in Nanan""",neutral,0.648423433303833,1,2,0,8
+3,chinese,"""Zheng He's Voyage to the West: 500-meter Long Scroll Chinese Painting Exhibition Opens in Beijing""",neutral,0.7710247039794922,1,2,0,8
+4,chinese,"""Chinese Women's Bicycle: ""Do It Best or Don't Do It at All""""",neutral,0.7952601909637451,1,2,0,8
+5,chinese,"""Experience the Cultural Heritage and Feel the Vibrancy of the City - Foreign Friends Visit Qingdao West Coast""",positive,0.5857036113739014,2,2,0,8
+6,chinese,"""Warmth Continues to Release at the Beginning, Industrial Economy Rebounds in April""",neutral,0.5490759015083313,1,2,0,8
+7,chinese,"""In April, the overall improvement of multiple key economic indicators in operation""",positive,0.749599814414978,3,2,0,8
+8,chinese,"""[China Connects] From Passive Orders to Proactive Strikes, Shishi's Foreign Trade Embraces New Opportunities in Cross-border E-commerce""",neutral,0.5036977529525757,1,2,0,8
+9,chinese,"""【Overseas Perspective】China and Cuba Resume Direct Flights, Cuban Ambassador to China, Bai Shide, Welcomes Chinese Tourists in Fluent Chinese""",neutral,0.48875656723976135,1,2,0,8
