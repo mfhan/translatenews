@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China Has an Appointment] Writing a New Chapter for the Enterprising Spirit of Fujian Merchants with Innovative Development""",positive,0.7755338549613953,3,5,1,4
-1,chinese,"""What are the highlights of the new round of real estate policy combination? Experts analyze""",neutral,0.7006514072418213,1,5,1,4
-2,chinese,"""Summer Cultural Tourism Continues to be Hot, Consumer Market Bursting with New Vitality""",positive,0.7727488279342651,3,5,1,4
-3,chinese,"""Chinese Embassy in the US Holds 5th Annual ""My China Album"" Award Ceremony and Offline Story Sharing Event""",neutral,0.7112120985984802,1,5,1,4
-4,chinese,"""China Team Concludes Taekwondo Asia Championships with 3 Gold, 1 Silver, and 5 Bronze Medals""",neutral,0.5697822570800781,1,5,1,4
-5,chinese,"""Multiple Warnings Issued! Hail Expected in Several Areas of Beijing, Torrential Rain in Pinggu within the Next 3 Hours!""",negative,0.6837772727012634,-1,5,1,4
-6,chinese,Leveraging Advantages to Form Synergies: Hebei Connects with Beijing and Tianjin to Develop Health and Wellness Industry,positive,0.7422605156898499,3,5,1,4
-7,chinese,"""Consumer Goods Promote People's Livelihood and Benefit the Economy through Trade-in Program""",positive,0.7150675654411316,3,5,1,4
-8,chinese,"""Beijing's First Quarter Economic ""Opening Red"": Observing the Pursuit of ""New"" and ""Quality"", Running on an ""Upward Curve""""",neutral,0.6626453995704651,1,5,1,4
-9,chinese,"""Street Athletics Celebrates Its 10th Anniversary with a Magnificent Opening: Pole Vaulting Shines in the Night of Jinling Debut""",positive,0.8717048764228821,3,5,1,4
+0,chinese,"""[China Has an Appointment] Writing a New Chapter for the Spirit of Fujian Merchants Who Dare to Innovate and Develop""",positive,0.6190899610519409,2,3,5,2
+1,chinese,"""The Birth of a Braille Book""",neutral,0.83045494556427,1,3,5,2
+2,chinese,"""120 People Dead in Floods in Two Provinces in Afghanistan""",negative,0.6681665778160095,-1,3,5,2
+3,chinese,"""Central Meteorological Observatory: Some areas in eastern and southern Guangdong are at high risk of flood and waterlogging""",negative,0.7030742764472961,-2,3,5,2
+4,chinese,"""Inbound tourism continues to rise, innovative marketing methods help promote ""Chinese gifts"" to the world""",positive,0.7466018795967102,3,3,5,2
+5,chinese,"""Two Cars Collide in Idaho, USA, Resulting in 6 Deaths and 10 Injuries""",negative,0.6607929468154907,-1,3,5,2
+6,chinese,"""What are the highlights of the new round of real estate policy combination? Experts analyze""",neutral,0.7006514072418213,1,3,5,2
+7,chinese,"""Summer Cultural Tourism Continues to Heat Up, Consumer Market Bursting with New Vitality""",positive,0.6870940923690796,2,3,5,2
+8,chinese,"""Effective Countermeasures Taken Against New Round of South China Sea Infringement, Philippines' Intentional Provocation Will Ultimately Harm Themselves""",negative,0.9153100848197937,-2,3,5,2
+9,chinese,"""Train Collides with Pickup Truck in New York State, Resulting in 3 Deaths""",negative,0.7151733040809631,-2,3,5,2
