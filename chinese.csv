@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China Has an Appointment] Writing a New Chapter for the Spirit of Fujian Merchants Who Dare to Innovate and Develop""",positive,0.6190899610519409,2,3,5,2
-1,chinese,"""The Birth of a Braille Book""",neutral,0.83045494556427,1,3,5,2
-2,chinese,"""120 People Dead in Floods in Two Provinces in Afghanistan""",negative,0.6681665778160095,-1,3,5,2
-3,chinese,"""Central Meteorological Observatory: Some areas in eastern and southern Guangdong are at high risk of flood and waterlogging""",negative,0.7030742764472961,-2,3,5,2
-4,chinese,"""Inbound tourism continues to rise, innovative marketing methods help promote ""Chinese gifts"" to the world""",positive,0.7466018795967102,3,3,5,2
-5,chinese,"""Two Cars Collide in Idaho, USA, Resulting in 6 Deaths and 10 Injuries""",negative,0.6607929468154907,-1,3,5,2
-6,chinese,"""What are the highlights of the new round of real estate policy combination? Experts analyze""",neutral,0.7006514072418213,1,3,5,2
-7,chinese,"""Summer Cultural Tourism Continues to Heat Up, Consumer Market Bursting with New Vitality""",positive,0.6870940923690796,2,3,5,2
-8,chinese,"""Effective Countermeasures Taken Against New Round of South China Sea Infringement, Philippines' Intentional Provocation Will Ultimately Harm Themselves""",negative,0.9153100848197937,-2,3,5,2
-9,chinese,"""Train Collides with Pickup Truck in New York State, Resulting in 3 Deaths""",negative,0.7151733040809631,-2,3,5,2
+0,chinese,"""Bach: Perfect Score in Shanghai Makes Budapest ""A Little Nervous""""",negative,0.8537150025367737,-2,2,5,3
+1,chinese,"""Sharing Dividends, Promoting Development Together - 2024 RCEP Regional Development Media Think Tank Forum Held in Haikou""",neutral,0.5907307267189026,1,2,5,3
+2,chinese,"""The Birth of a Braille Book""",neutral,0.83045494556427,1,2,5,3
+3,chinese,"""120 People Dead in Floods in Two Provinces of Afghanistan""",negative,0.6788464188575745,-1,2,5,3
+4,chinese,"""Central Meteorological Observatory: Some areas in the eastern and southern parts of Guangdong Province face a high risk of flooding and waterlogging""",negative,0.6905645132064819,-1,2,5,3
+5,chinese,"""Inbound tourism continues to rise, innovative marketing methods help promote ""Chinese gifts"" to the world""",positive,0.7466018795967102,3,2,5,3
+6,chinese,"""Two-Car Collision in Idaho, USA Leaves 6 Dead and 10 Injured""",negative,0.7243728637695312,-2,2,5,3
+7,chinese,"""What are the highlights of the new round of real estate policy combination? Experts analyze""",neutral,0.7006514072418213,1,2,5,3
+8,chinese,"""Summer Cultural Tourism Continues to Heat Up, Consumer Market Bursting with New Vitality""",positive,0.6870940923690796,2,2,5,3
+9,chinese,"""Effective Countermeasures Taken Against New Round of South China Sea Infringement, Philippines' Deliberate Provocation Will Ultimately Harm Themselves""",negative,0.9181663393974304,-2,2,5,3
