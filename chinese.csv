@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Ambassador to the US Xie Feng: The Two-Way Exchange between Chinese and American People Injects a Steady Stream of Warmth into the Bilateral Relationship""",positive,0.5713039636611938,2,5,0,5
-1,chinese,"Breaking News: The Central Committee of the Vietnamese Communist Party proposes that Minister of Public Security, To Lam, be appointed as President of Vietnam and Vice Chairman of the National Assembly, Tran Thanh Man, be appointed as Chairman of the National Assembly.",neutral,0.7105460166931152,1,5,0,5
-2,chinese,"In 2023, China's satellite navigation and positioning service industry will have an overall output value of 536.2 billion yuan.",neutral,0.5158178806304932,1,5,0,5
-3,chinese,"""China's Appointment | Exploring the Story of ""Stone"": Foreign Media and Internet Celebrities Visit Fujian's Manufacturing Industry in Nanan""",neutral,0.6851657629013062,1,5,0,5
-4,chinese,"""Zheng He's Voyage to the West: 500-Meter Long Chinese Painting Exhibition Opens in Beijing""",neutral,0.7073462009429932,1,5,0,5
-5,chinese,"""Chinese Women's Bicycle: ""Do It Best or Don't Do It at All""""",neutral,0.7952601909637451,1,5,0,5
-6,chinese,"""Experience the Cultural Heritage and Feel the Vibrancy of the City - Foreign Friends Visit Qingdao West Coast""",positive,0.5857036113739014,2,5,0,5
-7,chinese,"""Warmth continues to release at the beginning, industrial economy rebounds in April""",positive,0.532470166683197,2,5,0,5
-8,chinese,"""In April, overall improvement in major economic indicators""",positive,0.7796266674995422,3,5,0,5
-9,chinese,"""[China Has an Appointment] From Passive Order Taking to Proactive Strike, Shishi Foreign Trade Embraces New Opportunities in Cross-border E-commerce""",positive,0.47254785895347595,2,5,0,5
+0,chinese,"""University of Pennsylvania Confers Architecture Degree to Lin Huiyin - Lin Huiyin's Relatives Visit the Theme Exhibition ""Lin Huiyin's Legacy from Fuzhou's Ancient Houses""""",neutral,0.6960315108299255,1,3,0,7
+1,chinese,"""National Railway Sent 1.37 Billion Passengers from January to April, a Year-on-Year Increase of 22.9%""",neutral,0.663015604019165,1,3,0,7
+2,chinese,"""Second-hand New Energy Vehicles Attract Market Attention, Industry Explores New Ways to Preserve Value""",positive,0.6760159730911255,2,3,0,7
+3,chinese,"""China's Stone Industry in Nanan: The Rise of New Productivity and Expansion into the International Market""",neutral,0.539546012878418,1,3,0,7
+4,chinese,"""Chinese Ambassador to the US Xie Feng: The Two-Way Exchange of Chinese and American People Injects a Steady Stream of Warmth into the Bilateral Relationship""",positive,0.531943678855896,2,3,0,7
+5,chinese,"Breaking News: Vietnamese Communist Party Central Committee Proposes Minister of Public Security To Be Appointed as President, Deputy Chairman of National Assembly To Be Appointed as Chairman of National Assembly.",neutral,0.6466735005378723,1,3,0,7
+6,chinese,"""China's Satellite Navigation and Positioning Services Industry Achieves Overall Output Value of 536.2 Billion Yuan in 2023""",positive,0.5197756886482239,2,3,0,7
+7,chinese,"""China's Appointment | Exploring the Story of ""Stones"": Foreign Media and Internet Celebrities Visit Fujian's Innovation""",neutral,0.6267433762550354,1,3,0,7
+8,chinese,"""Zheng He's Voyage to the West: 500-Meter Long Scroll Chinese Painting Exhibition Opens in Beijing""",neutral,0.7754486203193665,1,3,0,7
+9,chinese,"""Chinese Women's Bicycles: ""Do It Best If You're Going to Do It""""",neutral,0.6120243072509766,1,3,0,7
