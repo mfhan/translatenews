@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Live Special: Iranian President Rouhani's Helicopter Accident""",negative,0.5607423186302185,-1,4,3,3
-1,chinese,"""Summer Cultural Tourism Boom Emerges, Consumer Market Unleashes New Potential for High-Quality Development""",positive,0.7385247945785522,3,4,3,3
-2,chinese,"""How will ultra-long-term special government bonds be implemented? National Development and Reform Commission responds""",neutral,0.8559028506278992,1,4,3,3
-3,chinese,"""[China Has a Date] Turkish Blogger Exclaims: Made in China is Great!""",positive,0.7496036887168884,3,4,3,3
-4,chinese,"""American-based giant panda family Meixiang in good condition""",neutral,0.5971596837043762,1,4,3,3
-5,chinese,"""Swiss Reinsurance CEO: China's Insurance Market Expected to Double in the Next Ten Years""",neutral,0.6878817081451416,1,4,3,3
-6,chinese,"""Brazilian Scholar: If You Can't Win the Game, Do You Want to Change the Rules? Can't You Handle It, America?""",negative,0.6711737513542175,-1,4,3,3
-7,chinese,"""Interrupted Cell Phone Signal, Causing Insomnia, Leading to Airplane Engine Failure... These ""Blames"" Cannot be Attributed to Geomagnetic Storms""",negative,0.8566969037055969,-2,4,3,3
-8,chinese,"""Experience the Bustling City by Strolling through the Ancient Town in China: Meeting People, Seeing Objects, and Observing Life""",positive,0.651066243648529,2,4,3,3
-9,chinese,"""British Blogger's Journey to Quanzhou: Surprising Discoveries from Sportswear to Stone Art""",positive,0.5029323697090149,2,4,3,3
+0,chinese,"""Confrontation and Reasoning: Targeting the Undersea Cables in Shanghai? The ""Anti-China Anxiety"" of American Hawks Strikes Again""",negative,0.8338616490364075,-2,2,4,4
+1,chinese,"""Chinese and Foreign People Celebrate ""International Chinese Language Day"" with Creative Check-ins, Sharing Great Chinese Stories of the New Era to the World""",positive,0.7558866739273071,3,2,4,4
+2,chinese,"""Two Passengers Dead as Singapore Airlines Flight Encounters Severe Turbulence and Makes Emergency Landing""",negative,0.7769052982330322,-2,2,4,4
+3,chinese,"Ministry of Foreign Affairs: Strongly Opposes Any Form of Official Exchange between Countries Establishing Diplomatic Relations and Taiwan, China",negative,0.8170763254165649,-2,2,4,4
+4,chinese,"""Taiwanese Criticize Lai Ching-te's ""5/20"" Speech for Severely Damaging Cross-Strait Relations and Peace Prospects""",negative,0.8946240544319153,-2,2,4,4
+5,chinese,"""International Fencing Federation's Foil Grand Prix Concludes in Shanghai""",neutral,0.6836637258529663,1,2,4,4
+6,chinese,"""Harmony and Justice | China Must Unite and Will Unite""",neutral,0.49243947863578796,1,2,4,4
+7,chinese,"""Ministry of Commerce: Online Tourism Consumption Increased by 77.6% in January-April""",neutral,0.77013099193573,1,2,4,4
+8,chinese,"""Summer Cultural Tourism Boom Emerges, Consumer Market Unleashes New Potential for High-Quality Development""",positive,0.7385247945785522,3,2,4,4
+9,chinese,"""How will ultra-long-term special government bonds be implemented? National Development and Reform Commission responds""",neutral,0.8559028506278992,1,2,4,4
