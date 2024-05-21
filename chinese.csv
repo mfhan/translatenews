@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Live Special: Iranian President Rouhani's Helicopter Accident,negative,0.5901755094528198,-1,2,2,6
-1,chinese,"""New Trend in Wedding Customs: ""520""""",neutral,0.9110730886459351,1,2,2,6
-2,chinese,"""World Opinion: Foreign Media: US ""Green"" Protectionism Hurts Others and Hurts Itself""",negative,0.8419920206069946,-2,2,2,6
-3,chinese,"""2023-2024 Chinese High School Basketball League Concludes in Beijing""",neutral,0.9016934037208557,1,2,2,6
-4,chinese,"""Experience Intangible Cultural Heritage and Inherit the Olympic Spirit: Beijing Sports Lottery Olympic Museum Hosts Wonderful Day Event""",positive,0.8746832609176636,3,2,2,6
-5,chinese,"""China's Tenth Peacekeeping Police Unit Departs for United Nations Mission in South Sudan""",neutral,0.7964368462562561,1,2,2,6
-6,chinese,"""China Disabled Persons' Federation Holds Countdown of 100 Days to Paralympic Games in Paris, Mobilizing for Final Preparations""",neutral,0.8272808790206909,1,2,2,6
-7,chinese,"""American Author: Surge in Number of Tourists Visiting China Sends Positive Signal""",positive,0.4721822142601013,2,2,2,6
-8,chinese,"""China Includes Boeing Defense, Space & Security Group on Unreliable Entity List""",neutral,0.6431447863578796,1,2,2,6
-9,chinese,"""Multiple Livelihood Benefits Released Intensively, Involving Purchasing a House, Seeking Medical Treatment, and Buying a Car""",neutral,0.7985942363739014,1,2,2,6
+0,chinese,"""Live Special: Iranian President Rouhani's Helicopter Accident""",negative,0.5607423186302185,-1,4,3,3
+1,chinese,"""Summer Cultural Tourism Boom Emerges, Consumer Market Unleashes New Potential for High-Quality Development""",positive,0.7385247945785522,3,4,3,3
+2,chinese,"""How will ultra-long-term special government bonds be implemented? National Development and Reform Commission responds""",neutral,0.8559028506278992,1,4,3,3
+3,chinese,"""[China Has a Date] Turkish Blogger Exclaims: Made in China is Great!""",positive,0.7496036887168884,3,4,3,3
+4,chinese,"""American-based giant panda family Meixiang in good condition""",neutral,0.5971596837043762,1,4,3,3
+5,chinese,"""Swiss Reinsurance CEO: China's Insurance Market Expected to Double in the Next Ten Years""",neutral,0.6878817081451416,1,4,3,3
+6,chinese,"""Brazilian Scholar: If You Can't Win the Game, Do You Want to Change the Rules? Can't You Handle It, America?""",negative,0.6711737513542175,-1,4,3,3
+7,chinese,"""Interrupted Cell Phone Signal, Causing Insomnia, Leading to Airplane Engine Failure... These ""Blames"" Cannot be Attributed to Geomagnetic Storms""",negative,0.8566969037055969,-2,4,3,3
+8,chinese,"""Experience the Bustling City by Strolling through the Ancient Town in China: Meeting People, Seeing Objects, and Observing Life""",positive,0.651066243648529,2,4,3,3
+9,chinese,"""British Blogger's Journey to Quanzhou: Surprising Discoveries from Sportswear to Stone Art""",positive,0.5029323697090149,2,4,3,3
