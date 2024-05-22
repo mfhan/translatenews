@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Analyzing and Reasoning | Targeting the Undersea Cables in Shanghai? The ""Anti-China Anxiety"" of American Hawks Strikes Again""",negative,0.8155133128166199,-2,2,5,3
-1,chinese,"""Exploring the Forgotten Glory of the Flying Tigers: Emmy Award Winner Pays Tribute to the Flying Tigers""",positive,0.8323512077331543,3,2,5,3
-2,chinese,"""China Decides to Take Countermeasures Against Former US Congressman Gallagher""",neutral,0.6863322257995605,1,2,5,3
-3,chinese,"""Chinese and Foreign People Show Off Their Creativity on ""International Chinese Language Day"" to Share Great Stories of Chinese in the New Era with the World""",positive,0.7821139693260193,3,2,5,3
-4,chinese,"""Two deaths reported as Singapore Airlines flight experiences severe turbulence and makes emergency landing""",negative,0.7784855365753174,-2,2,5,3
-5,chinese,"""Ministry of Foreign Affairs: Strongly Opposes Any Official Exchange between Countries Establishing Diplomatic Relations and Taiwan, China""",negative,0.7861436605453491,-2,2,5,3
-6,chinese,"""Taiwanese Criticize Lai Ching-te's ""5/20"" Speech for Severely Damaging Cross-Strait Relations and Peace Prospects""",negative,0.8946240544319153,-2,2,5,3
-7,chinese,"""Shanghai Concludes International Fencing Federation's Foil Grand Prix""",negative,0.5386386513710022,-1,2,5,3
-8,chinese,"""Unity and Reasoning | China Must Unify, and Will Unify""",neutral,0.5879429578781128,1,2,5,3
-9,chinese,"""Ministry of Commerce: Online Travel Consumption Increases by 77.6% in January-April""",neutral,0.7727755308151245,1,2,5,3
+0,chinese,"""Confrontation and Reasoning | Targeting the Undersea Cable in Shanghai? The ""Anti-China Anxiety"" of American Hawks Strikes Again""",negative,0.8321636915206909,-2,2,2,6
+1,chinese,"""Romanian Media Personnel: ""East Meets West"" at Huawei Songshan Lake Park""",neutral,0.9205242991447449,1,2,2,6
+2,chinese,"""[C Finance] China-Russia Economic and Trade Development Steady and Far-reaching""",neutral,0.5948669910430908,1,2,2,6
+3,chinese,"""Beijing Education Commission Releases New Guidelines to Support High-Quality Development of After-School Services""",neutral,0.5056807398796082,1,2,2,6
+4,chinese,"""Is China facing overcapacity? Chinese new energy vehicle companies respond to doubts with high-quality products and open and sincere cooperation""",neutral,0.4376670718193054,1,2,2,6
+5,chinese,"""State Council Taiwan Affairs Office: Taiwan Leader's ""5.20"" Speech is Completely a ""Taiwan Independence Statement""""",neutral,0.6409410834312439,1,2,2,6
+6,chinese,"""Australian Scholars: Is China's New Energy Vehicle Industry Facing ""Overcapacity"" or ""Insufficient Capacity""?""",negative,0.6779794096946716,-1,2,2,6
+7,chinese,"""【China Welcomes】Zhangzhou Ancient City Receives International Visitors, Enjoying the Cultural Treasures of Southern Fujian""",positive,0.8119713664054871,3,2,2,6
+8,chinese,"""Exploring the Forgotten Glory of the Flying Tigers: Emmy Award Winner Pays Tribute to the Flying Tigers""",positive,0.8323512077331543,3,2,2,6
+9,chinese,"""China Decides to Take Countermeasures Against Former US Congressman Gallagher""",neutral,0.6863322257995605,1,2,2,6
