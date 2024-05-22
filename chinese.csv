@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""【China Now】Sharing Chinese Opportunities: Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Quality Production""",positive,0.6656432747840881,2,3,3,4
-1,chinese,"""Development of Electric Cars Not Experiencing ""Overcapacity"" - Interview with Tang Jin, Director and Researcher at Mizuho Bank's Business Solutions Department in Japan""",neutral,0.5988225340843201,1,3,3,4
-2,chinese,"Ministry of Foreign Affairs: US's hype about ""overcapacity"" in China's new energy industry is essentially protectionism",negative,0.8867512941360474,-2,3,3,4
-3,chinese,"""Nearly 180,000 people, over 2,000 daily, growth of 280%: Sino-Russian cross-border tourism becoming increasingly ""hot""""",positive,0.5434795022010803,2,3,3,4
-4,chinese,"""Most passengers of Singapore Airlines have safely returned to Singapore""",positive,0.6796168088912964,2,3,3,4
-5,chinese,"""Ministry of Foreign Affairs: Implements Countermeasures Against 12 American Military Enterprises and 10 Senior Executives""",neutral,0.7600411772727966,1,3,3,4
-6,chinese,"""A deadly incident occurs on campus in Yunnan Yenjin, police report: suspect has been apprehended""",negative,0.7561959028244019,-2,3,3,4
-7,chinese,"""Chinese Embassy in Singapore reminds Chinese citizens to be vigilant against the new wave of COVID-19 outbreak in Singapore""",negative,0.7656301259994507,-2,3,3,4
-8,chinese,"""5.0 Magnitude Earthquake Strikes Offshore of Hualien County, Taiwan, with a Depth of 10 Kilometers""",neutral,0.47760507464408875,1,3,3,4
-9,chinese,"""China's Appointment: Internet of Things and AI Technology Drive Digital Transformation in Education""",neutral,0.5240437388420105,1,3,3,4
+0,chinese,"""China's Invitation: Sharing Opportunities in China - Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Productivity""",positive,0.5947940945625305,2,4,3,3
+1,chinese,"""No Enterprise Wants to Miss Out on China's Enormous Emerging Market"" - California Business Community Optimistic about Opportunities in China",positive,0.5992310643196106,2,4,3,3
+2,chinese,"""Development of Electric Cars Not Experiencing ""Overcapacity"" - Interview with Tang Jin, Director and Researcher at Mizuho Bank's Business Solutions Department in Japan""",neutral,0.5988225340843201,1,4,3,3
+3,chinese,"""Ministry of Foreign Affairs: US' hype about China's new energy industry ""overcapacity"" is essentially protectionism""",negative,0.8724506497383118,-2,4,3,3
+4,chinese,"""Nearly 180,000 people, over 2,000 daily, growth of 280%: Sino-Russian cross-border tourism becoming increasingly popular""",positive,0.4778294265270233,2,4,3,3
+5,chinese,"""Most Passengers of Singapore Airlines Have Safely Returned to Singapore""",positive,0.7127130627632141,3,4,3,3
+6,chinese,"""Ministry of Foreign Affairs: Imposes Countermeasures against 12 American Military Enterprises and 10 Senior Executives""",negative,0.763706624507904,-2,4,3,3
+7,chinese,"""Deadly Incident on Campus in Yunnan's Yanjin County, Police Report: Suspect Has Been Arrested""",negative,0.6786535382270813,-1,4,3,3
+8,chinese,"""Chinese Embassy in Singapore Reminds Chinese Citizens in Singapore to Be Vigilant Against the New Wave of COVID-19""",neutral,0.49202701449394226,1,4,3,3
+9,chinese,"""5.0 Magnitude Earthquake Occurs in the Waters of Hualien County, Taiwan, with a Depth of 10 Kilometers""",neutral,0.5545206665992737,1,4,3,3
