@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Confrontation and Reasoning | Targeting the Undersea Cable in Shanghai? The ""Anti-China Anxiety"" of American Hawks Strikes Again""",negative,0.8321636915206909,-2,2,4,4
-1,chinese,"""Chinese and foreign people creatively check in on ""International Chinese Language Day"" to share great Chinese stories of the new era with the world""",positive,0.7155575752258301,3,2,4,4
-2,chinese,"""Singapore Airlines Flight Makes Emergency Landing Due to Severe Turbulence, Death Toll on Board Rises to 2""",negative,0.6158958673477173,-1,2,4,4
-3,chinese,"Ministry of Foreign Affairs: Firmly Opposes Any Form of Official Exchange Between Countries Establishing Diplomatic Relations and Taiwan, China",negative,0.844793975353241,-2,2,4,4
-4,chinese,"""Taiwanese Criticize Lai Ching-te's ""5/20"" Speech for Seriously Damaging Cross-Strait Relations and Peace Prospects""",negative,0.8968566656112671,-2,2,4,4
-5,chinese,"""International Fencing Federation's Foil Grand Prix Concludes in Shanghai""",neutral,0.6836637258529663,1,2,4,4
-6,chinese,"""Unity and Justice | China Must and Will Unify""",neutral,0.5918187499046326,1,2,4,4
-7,chinese,"""Ministry of Commerce: Online Tourism Consumption Increases by 77.6% in January-April""",neutral,0.7578644156455994,1,2,4,4
-8,chinese,"""Summer Cultural Tourism Boom Emerges, Consumer Market Unleashes New Potential for High-Quality Development""",positive,0.7385247945785522,3,2,4,4
-9,chinese,"""How will ultra-long-term special government bonds be implemented? National Development and Reform Commission responds""",neutral,0.8559028506278992,1,2,4,4
+0,chinese,"""Analyzing and Reasoning | Targeting the Undersea Cables in Shanghai? The ""Anti-China Anxiety"" of American Hawks Strikes Again""",negative,0.8155133128166199,-2,2,5,3
+1,chinese,"""Exploring the Forgotten Glory of the Flying Tigers: Emmy Award Winner Pays Tribute to the Flying Tigers""",positive,0.8323512077331543,3,2,5,3
+2,chinese,"""China Decides to Take Countermeasures Against Former US Congressman Gallagher""",neutral,0.6863322257995605,1,2,5,3
+3,chinese,"""Chinese and Foreign People Show Off Their Creativity on ""International Chinese Language Day"" to Share Great Stories of Chinese in the New Era with the World""",positive,0.7821139693260193,3,2,5,3
+4,chinese,"""Two deaths reported as Singapore Airlines flight experiences severe turbulence and makes emergency landing""",negative,0.7784855365753174,-2,2,5,3
+5,chinese,"""Ministry of Foreign Affairs: Strongly Opposes Any Official Exchange between Countries Establishing Diplomatic Relations and Taiwan, China""",negative,0.7861436605453491,-2,2,5,3
+6,chinese,"""Taiwanese Criticize Lai Ching-te's ""5/20"" Speech for Severely Damaging Cross-Strait Relations and Peace Prospects""",negative,0.8946240544319153,-2,2,5,3
+7,chinese,"""Shanghai Concludes International Fencing Federation's Foil Grand Prix""",negative,0.5386386513710022,-1,2,5,3
+8,chinese,"""Unity and Reasoning | China Must Unify, and Will Unify""",neutral,0.5879429578781128,1,2,5,3
+9,chinese,"""Ministry of Commerce: Online Travel Consumption Increases by 77.6% in January-April""",neutral,0.7727755308151245,1,2,5,3
