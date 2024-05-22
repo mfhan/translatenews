@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Confrontation and Reasoning | Targeting the Undersea Cable in Shanghai? The ""Anti-China Anxiety"" of American Hawks Strikes Again""",negative,0.8321636915206909,-2,2,2,6
-1,chinese,"""Romanian Media Personnel: ""East Meets West"" at Huawei Songshan Lake Park""",neutral,0.9205242991447449,1,2,2,6
-2,chinese,"""[C Finance] China-Russia Economic and Trade Development Steady and Far-reaching""",neutral,0.5948669910430908,1,2,2,6
-3,chinese,"""Beijing Education Commission Releases New Guidelines to Support High-Quality Development of After-School Services""",neutral,0.5056807398796082,1,2,2,6
-4,chinese,"""Is China facing overcapacity? Chinese new energy vehicle companies respond to doubts with high-quality products and open and sincere cooperation""",neutral,0.4376670718193054,1,2,2,6
-5,chinese,"""State Council Taiwan Affairs Office: Taiwan Leader's ""5.20"" Speech is Completely a ""Taiwan Independence Statement""""",neutral,0.6409410834312439,1,2,2,6
-6,chinese,"""Australian Scholars: Is China's New Energy Vehicle Industry Facing ""Overcapacity"" or ""Insufficient Capacity""?""",negative,0.6779794096946716,-1,2,2,6
-7,chinese,"""【China Welcomes】Zhangzhou Ancient City Receives International Visitors, Enjoying the Cultural Treasures of Southern Fujian""",positive,0.8119713664054871,3,2,2,6
-8,chinese,"""Exploring the Forgotten Glory of the Flying Tigers: Emmy Award Winner Pays Tribute to the Flying Tigers""",positive,0.8323512077331543,3,2,2,6
-9,chinese,"""China Decides to Take Countermeasures Against Former US Congressman Gallagher""",neutral,0.6863322257995605,1,2,2,6
+0,chinese,"""【China Now】Sharing Chinese Opportunities: Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Quality Production""",positive,0.6656432747840881,2,3,3,4
+1,chinese,"""Development of Electric Cars Not Experiencing ""Overcapacity"" - Interview with Tang Jin, Director and Researcher at Mizuho Bank's Business Solutions Department in Japan""",neutral,0.5988225340843201,1,3,3,4
+2,chinese,"Ministry of Foreign Affairs: US's hype about ""overcapacity"" in China's new energy industry is essentially protectionism",negative,0.8867512941360474,-2,3,3,4
+3,chinese,"""Nearly 180,000 people, over 2,000 daily, growth of 280%: Sino-Russian cross-border tourism becoming increasingly ""hot""""",positive,0.5434795022010803,2,3,3,4
+4,chinese,"""Most passengers of Singapore Airlines have safely returned to Singapore""",positive,0.6796168088912964,2,3,3,4
+5,chinese,"""Ministry of Foreign Affairs: Implements Countermeasures Against 12 American Military Enterprises and 10 Senior Executives""",neutral,0.7600411772727966,1,3,3,4
+6,chinese,"""A deadly incident occurs on campus in Yunnan Yenjin, police report: suspect has been apprehended""",negative,0.7561959028244019,-2,3,3,4
+7,chinese,"""Chinese Embassy in Singapore reminds Chinese citizens to be vigilant against the new wave of COVID-19 outbreak in Singapore""",negative,0.7656301259994507,-2,3,3,4
+8,chinese,"""5.0 Magnitude Earthquake Strikes Offshore of Hualien County, Taiwan, with a Depth of 10 Kilometers""",neutral,0.47760507464408875,1,3,3,4
+9,chinese,"""China's Appointment: Internet of Things and AI Technology Drive Digital Transformation in Education""",neutral,0.5240437388420105,1,3,3,4
