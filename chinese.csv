@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Invitation: Sharing Opportunities in China - Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Productivity""",positive,0.5947940945625305,2,4,3,3
-1,chinese,"""No Enterprise Wants to Miss Out on China's Enormous Emerging Market"" - California Business Community Optimistic about Opportunities in China",positive,0.5992310643196106,2,4,3,3
-2,chinese,"""Development of Electric Cars Not Experiencing ""Overcapacity"" - Interview with Tang Jin, Director and Researcher at Mizuho Bank's Business Solutions Department in Japan""",neutral,0.5988225340843201,1,4,3,3
-3,chinese,"""Ministry of Foreign Affairs: US' hype about China's new energy industry ""overcapacity"" is essentially protectionism""",negative,0.8724506497383118,-2,4,3,3
-4,chinese,"""Nearly 180,000 people, over 2,000 daily, growth of 280%: Sino-Russian cross-border tourism becoming increasingly popular""",positive,0.4778294265270233,2,4,3,3
-5,chinese,"""Most Passengers of Singapore Airlines Have Safely Returned to Singapore""",positive,0.7127130627632141,3,4,3,3
-6,chinese,"""Ministry of Foreign Affairs: Imposes Countermeasures against 12 American Military Enterprises and 10 Senior Executives""",negative,0.763706624507904,-2,4,3,3
-7,chinese,"""Deadly Incident on Campus in Yunnan's Yanjin County, Police Report: Suspect Has Been Arrested""",negative,0.6786535382270813,-1,4,3,3
-8,chinese,"""Chinese Embassy in Singapore Reminds Chinese Citizens in Singapore to Be Vigilant Against the New Wave of COVID-19""",neutral,0.49202701449394226,1,4,3,3
-9,chinese,"""5.0 Magnitude Earthquake Occurs in the Waters of Hualien County, Taiwan, with a Depth of 10 Kilometers""",neutral,0.5545206665992737,1,4,3,3
+0,chinese,"""China's Invitation: Sharing Opportunities in China - Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Quality Production""",positive,0.5892786383628845,2,5,3,2
+1,chinese,"""South African Expert: China Leads Global Green Development, Sino-African Mutually Beneficial Cooperation Promotes Energy Transformation""",positive,0.7401508092880249,3,5,3,2
+2,chinese,"""Eastern Theater Command Conducts ""Joint Sword - 2024A"" Exercise around Taiwan Island""",neutral,0.9053878784179688,1,5,3,2
+3,chinese,"""Beware of this Scam: Downloading App for Compensation After ""Flight Cancellation""!""",negative,0.830163836479187,-2,5,3,2
+4,chinese,"""What is the Secret of ""Space Fish Farming""?""",neutral,0.8259484171867371,1,5,3,2
+5,chinese,"""Saving 48.26 million yuan in One Year! Adjustment of Medical Service Prices Benefits Doctors and Patients""",positive,0.5441517233848572,2,5,3,2
+6,chinese,"""No Enterprise Wants to Miss Out on China's Vast Emerging Market"" - California Business Community Optimistic about Opportunities in China",positive,0.571774959564209,2,5,3,2
+7,chinese,"""Development of Electric Cars Not Experiencing ""Excess Production Capacity"" - Interview with Tang Jin, Director and Researcher at Mizuho Bank's Business Solutions Department in Japan""",negative,0.6055055856704712,-1,5,3,2
+8,chinese,"""Ministry of Foreign Affairs: US's hype about China's new energy industry ""overcapacity"" is essentially protectionism""",negative,0.8739588260650635,-2,5,3,2
+9,chinese,"""Cross-border tourism between China and Russia is becoming increasingly popular, with nearly 180,000 visitors and an average of over 2,000 people per day, representing a 280% growth.""",positive,0.6209589838981628,2,5,3,2
