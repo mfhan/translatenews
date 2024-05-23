@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Invitation: Sharing Chinese Opportunities - Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Productivity""",positive,0.6070677638053894,2,6,3,1
-1,chinese,"""Intensive Policy Updates Boost Real Estate Market Activity in Multiple Regions""",positive,0.6043544411659241,2,6,3,1
-2,chinese,"""17.2%! Large-scale equipment updates unleash economic growth potential""",positive,0.7472020983695984,3,6,3,1
-3,chinese,"""Opinion | Waving the Protectionism Club Will Only Lead the Global Green Transformation into a Dead End""",negative,0.8495878577232361,-2,6,3,1
-4,chinese,"""Insightful | Prominent American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.7771056890487671,-2,6,3,1
-5,chinese,"""This year, the Ministry of Finance will implement a special guarantee program for technological innovation""",positive,0.6353973150253296,2,6,3,1
-6,chinese,"Foreign Institutions Continue to Have High Confidence in China's Bond Market, Steadily Increasing Their Holdings",positive,0.5689624547958374,2,6,3,1
-7,chinese,"""South African Experts: China Leads Global Green Development, Sino-African Cooperation Promotes Energy Transformation""",positive,0.7226723432540894,3,6,3,1
-8,chinese,"""Eastern Theater Command conducts ""Joint Sword-2024A"" exercise around Taiwan Island""",neutral,0.8529092669487,1,6,3,1
-9,chinese,"""Beware of Scams Offering Compensation for Downloading App After ""Flight Cancellation""""",negative,0.7833284735679626,-2,6,3,1
+0,chinese,"""Insightful | Prominent American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.7771056890487671,-2,4,4,2
+1,chinese,"""China May Impose Additional Tariffs on High-Displacement Imported Cars? Experts from the Chamber of Commerce for Import and Export of Machinery and Electronic Products Respond: Compliant with WTO Rules and Relatively Restrained""",negative,0.6454648971557617,-1,4,4,2
+2,chinese,"""[Overseas Perspective] Consul of Uzbekistan Embassy in China: Cultural Exchange Between Uzbekistan and China, Welcome Chinese Friends to Visit and See More""",neutral,0.5522920489311218,1,4,4,2
+3,chinese,"""Ministry of Commerce: Including Three American Companies on the Unreliable Entity List is a Normal Law Enforcement Action by the Chinese Side""",negative,0.7264348268508911,-2,4,4,2
+4,chinese,"""Summer Food Ignites the ""Night Economy"" - Cities Bursting with Vibrant Energy""",positive,0.7579562067985535,3,4,4,2
+5,chinese,"""Israeli military concludes military operation in Jenin region, resulting in 12 deaths""",negative,0.6540371179580688,-1,4,4,2
+6,chinese,"""Intensive Policy Updates Boost Real Estate Activity in Multiple Regions""",positive,0.6198636293411255,2,4,4,2
+7,chinese,"""17.2%! Large-scale equipment updates unleash economic growth potential""",positive,0.7472020983695984,3,4,4,2
+8,chinese,"""Taiwanese Citizens: Lai Ching-te's ""Taiwan Independence"" Declaration Pushes People to the Brink of War""",neutral,0.4454215466976166,1,4,4,2
+9,chinese,"""New Highlights at the Cultural Expo: Witnessing the Empowerment of Cultural Industry Prosperity with New Productivity""",positive,0.8667021989822388,3,4,4,2
