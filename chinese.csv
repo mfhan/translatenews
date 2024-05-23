@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Insightful | Prominent American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.7771056890487671,-2,4,4,2
-1,chinese,"""China May Impose Additional Tariffs on High-Displacement Imported Cars? Experts from the Chamber of Commerce for Import and Export of Machinery and Electronic Products Respond: Compliant with WTO Rules and Relatively Restrained""",negative,0.6454648971557617,-1,4,4,2
-2,chinese,"""[Overseas Perspective] Consul of Uzbekistan Embassy in China: Cultural Exchange Between Uzbekistan and China, Welcome Chinese Friends to Visit and See More""",neutral,0.5522920489311218,1,4,4,2
-3,chinese,"""Ministry of Commerce: Including Three American Companies on the Unreliable Entity List is a Normal Law Enforcement Action by the Chinese Side""",negative,0.7264348268508911,-2,4,4,2
-4,chinese,"""Summer Food Ignites the ""Night Economy"" - Cities Bursting with Vibrant Energy""",positive,0.7579562067985535,3,4,4,2
-5,chinese,"""Israeli military concludes military operation in Jenin region, resulting in 12 deaths""",negative,0.6540371179580688,-1,4,4,2
-6,chinese,"""Intensive Policy Updates Boost Real Estate Activity in Multiple Regions""",positive,0.6198636293411255,2,4,4,2
-7,chinese,"""17.2%! Large-scale equipment updates unleash economic growth potential""",positive,0.7472020983695984,3,4,4,2
-8,chinese,"""Taiwanese Citizens: Lai Ching-te's ""Taiwan Independence"" Declaration Pushes People to the Brink of War""",neutral,0.4454215466976166,1,4,4,2
-9,chinese,"""New Highlights at the Cultural Expo: Witnessing the Empowerment of Cultural Industry Prosperity with New Productivity""",positive,0.8667021989822388,3,4,4,2
+0,chinese,"""Insightful | Renowned American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.8017933368682861,-2,1,7,2
+1,chinese,"Disappointment, Anxiety, and Concern - Mainland Taiwanese Express Strong Dissatisfaction with Lai Ching-te's ""5·20"" Speech",negative,0.9052169919013977,-2,1,7,2
+2,chinese,"""State Council Taiwan Affairs Office: ""Joint Sword-2024A"" Exercise is a Firm Punishment for Taiwan Leader's Provocation for ""Independence""""",negative,0.9228208661079407,-2,1,7,2
+3,chinese,"""Europe's Three Countries Recognize Palestine, How Does the World View It?""",neutral,0.7263059020042419,1,1,7,2
+4,chinese,"""China May Impose Additional Tariffs on High-Displacement Imported Cars? Experts from the Chamber of Commerce for Import and Export of Machinery and Electronic Products Respond: Compliant with WTO Rules and Relatively Restrained""",negative,0.6454648971557617,-1,1,7,2
+5,chinese,"""Israeli War-time Cabinet Decides to Continue Negotiations with Hamas""",negative,0.5115693807601929,-1,1,7,2
+6,chinese,"""【Overseas Perspective】Uzbekistan's Embassy Consul in China: Cultural Similarities Between Uzbekistan and China, Welcoming Chinese Friends to Visit and Explore More""",neutral,0.4730464220046997,1,1,7,2
+7,chinese,"""Ministry of Commerce: Including Three American Companies on the Unreliable Entity List is a Normal Law Enforcement Action by China""",negative,0.6804561018943787,-1,1,7,2
+8,chinese,"""Summer delicacies ignite the ""night economy"" as cities come alive with bustling energy""",positive,0.7349252104759216,3,1,7,2
+9,chinese,"""Israeli Military Ends Military Operation in Jenin Region, Resulting in 12 Deaths""",negative,0.8239062428474426,-2,1,7,2
