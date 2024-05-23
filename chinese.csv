@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Invitation: Sharing Opportunities in China - Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Quality Production""",positive,0.5892786383628845,2,5,3,2
-1,chinese,"""South African Expert: China Leads Global Green Development, Sino-African Mutually Beneficial Cooperation Promotes Energy Transformation""",positive,0.7401508092880249,3,5,3,2
-2,chinese,"""Eastern Theater Command Conducts ""Joint Sword - 2024A"" Exercise around Taiwan Island""",neutral,0.9053878784179688,1,5,3,2
-3,chinese,"""Beware of this Scam: Downloading App for Compensation After ""Flight Cancellation""!""",negative,0.830163836479187,-2,5,3,2
-4,chinese,"""What is the Secret of ""Space Fish Farming""?""",neutral,0.8259484171867371,1,5,3,2
-5,chinese,"""Saving 48.26 million yuan in One Year! Adjustment of Medical Service Prices Benefits Doctors and Patients""",positive,0.5441517233848572,2,5,3,2
-6,chinese,"""No Enterprise Wants to Miss Out on China's Vast Emerging Market"" - California Business Community Optimistic about Opportunities in China",positive,0.571774959564209,2,5,3,2
-7,chinese,"""Development of Electric Cars Not Experiencing ""Excess Production Capacity"" - Interview with Tang Jin, Director and Researcher at Mizuho Bank's Business Solutions Department in Japan""",negative,0.6055055856704712,-1,5,3,2
-8,chinese,"""Ministry of Foreign Affairs: US's hype about China's new energy industry ""overcapacity"" is essentially protectionism""",negative,0.8739588260650635,-2,5,3,2
-9,chinese,"""Cross-border tourism between China and Russia is becoming increasingly popular, with nearly 180,000 visitors and an average of over 2,000 people per day, representing a 280% growth.""",positive,0.6209589838981628,2,5,3,2
+0,chinese,"""China's Invitation: Sharing Chinese Opportunities - Listening to Foreigners Tell the Story of Zhangzhou Enterprises' New Productivity""",positive,0.6070677638053894,2,6,3,1
+1,chinese,"""Intensive Policy Updates Boost Real Estate Market Activity in Multiple Regions""",positive,0.6043544411659241,2,6,3,1
+2,chinese,"""17.2%! Large-scale equipment updates unleash economic growth potential""",positive,0.7472020983695984,3,6,3,1
+3,chinese,"""Opinion | Waving the Protectionism Club Will Only Lead the Global Green Transformation into a Dead End""",negative,0.8495878577232361,-2,6,3,1
+4,chinese,"""Insightful | Prominent American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.7771056890487671,-2,6,3,1
+5,chinese,"""This year, the Ministry of Finance will implement a special guarantee program for technological innovation""",positive,0.6353973150253296,2,6,3,1
+6,chinese,"Foreign Institutions Continue to Have High Confidence in China's Bond Market, Steadily Increasing Their Holdings",positive,0.5689624547958374,2,6,3,1
+7,chinese,"""South African Experts: China Leads Global Green Development, Sino-African Cooperation Promotes Energy Transformation""",positive,0.7226723432540894,3,6,3,1
+8,chinese,"""Eastern Theater Command conducts ""Joint Sword-2024A"" exercise around Taiwan Island""",neutral,0.8529092669487,1,6,3,1
+9,chinese,"""Beware of Scams Offering Compensation for Downloading App After ""Flight Cancellation""""",negative,0.7833284735679626,-2,6,3,1
