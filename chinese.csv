@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,4,1,5
-1,chinese,"""Reason and Justice | China's Unstoppable Rise, America's Attempt at ""Economic Bullying"" is Doomed to Fail""",negative,0.8790772557258606,-2,4,1,5
-2,chinese,"""Huo Qigang: Hong Kong is a Window for International Cultural Exchange at the Intersection of Domestic and International Circulation""",neutral,0.5341227650642395,1,4,1,5
-3,chinese,"""Japan Reintroduces ""Sino-Japanese Strategic Reciprocity"" After 5 Years, ""Global South"" Diplomacy Could Become a Focal Point""",positive,0.46330246329307556,2,4,1,5
-4,chinese,"""Former Prime Minister of Kyrgyzstan: Global Supply Chain Undergoes Transformation, Railway Transportation on the Rise""",neutral,0.5885334014892578,1,4,1,5
-5,chinese,"""China-Europe Freight Train Runs with ""Acceleration"" - ""Efficiently Exporting"" Chinese Quality Goods""",positive,0.5728018879890442,2,4,1,5
-6,chinese,"""China-US High-Level Tourism Dialogue Outlines New Prospects for Bilateral Cultural and Tourism Cooperation""",positive,0.47962528467178345,2,4,1,5
-7,chinese,"""Multi-directional Close Approach to Taiwan and Extra-Island Battlecruiser Exercise Simulation Animation Released""",neutral,0.8618243932723999,1,4,1,5
-8,chinese,"""Wang Yi Holds Talks with Brazilian President's Chief Special Advisor Amorim""",neutral,0.7912314534187317,1,4,1,5
-9,chinese,"""East China Military Region Continues to Conduct ""Joint Sword - 2024A"" Exercises around Taiwan Island""",neutral,0.8171014189720154,1,4,1,5
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5170255899429321,2,3,2,5
+1,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Widespread Support""",positive,0.35661861300468445,2,3,2,5
+2,chinese,"""World's First Case! Clinical Assisted Xenotransplantation of Pig-to-Human Liver Successfully Completed in Anhui""",positive,0.5430969595909119,2,3,2,5
+3,chinese,"""Open China · Dialogue on Cultural Relics | Witnessing the Early Introduction of Christianity in China""",neutral,0.7242283821105957,1,3,2,5
+4,chinese,"""NASA's ""Tess"" Probe Discovers a New Exoplanet Similar to Earth""",neutral,0.5495147705078125,1,3,2,5
+5,chinese,Coast Guard Fleet 2304 Conducts Comprehensive Law Enforcement Drill in Waters East of Taiwan Island,negative,0.6116907596588135,-1,3,2,5
+6,chinese,"""Moroccan Expert: The West Manipulates the ""Taiwan Card"" Exposing Double Standards""",neutral,0.5667401552200317,1,3,2,5
+7,chinese,"""Reason and Justice: China's Unstoppable Rise, US Attempts at ""Economic Bullying"" Doomed to Fail""",negative,0.8398193717002869,-2,3,2,5
+8,chinese,"""Dragon Boat Festival Holiday Approaching, Short Trips Within Two Hours by High-Speed Rail Become Popular""",neutral,0.5441564917564392,1,3,2,5
+9,chinese,"""How to Use Personal Pension Accounts with Over 60 Million People Enrolled?""",neutral,0.8742806315422058,1,3,2,5
