@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Insightful | Renowned American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.8017933368682861,-2,1,7,2
-1,chinese,"Disappointment, Anxiety, and Concern - Mainland Taiwanese Express Strong Dissatisfaction with Lai Ching-te's ""5·20"" Speech",negative,0.9052169919013977,-2,1,7,2
-2,chinese,"""State Council Taiwan Affairs Office: ""Joint Sword-2024A"" Exercise is a Firm Punishment for Taiwan Leader's Provocation for ""Independence""""",negative,0.9228208661079407,-2,1,7,2
-3,chinese,"""Europe's Three Countries Recognize Palestine, How Does the World View It?""",neutral,0.7263059020042419,1,1,7,2
-4,chinese,"""China May Impose Additional Tariffs on High-Displacement Imported Cars? Experts from the Chamber of Commerce for Import and Export of Machinery and Electronic Products Respond: Compliant with WTO Rules and Relatively Restrained""",negative,0.6454648971557617,-1,1,7,2
-5,chinese,"""Israeli War-time Cabinet Decides to Continue Negotiations with Hamas""",negative,0.5115693807601929,-1,1,7,2
-6,chinese,"""【Overseas Perspective】Uzbekistan's Embassy Consul in China: Cultural Similarities Between Uzbekistan and China, Welcoming Chinese Friends to Visit and Explore More""",neutral,0.4730464220046997,1,1,7,2
-7,chinese,"""Ministry of Commerce: Including Three American Companies on the Unreliable Entity List is a Normal Law Enforcement Action by China""",negative,0.6804561018943787,-1,1,7,2
-8,chinese,"""Summer delicacies ignite the ""night economy"" as cities come alive with bustling energy""",positive,0.7349252104759216,3,1,7,2
-9,chinese,"""Israeli Military Ends Military Operation in Jenin Region, Resulting in 12 Deaths""",negative,0.8239062428474426,-2,1,7,2
+0,chinese,"""Insightful | Renowned American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.8017933368682861,-2,1,6,3
+1,chinese,"""Eastern Theater Command Continues to Conduct ""Joint Sword - 2024A"" Exercises around Taiwan Island""",neutral,0.8711763620376587,1,1,6,3
+2,chinese,"""Multiple Indicators Improve in April, Expectations for Business Production and Operation Improve""",positive,0.7110331058502197,3,1,6,3
+3,chinese,"""Attention 2024 College Graduates: Please Check This Employment Package""",neutral,0.7859331369400024,1,1,6,3
+4,chinese,"""Ministry of Foreign Affairs: Every time ""Taiwan independence"" stirs up trouble, the effort to defend the One China principle will increase""",negative,0.617161750793457,-1,1,6,3
+5,chinese,"Disappointment, Anxiety, Worry - Mainland Taiwanese Strongly Disapprove of Lai Ching-te's ""5/20"" Speech",negative,0.9026877880096436,-2,1,6,3
+6,chinese,"""State Council Taiwan Affairs Office: ""Joint Sword - 2024A"" Exercise is a Firm Punishment for Taiwan Leader's Provocation of ""Independence""""",negative,0.9178135991096497,-2,1,6,3
+7,chinese,"""Europe's Three Countries Recognize Palestine, How Does the World View It?""",neutral,0.7263059020042419,1,1,6,3
+8,chinese,"""China May Impose Additional Tariffs on High-Displacement Imported Cars? Experts from the Chamber of Commerce for Import and Export of Machinery and Electronic Products Respond: Compliant with WTO Rules and Relatively Restrained""",negative,0.6454648971557617,-1,1,6,3
+9,chinese,"""Israeli War-Time Cabinet Decides to Continue Negotiations with Hamas""",negative,0.49578189849853516,-1,1,6,3
