@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Insightful | Renowned American Economist Discusses America's ""Neurotic"" Fear of China""",negative,0.8017933368682861,-2,1,6,3
-1,chinese,"""Eastern Theater Command Continues to Conduct ""Joint Sword - 2024A"" Exercises around Taiwan Island""",neutral,0.8711763620376587,1,1,6,3
-2,chinese,"""Multiple Indicators Improve in April, Expectations for Business Production and Operation Improve""",positive,0.7110331058502197,3,1,6,3
-3,chinese,"""Attention 2024 College Graduates: Please Check This Employment Package""",neutral,0.7859331369400024,1,1,6,3
-4,chinese,"""Ministry of Foreign Affairs: Every time ""Taiwan independence"" stirs up trouble, the effort to defend the One China principle will increase""",negative,0.617161750793457,-1,1,6,3
-5,chinese,"Disappointment, Anxiety, Worry - Mainland Taiwanese Strongly Disapprove of Lai Ching-te's ""5/20"" Speech",negative,0.9026877880096436,-2,1,6,3
-6,chinese,"""State Council Taiwan Affairs Office: ""Joint Sword - 2024A"" Exercise is a Firm Punishment for Taiwan Leader's Provocation of ""Independence""""",negative,0.9178135991096497,-2,1,6,3
-7,chinese,"""Europe's Three Countries Recognize Palestine, How Does the World View It?""",neutral,0.7263059020042419,1,1,6,3
-8,chinese,"""China May Impose Additional Tariffs on High-Displacement Imported Cars? Experts from the Chamber of Commerce for Import and Export of Machinery and Electronic Products Respond: Compliant with WTO Rules and Relatively Restrained""",negative,0.6454648971557617,-1,1,6,3
-9,chinese,"""Israeli War-Time Cabinet Decides to Continue Negotiations with Hamas""",negative,0.49578189849853516,-1,1,6,3
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,4,1,5
+1,chinese,"""Reason and Justice | China's Unstoppable Rise, America's Attempt at ""Economic Bullying"" is Doomed to Fail""",negative,0.8790772557258606,-2,4,1,5
+2,chinese,"""Huo Qigang: Hong Kong is a Window for International Cultural Exchange at the Intersection of Domestic and International Circulation""",neutral,0.5341227650642395,1,4,1,5
+3,chinese,"""Japan Reintroduces ""Sino-Japanese Strategic Reciprocity"" After 5 Years, ""Global South"" Diplomacy Could Become a Focal Point""",positive,0.46330246329307556,2,4,1,5
+4,chinese,"""Former Prime Minister of Kyrgyzstan: Global Supply Chain Undergoes Transformation, Railway Transportation on the Rise""",neutral,0.5885334014892578,1,4,1,5
+5,chinese,"""China-Europe Freight Train Runs with ""Acceleration"" - ""Efficiently Exporting"" Chinese Quality Goods""",positive,0.5728018879890442,2,4,1,5
+6,chinese,"""China-US High-Level Tourism Dialogue Outlines New Prospects for Bilateral Cultural and Tourism Cooperation""",positive,0.47962528467178345,2,4,1,5
+7,chinese,"""Multi-directional Close Approach to Taiwan and Extra-Island Battlecruiser Exercise Simulation Animation Released""",neutral,0.8618243932723999,1,4,1,5
+8,chinese,"""Wang Yi Holds Talks with Brazilian President's Chief Special Advisor Amorim""",neutral,0.7912314534187317,1,4,1,5
+9,chinese,"""East China Military Region Continues to Conduct ""Joint Sword - 2024A"" Exercises around Taiwan Island""",neutral,0.8171014189720154,1,4,1,5
