@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5170255899429321,2,3,2,5
-1,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Widespread Support""",positive,0.35661861300468445,2,3,2,5
-2,chinese,"""World's First Case! Clinical Assisted Xenotransplantation of Pig-to-Human Liver Successfully Completed in Anhui""",positive,0.5430969595909119,2,3,2,5
-3,chinese,"""Open China · Dialogue on Cultural Relics | Witnessing the Early Introduction of Christianity in China""",neutral,0.7242283821105957,1,3,2,5
-4,chinese,"""NASA's ""Tess"" Probe Discovers a New Exoplanet Similar to Earth""",neutral,0.5495147705078125,1,3,2,5
-5,chinese,Coast Guard Fleet 2304 Conducts Comprehensive Law Enforcement Drill in Waters East of Taiwan Island,negative,0.6116907596588135,-1,3,2,5
-6,chinese,"""Moroccan Expert: The West Manipulates the ""Taiwan Card"" Exposing Double Standards""",neutral,0.5667401552200317,1,3,2,5
-7,chinese,"""Reason and Justice: China's Unstoppable Rise, US Attempts at ""Economic Bullying"" Doomed to Fail""",negative,0.8398193717002869,-2,3,2,5
-8,chinese,"""Dragon Boat Festival Holiday Approaching, Short Trips Within Two Hours by High-Speed Rail Become Popular""",neutral,0.5441564917564392,1,3,2,5
-9,chinese,"""How to Use Personal Pension Accounts with Over 60 Million People Enrolled?""",neutral,0.8742806315422058,1,3,2,5
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,2,2,6
+1,chinese,China's first comprehensive geological survey ship for islands (reefs) officially commissioned in Hainan,neutral,0.6255941987037659,1,2,2,6
+2,chinese,"""National Concentrated Efforts to Conduct Night Inspections on Electric Bicycles""",neutral,0.7850672602653503,1,2,2,6
+3,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Wide Support""",neutral,0.40814313292503357,1,2,2,6
+4,chinese,"""World's First Case! Clinical Assisted Xenotransplantation of Pig to Human Liver Successfully Completed in Anhui""",positive,0.514859139919281,2,2,2,6
+5,chinese,"""Open China · Cultural Dialogue | Witnessing the Introduction of Christianity to China""",neutral,0.732602059841156,1,2,2,6
+6,chinese,"""NASA's ""Tess"" Probe Discovers a New Exoplanet Similar to Earth""",neutral,0.5495147705078125,1,2,2,6
+7,chinese,"""Coast Guard 2304 Fleet Conducts Comprehensive Law Enforcement Exercise in Waters East of Taiwan Island""",neutral,0.8440463542938232,1,2,2,6
+8,chinese,"""Moroccan Expert: The West is Manipulating the ""Taiwan Card"" and Exposing Double Standards""",negative,0.6914201378822327,-1,2,2,6
+9,chinese,"""Dialogue and Reasoning | China's Unstoppable Rise, US's Attempt at ""Economic Bullying"" Doomed to Fail""",negative,0.8674520254135132,-2,2,2,6
