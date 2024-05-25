@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reform, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5640971064567566,2,6,0,4
-1,chinese,"""Chinese Team Wins Gold in 4x100m Mixed Relay at Paralympic Athletics World Championships""",positive,0.657232403755188,2,6,0,4
-2,chinese,"""Showcasing China's Cultural Heritage! New Cultural and Creative Products at the Cultural Expo, Which One Will You Pick?""",neutral,0.5478973984718323,1,6,0,4
-3,chinese,"""Stable Investment, Promote Development, Ensure Returns: 40 Billion Yuan 20-Year Ultra-Long-Term Special National Bond Successfully Issued""",positive,0.730426013469696,3,6,0,4
-4,chinese,"""New Visa-Free Policy Boosts Inbound Tourism, Bringing Benefits to Foreign Tourists with Convenient Entry and Travel""",positive,0.7070170044898987,3,6,0,4
-5,chinese,"""China's First Comprehensive Geologic Survey Ship for Islands (Reefs) Officially Commissioned in Hainan""",neutral,0.7997528314590454,1,6,0,4
-6,chinese,"""National Concentrated Efforts to Conduct Night Inspections on Electric Bicycles""",neutral,0.7850672602653503,1,6,0,4
-7,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Widespread Support""",positive,0.35661861300468445,2,6,0,4
-8,chinese,"""World's First Case! Clinical Assisted Xenotransplantation of Pig to Human Liver Successfully Completed in Anhui""",positive,0.514859139919281,2,6,0,4
-9,chinese,"""Open China · Cultural Dialogue | Witness of Christianity's Early Entry into China""",neutral,0.7855868339538574,1,6,0,4
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,5,0,5
+1,chinese,"""Civilization Code in Chinese Characters"" Exhibition Held in Rome",neutral,0.8949743509292603,1,5,0,5
+2,chinese,"""UN Security Council Passes Resolution Emphasizing the Protection of Humanitarian Personnel""",neutral,0.6999187469482422,1,5,0,5
+3,chinese,"""Chinese Team Wins Gold in 4x100m Mixed Relay at Paralympic Athletics World Championships""",positive,0.657232403755188,2,5,0,5
+4,chinese,"""Showcasing the Essence of China! New Cultural and Creative Products at the Cultural and Creative Industry Expo, Which One Will You Pick?""",neutral,0.5796775817871094,1,5,0,5
+5,chinese,"""Stable Investment, Promote Development, Ensure Returns: 40 Billion Yuan 20-Year Ultra-Long-Term Special Government Bonds Successfully Issued""",positive,0.6743200421333313,2,5,0,5
+6,chinese,"""New Visa-Free Policy Boosts Inbound Tourism, Bringing Benefits to Foreign Tourists with Convenient Entry and Travel""",positive,0.7070170044898987,3,5,0,5
+7,chinese,China's first comprehensive geological survey ship for islands (reefs) officially commissioned in Hainan,neutral,0.6255941987037659,1,5,0,5
+8,chinese,"""National Concentrated Efforts to Conduct Night Inspections on Electric Bicycles""",neutral,0.7850672602653503,1,5,0,5
+9,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Widespread Support""",positive,0.35661861300468445,2,5,0,5
