@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,5,0,5
-1,chinese,"""Civilization Code in Chinese Characters"" Exhibition Held in Rome",neutral,0.8949743509292603,1,5,0,5
-2,chinese,"""UN Security Council Passes Resolution Emphasizing the Protection of Humanitarian Personnel""",neutral,0.6999187469482422,1,5,0,5
-3,chinese,"""Chinese Team Wins Gold in 4x100m Mixed Relay at Paralympic Athletics World Championships""",positive,0.657232403755188,2,5,0,5
-4,chinese,"""Showcasing the Essence of China! New Cultural and Creative Products at the Cultural and Creative Industry Expo, Which One Will You Pick?""",neutral,0.5796775817871094,1,5,0,5
-5,chinese,"""Stable Investment, Promote Development, Ensure Returns: 40 Billion Yuan 20-Year Ultra-Long-Term Special Government Bonds Successfully Issued""",positive,0.6743200421333313,2,5,0,5
-6,chinese,"""New Visa-Free Policy Boosts Inbound Tourism, Bringing Benefits to Foreign Tourists with Convenient Entry and Travel""",positive,0.7070170044898987,3,5,0,5
-7,chinese,China's first comprehensive geological survey ship for islands (reefs) officially commissioned in Hainan,neutral,0.6255941987037659,1,5,0,5
-8,chinese,"""National Concentrated Efforts to Conduct Night Inspections on Electric Bicycles""",neutral,0.7850672602653503,1,5,0,5
-9,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Widespread Support""",positive,0.35661861300468445,2,5,0,5
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,1,2,7
+1,chinese,"""Deepening Sino-French Tennis Exchange: ""Net in Motion, France in Culture"" Exhibition Grandly Opens""",neutral,0.8636690974235535,1,1,2,7
+2,chinese,"""China's First Large-Scale Speech Model Supporting 30 Dialects Released""",neutral,0.5968869924545288,1,1,2,7
+3,chinese,"""How did various parties react to the International Court's demand for Israel to stop military operations in Gaza?""",negative,0.5416561961174011,-1,1,2,7
+4,chinese,"""High-Quality Development Research Trip | Ruijin Hospital to Provide More Accurate 360-Degree Proton Therapy""",neutral,0.5279013514518738,1,1,2,7
+5,chinese,"""German and French Finance Ministers: Trade War Only Has Losers""",negative,0.7929227352142334,-2,1,2,7
+6,chinese,"""Expansion of International Exhibition Area at the Cultural Expo, Establishment of International Cultural Trade Exhibition""",neutral,0.9168235063552856,1,1,2,7
+7,chinese,"""China-Europe Freight Trains Surpass 90,000 Trips in Total""",neutral,0.7743738293647766,1,1,2,7
+8,chinese,"""CSRC: Strictly Regulate Major Shareholders' Reductions to Effectively Prevent Circumvention of Reductions""",neutral,0.5999919772148132,1,1,2,7
+9,chinese,"""Civilization Code in Chinese Characters"" Exhibition Held in Rome",neutral,0.8949743509292603,1,1,2,7
