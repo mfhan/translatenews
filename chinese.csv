@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,2,2,6
-1,chinese,China's first comprehensive geological survey ship for islands (reefs) officially commissioned in Hainan,neutral,0.6255941987037659,1,2,2,6
-2,chinese,"""National Concentrated Efforts to Conduct Night Inspections on Electric Bicycles""",neutral,0.7850672602653503,1,2,2,6
-3,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Wide Support""",neutral,0.40814313292503357,1,2,2,6
-4,chinese,"""World's First Case! Clinical Assisted Xenotransplantation of Pig to Human Liver Successfully Completed in Anhui""",positive,0.514859139919281,2,2,2,6
-5,chinese,"""Open China · Cultural Dialogue | Witnessing the Introduction of Christianity to China""",neutral,0.732602059841156,1,2,2,6
-6,chinese,"""NASA's ""Tess"" Probe Discovers a New Exoplanet Similar to Earth""",neutral,0.5495147705078125,1,2,2,6
-7,chinese,"""Coast Guard 2304 Fleet Conducts Comprehensive Law Enforcement Exercise in Waters East of Taiwan Island""",neutral,0.8440463542938232,1,2,2,6
-8,chinese,"""Moroccan Expert: The West is Manipulating the ""Taiwan Card"" and Exposing Double Standards""",negative,0.6914201378822327,-1,2,2,6
-9,chinese,"""Dialogue and Reasoning | China's Unstoppable Rise, US's Attempt at ""Economic Bullying"" Doomed to Fail""",negative,0.8674520254135132,-2,2,2,6
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reform, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5640971064567566,2,6,0,4
+1,chinese,"""Chinese Team Wins Gold in 4x100m Mixed Relay at Paralympic Athletics World Championships""",positive,0.657232403755188,2,6,0,4
+2,chinese,"""Showcasing China's Cultural Heritage! New Cultural and Creative Products at the Cultural Expo, Which One Will You Pick?""",neutral,0.5478973984718323,1,6,0,4
+3,chinese,"""Stable Investment, Promote Development, Ensure Returns: 40 Billion Yuan 20-Year Ultra-Long-Term Special National Bond Successfully Issued""",positive,0.730426013469696,3,6,0,4
+4,chinese,"""New Visa-Free Policy Boosts Inbound Tourism, Bringing Benefits to Foreign Tourists with Convenient Entry and Travel""",positive,0.7070170044898987,3,6,0,4
+5,chinese,"""China's First Comprehensive Geologic Survey Ship for Islands (Reefs) Officially Commissioned in Hainan""",neutral,0.7997528314590454,1,6,0,4
+6,chinese,"""National Concentrated Efforts to Conduct Night Inspections on Electric Bicycles""",neutral,0.7850672602653503,1,6,0,4
+7,chinese,"""Ministry of Foreign Affairs: China's Disagreement with Taiwan's Participation in This Year's World Health Assembly Receives Widespread Support""",positive,0.35661861300468445,2,6,0,4
+8,chinese,"""World's First Case! Clinical Assisted Xenotransplantation of Pig to Human Liver Successfully Completed in Anhui""",positive,0.514859139919281,2,6,0,4
+9,chinese,"""Open China · Cultural Dialogue | Witness of Christianity's Early Entry into China""",neutral,0.7855868339538574,1,6,0,4
