@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening Up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5527290105819702,2,1,2,7
-1,chinese,"""Deepening Sino-French Tennis Exchange: ""Net in Motion, Sino-French"" Cultural Exhibition Grandly Opens""",neutral,0.8466010093688965,1,1,2,7
-2,chinese,"""China's First Large-Scale Speech Model Supporting 30 Dialects Released""",neutral,0.5968869924545288,1,1,2,7
-3,chinese,"""Chinese and Danish Explorers Reunite After 23 Years to Set Sail for 'Linking the Pacific' Boat Expedition, Held in Zhoushan, Zhejiang""",neutral,0.5890685319900513,1,1,2,7
-4,chinese,"""How did various parties react to the International Court's demand for Israel to stop military operations in Rafah?""",negative,0.5388052463531494,-1,1,2,7
-5,chinese,"""High-Quality Development Research Trip | Ruijin Hospital to Provide More Accurate 360-Degree Proton Therapy""",neutral,0.5279013514518738,1,1,2,7
-6,chinese,"""German and French Finance Ministers: Trade War Only Has Losers""",negative,0.7929227352142334,-2,1,2,7
-7,chinese,"""Expansion of International Exhibition Area at the Cultural Expo, Establishing International Cultural Trade Exhibition""",neutral,0.8254022598266602,1,1,2,7
-8,chinese,"""China-Europe Freight Trains Surpass 90,000 Trips in Total""",neutral,0.7743738293647766,1,1,2,7
-9,chinese,"""CSRC: Strictly Regulate Major Shareholders' Reductions to Effectively Prevent Circumvention of Reductions""",neutral,0.5999919772148132,1,1,2,7
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reform, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5528976917266846,2,2,2,6
+1,chinese,"""China Daily Society's 2024 ""My Campus Story"" Theme Event Seminar Held in Beijing""",neutral,0.8897289037704468,1,2,2,6
+2,chinese,"""90,000 trains! China-Europe freight trains set a new record for departures""",neutral,0.5099873542785645,1,2,2,6
+3,chinese,"""Double Warning for Strong Winds and Heavy Rain: Gusts of 8 to 9 Levels Expected in Some Areas of Beijing-Tianjin-Hebei Region""",negative,0.6072823405265808,-1,2,2,6
+4,chinese,"""《Anola》Wins the ""Golden Palm Award"" at the 77th Cannes Film Festival""",positive,0.6699678301811218,2,2,2,6
+5,chinese,"""Continuous Release of Demand for Trade-in of Consumer Goods""",neutral,0.8114286065101624,1,2,2,6
+6,chinese,"""Deepening Sino-French Tennis Exchange: ""Net in Motion, Sino-French"" Cultural Exhibition Grand Opening""",neutral,0.9204824566841125,1,2,2,6
+7,chinese,"""China's First Large-Scale Speech Model Supporting 30 Dialects Released""",neutral,0.5968869924545288,1,2,2,6
+8,chinese,"""Chinese and Danish Explorers Reunite After 23 Years to Sail Across the Pacific Ocean: Launch Ceremony Held in Zhoushan, Zhejiang""",neutral,0.4986104369163513,1,2,2,6
+9,chinese,"""How did the international community react to the International Court's demand for Israel to stop military operations in Gaza?""",negative,0.5886751413345337,-1,2,2,6
