@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
 0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5170255899429321,2,2,3,5
-1,chinese,"""China Daily Society holds 2024 ""My Campus Story"" Theme Event Seminar in Beijing""",neutral,0.8847251534461975,1,2,3,5
+1,chinese,"""China Daily 2024 ""My Campus Story"" Theme Activity Seminar Held in Beijing""",neutral,0.8943820595741272,1,2,3,5
 2,chinese,"""High-Quality Development Research Trip | Huace Measures Mount Everest with Domestic Instruments""",neutral,0.6523328423500061,1,2,3,5
-3,chinese,"""UN Agency: Papua New Guinea Landslide May Cause Over 670 Deaths""",negative,0.5923446416854858,-1,2,3,5
-4,chinese,"""World Report: Secret Documents Reveal US Gun Smuggling Intensifies Violence and Border Immigration Crisis in Central America - Former ATF Official: We Have a Responsibility to Stop the Flow of Firearms, But We Failed!""",negative,0.8971653580665588,-2,2,3,5
-5,chinese,"""Shanghai High-Quality Research Trip: Coastal Hardcore ""Claw Machine"" Leads Global Smart Port Innovation and Development""",positive,0.5216876864433289,2,2,3,5
-6,chinese,"""Video | Foreigners in Shanghai Donate Blood for Children with Blood Diseases""",neutral,0.7259976267814636,1,2,3,5
-7,chinese,"""Internet Literature, Web Dramas, and Online Gaming: The New Trio of Cultural Phenomena, Shining Bright in the Global Market""",neutral,0.5280359983444214,1,2,3,5
+3,chinese,"""UN Agency: Papua New Guinea Landslide Could Cause Over 670 Deaths""",negative,0.5209481120109558,-1,2,3,5
+4,chinese,"""World Report: Secret Documents Reveal US Gun Smuggling Intensifies Violence and Border Immigration Crisis in Central America - Former ATF Official: We Have a Responsibility to Stop the Flow of Guns, But We Failed!""",negative,0.891855001449585,-2,2,3,5
+5,chinese,"""Shanghai's High-Quality Research Trip: Coastal Hardcore ""Claw Machine"" Leads Global Innovation in Smart Port Development""",positive,0.6645601987838745,2,2,3,5
+6,chinese,"""Video | Foreigners in Shanghai Donate Blood to Children with Blood Diseases""",neutral,0.701356053352356,1,2,3,5
+7,chinese,"""Internet Literature, Web Dramas, and Online Games: The New Trio of Cultural Phenomena, Shining Bright in the Global Market""",neutral,0.5739260911941528,1,2,3,5
 8,chinese,"""@College Graduates, This Legal Course is Necessary Before Graduation!""",neutral,0.5942628383636475,1,2,3,5
 9,chinese,"""Two Knife Attacks in Massachusetts, USA Leave 6 Injured""",negative,0.7502795457839966,-2,2,3,5
