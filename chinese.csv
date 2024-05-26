@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5170255899429321,2,3,1,6
-1,chinese,"""China Daily hosts 2024 ""My Campus Story"" themed event seminar in Beijing""",neutral,0.8882570266723633,1,3,1,6
-2,chinese,"""Beijing Medical Insurance Bureau: Launching Online Payment Test for Non-Prescription Drug Insurance Personal Accounts""",neutral,0.9012836813926697,1,3,1,6
-3,chinese,"""12 Dead, 43 Injured in Attack on Kharkiv Building Materials Supermarket""",negative,0.7480089068412781,-2,3,1,6
-4,chinese,"""Friendship Spreads on the Competition Field: Opening of the Frankfurt International Dragon Boat Race and Frankfurt Chinese Festival""",neutral,0.6688142418861389,1,3,1,6
-5,chinese,"""First in the Country! Dual-mode Space Propulsion Engine Successfully Completes Mission""",positive,0.7484936714172363,3,3,1,6
-6,chinese,"""FE Co-founder: Becoming the Most Environmentally Friendly Racing Event""",positive,0.7674998641014099,3,3,1,6
-7,chinese,"""Greater Bay Area Subway"" Four Lines Connected",neutral,0.6484942436218262,1,3,1,6
-8,chinese,"""Shenzhou-18 Crew Conducts Various Space Science Experiments for One Month in Orbit""",neutral,0.7570971846580505,1,3,1,6
-9,chinese,"""China's Clean Energy Investment Exceeds 100 Billion Yuan in the First Quarter of This Year""",neutral,0.5566594004631042,1,3,1,6
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5170255899429321,2,2,3,5
+1,chinese,"""China Daily Society holds 2024 ""My Campus Story"" Theme Event Seminar in Beijing""",neutral,0.8847251534461975,1,2,3,5
+2,chinese,"""High-Quality Development Research Trip | Huace Measures Mount Everest with Domestic Instruments""",neutral,0.6523328423500061,1,2,3,5
+3,chinese,"""UN Agency: Papua New Guinea Landslide May Cause Over 670 Deaths""",negative,0.5923446416854858,-1,2,3,5
+4,chinese,"""World Report: Secret Documents Reveal US Gun Smuggling Intensifies Violence and Border Immigration Crisis in Central America - Former ATF Official: We Have a Responsibility to Stop the Flow of Firearms, But We Failed!""",negative,0.8971653580665588,-2,2,3,5
+5,chinese,"""Shanghai High-Quality Research Trip: Coastal Hardcore ""Claw Machine"" Leads Global Smart Port Innovation and Development""",positive,0.5216876864433289,2,2,3,5
+6,chinese,"""Video | Foreigners in Shanghai Donate Blood for Children with Blood Diseases""",neutral,0.7259976267814636,1,2,3,5
+7,chinese,"""Internet Literature, Web Dramas, and Online Gaming: The New Trio of Cultural Phenomena, Shining Bright in the Global Market""",neutral,0.5280359983444214,1,2,3,5
+8,chinese,"""@College Graduates, This Legal Course is Necessary Before Graduation!""",neutral,0.5942628383636475,1,2,3,5
+9,chinese,"""Two Knife Attacks in Massachusetts, USA Leave 6 Injured""",negative,0.7502795457839966,-2,2,3,5
