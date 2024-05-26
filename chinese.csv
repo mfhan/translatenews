@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reform, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5528976917266846,2,2,2,6
-1,chinese,"""China Daily Society's 2024 ""My Campus Story"" Theme Event Seminar Held in Beijing""",neutral,0.8897289037704468,1,2,2,6
-2,chinese,"""90,000 trains! China-Europe freight trains set a new record for departures""",neutral,0.5099873542785645,1,2,2,6
-3,chinese,"""Double Warning for Strong Winds and Heavy Rain: Gusts of 8 to 9 Levels Expected in Some Areas of Beijing-Tianjin-Hebei Region""",negative,0.6072823405265808,-1,2,2,6
-4,chinese,"""《Anola》Wins the ""Golden Palm Award"" at the 77th Cannes Film Festival""",positive,0.6699678301811218,2,2,2,6
-5,chinese,"""Continuous Release of Demand for Trade-in of Consumer Goods""",neutral,0.8114286065101624,1,2,2,6
-6,chinese,"""Deepening Sino-French Tennis Exchange: ""Net in Motion, Sino-French"" Cultural Exhibition Grand Opening""",neutral,0.9204824566841125,1,2,2,6
-7,chinese,"""China's First Large-Scale Speech Model Supporting 30 Dialects Released""",neutral,0.5968869924545288,1,2,2,6
-8,chinese,"""Chinese and Danish Explorers Reunite After 23 Years to Sail Across the Pacific Ocean: Launch Ceremony Held in Zhoushan, Zhejiang""",neutral,0.4986104369163513,1,2,2,6
-9,chinese,"""How did the international community react to the International Court's demand for Israel to stop military operations in Gaza?""",negative,0.5886751413345337,-1,2,2,6
+0,chinese,"""Ni Yuefeng: Further Comprehensive Deepening of Reforms, Advancing High-level Opening-up, and Striving to Compose the Hebei Chapter of China's Modernization Construction""",positive,0.5170255899429321,2,3,1,6
+1,chinese,"""China Daily hosts 2024 ""My Campus Story"" themed event seminar in Beijing""",neutral,0.8882570266723633,1,3,1,6
+2,chinese,"""Beijing Medical Insurance Bureau: Launching Online Payment Test for Non-Prescription Drug Insurance Personal Accounts""",neutral,0.9012836813926697,1,3,1,6
+3,chinese,"""12 Dead, 43 Injured in Attack on Kharkiv Building Materials Supermarket""",negative,0.7480089068412781,-2,3,1,6
+4,chinese,"""Friendship Spreads on the Competition Field: Opening of the Frankfurt International Dragon Boat Race and Frankfurt Chinese Festival""",neutral,0.6688142418861389,1,3,1,6
+5,chinese,"""First in the Country! Dual-mode Space Propulsion Engine Successfully Completes Mission""",positive,0.7484936714172363,3,3,1,6
+6,chinese,"""FE Co-founder: Becoming the Most Environmentally Friendly Racing Event""",positive,0.7674998641014099,3,3,1,6
+7,chinese,"""Greater Bay Area Subway"" Four Lines Connected",neutral,0.6484942436218262,1,3,1,6
+8,chinese,"""Shenzhou-18 Crew Conducts Various Space Science Experiments for One Month in Orbit""",neutral,0.7570971846580505,1,3,1,6
+9,chinese,"""China's Clean Energy Investment Exceeds 100 Billion Yuan in the First Quarter of This Year""",neutral,0.5566594004631042,1,3,1,6
