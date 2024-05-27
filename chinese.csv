@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Vice Minister of Foreign Affairs Deng Li: China's Efforts to Promote Middle East Peace Have Never Been Absent""",positive,0.432563453912735,2,3,3,4
-1,chinese,"""Riding the Wind - Examining Chinese Companies' Expansion Overseas through the Sports Expo""",neutral,0.8598504662513733,1,3,3,4
-2,chinese,"""5-story residential building collapses in Tongling, Anhui, 5 people missing""",negative,0.8293225765228271,-2,3,3,4
-3,chinese,"""Building a ""Wall of Opposition""? Behind the US's Sale of the ""Overcapacity Theory"" Lies the Hidden Agenda of Suppressing China's Development""",negative,0.8331964015960693,-2,3,3,4
-4,chinese,Ministry of Foreign Affairs: No one should have any illusions about crossing the line and not paying the price on the Taiwan issue.,negative,0.6426068544387817,-1,3,3,4
-5,chinese,"""National Health Commission: Focus on Punishing Issues of Using Business to Benefit from Medical Industry and Accepting Kickbacks from Suppliers""",neutral,0.4845663905143738,1,3,3,4
-6,chinese,"""High-Quality Development Research Trip | Kitchenware Leader Enters the Field of Robot Intelligent Manufacturing""",neutral,0.5232422947883606,1,3,3,4
-7,chinese,"""French Prime Minister Attal Sends Message to ""Riding the Wind 2024"": Let Sino-French Friendship Be Reflected""",positive,0.4818534553050995,2,3,3,4
-8,chinese,"""Sprint towards Graduation Season: Multi-party Efforts to Expand Employment Growth""",positive,0.5686241388320923,2,3,3,4
-9,chinese,"""A-Share Reduction Rules Fully Upgraded""",neutral,0.6597205400466919,1,3,3,4
+0,chinese,"""China Daily and Renmin University of China Sign Framework Agreement for International Communication Strategy Cooperation""",neutral,0.8062976002693176,1,2,3,5
+1,chinese,"""The 77th World Health Assembly Rejects Proposal Involving Taiwan, Ministry of Foreign Affairs Responds!""",neutral,0.6353886723518372,1,2,3,5
+2,chinese,"""Vice Minister of Foreign Affairs Deng Li: China's Efforts to Promote Middle East Peace Have Never Been Absent""",positive,0.432563453912735,2,2,3,5
+3,chinese,"""Riding the Wind - Examining Chinese Companies' Expansion Abroad through the Sports Expo""",neutral,0.8463043570518494,1,2,3,5
+4,chinese,"""5-story residential building collapses in Tongling, Anhui, 5 people missing""",negative,0.8293225765228271,-2,2,3,5
+5,chinese,"""Building a ""Wall of Opposition""? Behind the US's Sale of the ""Overcapacity Theory"" Lies the Hidden Agenda of Suppressing China's Development""",negative,0.8331964015960693,-2,2,3,5
+6,chinese,"""Ministry of Foreign Affairs: No one should have delusions of crossing the line and avoiding consequences in the Taiwan issue""",negative,0.7031047940254211,-2,2,3,5
+7,chinese,"""National Health Commission: Focus on Punishing Issues of Using Business to Benefit from Medical Practices and Accepting Kickbacks from Suppliers""",neutral,0.5004665851593018,1,2,3,5
+8,chinese,"""High-quality Development Research Trip | Kitchenware Leader Enters the Field of Robot Intelligent Manufacturing""",neutral,0.5506101846694946,1,2,3,5
+9,chinese,"""French Prime Minister Attal Sends Message to ""Riding the Wind 2024"": Let Sino-French Friendship Be Reflected""",positive,0.4818534553050995,2,2,3,5
