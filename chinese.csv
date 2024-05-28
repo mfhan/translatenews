@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily and Renmin University of China Sign Framework Agreement for International Communication Strategy Cooperation""",neutral,0.8062976002693176,1,1,2,7
-1,chinese,"""Accelerating the Comprehensive Commercial Operation of C919 from ""6 to 100+"" with Large Scale and Fleet""",neutral,0.7066708207130432,1,1,2,7
-2,chinese,"""National Intellectual Property Administration: China has established 71 national-level Intellectual Property Protection Centers""",neutral,0.5617712140083313,1,1,2,7
-3,chinese,"""Attention Seafood Lovers: Delicious but Toxic! Avoid Consuming Sea Hares Recently""",negative,0.8641684651374817,-2,1,2,7
-4,chinese,Famous Playwright Wei Minglun Passes Away at 83 Due to Illness,negative,0.6579239964485168,-1,1,2,7
-5,chinese,"""National Intellectual Property Office: Rapidly Emerging Results in Protection Work""",neutral,0.6668839454650879,1,1,2,7
-6,chinese,"""Chinese Academy of Social Sciences Releases 22 Major Research Achievements on Interpreting Modern Civilization of the Chinese Nation""",neutral,0.6716700792312622,1,1,2,7
-7,chinese,"""Mainland Chinese Tourists Increase on First Day of Expanded Individual Travel to Hong Kong and Macau, Hong Kong Actively Takes Measures to Welcome Visitors""",positive,0.646255373954773,2,1,2,7
-8,chinese,"""Over 60 million mu of winter wheat harvested in various regions, national wheat harvest progress approaching 20%""",neutral,0.619632363319397,1,1,2,7
-9,chinese,"""10,859 Cases of Emergencies and Rumor-Spreading Accounts in Social and Livelihood Fields Investigated and Dealt With""",neutral,0.7344900965690613,1,1,2,7
+0,chinese,"""Shenzhou-18 spacecraft successfully completes its first extravehicular activity""",positive,0.7659257054328918,3,7,0,3
+1,chinese,"""Exclusive Interview with FE CEO: China is the Perfect Choice for Celebrating the 10th Anniversary""",positive,0.8611423373222351,3,7,0,3
+2,chinese,"""Bilingual Financial News: Industrial Enterprise Profits Rebound Highlighting the Resilience of China's Economy""",positive,0.7864838242530823,3,7,0,3
+3,chinese,Ministry of Foreign Affairs: China-Europe Freight Train Builds a Bridge of Connectivity and Mutual Benefit between China and Europe,positive,0.7240787148475647,3,7,0,3
+4,chinese,"""[China News] ASEAN Experts: China's High-level Opening Injects Important Momentum into the Construction of the RCEP Regional Market""",positive,0.6091058254241943,2,7,0,3
+5,chinese,"""China's Software Industry Generated 3.8 Trillion Yuan in Revenue from January to April""",neutral,0.4836350977420807,1,7,0,3
+6,chinese,"""[China Connects] American Stone Merchant Praises: Fujian Shuitou is the Center of World Stone Trading""",neutral,0.5606993436813354,1,7,0,3
+7,chinese,"""Summer Cultural Tourism Continues to Heat Up, Consumer Market Welcomes a Burst of ""Fireworks Atmosphere""""",positive,0.5471839308738708,2,7,0,3
+8,chinese,"""Cross-border e-commerce becomes a new driving force for foreign trade""",positive,0.5086255669593811,2,7,0,3
+9,chinese,"""Accelerating the Comprehensive Commercial Operation of C919 from ""6 to 100+"" with Large Scale and Large Fleet""",neutral,0.713779628276825,1,7,0,3
