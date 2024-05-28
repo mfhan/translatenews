@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily and Renmin University of China Sign Framework Agreement for International Communication Strategy Cooperation""",neutral,0.8062976002693176,1,2,3,5
-1,chinese,"""The 77th World Health Assembly Rejects Proposal Involving Taiwan, Ministry of Foreign Affairs Responds!""",neutral,0.6353886723518372,1,2,3,5
-2,chinese,"""Vice Minister of Foreign Affairs Deng Li: China's Efforts to Promote Middle East Peace Have Never Been Absent""",positive,0.432563453912735,2,2,3,5
-3,chinese,"""Riding the Wind - Examining Chinese Companies' Expansion Abroad through the Sports Expo""",neutral,0.8463043570518494,1,2,3,5
-4,chinese,"""5-story residential building collapses in Tongling, Anhui, 5 people missing""",negative,0.8293225765228271,-2,2,3,5
-5,chinese,"""Building a ""Wall of Opposition""? Behind the US's Sale of the ""Overcapacity Theory"" Lies the Hidden Agenda of Suppressing China's Development""",negative,0.8331964015960693,-2,2,3,5
-6,chinese,"""Ministry of Foreign Affairs: No one should have delusions of crossing the line and avoiding consequences in the Taiwan issue""",negative,0.7031047940254211,-2,2,3,5
-7,chinese,"""National Health Commission: Focus on Punishing Issues of Using Business to Benefit from Medical Practices and Accepting Kickbacks from Suppliers""",neutral,0.5004665851593018,1,2,3,5
-8,chinese,"""High-quality Development Research Trip | Kitchenware Leader Enters the Field of Robot Intelligent Manufacturing""",neutral,0.5506101846694946,1,2,3,5
-9,chinese,"""French Prime Minister Attal Sends Message to ""Riding the Wind 2024"": Let Sino-French Friendship Be Reflected""",positive,0.4818534553050995,2,2,3,5
+0,chinese,"""China Daily and Renmin University of China Sign Strategic Cooperation Framework Agreement for International Communication""",neutral,0.7691844701766968,1,1,5,4
+1,chinese,"""10,859 Cases of Rumor-Mongering Accounts Investigated in Incidents and Social Livelihood Areas""",neutral,0.589971661567688,1,1,5,4
+2,chinese,"""Blue Rainstorm Warning Issued! Heavy to Torrential Rain Expected in Some Areas of 10 Provinces and Cities, with Localized Heavy Rainfall""",negative,0.5158253908157349,-1,1,5,4
+3,chinese,"""4 people dead in residential building collapse in Datong Town, suburban area of Tongling City, Anhui Province""",negative,0.8088025450706482,-2,1,5,4
+4,chinese,"""World Report: ""Differences Gradually Evolving into Violent Threats""! Survey Shows 2/3 of Americans Fear Political Violence After Election""",negative,0.6555088758468628,-1,1,5,4
+5,chinese,"""The 77th World Health Assembly Rejects Proposal Involving Taiwan, Ministry of Foreign Affairs Responds!""",neutral,0.6353886723518372,1,1,5,4
+6,chinese,"""Vice Minister of Foreign Affairs Deng Li: China's Efforts to Promote Middle East Peace Have Never Been Absent""",positive,0.432563453912735,2,1,5,4
+7,chinese,"""Riding the Wind - Examining Chinese Companies' Overseas Expansion through the Sports Expo""",neutral,0.8654180765151978,1,1,5,4
+8,chinese,"""5-story residential building collapses in Tongling, Anhui, 5 people missing""",negative,0.8293225765228271,-2,1,5,4
+9,chinese,"""Justice and Reasoning | Building a ""Wall of Opposition""? Behind the US's Sale of the ""Overcapacity Theory"" Lies the Hidden Agenda of Suppressing China's Development, the ""Troublemaker""""",negative,0.8058933019638062,-2,1,5,4
