@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily and Renmin University of China Sign Strategic Cooperation Framework Agreement for International Communication""",neutral,0.7691844701766968,1,1,5,4
-1,chinese,"""10,859 Cases of Rumor-Mongering Accounts Investigated in Incidents and Social Livelihood Areas""",neutral,0.589971661567688,1,1,5,4
-2,chinese,"""Blue Rainstorm Warning Issued! Heavy to Torrential Rain Expected in Some Areas of 10 Provinces and Cities, with Localized Heavy Rainfall""",negative,0.5158253908157349,-1,1,5,4
-3,chinese,"""4 people dead in residential building collapse in Datong Town, suburban area of Tongling City, Anhui Province""",negative,0.8088025450706482,-2,1,5,4
-4,chinese,"""World Report: ""Differences Gradually Evolving into Violent Threats""! Survey Shows 2/3 of Americans Fear Political Violence After Election""",negative,0.6555088758468628,-1,1,5,4
-5,chinese,"""The 77th World Health Assembly Rejects Proposal Involving Taiwan, Ministry of Foreign Affairs Responds!""",neutral,0.6353886723518372,1,1,5,4
-6,chinese,"""Vice Minister of Foreign Affairs Deng Li: China's Efforts to Promote Middle East Peace Have Never Been Absent""",positive,0.432563453912735,2,1,5,4
-7,chinese,"""Riding the Wind - Examining Chinese Companies' Overseas Expansion through the Sports Expo""",neutral,0.8654180765151978,1,1,5,4
-8,chinese,"""5-story residential building collapses in Tongling, Anhui, 5 people missing""",negative,0.8293225765228271,-2,1,5,4
-9,chinese,"""Justice and Reasoning | Building a ""Wall of Opposition""? Behind the US's Sale of the ""Overcapacity Theory"" Lies the Hidden Agenda of Suppressing China's Development, the ""Troublemaker""""",negative,0.8058933019638062,-2,1,5,4
+0,chinese,"""China Daily and Renmin University of China Sign Framework Agreement for International Communication Strategy Cooperation""",neutral,0.8062976002693176,1,1,2,7
+1,chinese,"""Accelerating the Comprehensive Commercial Operation of C919 from ""6 to 100+"" with Large Scale and Fleet""",neutral,0.7066708207130432,1,1,2,7
+2,chinese,"""National Intellectual Property Administration: China has established 71 national-level Intellectual Property Protection Centers""",neutral,0.5617712140083313,1,1,2,7
+3,chinese,"""Attention Seafood Lovers: Delicious but Toxic! Avoid Consuming Sea Hares Recently""",negative,0.8641684651374817,-2,1,2,7
+4,chinese,Famous Playwright Wei Minglun Passes Away at 83 Due to Illness,negative,0.6579239964485168,-1,1,2,7
+5,chinese,"""National Intellectual Property Office: Rapidly Emerging Results in Protection Work""",neutral,0.6668839454650879,1,1,2,7
+6,chinese,"""Chinese Academy of Social Sciences Releases 22 Major Research Achievements on Interpreting Modern Civilization of the Chinese Nation""",neutral,0.6716700792312622,1,1,2,7
+7,chinese,"""Mainland Chinese Tourists Increase on First Day of Expanded Individual Travel to Hong Kong and Macau, Hong Kong Actively Takes Measures to Welcome Visitors""",positive,0.646255373954773,2,1,2,7
+8,chinese,"""Over 60 million mu of winter wheat harvested in various regions, national wheat harvest progress approaching 20%""",neutral,0.619632363319397,1,1,2,7
+9,chinese,"""10,859 Cases of Emergencies and Rumor-Spreading Accounts in Social and Livelihood Fields Investigated and Dealt With""",neutral,0.7344900965690613,1,1,2,7
