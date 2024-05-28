@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Shenzhou-18 spacecraft successfully completes its first extravehicular activity""",positive,0.7659257054328918,3,7,0,3
-1,chinese,"""Exclusive Interview with FE CEO: China is the Perfect Choice for Celebrating the 10th Anniversary""",positive,0.8611423373222351,3,7,0,3
-2,chinese,"""Bilingual Financial News: Industrial Enterprise Profits Rebound Highlighting the Resilience of China's Economy""",positive,0.7864838242530823,3,7,0,3
-3,chinese,Ministry of Foreign Affairs: China-Europe Freight Train Builds a Bridge of Connectivity and Mutual Benefit between China and Europe,positive,0.7240787148475647,3,7,0,3
-4,chinese,"""[China News] ASEAN Experts: China's High-level Opening Injects Important Momentum into the Construction of the RCEP Regional Market""",positive,0.6091058254241943,2,7,0,3
-5,chinese,"""China's Software Industry Generated 3.8 Trillion Yuan in Revenue from January to April""",neutral,0.4836350977420807,1,7,0,3
-6,chinese,"""[China Connects] American Stone Merchant Praises: Fujian Shuitou is the Center of World Stone Trading""",neutral,0.5606993436813354,1,7,0,3
-7,chinese,"""Summer Cultural Tourism Continues to Heat Up, Consumer Market Welcomes a Burst of ""Fireworks Atmosphere""""",positive,0.5471839308738708,2,7,0,3
-8,chinese,"""Cross-border e-commerce becomes a new driving force for foreign trade""",positive,0.5086255669593811,2,7,0,3
-9,chinese,"""Accelerating the Comprehensive Commercial Operation of C919 from ""6 to 100+"" with Large Scale and Large Fleet""",neutral,0.713779628276825,1,7,0,3
+0,chinese,"""Supreme People's Procuratorate: Average Annual Increase of 21.7% in Cases of Parties Applying for Supervision of Administrative Judgments in the Past Five Years""",neutral,0.7791294455528259,1,6,0,4
+1,chinese,"""Spain, Norway, and Ireland Officially Recognize the State of Palestine""",neutral,0.46861952543258667,1,6,0,4
+2,chinese,"""Guangzhou City Optimizes and Adjusts Real Estate Policy Measures""",positive,0.7443611025810242,3,6,0,4
+3,chinese,"""Shenzhou-18 spacecraft successfully completes its first extravehicular activity""",positive,0.7659257054328918,3,6,0,4
+4,chinese,"""Exclusive Interview with FE CEO: China is the Perfect Choice for Celebrating the 10th Anniversary""",positive,0.8611423373222351,3,6,0,4
+5,chinese,"""Bilingual Financial News: Industrial Enterprise Profits Rebound Highlighting the Resilience of China's Economy""",positive,0.7864838242530823,3,6,0,4
+6,chinese,Ministry of Foreign Affairs: China-Europe Freight Train Builds a Bridge for Connectivity and Mutual Benefit between China and Europe,positive,0.6888255476951599,2,6,0,4
+7,chinese,"""[China News] ASEAN Experts: China's High-level Opening Injects Important Momentum into Building the Regional Comprehensive Economic Partnership (RCEP) Market""",positive,0.6856569051742554,2,6,0,4
+8,chinese,"""China's Software Industry Revenue Reaches 3.8 Trillion Yuan from January to April""",neutral,0.638006865978241,1,6,0,4
+9,chinese,"""[China Connects] American Stone Merchant Praises: Fujian Shuitou is the Center of the World Stone Trading""",neutral,0.5626911520957947,1,6,0,4
