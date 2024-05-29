@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Supreme People's Procuratorate: Average Annual Increase of 21.7% in Cases of Parties Applying for Supervision of Administrative Judgments in the Past Five Years""",neutral,0.7791294455528259,1,6,0,4
-1,chinese,"""Spain, Norway, and Ireland Officially Recognize the State of Palestine""",neutral,0.46861952543258667,1,6,0,4
-2,chinese,"""Guangzhou City Optimizes and Adjusts Real Estate Policy Measures""",positive,0.7443611025810242,3,6,0,4
-3,chinese,"""Shenzhou-18 spacecraft successfully completes its first extravehicular activity""",positive,0.7659257054328918,3,6,0,4
-4,chinese,"""Exclusive Interview with FE CEO: China is the Perfect Choice for Celebrating the 10th Anniversary""",positive,0.8611423373222351,3,6,0,4
-5,chinese,"""Bilingual Financial News: Industrial Enterprise Profits Rebound Highlighting the Resilience of China's Economy""",positive,0.7864838242530823,3,6,0,4
-6,chinese,Ministry of Foreign Affairs: China-Europe Freight Train Builds a Bridge for Connectivity and Mutual Benefit between China and Europe,positive,0.6888255476951599,2,6,0,4
-7,chinese,"""[China News] ASEAN Experts: China's High-level Opening Injects Important Momentum into Building the Regional Comprehensive Economic Partnership (RCEP) Market""",positive,0.6856569051742554,2,6,0,4
-8,chinese,"""China's Software Industry Revenue Reaches 3.8 Trillion Yuan from January to April""",neutral,0.638006865978241,1,6,0,4
-9,chinese,"""[China Connects] American Stone Merchant Praises: Fujian Shuitou is the Center of the World Stone Trading""",neutral,0.5626911520957947,1,6,0,4
+0,chinese,"""Another Cross-River Bridge in the Yangtze River Delta to be Hoisted Today! Expected to be Connected in Early June""",positive,0.5862935781478882,2,2,4,4
+1,chinese,"""Norway, Ireland, and Spain Officially Recognize the State of Palestine""",neutral,0.45228880643844604,1,2,4,4
+2,chinese,Confirmed! Lin Pharmaceuticals' soft-hair penicillin in health products is harmful to the kidneys.,negative,0.8588719367980957,-2,2,4,4
+3,chinese,"""Another Refugee Camp in Lafa Attacked, Survivors: Bombing Came Suddenly, Family Members Suffered Injuries""",negative,0.8026121258735657,-2,2,4,4
+4,chinese,"""Colombian House of Representatives Approves Bullfighting Ban""",negative,0.654069721698761,-1,2,4,4
+5,chinese,"""China-Europe Freight Train Breaks 90,000 Trips Milestone""",neutral,0.8436285853385925,1,2,4,4
+6,chinese,"""Positive Changes Evident in Multiple Fields: China's Economy Steady and Dynamic""",neutral,0.5236589312553406,1,2,4,4
+7,chinese,"""Supreme Procuratorate: Average annual increase of 21.7% in cases where parties do not accept court's effective administrative ruling and apply for supervision in the past five years""",negative,0.6834995746612549,-1,2,4,4
+8,chinese,"""Spain, Norway, and Ireland Officially Recognize the State of Palestine""",neutral,0.46861952543258667,1,2,4,4
+9,chinese,"""Guangzhou City Optimizes and Adjusts Real Estate Policy Measures""",positive,0.7443611025810242,3,2,4,4
