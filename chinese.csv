@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily Interviews Hohhot Deputy Secretary and Mayor He Haidong: Innovation Leads the Way to Promote High-Quality Development in Hohhot with New Productive Forces""",positive,0.6836122870445251,2,4,2,4
+0,chinese,"""China Daily Interviews Hohhot Deputy Secretary and Mayor He Haidong: Innovation Leads the Way to Promote High-Quality Development in Hohhot""",positive,0.6315066814422607,2,4,2,4
 1,chinese,"""Standard Leads to Major Breakthrough in China's International Standardization of Logistics Construction""",positive,0.7297813892364502,3,4,2,4
-2,chinese,"""Osaka City Government: Aspergillus Detected in 6 Locations of Kobayashi Pharmaceutical""",neutral,0.534284234046936,1,4,2,4
-3,chinese,"""Vega-1 Sea Launch Long March II Carrier Rocket Successfully Launches Four Tianqi Satellites""",positive,0.5675902962684631,2,4,2,4
-4,chinese,Ministry of Foreign Affairs: Urges all parties to immediately cease fire and make every effort to avoid harm to innocent civilians.,negative,0.6737012267112732,-1,4,2,4
+2,chinese,"""Osaka City Government: Aspergillus Detected at 6 Locations of Kobayashi Pharmaceutical""",neutral,0.5201719999313354,1,4,2,4
+3,chinese,"""Venus-1 Sea Launch Long March 2C Rocket Successfully Launches Four Tianqi Satellites""",positive,0.5470980405807495,2,4,2,4
+4,chinese,"""Ministry of Foreign Affairs: Urges all parties to immediately cease fire and make every effort to avoid innocent civilian casualties""",negative,0.5811142325401306,-1,4,2,4
 5,chinese,"""World's Largest Cable-Stayed Bridge Steel Truss Beam Successfully Installed, Expected to be Fully Connected in Early June""",positive,0.6963251233100891,2,4,2,4
-6,chinese,Ministry of Foreign Affairs: Strongly Opposes the US Interference in Cuba's Internal Affairs under the Pretext of Counter-Terrorism,negative,0.8304062485694885,-2,4,2,4
-7,chinese,"""Stabilizing the Real Estate Market with Targeted Measures: Frequent ""Big Moves"" in Shanghai, Guangzhou, and Shenzhen""",neutral,0.7199497818946838,1,4,2,4
-8,chinese,"""Attention! Number of travelers during Dragon Boat Festival doubles, popular destinations already fully booked""",neutral,0.6523041725158691,1,4,2,4
+6,chinese,Ministry of Foreign Affairs: Strongly Opposes the United States Interfering in Cuba's Internal Affairs Under the Pretext of Counter-Terrorism,negative,0.8765722513198853,-2,4,2,4
+7,chinese,"""Stabilizing the Real Estate Market with Differentiated Policies: Frequent Measures Introduced in Shanghai, Guangzhou, and Shenzhen""",neutral,0.6970710754394531,1,4,2,4
+8,chinese,"""Attention! Number of travelers during Dragon Boat Festival doubles, popular destinations have been booked in advance""",neutral,0.6771692037582397,1,4,2,4
 9,chinese,"""【China Has an Appointment】Russian Blogger Slava: Fujian, the Dual Charm of Economy and Culture""",neutral,0.5136796832084656,1,4,2,4
