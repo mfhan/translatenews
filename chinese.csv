@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Chinese Ambassador to the China-Arab States Cooperation Forum: China-Arab Cooperation Moves Forward to the Next Successful 20 Years""",positive,0.7014018893241882,3,3,2,5
-1,chinese,"""Egyptian Expert: From the Silk Road to the Belt and Road, China-Arab Cooperation Holds Global Significance""",neutral,0.5336735844612122,1,3,2,5
-2,chinese,"""What happens when Taekwondo meets Baguazhang?""",neutral,0.9045403599739075,1,3,2,5
-3,chinese,"""Supreme Court: Strictly Punish the Use of Minors to Commit Illegal Crimes""",negative,0.8431966304779053,-2,3,2,5
-4,chinese,"""Supreme Court: Strictly Enforce Laws to Address Bullying Among Students, Those Who Commit Crimes Will Be Held Criminally Responsible""",negative,0.5698727965354919,-1,3,2,5
-5,chinese,"""National Standard for the Chinese Young Pioneers Flag to Officially Take Effect on June 1st""",neutral,0.7925708293914795,1,3,2,5
-6,chinese,"""National Science and Technology Workers' Day | Saluting all National Science and Technology Workers, Setting off towards the Unknown""",positive,0.7724084258079529,3,3,2,5
-7,chinese,"""Deputy Director of the 14th National Committee of the Chinese People's Political Consultative Conference and Ethnic and Religious Affairs Committee, Gou Zhongwen, Under Investigation""",neutral,0.8571334481239319,1,3,2,5
-8,chinese,"""US Federal Reserve's ""Beige Book"" Shows Continued Moderate Increase in American Prices""",neutral,0.6449827551841736,1,3,2,5
-9,chinese,"""Exciting Cultural and Natural Heritage Day Events to be Presented in 2024""",positive,0.8238372802734375,3,3,2,5
+0,chinese,"""Former Chinese Ambassador to China-Arab Cooperation Forum: China-Arab Cooperation Moves Forward Towards the Next Successful 20 Years""",positive,0.7158858180046082,3,3,2,5
+1,chinese,"""Egyptian Expert: From the Silk Road to the ""Belt and Road"", Sino-Arab Cooperation Holds Global Significance""",neutral,0.5860649347305298,1,3,2,5
+2,chinese,"""[Overseas Perspective] Palestinian Ambassador to China: The 10th Ministerial Conference of the China-Arab Cooperation Forum Brings Hope and Motivation to the Palestinian People""",positive,0.7389228343963623,3,3,2,5
+3,chinese,"""What happens when Taekwondo meets Baguazhang?""",neutral,0.9045403599739075,1,3,2,5
+4,chinese,Supreme Court: Strictly Punish the Use of Minors to Commit Illegal Crimes,negative,0.8375136852264404,-2,3,2,5
+5,chinese,"""Supreme Court: Strictly Enforce Laws to Handle Student Bullying, Those Who Commit Crimes Will Be Held Criminally Responsible""",negative,0.5844312906265259,-1,3,2,5
+6,chinese,"""National Standard for the Chinese Young Pioneers Flag to Officially Take Effect on June 1st""",neutral,0.7925708293914795,1,3,2,5
+7,chinese,"""National Science and Technology Workers' Day | Saluting all National Science and Technology Workers, Setting Off Towards the Distant Unknown""",positive,0.7840027809143066,3,3,2,5
+8,chinese,"""Deputy Director of the 14th National Committee of the Chinese People's Political Consultative Conference and Ethnic and Religious Affairs Committee, Gou Zhongwen, Under Investigation""",neutral,0.8571334481239319,1,3,2,5
+9,chinese,"""US Federal Reserve's 'Beige Book' Shows Continued Moderate Increase in American Prices""",neutral,0.6750383377075195,1,3,2,5
