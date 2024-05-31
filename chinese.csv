@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Chinese Ambassador to China-Arab Cooperation Forum: China-Arab Cooperation Moves Forward Towards the Next Successful 20 Years""",positive,0.7158858180046082,3,3,2,5
-1,chinese,"""Egyptian Expert: From the Silk Road to the ""Belt and Road"", Sino-Arab Cooperation Holds Global Significance""",neutral,0.5860649347305298,1,3,2,5
-2,chinese,"""[Overseas Perspective] Palestinian Ambassador to China: The 10th Ministerial Conference of the China-Arab Cooperation Forum Brings Hope and Motivation to the Palestinian People""",positive,0.7389228343963623,3,3,2,5
-3,chinese,"""What happens when Taekwondo meets Baguazhang?""",neutral,0.9045403599739075,1,3,2,5
-4,chinese,Supreme Court: Strictly Punish the Use of Minors to Commit Illegal Crimes,negative,0.8375136852264404,-2,3,2,5
-5,chinese,"""Supreme Court: Strictly Enforce Laws to Handle Student Bullying, Those Who Commit Crimes Will Be Held Criminally Responsible""",negative,0.5844312906265259,-1,3,2,5
-6,chinese,"""National Standard for the Chinese Young Pioneers Flag to Officially Take Effect on June 1st""",neutral,0.7925708293914795,1,3,2,5
-7,chinese,"""National Science and Technology Workers' Day | Saluting all National Science and Technology Workers, Setting Off Towards the Distant Unknown""",positive,0.7840027809143066,3,3,2,5
-8,chinese,"""Deputy Director of the 14th National Committee of the Chinese People's Political Consultative Conference and Ethnic and Religious Affairs Committee, Gou Zhongwen, Under Investigation""",neutral,0.8571334481239319,1,3,2,5
-9,chinese,"""US Federal Reserve's 'Beige Book' Shows Continued Moderate Increase in American Prices""",neutral,0.6750383377075195,1,3,2,5
+0,chinese,"""Former Ambassador of China-Arab Cooperation Forum: China-Arab Cooperation Moves Towards the Next Successful 20 Years""",positive,0.5948384404182434,2,4,3,3
+1,chinese,"""Egyptian Expert: From the Silk Road to the ""Belt and Road"", Sino-Arab Cooperation Holds Global Significance""",neutral,0.5860649347305298,1,4,3,3
+2,chinese,"""World Opinion: Is the US Trying to Form a ""Protectionist Alliance""? International Community: Harmful to Others and Detrimental to Oneself, Not in the Interest of Any Country""",negative,0.901358962059021,-2,4,3,3
+3,chinese,"""Tea Gathering: Chinese Tea Culture Joins Hands with Overseas Friendship""",positive,0.5324097871780396,2,4,3,3
+4,chinese,"""【Overseas Perspective】Palestinian Ambassador to China: 10th Ministerial Conference of China-Arab Cooperation Forum Brings Hope and Motivation to the Palestinian People""",positive,0.7013784050941467,3,4,3,3
+5,chinese,"""What happens when Taekwondo meets Baguazhang?""",neutral,0.9045403599739075,1,4,3,3
+6,chinese,"""Supreme Court: Strictly Punish the Use of Minors to Commit Illegal Crimes""",negative,0.8431966304779053,-2,4,3,3
+7,chinese,"""Supreme Court: Strictly Punish Student Bullying According to Law, Those Who Commit Crimes Will Be Held Criminally Responsible""",negative,0.7819865345954895,-2,4,3,3
+8,chinese,"""National Standard for the Chinese Young Pioneers Flag to be Officially Implemented on June 1st""",neutral,0.7173564434051514,1,4,3,3
+9,chinese,"""National Science and Technology Workers' Day | Saluting all National Science and Technology Workers, Setting Off Towards the Distant Unknown""",positive,0.7840027809143066,3,4,3,3
