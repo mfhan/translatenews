@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Chinese Ambassador to the China-Arab States Cooperation Forum: China-Arab Cooperation Marches Towards the Next Successful 20 Years""",positive,0.6164165139198303,2,2,1,7
+0,chinese,"""Former Ambassador of China-Arab Cooperation Forum: China-Arab Cooperation Moves Towards the Next Successful 20 Years""",positive,0.5948384404182434,2,2,1,7
 1,chinese,"""Malaysian Scholar: After 50 Years of Diplomatic Relations, China-Malaysia Relationship Has Withstood the ""Trial by Fire""""",neutral,0.5581271648406982,1,2,1,7
-2,chinese,"""China's High-Thrust Hydrogen-Oxygen Engine Vertical Dual-Position Test Bench Completed and Put into Use""",neutral,0.6367931365966797,1,2,1,7
-3,chinese,"""Long March 3B Rocket Successfully Launches Pakistan's Multi-Tasking Communication Satellite""",positive,0.631100594997406,2,2,1,7
-4,chinese,"""Supreme People's Procuratorate: Issued 43,000 ""Supervision and Guardianship Orders"" to Guardians of Juveniles Involved in Crimes Last Year""",neutral,0.7205143570899963,1,2,1,7
-5,chinese,"""Supreme Procuratorate: Prosecution of Juvenile Criminal Suspects for Crimes Against Minors Increases by 24.9% Compared to Previous Year Starting in 2023""",neutral,0.5442865490913391,1,2,1,7
-6,chinese,"""Establishment of the ""World Literature and Universal Human Values Research Center"" at Renmin University of China""",neutral,0.8876515626907349,1,2,1,7
-7,chinese,"Hamas: Willing to Reach ""Comprehensive Agreement"" if Israel Stops Attacking Gaza",neutral,0.6319398880004883,1,2,1,7
-8,chinese,"China Implements Export Control on Equipment, Technology, and Software in the Fields of Aviation, Aerospace, and Shipping",neutral,0.6484783291816711,1,2,1,7
-9,chinese,"""New York Jury Rules Trump Guilty in ""Hush Money"" Case""",negative,0.6320576667785645,-1,2,1,7
+2,chinese,"Typhoon ""Mangkhut"" to make landfall, Guangdong Province initiates level IV emergency response for wind prevention",negative,0.5704379677772522,-1,2,1,7
+3,chinese,"""National Housing Provident Fund 2023 Annual Report Released""",neutral,0.9063839316368103,1,2,1,7
+4,chinese,"""World Literature and China"" Academic Symposium and Establishment Ceremony of the Research Center for World Literature and Universal Human Values Held in Beijing",neutral,0.8844922184944153,1,2,1,7
+5,chinese,"""China-US Bay Area Dialogue Held in California, USA""",neutral,0.8947053551673889,1,2,1,7
+6,chinese,"""Facing Questions from Chinese Journalists, Palestinian Ambassador Speaks from the Heart!""",neutral,0.7942747473716736,1,2,1,7
+7,chinese,"""Academy Member of the National Academy of Engineering Highly Praises China's Aquatic Biological Safety Research""",positive,0.7409548759460449,3,2,1,7
+8,chinese,"""Chinese Scientists Museum Opens""",neutral,0.8079718947410583,1,2,1,7
+9,chinese,"""Regional Cooperation and Development Forum between China, Japan, and South Korea Held in Beijing""",neutral,0.8197331428527832,1,2,1,7
