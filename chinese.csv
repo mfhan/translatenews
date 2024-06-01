@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Ambassador of China-Arab Cooperation Forum: China-Arab Cooperation Moves Forward to the Next Successful 20 Years""",positive,0.6630434393882751,2,1,2,7
-1,chinese,"""Malaysian Scholar: After 50 Years of Diplomatic Relations, China-Malaysia Relations Have Withstood the ""Trial by Fire""""",neutral,0.5689917802810669,1,1,2,7
-2,chinese,"Chinese Experts at the Meeting Refute Philippine President's Speech: Philippines Violates Rules, Distorts Facts, and Shifts Blame.",negative,0.9055166840553284,-2,1,2,7
-3,chinese,"""China Establishes Clear ""Timetable"" and ""Roadmap"" for Energy Conservation and Carbon Reduction""",neutral,0.6710590124130249,1,1,2,7
-4,chinese,"""Six departments deploy to launch the 2024 Children and Student Product Safety Protection Action""",neutral,0.5917863249778748,1,1,2,7
-5,chinese,"""C919's First Cross-Border Commercial Charter Flight Takes Off from Shanghai to Hong Kong""",neutral,0.8403819799423218,1,1,2,7
+0,chinese,"""Former Chinese Ambassador to the China-Arab States Cooperation Forum: China-Arab Cooperation Moves Towards the Next Successful 20 Years""",positive,0.6770585775375366,2,1,2,7
+1,chinese,"""Malaysian Scholar: After 50 Years of Diplomatic Relations, China-Malaysia Relationship Has Withstood the Test of Fire""",neutral,0.515100359916687,1,1,2,7
+2,chinese,"Chinese experts attending the meeting refute Philippine President's remarks at the ASEAN Summit: Philippines disrupts rules, distorts facts, and shifts blame.",negative,0.8610518574714661,-2,1,2,7
+3,chinese,"""China Sets Clear ""Timetable"" and ""Roadmap"" for Energy Conservation and Carbon Reduction""",neutral,0.7262498140335083,1,1,2,7
+4,chinese,Six departments deploy to carry out the 2024 Children and Student Product Safety Protection Action.,neutral,0.6283560991287231,1,1,2,7
+5,chinese,"""First Cross-Border Commercial Charter Flight of C919 Takes Off from Shanghai to Hong Kong""",neutral,0.8569165468215942,1,1,2,7
 6,chinese,"""Ambassador Xu Feihong Presents Credentials to Indian President Murmu""",neutral,0.4490188956260681,1,1,2,7
-7,chinese,"""Biden Agrees to Limited Use of American-Made Weapons by Ukraine to Strike Russian Territory""",negative,0.7783771753311157,-2,1,2,7
-8,chinese,"""Starting today, a batch of new regulations come into effect""",neutral,0.5727999806404114,1,1,2,7
-9,chinese,"""China's Banking Industry Total Assets Approaching 43 Trillion Yuan by the End of the First Quarter""",neutral,0.7954756617546082,1,1,2,7
+7,chinese,"""Biden Agrees to Limited Use of American Weapons by Ukraine to Strike Russian Territory""",negative,0.7302743196487427,-2,1,2,7
+8,chinese,"""Starting today, a batch of new regulations will come into effect""",neutral,0.600119411945343,1,1,2,7
+9,chinese,"""China's Banking Industry Total Assets Approaching 43 Trillion Yuan at the End of the First Quarter""",neutral,0.7922479510307312,1,1,2,7
