@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,1,2,7
-1,chinese,"""[China Has an Appointment] ""China Has an Appointment: Shandong 2024"" International Media Interview Event Officially Launches""",neutral,0.8443447351455688,1,1,2,7
-2,chinese,"""Why were the prices of 4 high-speed train tickets adjusted?""",neutral,0.4947524070739746,1,1,2,7
-3,chinese,"Foreign Companies Speed Up Layout, Central China Releases ""Magnetic Attraction""",neutral,0.5266304612159729,1,1,2,7
-4,chinese,"""Chinese and New Zealand Defense Ministers Hold Meeting""",neutral,0.8775447010993958,1,1,2,7
-5,chinese,"""Chinese Defense Minister: Some countries are provoking in the South China Sea, China's restraint has its limits""",negative,0.9020445942878723,-2,1,2,7
-6,chinese,"""China's National Space Administration Releases Images of Chang'e 6's Landing on the Far Side of the Moon""",neutral,0.7795245051383972,1,1,2,7
-7,chinese,"""Beijing: Children from China and abroad celebrate International Children's Day on June 1st""",neutral,0.5283864140510559,1,1,2,7
-8,chinese,"""Zhang Zhilei KO's Wilder in 5 Rounds, Chinese Power Shakes Up the World Boxing Scene""",positive,0.44712114334106445,2,1,2,7
-9,chinese,"""Dong Jun: Whoever dares to separate Taiwan from China will surely suffer a violent death and self-destruction""",negative,0.9137895107269287,-2,1,2,7
+0,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,2,2,6
+1,chinese,"""China Invites You: ""China Invites You to Shandong"" 2024 International Media Interview Event Officially Launches""",neutral,0.7259694933891296,1,2,2,6
+2,chinese,"""Why were the prices of 4 high-speed train tickets adjusted?""",neutral,0.4947524070739746,1,2,2,6
+3,chinese,"Foreign Companies Speed Up Layout in Central China, Releasing ""Magnetic Attraction""",positive,0.5084977746009827,2,2,2,6
+4,chinese,"""Chinese and New Zealand Defense Ministers Hold Meeting""",neutral,0.8775447010993958,1,2,2,6
+5,chinese,"""Chinese Defense Minister: Some countries are provoking in the South China Sea, China's restraint has its limits""",negative,0.9020445942878723,-2,2,2,6
+6,chinese,"""China's National Space Administration Releases Images of Chang'e-6's Landing on the Far Side of the Moon""",neutral,0.7757330536842346,1,2,2,6
+7,chinese,"""Beijing: Chinese and foreign children celebrate International Children's Day on June 1st""",neutral,0.49377498030662537,1,2,2,6
+8,chinese,"""Zhang Zhilei KOs Wilder in 5 Rounds, Chinese Power Shakes Up the World Boxing Scene""",positive,0.4548525810241699,2,2,2,6
+9,chinese,"""Dong Jun: Whoever dares to separate Taiwan from China will surely perish and bring destruction upon themselves""",negative,0.9332976341247559,-2,2,2,6
