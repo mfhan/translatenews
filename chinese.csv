@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Chinese Ambassador to the China-Arab States Cooperation Forum: China-Arab Cooperation Moves Towards the Next Successful 20 Years""",positive,0.6770585775375366,2,2,2,6
-1,chinese,"""Malaysian Scholar: After 50 Years of Diplomatic Relations, China-Malaysia Relations Have Withstood the ""Trial by Fire""""",neutral,0.5689917802810669,1,2,2,6
-2,chinese,"Chinese experts attending the meeting refute the speech of the Philippine President at the summit: the Philippine side breaks the rules, distorts the truth, and shifts the blame.",negative,0.8843048810958862,-2,2,2,6
-3,chinese,"""China Clarifies ""Timetable"" and ""Roadmap"" for Energy Saving and Carbon Reduction""",neutral,0.5966911315917969,1,2,2,6
-4,chinese,"""Six departments deploy to launch the 2024 Children and Student Product Safety Protection Campaign""",neutral,0.589327335357666,1,2,2,6
-5,chinese,"""C919's First Cross-Border Commercial Charter Flight Takes Off from Shanghai to Hong Kong""",neutral,0.8403819799423218,1,2,2,6
-6,chinese,"""Ambassador Xu Feihong presents credentials to Indian President Murmu""",positive,0.430654376745224,2,2,2,6
-7,chinese,"""Biden agrees to limited use of American-made weapons by Ukraine to strike Russian territory""",negative,0.5735961198806763,-1,2,2,6
-8,chinese,"""Starting today, a batch of new regulations will come into effect""",neutral,0.600119411945343,1,2,2,6
-9,chinese,"""Total Assets of China's Banking Industry Approaching 43 Trillion Yuan at the End of the First Quarter""",neutral,0.790212869644165,1,2,2,6
+0,chinese,Seeing is believing: Overseas scholars visit Tibetan homes and see what...,positive,0.5623128414154053,2,3,3,4
+1,chinese,"""Chinese Defense Minister: Some Countries Provoking in the South China Sea, China's Restraint Has Its Limits""",negative,0.8261779546737671,-2,3,3,4
+2,chinese,"""China National Space Administration Releases Images of Chang'e-6 Lunar Far-Side Landing""",neutral,0.807989776134491,1,3,3,4
+3,chinese,"""Beijing: Children from China and abroad celebrate International Children's Day on June 1st""",neutral,0.5283864140510559,1,3,3,4
+4,chinese,"""Zhang Zhilei KO's Wilder in 5 Rounds, Chinese Power Shakes Up the World Boxing Scene""",positive,0.44712114334106445,2,3,3,4
+5,chinese,"""Dong Jun: Whoever dares to separate Taiwan from China will surely perish and bring destruction upon themselves""",negative,0.9332976341247559,-2,3,3,4
+6,chinese,"""2024 Indian Election Voting Concludes""",neutral,0.8882877230644226,1,3,3,4
+7,chinese,"""National Winter Wheat Harvest Area Reaches 126 Million Mu, Progress Reaches 37.27%, Entering the Peak Harvest Season""",positive,0.5078098177909851,2,3,3,4
+8,chinese,"""Chang'e-6 Successfully Lands on the South Pole-Aitken Basin on the Far Side of the Moon""",neutral,0.7262219190597534,1,3,3,4
+9,chinese,"""Chinese experts attending the meeting refute Philippine President's speech at the summit: Philippines breaks rules, distorts facts, and shifts blame""",negative,0.863810122013092,-2,3,3,4
