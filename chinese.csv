@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Security Agency Breaks Another Major Spy Case Involving British MI6""",negative,0.5614697337150574,-1,0,5,5
-1,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,0,5,5
-2,chinese,"""1 Dead, 26 Injured in Shooting in Ohio, United States""",negative,0.6655230522155762,-1,0,5,5
-3,chinese,"""Blue Alert for Heavy Rain Continues! Parts of Central Guangxi and Other Areas to Experience Heavy Downpours""",negative,0.6091726422309875,-1,0,5,5
-4,chinese,"""At least 15 people killed in Israeli air strikes on Gaza Strip""",negative,0.6732822060585022,-1,0,5,5
-5,chinese,"""5.9 Magnitude Earthquake Strikes Noto Peninsula in Japan on the 3rd Day""",neutral,0.4939093589782715,1,0,5,5
-6,chinese,"""Portuguese Aviation Exhibition: 1 Dead and 1 Injured in Collision of Two Planes""",negative,0.7443069219589233,-2,0,5,5
-7,chinese,"""[China Invites You] ""China Invites You · Meet Shandong"" 2024 International Media Interview Event Officially Launches""",neutral,0.6831991672515869,1,0,5,5
-8,chinese,"""Why were the prices of 4 high-speed train tickets adjusted?""",neutral,0.4947524070739746,1,0,5,5
-9,chinese,"""Foreign Companies Speed Up Layout, Central China Releases ""Magnetic Attraction""""",neutral,0.5235261917114258,1,0,5,5
+0,chinese,"""National Security Agency Breaks Up Another Major Spy Case Involving British MI6""",negative,0.5622995495796204,-1,1,5,4
+1,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and Witnessed What...,neutral,0.48881301283836365,1,1,5,4
+2,chinese,"""Do not mistake frivolous lawsuits for good intentions, distant attacks and close enemies are not friendly neighbors""",negative,0.8549295663833618,-2,1,5,4
+3,chinese,"""Zongzi Love: A Picture of Dragon Boat Festival""",neutral,0.7727848887443542,1,1,5,4
+4,chinese,"""Foreign Ministry Spokesperson Responds to Philippine President Marcos' Speech on South China Sea at Shangri-La Dialogue and Answers Press Questions""",neutral,0.7771719098091125,1,1,5,4
+5,chinese,"""This is China! American college students praise the unique charm of China during their study trip.""",positive,0.8630906939506531,3,1,5,4
+6,chinese,"""1 Dead, 26 Injured in Shooting in Ohio, United States""",negative,0.6655230522155762,-1,1,5,4
+7,chinese,"""Blue Rainstorm Warning Continues! Heavy Rain Expected in Parts of Central Guangxi and Other Areas""",neutral,0.4675789773464203,1,1,5,4
+8,chinese,"""Israeli Air Strikes Kill at Least 15 in Gaza Strip""",negative,0.6689841151237488,-1,1,5,4
+9,chinese,"""Fiscal Expenditure ""Addition"" Brings ""Multiplication"" of Food Security""",negative,0.4947267770767212,-1,1,5,4
