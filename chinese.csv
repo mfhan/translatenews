@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,2,2,6
-1,chinese,"""China Invites You: ""China Invites You to Shandong"" 2024 International Media Interview Event Officially Launches""",neutral,0.7259694933891296,1,2,2,6
-2,chinese,"""Why were the prices of 4 high-speed train tickets adjusted?""",neutral,0.4947524070739746,1,2,2,6
-3,chinese,"Foreign Companies Speed Up Layout in Central China, Releasing ""Magnetic Attraction""",positive,0.5084977746009827,2,2,2,6
-4,chinese,"""Chinese and New Zealand Defense Ministers Hold Meeting""",neutral,0.8775447010993958,1,2,2,6
-5,chinese,"""Chinese Defense Minister: Some countries are provoking in the South China Sea, China's restraint has its limits""",negative,0.9020445942878723,-2,2,2,6
-6,chinese,"""China's National Space Administration Releases Images of Chang'e-6's Landing on the Far Side of the Moon""",neutral,0.7757330536842346,1,2,2,6
-7,chinese,"""Beijing: Chinese and foreign children celebrate International Children's Day on June 1st""",neutral,0.49377498030662537,1,2,2,6
-8,chinese,"""Zhang Zhilei KOs Wilder in 5 Rounds, Chinese Power Shakes Up the World Boxing Scene""",positive,0.4548525810241699,2,2,2,6
-9,chinese,"""Dong Jun: Whoever dares to separate Taiwan from China will surely perish and bring destruction upon themselves""",negative,0.9332976341247559,-2,2,2,6
+0,chinese,"""National Security Agency Breaks Another Major Spy Case Involving British MI6""",negative,0.5614697337150574,-1,0,5,5
+1,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,0,5,5
+2,chinese,"""1 Dead, 26 Injured in Shooting in Ohio, United States""",negative,0.6655230522155762,-1,0,5,5
+3,chinese,"""Blue Alert for Heavy Rain Continues! Parts of Central Guangxi and Other Areas to Experience Heavy Downpours""",negative,0.6091726422309875,-1,0,5,5
+4,chinese,"""At least 15 people killed in Israeli air strikes on Gaza Strip""",negative,0.6732822060585022,-1,0,5,5
+5,chinese,"""5.9 Magnitude Earthquake Strikes Noto Peninsula in Japan on the 3rd Day""",neutral,0.4939093589782715,1,0,5,5
+6,chinese,"""Portuguese Aviation Exhibition: 1 Dead and 1 Injured in Collision of Two Planes""",negative,0.7443069219589233,-2,0,5,5
+7,chinese,"""[China Invites You] ""China Invites You · Meet Shandong"" 2024 International Media Interview Event Officially Launches""",neutral,0.6831991672515869,1,0,5,5
+8,chinese,"""Why were the prices of 4 high-speed train tickets adjusted?""",neutral,0.4947524070739746,1,0,5,5
+9,chinese,"""Foreign Companies Speed Up Layout, Central China Releases ""Magnetic Attraction""""",neutral,0.5235261917114258,1,0,5,5
