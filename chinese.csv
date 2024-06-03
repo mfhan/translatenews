@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Security Agency Breaks Up Another Major Spy Case Involving British MI6""",negative,0.5622995495796204,-1,1,5,4
-1,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and Witnessed What...,neutral,0.48881301283836365,1,1,5,4
-2,chinese,"""Do not mistake frivolous lawsuits for good intentions, distant attacks and close enemies are not friendly neighbors""",negative,0.8549295663833618,-2,1,5,4
-3,chinese,"""Zongzi Love: A Picture of Dragon Boat Festival""",neutral,0.7727848887443542,1,1,5,4
-4,chinese,"""Foreign Ministry Spokesperson Responds to Philippine President Marcos' Speech on South China Sea at Shangri-La Dialogue and Answers Press Questions""",neutral,0.7771719098091125,1,1,5,4
-5,chinese,"""This is China! American college students praise the unique charm of China during their study trip.""",positive,0.8630906939506531,3,1,5,4
-6,chinese,"""1 Dead, 26 Injured in Shooting in Ohio, United States""",negative,0.6655230522155762,-1,1,5,4
-7,chinese,"""Blue Rainstorm Warning Continues! Heavy Rain Expected in Parts of Central Guangxi and Other Areas""",neutral,0.4675789773464203,1,1,5,4
-8,chinese,"""Israeli Air Strikes Kill at Least 15 in Gaza Strip""",negative,0.6689841151237488,-1,1,5,4
-9,chinese,"""Fiscal Expenditure ""Addition"" Brings ""Multiplication"" of Food Security""",negative,0.4947267770767212,-1,1,5,4
+0,chinese,"""National Security Agency Breaks Another Major Spy Case Involving British MI6""",negative,0.5614697337150574,-1,2,3,5
+1,chinese,"Seeing is Believing: Overseas Scholars Enter Tibetan Homes, What Did They See...",neutral,0.6572522521018982,1,2,3,5
+2,chinese,"""The most innocent Children's Day wish: hoping for no homework""",neutral,0.4865003526210785,1,2,3,5
+3,chinese,"""American Expert: Promoting Youth Exchange Programs is Crucial for US-China Relations""",negative,0.8152188062667847,-2,2,3,5
+4,chinese,"""Accumulated Fund Reaches Nearly 3.2 Trillion Yuan, China's Enterprise Pension System Has Vast Development Potential""",positive,0.5912913084030151,2,2,3,5
+5,chinese,Ministry of Finance Issues 6.44 Billion Yuan Subsidy for Old-for-New Car Program in 2024,neutral,0.7995986938476562,1,2,3,5
+6,chinese,"""Do not mistake frivolous lawsuits for goodwill, far-off attacks are not friendly neighbors""",negative,0.8842725157737732,-2,2,3,5
+7,chinese,"""Romantic Dragon Boat Festival with ""Zongzi""""",neutral,0.8200182318687439,1,2,3,5
+8,chinese,"""Spokesperson of the Ministry of Foreign Affairs Answers Press Questions Regarding Philippine President Marcos' Speech on South China Sea at Shangri-La Dialogue""",neutral,0.8257836699485779,1,2,3,5
+9,chinese,"""This is China! American College Students Praise China's Unique Charm During Study Abroad Trip""",positive,0.8368355631828308,3,2,3,5
