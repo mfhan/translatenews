@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-speed sleeper trains to run between Beijing-Hong Kong and Shanghai-Hong Kong starting from June 15th""",neutral,0.8408583402633667,1,5,1,4
-1,chinese,"""[China News] Foreign Media: Benefiting from the Development of Green Energy, China Will Achieve Its ""Carbon Peak"" Goal""",positive,0.7001960873603821,3,5,1,4
-2,chinese,"""Cuban President's Special Envoy Rodriguez to Visit China: Foreign Ministry Introduces Schedule and Expectations""",neutral,0.8459485173225403,1,5,1,4
-3,chinese,"""Reasoning and Justice | Beware of Falling into America's Trap, EU Should Say ""No"" to Protectionism""",negative,0.7285632491111755,-2,5,1,4
-4,chinese,"""Egyptian Sinologist: China Demonstrates Cultural Confidence and Sets an Example for Developing Countries""",positive,0.5651921629905701,2,5,1,4
-5,chinese,"""Rice, Wheat, and Corn: Comprehensive Agricultural Insurance Coverage Provides Peace of Mind for Farmers - ""We Feel More Secure About Growing Crops Now""""",positive,0.8088683485984802,3,5,1,4
-6,chinese,Ministry of Finance outlines roadmap for sustainable disclosure by enterprises,neutral,0.47722354531288147,1,5,1,4
-7,chinese,"""Experience the Confucian Culture and Appreciate the Charm of Shandong's Qufu: British Media Praises the Influence of Confucius' Wisdom on the World""",positive,0.8062101006507874,3,5,1,4
-8,chinese,"""China National Space Administration Releases Series of Images Captured by Chang'e-6 on the Far Side of the Moon""",neutral,0.7976914644241333,1,5,1,4
-9,chinese,"""[China Has an Appointment] From ""One Refrigerator"" to ""Complete Home Appliances""! Steadily Building Chinese Brands, Haier Takes Big Steps in Cross-border Intelligence to Accelerate New Productivity""",positive,0.6324762105941772,2,5,1,4
+0,chinese,"""China's Remarkable Achievements in the Cultural Field Attract Worldwide Attention""",positive,0.8969025015830994,3,4,1,5
+1,chinese,"""High-speed overnight trains to run between Beijing-Hong Kong and Shanghai-Hong Kong starting from June 15th""",neutral,0.7782033681869507,1,4,1,5
+2,chinese,"""China's Achievements in Green Energy Development: Foreign Media Reports on China's Plan to Achieve Carbon Peak Goal""",neutral,0.48824506998062134,1,4,1,5
+3,chinese,"""Cuban President's Special Envoy Rodriguez to Visit China: Foreign Ministry Introduces Arrangements and Expectations""",neutral,0.7993516325950623,1,4,1,5
+4,chinese,"""Fairness and Reasoning | Beware of Falling into America's Trap, EU Should Say ""No"" to Protectionism""",negative,0.6797383427619934,-1,4,1,5
+5,chinese,"""Egyptian Sinologist: China Demonstrates Cultural Confidence and Sets an Example for Developing Countries""",positive,0.5651921629905701,2,4,1,5
+6,chinese,"""Rice, Wheat, and Corn: Three Main Crops Fully Covered by Agricultural Insurance - ""We Feel More Secure About Growing Crops Now""""",positive,0.7618829011917114,3,4,1,5
+7,chinese,Ministry of Finance Outlines Roadmap for Sustainable Disclosure by Enterprises,neutral,0.6723848581314087,1,4,1,5
+8,chinese,"""Experience the Confucian atmosphere and appreciate the charm of Shandong's Qufu: British media praises the global influence of Confucius' wisdom""",positive,0.8521572947502136,3,4,1,5
+9,chinese,"""China's National Space Administration Releases Series of Images of the Far Side of the Moon Captured by Chang'e-6""",neutral,0.8073998093605042,1,4,1,5
