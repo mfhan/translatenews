@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China Has an Appointment] From ""One Refrigerator"" to ""Complete Home Appliances""! Haier Solidifies Chinese Brands with Down-to-Earth Efforts, Accelerating New Quality Production with Cross-Border Intelligence""",positive,0.5721244215965271,2,3,4,3
-1,chinese,"""National Security Agency Breaks Another Major Spy Case of British MI6""",negative,0.6622195839881897,-1,3,4,3
-2,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,3,4,3
-3,chinese,"""China National Space Administration Releases Series of Images from Chang'e-6's Photographs of the Far Side of the Moon""",neutral,0.7897953391075134,1,3,4,3
-4,chinese,"""Accurate ""Drip Irrigation"" of Tax Dividends: Distinctive Cultural Tourism ""Hot Spice"" Takes Off""",negative,0.7825891971588135,-2,3,4,3
-5,chinese,"""Foreign Trade Station"" Creates More Business Opportunities",positive,0.8001064658164978,3,3,4,3
-6,chinese,"""The Most Innocent Children's Day Wish: Hope for No Homework""",negative,0.7977075576782227,-2,3,4,3
-7,chinese,"""American Expert: Promoting Youth Exchange Programs is Crucial for Sino-US Relations""",negative,0.7131419777870178,-2,3,4,3
-8,chinese,"""Accumulated Fund Reaches Nearly 3.2 Trillion Yuan, China's Enterprise Annuity System Has Vast Development Potential""",positive,0.5923790335655212,2,3,4,3
-9,chinese,Ministry of Finance Issues 6.44 Billion Yuan Subsidy for Old-for-New Car Program in 2024,neutral,0.7995986938476562,1,3,4,3
+0,chinese,"""High-speed sleeper trains to run between Beijing-Hong Kong and Shanghai-Hong Kong starting from June 15th""",neutral,0.8408583402633667,1,5,1,4
+1,chinese,"""[China News] Foreign Media: Benefiting from the Development of Green Energy, China Will Achieve Its ""Carbon Peak"" Goal""",positive,0.7001960873603821,3,5,1,4
+2,chinese,"""Cuban President's Special Envoy Rodriguez to Visit China: Foreign Ministry Introduces Schedule and Expectations""",neutral,0.8459485173225403,1,5,1,4
+3,chinese,"""Reasoning and Justice | Beware of Falling into America's Trap, EU Should Say ""No"" to Protectionism""",negative,0.7285632491111755,-2,5,1,4
+4,chinese,"""Egyptian Sinologist: China Demonstrates Cultural Confidence and Sets an Example for Developing Countries""",positive,0.5651921629905701,2,5,1,4
+5,chinese,"""Rice, Wheat, and Corn: Comprehensive Agricultural Insurance Coverage Provides Peace of Mind for Farmers - ""We Feel More Secure About Growing Crops Now""""",positive,0.8088683485984802,3,5,1,4
+6,chinese,Ministry of Finance outlines roadmap for sustainable disclosure by enterprises,neutral,0.47722354531288147,1,5,1,4
+7,chinese,"""Experience the Confucian Culture and Appreciate the Charm of Shandong's Qufu: British Media Praises the Influence of Confucius' Wisdom on the World""",positive,0.8062101006507874,3,5,1,4
+8,chinese,"""China National Space Administration Releases Series of Images Captured by Chang'e-6 on the Far Side of the Moon""",neutral,0.7976914644241333,1,5,1,4
+9,chinese,"""[China Has an Appointment] From ""One Refrigerator"" to ""Complete Home Appliances""! Steadily Building Chinese Brands, Haier Takes Big Steps in Cross-border Intelligence to Accelerate New Productivity""",positive,0.6324762105941772,2,5,1,4
