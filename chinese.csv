@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Security Agency Breaks Another Major British MI6 Spy Case""",negative,0.5477361679077148,-1,2,4,4
-1,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,2,4,4
-2,chinese,"""The Most Innocent Children's Day Wish: Hoping for No Homework""",negative,0.8157179951667786,-2,2,4,4
-3,chinese,"""American Expert: Promoting Youth Exchange Programs is Crucial for US-China Relations""",negative,0.8152188062667847,-2,2,4,4
-4,chinese,"""Accumulated Fund Reaches Nearly 3.2 Trillion Yuan, China's Enterprise Annuity System Has Vast Development Potential""",positive,0.5923790335655212,2,2,4,4
-5,chinese,Ministry of Finance Issues 6.44 Billion Yuan Subsidy for Car Trade-In Program in 2024,neutral,0.7922081351280212,1,2,4,4
-6,chinese,"""Do not mistake frivolous lawsuits for good intentions, distant attacks are not friendly neighbors""",negative,0.8351117968559265,-2,2,4,4
-7,chinese,"""Zongzi Love: A Picture of Dragon Boat Festival""",neutral,0.7727848887443542,1,2,4,4
-8,chinese,"""Spokesperson of the Ministry of Foreign Affairs Addresses Press Questions on Philippine President Marcos' Speech on South China Sea at Shangri-La Dialogue""",neutral,0.8260334730148315,1,2,4,4
-9,chinese,"""This is China! American college students praise China's unique charm during study trip""",positive,0.8581712245941162,3,2,4,4
+0,chinese,"""National Security Agency Breaks Another Major Spy Case Involving British MI6""",negative,0.5614697337150574,-1,2,3,5
+1,chinese,Seeing is Believing: Overseas Scholars Enter Tibetan Homes and See What...,neutral,0.5317678451538086,1,2,3,5
+2,chinese,"""The Most Innocent Children's Day Wish: Hoping for No Homework""",negative,0.8157179951667786,-2,2,3,5
+3,chinese,"""American Expert: Advancing Youth Exchange Programs Crucial for US-China Relations""",neutral,0.5090701580047607,1,2,3,5
+4,chinese,"""Accumulated Fund Reaches Nearly 3.2 Trillion Yuan, China's Enterprise Pension System Has Vast Development Potential""",positive,0.5912913084030151,2,2,3,5
+5,chinese,"""Ministry of Finance Allocates 6.44 Billion Yuan Subsidy for Car Trade-in Program in 2024""",neutral,0.5831596255302429,1,2,3,5
+6,chinese,"""Do not mistake frivolous lawsuits for goodwill, distant attacks on close allies are not friendly neighbors""",negative,0.8700990080833435,-2,2,3,5
+7,chinese,"""Love and Art on the Dragon Boat Festival""",neutral,0.6365670561790466,1,2,3,5
+8,chinese,"""Spokesperson of the Ministry of Foreign Affairs Responds to Questions Regarding Philippine President Marcos' Speech on South China Sea at Shangri-La Dialogue""",neutral,0.8415617346763611,1,2,3,5
+9,chinese,"""This is China! American college students praise the unique charm of China during their study tour.""",positive,0.8524001240730286,3,2,3,5
