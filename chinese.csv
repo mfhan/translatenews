@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese and American Youth Sing Together ""On the Fields of Hope""""",neutral,0.5699576139450073,1,2,3,5
+0,chinese,"""Chinese and American Youth Choir Sings ""On the Fields of Hope""""",neutral,0.6993489861488342,1,2,3,5
 1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,2,3,5
-2,chinese,"""Tokyo Stock Market Continues to Fall""",neutral,0.7989850044250488,1,2,3,5
-3,chinese,"""Japan's Actual Wages Have Decreased for 25 Consecutive Months""",neutral,0.6502293348312378,1,2,3,5
-4,chinese,"""[Insight] US media exposes the dark history of the US government's persecution of indigenous people: forced separation of families, complete eradication of culture""",negative,0.9219498634338379,-2,2,3,5
-5,chinese,"""Successful Test Flight of Domestic Large Aircraft with Biofuel Refueling Developed Independently in Our Country""",positive,0.7820726037025452,3,2,3,5
-6,chinese,"""Daily Word | National Museum of Marine Archaeology""",neutral,0.8699069023132324,1,2,3,5
-7,chinese,"""37 Small and Medium-sized Rivers Nationwide Experience Floods Exceeding Alert Level""",negative,0.47790220379829407,-1,2,3,5
-8,chinese,"""Supreme Procuratorate: The Systemic Value of Prosecutorial Public Interest Litigation in Protecting the Ecological Environment Fully Demonstrated""",neutral,0.5765109658241272,1,2,3,5
-9,chinese,"""Insight: Poll Shows Two-Thirds of American Middle Class Facing Economic Hardship, Expected to Persist for Rest of Their Lives""",negative,0.6446495652198792,-1,2,3,5
+2,chinese,"He Lifeng Meets with Cuban President's Special Envoy, Member of the Political Bureau of the Central Committee of the Communist Party of Cuba, and Minister of Foreign Affairs Rodriguez.",neutral,0.8727566003799438,1,2,3,5
+3,chinese,"""College Entrance Exam Approaching: Ministry of Public Security Issues Travel Tips""",neutral,0.9183403849601746,1,2,3,5
+4,chinese,"""Tokyo Stock Market Continues to Decline""",negative,0.7339297533035278,-2,2,3,5
+5,chinese,"""Japan's Actual Wages Have Declined for 25 Consecutive Months""",neutral,0.7747701406478882,1,2,3,5
+6,chinese,"""[Insight] US media exposes the dark history of the US government's persecution of indigenous people: forced separation of families, complete eradication of culture""",negative,0.9219498634338379,-2,2,3,5
+7,chinese,"""Successful Test Flight of Domestically Developed Large Aircraft with Biofuel Refueling in China""",positive,0.8401139974594116,3,2,3,5
+8,chinese,"""Daily Word | National Museum of Marine Archaeology""",neutral,0.8699069023132324,1,2,3,5
+9,chinese,"""37 Small and Medium-Sized Rivers Nationwide Experience Floods Exceeding Warning Levels""",negative,0.5520979762077332,-1,2,3,5
