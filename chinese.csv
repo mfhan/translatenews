@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Multi-field Development Shows a Positive Trend of ""Thriving"" - China's Economy has Strong Confidence and Promising Prospects""",positive,0.7961346507072449,3,6,1,3
-1,chinese,China Launches Pilot Program for Intelligent Connected Vehicles' Access and Road Use,positive,0.5480362772941589,2,6,1,3
-2,chinese,"""China's Remarkable Achievements in the Cultural Field Attract Worldwide Attention""",positive,0.8969025015830994,3,6,1,3
-3,chinese,"""High-speed sleeper trains to run between Beijing and Hong Kong, and Shanghai and Hong Kong starting from June 15th""",neutral,0.8303341865539551,1,6,1,3
-4,chinese,"""[China News] Foreign Media: China to Achieve ""Carbon Peak"" Goal with Benefits from Green Energy Development""",positive,0.5794677138328552,2,6,1,3
-5,chinese,"""Cuban President's Special Envoy Rodriguez to Visit China: Foreign Ministry Introduces Arrangements and Expectations""",neutral,0.7993516325950623,1,6,1,3
-6,chinese,"""Fairness and Reasoning | Beware of Falling into America's Trap, EU Should Say ""No"" to Protectionism""",negative,0.6797383427619934,-1,6,1,3
-7,chinese,"""Egyptian Sinologist: China Demonstrates Cultural Confidence, Sets an Example for Developing Countries""",positive,0.5656393766403198,2,6,1,3
-8,chinese,"""Rice, Wheat, and Corn: Comprehensive Agricultural Insurance Coverage Provides Peace of Mind for Farmers - ""We Feel More Secure About Growing Crops Now""""",positive,0.8088683485984802,3,6,1,3
-9,chinese,Ministry of Finance outlines roadmap for sustainable disclosure by enterprises,neutral,0.47722354531288147,1,6,1,3
+0,chinese,"""China's Civilian Drone Completes World's First Mount Everest 6000-Meter Altitude Material Transport""",neutral,0.6131019592285156,1,6,1,3
+1,chinese,"""Multi-Domain Development Shows a Positive Trend of ""Thriving"" - China's Economy Has Strong Foundation and Promising Future""",positive,0.782106876373291,3,6,1,3
+2,chinese,"""China Launches Pilot Program for Intelligent Connected Vehicle Access and Road Use""",positive,0.5665904879570007,2,6,1,3
+3,chinese,"""China's Remarkable Achievements in the Cultural Field Attract Worldwide Attention""",positive,0.8969025015830994,3,6,1,3
+4,chinese,"""High-speed sleeper trains to run between Beijing-Hong Kong and Shanghai-Hong Kong starting from June 15th""",neutral,0.8408583402633667,1,6,1,3
+5,chinese,"""[China News] Foreign Media: China Will Achieve ""Carbon Peak"" Goal with the Development of Green Energy""",positive,0.5989227890968323,2,6,1,3
+6,chinese,"""Cuban President's Special Envoy Rodriguez to Visit China: Foreign Ministry Introduces Arrangements and Expectations""",neutral,0.7993516325950623,1,6,1,3
+7,chinese,"""Fairness and Reasoning | Beware of Falling into America's Trap, EU Should Say ""No"" to Protectionism""",negative,0.6797383427619934,-1,6,1,3
+8,chinese,"""Egyptian Sinologist: China Demonstrates Cultural Confidence and Sets an Example for Developing Countries""",positive,0.5651921629905701,2,6,1,3
+9,chinese,"""Rice, Wheat, and Corn - Three Main Crops - Comprehensive Agricultural Insurance Coverage Fully Implemented - ""We Feel More Secure in Growing Crops""""",positive,0.5961907505989075,2,6,1,3
