@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Civilian Drone Completes World's First Mount Everest 6000-Meter Altitude Material Transport""",neutral,0.6131019592285156,1,6,1,3
-1,chinese,"""Multi-Domain Development Shows a Positive Trend of ""Thriving"" - China's Economy Has Strong Foundation and Promising Future""",positive,0.782106876373291,3,6,1,3
-2,chinese,"""China Launches Pilot Program for Intelligent Connected Vehicle Access and Road Use""",positive,0.5665904879570007,2,6,1,3
-3,chinese,"""China's Remarkable Achievements in the Cultural Field Attract Worldwide Attention""",positive,0.8969025015830994,3,6,1,3
-4,chinese,"""High-speed sleeper trains to run between Beijing-Hong Kong and Shanghai-Hong Kong starting from June 15th""",neutral,0.8408583402633667,1,6,1,3
-5,chinese,"""[China News] Foreign Media: China Will Achieve ""Carbon Peak"" Goal with the Development of Green Energy""",positive,0.5989227890968323,2,6,1,3
-6,chinese,"""Cuban President's Special Envoy Rodriguez to Visit China: Foreign Ministry Introduces Arrangements and Expectations""",neutral,0.7993516325950623,1,6,1,3
-7,chinese,"""Fairness and Reasoning | Beware of Falling into America's Trap, EU Should Say ""No"" to Protectionism""",negative,0.6797383427619934,-1,6,1,3
-8,chinese,"""Egyptian Sinologist: China Demonstrates Cultural Confidence and Sets an Example for Developing Countries""",positive,0.5651921629905701,2,6,1,3
-9,chinese,"""Rice, Wheat, and Corn - Three Main Crops - Comprehensive Agricultural Insurance Coverage Fully Implemented - ""We Feel More Secure in Growing Crops""""",positive,0.5961907505989075,2,6,1,3
+0,chinese,"""Chinese and American Youth Sing Together ""On the Fields of Hope""""",neutral,0.5699576139450073,1,2,3,5
+1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,2,3,5
+2,chinese,"""Tokyo Stock Market Continues to Fall""",neutral,0.7989850044250488,1,2,3,5
+3,chinese,"""Japan's Actual Wages Have Decreased for 25 Consecutive Months""",neutral,0.6502293348312378,1,2,3,5
+4,chinese,"""[Insight] US media exposes the dark history of the US government's persecution of indigenous people: forced separation of families, complete eradication of culture""",negative,0.9219498634338379,-2,2,3,5
+5,chinese,"""Successful Test Flight of Domestic Large Aircraft with Biofuel Refueling Developed Independently in Our Country""",positive,0.7820726037025452,3,2,3,5
+6,chinese,"""Daily Word | National Museum of Marine Archaeology""",neutral,0.8699069023132324,1,2,3,5
+7,chinese,"""37 Small and Medium-sized Rivers Nationwide Experience Floods Exceeding Alert Level""",negative,0.47790220379829407,-1,2,3,5
+8,chinese,"""Supreme Procuratorate: The Systemic Value of Prosecutorial Public Interest Litigation in Protecting the Ecological Environment Fully Demonstrated""",neutral,0.5765109658241272,1,2,3,5
+9,chinese,"""Insight: Poll Shows Two-Thirds of American Middle Class Facing Economic Hardship, Expected to Persist for Rest of Their Lives""",negative,0.6446495652198792,-1,2,3,5
