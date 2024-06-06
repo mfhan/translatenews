@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese and American Youth Choir Sings ""On the Fields of Hope""""",neutral,0.6993489861488342,1,2,3,5
-1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,2,3,5
-2,chinese,"He Lifeng Meets with Cuban President's Special Envoy, Member of the Political Bureau of the Central Committee of the Communist Party of Cuba, and Minister of Foreign Affairs Rodriguez.",neutral,0.8727566003799438,1,2,3,5
-3,chinese,"""College Entrance Exam Approaching: Ministry of Public Security Issues Travel Tips""",neutral,0.9183403849601746,1,2,3,5
-4,chinese,"""Tokyo Stock Market Continues to Decline""",negative,0.7339297533035278,-2,2,3,5
-5,chinese,"""Japan's Actual Wages Have Declined for 25 Consecutive Months""",neutral,0.7747701406478882,1,2,3,5
-6,chinese,"""[Insight] US media exposes the dark history of the US government's persecution of indigenous people: forced separation of families, complete eradication of culture""",negative,0.9219498634338379,-2,2,3,5
-7,chinese,"""Successful Test Flight of Domestically Developed Large Aircraft with Biofuel Refueling in China""",positive,0.8401139974594116,3,2,3,5
-8,chinese,"""Daily Word | National Museum of Marine Archaeology""",neutral,0.8699069023132324,1,2,3,5
-9,chinese,"""37 Small and Medium-Sized Rivers Nationwide Experience Floods Exceeding Warning Levels""",negative,0.5520979762077332,-1,2,3,5
+0,chinese,"""Chinese and American Youth Choir Sing ""On the Fields of Hope""""",neutral,0.7015283703804016,1,5,1,4
+1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,5,1,4
+2,chinese,"""Chinese research team discovers new longevity gene""",positive,0.5427976846694946,2,5,1,4
+3,chinese,"""This year, ""618"" consensus reached to cancel pre-sales - E-commerce platforms optimize experience to promote consumption""",neutral,0.46597278118133545,1,5,1,4
+4,chinese,Efforts to train silver-haired economy technical skills talents will be intensified.,positive,0.520283579826355,2,5,1,4
+5,chinese,Ministry of Human Resources and Social Security: Efforts to Train Silver Economy Technological and Skilled Talents Will Be Strengthened,positive,0.6349849700927734,2,5,1,4
+6,chinese,"""China's E-commerce Logistics Index Continues to Rise for Three Consecutive Months""",positive,0.48818257451057434,2,5,1,4
+7,chinese,"""He Lifeng Meets with Cuban President's Special Envoy, Member of the Central Political Bureau of the Communist Party of Cuba, and Foreign Minister Rodriguez""",neutral,0.8593800663948059,1,5,1,4
+8,chinese,"""College Entrance Exam is Approaching: Ministry of Public Security Issues Travel Tips""",neutral,0.9071068167686462,1,5,1,4
+9,chinese,"""Tokyo Stock Market Continues to Decline""",negative,0.7339297533035278,-2,5,1,4
