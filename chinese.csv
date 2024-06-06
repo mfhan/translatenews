@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese and American Youth Sing Together in ""On the Field of Hope""""",neutral,0.6108014583587646,1,6,1,3
-1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,6,1,3
-2,chinese,"""[China Has an Appointment] Visiting the Confucius Temple and Learning the Yì Dance: A Spanish Guy Wants to Share the Charm of Chinese Culture with the World""",positive,0.634867250919342,2,6,1,3
-3,chinese,"""China Has a Plan: Inheriting with Innovation, Tailoring to Local Conditions! Small Industries Boost High-Quality Development in Qingdao and Pingdu""",positive,0.6831132769584656,2,6,1,3
-4,chinese,"""Contrasting Cuteness! When American Journalists Ride on Chinese-Made ""Three-Wheelers""""",positive,0.7866374850273132,3,6,1,3
-5,chinese,"""Chinese Scientist Yan Ning: The Power of Female Role Models in the Field of Science""",positive,0.5531249046325684,2,6,1,3
-6,chinese,"""Norwegian exchange student Wu Li: The 2000-year-old dragon boat culture is still being inherited, it's really cool""",positive,0.8831474781036377,3,6,1,3
-7,chinese,"""Beauty and Wisdom Coexist: How Much Do You Know About the Fengyan Terraced Fields at the Foot of the Qinling Mountains?""",neutral,0.6002354025840759,1,6,1,3
-8,chinese,"""Traditional Craft Turns into a Thriving Industry: Fragrant Zongzi in the ""Zongzi Village""""",neutral,0.6845760941505432,1,6,1,3
-9,chinese,"""Solution to the Crisis | Frequent Scandals, What is Holding Back ""Made in Japan""?""",negative,0.8601892590522766,-2,6,1,3
+0,chinese,"""Chinese and American Youth Sing Together in ""On the Fields of Hope""""",neutral,0.5990049839019775,1,4,1,5
+1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,4,1,5
+2,chinese,"""National Seawater Utilization Report 2023 Released""",neutral,0.9068119525909424,1,4,1,5
+3,chinese,"""Ministry of Commerce: Chinese Automakers Building Factories in Europe Beneficial for Boosting Local Economy and Employment""",positive,0.6476345062255859,2,4,1,5
+4,chinese,"""Transfer of Lunar Samples Completed in Orbit""",neutral,0.88612961769104,1,4,1,5
+5,chinese,"""Pakistani Expert: China-Pakistan Relations Serve as an Exemplar for Building a Community with a Shared Future for Mankind""",positive,0.5636425614356995,2,4,1,5
+6,chinese,"""Focusing on Digitization, Intelligence, and Greenification - Localities Accelerate Equipment Upgrades and Technological Transformation""",neutral,0.5216552019119263,1,4,1,5
+7,chinese,"""Developing New Productive Forces, Central Enterprises Focus on Key Areas""",positive,0.8720778226852417,3,4,1,5
+8,chinese,"National Immigration Administration: During the Dragon Boat Festival, the daily average number of inbound and outbound personnel at all ports nationwide will reach 1.75 million.",neutral,0.8217911124229431,1,4,1,5
+9,chinese,"National Public Security Organs Hold Meeting to Advance Special Action to Crack Down on Impersonation of Ministries, State-owned Enterprises and Central Enterprises and Combat Illegal and Criminal Activities",negative,0.6181933283805847,-1,4,1,5
