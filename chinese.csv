@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese and American Youth Choir Sing ""On the Fields of Hope""""",neutral,0.7015283703804016,1,5,1,4
-1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,5,1,4
-2,chinese,"""Chinese research team discovers new longevity gene""",positive,0.5427976846694946,2,5,1,4
-3,chinese,"""This year, ""618"" consensus reached to cancel pre-sales - E-commerce platforms optimize experience to promote consumption""",neutral,0.46597278118133545,1,5,1,4
-4,chinese,Efforts to train silver-haired economy technical skills talents will be intensified.,positive,0.520283579826355,2,5,1,4
-5,chinese,Ministry of Human Resources and Social Security: Efforts to Train Silver Economy Technological and Skilled Talents Will Be Strengthened,positive,0.6349849700927734,2,5,1,4
-6,chinese,"""China's E-commerce Logistics Index Continues to Rise for Three Consecutive Months""",positive,0.48818257451057434,2,5,1,4
-7,chinese,"""He Lifeng Meets with Cuban President's Special Envoy, Member of the Central Political Bureau of the Communist Party of Cuba, and Foreign Minister Rodriguez""",neutral,0.8593800663948059,1,5,1,4
-8,chinese,"""College Entrance Exam is Approaching: Ministry of Public Security Issues Travel Tips""",neutral,0.9071068167686462,1,5,1,4
-9,chinese,"""Tokyo Stock Market Continues to Decline""",negative,0.7339297533035278,-2,5,1,4
+0,chinese,"""Chinese and American Youth Sing Together in ""On the Field of Hope""""",neutral,0.6108014583587646,1,6,1,3
+1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,6,1,3
+2,chinese,"""[China Has an Appointment] Visiting the Confucius Temple and Learning the Yì Dance: A Spanish Guy Wants to Share the Charm of Chinese Culture with the World""",positive,0.634867250919342,2,6,1,3
+3,chinese,"""China Has a Plan: Inheriting with Innovation, Tailoring to Local Conditions! Small Industries Boost High-Quality Development in Qingdao and Pingdu""",positive,0.6831132769584656,2,6,1,3
+4,chinese,"""Contrasting Cuteness! When American Journalists Ride on Chinese-Made ""Three-Wheelers""""",positive,0.7866374850273132,3,6,1,3
+5,chinese,"""Chinese Scientist Yan Ning: The Power of Female Role Models in the Field of Science""",positive,0.5531249046325684,2,6,1,3
+6,chinese,"""Norwegian exchange student Wu Li: The 2000-year-old dragon boat culture is still being inherited, it's really cool""",positive,0.8831474781036377,3,6,1,3
+7,chinese,"""Beauty and Wisdom Coexist: How Much Do You Know About the Fengyan Terraced Fields at the Foot of the Qinling Mountains?""",neutral,0.6002354025840759,1,6,1,3
+8,chinese,"""Traditional Craft Turns into a Thriving Industry: Fragrant Zongzi in the ""Zongzi Village""""",neutral,0.6845760941505432,1,6,1,3
+9,chinese,"""Solution to the Crisis | Frequent Scandals, What is Holding Back ""Made in Japan""?""",negative,0.8601892590522766,-2,6,1,3
