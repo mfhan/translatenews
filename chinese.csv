@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese and American Youth Sing Together in ""On the Fields of Hope""""",neutral,0.5990049839019775,1,4,1,5
-1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,4,1,5
-2,chinese,"""National Seawater Utilization Report 2023 Released""",neutral,0.9068119525909424,1,4,1,5
-3,chinese,"""Ministry of Commerce: Chinese Automakers Building Factories in Europe Beneficial for Boosting Local Economy and Employment""",positive,0.6476345062255859,2,4,1,5
-4,chinese,"""Transfer of Lunar Samples Completed in Orbit""",neutral,0.88612961769104,1,4,1,5
-5,chinese,"""Pakistani Expert: China-Pakistan Relations Serve as an Exemplar for Building a Community with a Shared Future for Mankind""",positive,0.5636425614356995,2,4,1,5
-6,chinese,"""Focusing on Digitization, Intelligence, and Greenification - Localities Accelerate Equipment Upgrades and Technological Transformation""",neutral,0.5216552019119263,1,4,1,5
-7,chinese,"""Developing New Productive Forces, Central Enterprises Focus on Key Areas""",positive,0.8720778226852417,3,4,1,5
-8,chinese,"National Immigration Administration: During the Dragon Boat Festival, the daily average number of inbound and outbound personnel at all ports nationwide will reach 1.75 million.",neutral,0.8217911124229431,1,4,1,5
-9,chinese,"National Public Security Organs Hold Meeting to Advance Special Action to Crack Down on Impersonation of Ministries, State-owned Enterprises and Central Enterprises and Combat Illegal and Criminal Activities",negative,0.6181933283805847,-1,4,1,5
+0,chinese,"""Chinese and American Youth Sing Together in ""On the Fields of Hope""""",neutral,0.5990049839019775,1,4,0,6
+1,chinese,"""Pakistani Expert: China Implements ""Dual Carbon"" Action to Promote Global Sustainable Development""",positive,0.5352031588554382,2,4,0,6
+2,chinese,"""Vice President of Brazil Discusses the 50th Anniversary of China-Brazil Diplomatic Relations: We Still Celebrate with Coffee Instead of Wine""",neutral,0.5657795667648315,1,4,0,6
+3,chinese,"""Three-North"" Project Completes Afforestation and Grass Planting of Approximately 40 Million Acres",neutral,0.6375448107719421,1,4,0,6
+4,chinese,"""National Report on Seawater Utilization for 2023 Released""",neutral,0.8798852562904358,1,4,0,6
+5,chinese,"""Ministry of Commerce: Chinese Automakers Building Factories in Europe Beneficial for Boosting Local Economy and Employment""",positive,0.6476345062255859,2,4,0,6
+6,chinese,"""Transfer of Lunar Sample Completed in Orbit""",neutral,0.8863194584846497,1,4,0,6
+7,chinese,"""Pakistani Expert: China-Pakistan Relationship Sets an Example for Building a Community with a Shared Future for Mankind""",positive,0.5623641610145569,2,4,0,6
+8,chinese,"""Focusing on Digitization, Intelligence, and Greenization - Regions Accelerate Equipment Upgrades and Technological Transformations""",neutral,0.6081469655036926,1,4,0,6
+9,chinese,"""Developing New Productive Forces, Central Enterprises Focus on Key Areas""",positive,0.8720778226852417,3,4,0,6
