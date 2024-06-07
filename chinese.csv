@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Putin: Russia-China Relations Built on a Strong Foundation of Common Interests""",neutral,0.539723813533783,1,4,0,6
+0,chinese,"""Putin: Russia-China relations built on a solid foundation of mutual interests""",neutral,0.46340683102607727,1,4,0,6
 1,chinese,"""Wang Yi Meets with Cuban President's Special Envoy and Foreign Minister Rodriguez""",neutral,0.8756237030029297,1,4,0,6
-2,chinese,"""Good luck on the college entrance examination""",positive,0.780979573726654,3,4,0,6
-3,chinese,"""Chang'e 6 completes ""space relay"" and precious treasures on the moon's far side board ""return home shuttle""""",positive,0.475028395652771,2,4,0,6
-4,chinese,"""350 Billion Yuan! 50-Year Ultra-Long-Term Special National Bonds to be Issued""",neutral,0.742999792098999,1,4,0,6
-5,chinese,"""CSRC: No Significant Increase Expected in Delisted Companies in the Short Term""",neutral,0.6817459464073181,1,4,0,6
-6,chinese,"""Vice President of Brazil Discusses the 50th Anniversary of China-Brazil Diplomatic Relations: We Still Use Coffee Instead of Wine""",neutral,0.6874579191207886,1,4,0,6
-7,chinese,"""Three-North"" Project Successfully Completes Afforestation and Grass Planting of Approximately 40 Million Acres",positive,0.607027530670166,2,4,0,6
-8,chinese,"""National Report on Seawater Utilization for 2023 Released""",neutral,0.8798852562904358,1,4,0,6
-9,chinese,"""Ministry of Commerce: Chinese Automakers Building Factories in Europe Beneficial for Boosting Local Economy and Employment""",positive,0.6476345062255859,2,4,0,6
+2,chinese,"""50-Year Ultra-Long-Term Special National Bonds to be Issued for the First Time""",neutral,0.7352327108383179,1,4,0,6
+3,chinese,"""5G Commercial Use Directly Boosts Economy by Approximately 5.6 Trillion Yuan in 5 Years""",positive,0.6904761791229248,2,4,0,6
+4,chinese,"""[China Has an Appointment] ""Foreigners"" Take on the Challenge of Making Jiaodong Flower Baozi, Taste the Art at Your Fingertips""",neutral,0.49471452832221985,1,4,0,6
+5,chinese,"""Guardians and Rejuvenation"" Exhibition Opens at National Museum",neutral,0.74284428358078,1,4,0,6
+6,chinese,"""【China Has an Appointment】Tanzanian Journalist Immerses in Chinese Tea Culture: Cultural Inheritance is Mainly in People, This is Priceless!""",positive,0.4955682158470154,2,4,0,6
+7,chinese,"""Take You to Appreciate the Only Cranes Living on the Plateau""",positive,0.6340915560722351,2,4,0,6
+8,chinese,"""Traditional Chinese Crafts, Including Dough Sculpting, Printmaking, and Fermented Tofu Production, Enter the Campus""",neutral,0.7852048277854919,1,4,0,6
+9,chinese,"""Good Luck on the College Entrance Exam""",positive,0.7779838442802429,3,4,0,6
