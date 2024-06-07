@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Putin: Russia-China relations built on a solid foundation of mutual interests""",neutral,0.46340683102607727,1,4,0,6
-1,chinese,"""Wang Yi Meets with Cuban President's Special Envoy and Foreign Minister Rodriguez""",neutral,0.8756237030029297,1,4,0,6
-2,chinese,"""50-Year Ultra-Long-Term Special National Bonds to be Issued for the First Time""",neutral,0.7352327108383179,1,4,0,6
-3,chinese,"""5G Commercial Use Directly Boosts Economy by Approximately 5.6 Trillion Yuan in 5 Years""",positive,0.6904761791229248,2,4,0,6
-4,chinese,"""[China Has an Appointment] ""Foreigners"" Take on the Challenge of Making Jiaodong Flower Baozi, Taste the Art at Your Fingertips""",neutral,0.49471452832221985,1,4,0,6
-5,chinese,"""Guardians and Rejuvenation"" Exhibition Opens at National Museum",neutral,0.74284428358078,1,4,0,6
-6,chinese,"""【China Has an Appointment】Tanzanian Journalist Immerses in Chinese Tea Culture: Cultural Inheritance is Mainly in People, This is Priceless!""",positive,0.4955682158470154,2,4,0,6
-7,chinese,"""Take You to Appreciate the Only Cranes Living on the Plateau""",positive,0.6340915560722351,2,4,0,6
-8,chinese,"""Traditional Chinese Crafts, Including Dough Sculpting, Printmaking, and Fermented Tofu Production, Enter the Campus""",neutral,0.7852048277854919,1,4,0,6
-9,chinese,"""Good Luck on the College Entrance Exam""",positive,0.7779838442802429,3,4,0,6
+0,chinese,"""[China Has a Date] ""Foreigners"" Challenge the Making of Jiaodong Flower Baozi, Taste the Art at Your Fingertips""",positive,0.47907477617263794,2,4,1,5
+1,chinese,"""Reverse Tourism is Popular, What is the Secret to the Popularity of Hot Cities? We Search for Answers in Zhangzhou, Fujian""",neutral,0.7812046408653259,1,4,1,5
+2,chinese,"""China's Appointment: Foreign Media Report on the ""Qingdao Practice"" as a New Force for Development""",neutral,0.6504427790641785,1,4,1,5
+3,chinese,"""China-developed high-speed train debuts in Serbia on the Hungary-Serbia Railway""",neutral,0.6827217936515808,1,4,1,5
+4,chinese,"""Passionate Summer Dance, Hot and Fiery Youth""",positive,0.7787566781044006,3,4,1,5
+5,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Japanese Provocation of Diaoyu Islands Patrol for Safeguarding Rights""",neutral,0.5756767392158508,1,4,1,5
+6,chinese,"""The first Carbon Inclusive Conference in 2024 is held to promote a green future""",positive,0.5341241359710693,2,4,1,5
+7,chinese,"""Chinese Embassy in the Philippines Urges Philippine Authorities to Thoroughly Investigate Kidnapping Cases Involving Chinese Citizens""",negative,0.5598565340042114,-1,4,1,5
+8,chinese,"""Chinese Coast Guard Fleet Conducts Patrol in Diaoyu Island Territorial Waters on the 7th""",neutral,0.7858054041862488,1,4,1,5
+9,chinese,"""Wow! Spectacular Scenes of the Gaokao Send-off, Here They Come""",positive,0.906312108039856,3,4,1,5
