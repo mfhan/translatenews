@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Launch of Non-Heritage Promotion and Exhibition Activities for 2024 ""Cultural and Natural Heritage Day""""",neutral,0.849922776222229,1,1,2,7
-1,chinese,"""Second Day of National College Entrance Exam, These Places Have Announced the Release Time for Exam Results!""",neutral,0.6923125982284546,1,1,2,7
-2,chinese,"""US and France Announce Increased Aid to Ukraine""",neutral,0.5713908672332764,1,1,2,7
-3,chinese,"""Railway Expected to Transport 74 Million Passengers During the Dragon Boat Festival Holiday""",neutral,0.7141848206520081,1,1,2,7
-4,chinese,"""China's Foreign Reserves Reach 3.232 Trillion USD at the End of May, an Increase of 31.2 Billion USD Compared to the Previous Month""",neutral,0.6686018705368042,1,1,2,7
-5,chinese,"""Diplomats Experience the Scenery of the Gobi Desert in China's Hexi Corridor""",neutral,0.6940160393714905,1,1,2,7
-6,chinese,"""Guangxi Reports on the ""5.31"" House Collapse Incident in Longzhou County: Caused by Illegal Demolition of Load-bearing Walls""",negative,0.7746503949165344,-2,1,2,7
-7,chinese,"""Domestic Large Cruise Ship ""Sailing with the Wind"", Accelerating the Construction of the Entire Industry Chain""",positive,0.5048609972000122,2,1,2,7
-8,chinese,Houthi armed forces arrest multiple United Nations staff members,negative,0.6906819939613342,-1,1,2,7
-9,chinese,"""Service Import and Export Total Amount Increases by 16.8% Year-on-Year in the First Four Months""",neutral,0.6665443778038025,1,1,2,7
+0,chinese,"""Launch of Intangible Cultural Heritage Promotion Exhibition for ""Cultural and Natural Heritage Day"" in 2024""",neutral,0.745452880859375,1,0,2,8
+1,chinese,"""Number of Individuals with Pension Accounts Exceeds 60 Million, These People are the Main Force""",neutral,0.7125155925750732,1,0,2,8
+2,chinese,"""Non-manufacturing Business Activity Index Maintains Expansion in May""",neutral,0.7179940938949585,1,0,2,8
+3,chinese,"""Local temperatures may reach above 40℃! Multiple areas in China issue high temperature warning signals""",neutral,0.54361891746521,1,0,2,8
+4,chinese,"""This is What ""Zongzi"" Looked Like During the Warring States Period!""",neutral,0.48072710633277893,1,0,2,8
+5,chinese,"""Shooting Incident Near a University in California Leaves 1 Dead and 4 Injured""",negative,0.7392061352729797,-2,0,2,8
+6,chinese,"""Multiple Attacks in Eastern Democratic Republic of Congo, At Least 50 Civilians Killed""",negative,0.7742422223091125,-2,0,2,8
+7,chinese,"""Media: Israel Seeks to Form Alternative Government in Gaza to Replace Hamas""",neutral,0.6981220841407776,1,0,2,8
+8,chinese,"""Second Day of National College Entrance Exam, These Places Have Announced the Time for Checking Results!""",neutral,0.6013903617858887,1,0,2,8
+9,chinese,"""US and France Announce Providing More Aid to Ukraine""",neutral,0.5091091394424438,1,0,2,8
