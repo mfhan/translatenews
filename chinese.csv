@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China Has a Date] ""Foreigners"" Take on the Challenge of Making Jiaodong Flower Baozi, Savoring the Art at Your Fingertips""",positive,0.49314260482788086,2,3,1,6
-1,chinese,"""Beijing Launches ""Cultural and Natural Heritage Day"" Intangible Cultural Heritage Promotion and Exhibition Event""",neutral,0.6939643025398254,1,3,1,6
-2,chinese,"""Reverse Tourism is Popular, What is the Secret to the Popularity of Hot Cities? We Search for Answers in Zhangzhou, Fujian""",neutral,0.7812046408653259,1,3,1,6
-3,chinese,"""China's Appointment: Foreign Media Report on the ""Qingdao Practice"" as a New Productive Force""",neutral,0.6770790815353394,1,3,1,6
-4,chinese,"""China-developed high-speed train, the Hungse Railway, makes its debut in Serbia""",neutral,0.6496001482009888,1,3,1,6
-5,chinese,"""Passionate Summer Dance, Youthful and Hot""",positive,0.832194447517395,3,3,1,6
-6,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Japanese Provocation of Patrols in the Diaoyu Islands""",neutral,0.5902910828590393,1,3,1,6
-7,chinese,"""2024's First Carbon-Inclusive Conference Held to Support a Green Future""",positive,0.6664854884147644,2,3,1,6
-8,chinese,"""Chinese Embassy in the Philippines Urges the Philippine Government to Thoroughly Investigate Kidnapping Cases Involving Chinese Citizens""",negative,0.5908246636390686,-1,3,1,6
-9,chinese,"""Chinese Coast Guard Fleet Conducts Patrol in Diaoyu Island Territorial Waters on the 7th""",neutral,0.7858054041862488,1,3,1,6
+0,chinese,"""Launch of Non-Heritage Promotional Exhibition for ""Cultural and Natural Heritage Day"" in 2024""",neutral,0.8707050085067749,1,1,0,9
+1,chinese,"""Service Import and Export Total Amount Increased by 16.8% Year-on-Year in the First Four Months""",neutral,0.6746240854263306,1,1,0,9
+2,chinese,"""China Advocates for Strict, Independent and Effective Long-Term International Supervision of Japan's Disposal of Contaminated Water from Fukushima Nuclear Plant""",neutral,0.48398515582084656,1,1,0,9
+3,chinese,"""Possible Occurrence of Severe Flooding in Some Small and Medium Rivers in the Southern Region""",neutral,0.4993048310279846,1,1,0,9
+4,chinese,"""By 2027, China's Beautiful Bays Completion Rate to Reach Approximately 40%""",neutral,0.5461348295211792,1,1,0,9
+5,chinese,"""Over 1,000 Companies Sign Contracts at the 7th China International Import Expo""",neutral,0.7524190545082092,1,1,0,9
+6,chinese,"""【Overseas Perspective】Only One Year of Diplomatic Relations, Honduran Ambassador to China Praises Experience in China: ""Fantastic""""",positive,0.46838879585266113,2,1,0,9
+7,chinese,"""May's Goods Trade Imports and Exports Increase by 8.6% Year-on-Year""",neutral,0.6572643518447876,1,1,0,9
+8,chinese,"""Beijing Launches ""Cultural and Natural Heritage Day"" Intangible Cultural Heritage Promotion and Exhibition Event""",neutral,0.6939643025398254,1,1,0,9
+9,chinese,"""Reverse Tourism is Popular, What is the Secret to the Popularity of Popular Cities? We Search for Answers in Zhangzhou, Fujian""",neutral,0.8015955090522766,1,1,0,9
