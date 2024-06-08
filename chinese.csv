@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Launch of Cultural and Natural Heritage Day Non-Heritage Promotion and Exhibition Activities in 2024""",neutral,0.8878602981567383,1,2,2,6
-1,chinese,"""Diplomats Experience the Scenery of the Gobi Desert in China's Hexi Corridor""",neutral,0.6940160393714905,1,2,2,6
-2,chinese,"""Guangxi Reports on Longzhou County's ""5·31"" House Collapse Incident: Caused by Illegal Demolition of Load-bearing Walls""",negative,0.7910232543945312,-2,2,2,6
-3,chinese,"""Domestic Large Cruise Ship ""Sets Sail with the Wind"", Accelerating the Construction of a Complete Industry Chain""",positive,0.5813531875610352,2,2,2,6
-4,chinese,"""Houthi armed forces arrest multiple United Nations staff members""",negative,0.6655474901199341,-1,2,2,6
-5,chinese,"""Service Import and Export Total Amount Increases by 16.8% Year-on-Year in the First Four Months""",neutral,0.6665443778038025,1,2,2,6
-6,chinese,"""China Advocates for Strict, Independent and Effective Long-Term International Supervision of Japan's Discharge of Contaminated Water from Fukushima Nuclear Plant into the Sea""",neutral,0.4654022753238678,1,2,2,6
-7,chinese,"""Possible Occurrence of Severe Flooding in Some Small and Medium-sized Rivers in the South""",neutral,0.4666547477245331,1,2,2,6
-8,chinese,"""By 2027, China's Beautiful Bays to Reach a Completion Rate of Approximately 40%""",positive,0.552043080329895,2,2,2,6
-9,chinese,"""The 7th CIIE Signs Contracts with Over a Thousand Exhibitors""",neutral,0.7457028031349182,1,2,2,6
+0,chinese,"""Launch of Non-Heritage Promotion and Exhibition Activities for 2024 ""Cultural and Natural Heritage Day""""",neutral,0.849922776222229,1,1,2,7
+1,chinese,"""Second Day of National College Entrance Exam, These Places Have Announced the Release Time for Exam Results!""",neutral,0.6923125982284546,1,1,2,7
+2,chinese,"""US and France Announce Increased Aid to Ukraine""",neutral,0.5713908672332764,1,1,2,7
+3,chinese,"""Railway Expected to Transport 74 Million Passengers During the Dragon Boat Festival Holiday""",neutral,0.7141848206520081,1,1,2,7
+4,chinese,"""China's Foreign Reserves Reach 3.232 Trillion USD at the End of May, an Increase of 31.2 Billion USD Compared to the Previous Month""",neutral,0.6686018705368042,1,1,2,7
+5,chinese,"""Diplomats Experience the Scenery of the Gobi Desert in China's Hexi Corridor""",neutral,0.6940160393714905,1,1,2,7
+6,chinese,"""Guangxi Reports on the ""5.31"" House Collapse Incident in Longzhou County: Caused by Illegal Demolition of Load-bearing Walls""",negative,0.7746503949165344,-2,1,2,7
+7,chinese,"""Domestic Large Cruise Ship ""Sailing with the Wind"", Accelerating the Construction of the Entire Industry Chain""",positive,0.5048609972000122,2,1,2,7
+8,chinese,Houthi armed forces arrest multiple United Nations staff members,negative,0.6906819939613342,-1,1,2,7
+9,chinese,"""Service Import and Export Total Amount Increases by 16.8% Year-on-Year in the First Four Months""",neutral,0.6665443778038025,1,1,2,7
