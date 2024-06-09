@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Market for Essential Goods Adequately Supplied Before the Holiday, Prices Remain Stable Overall""",neutral,0.6530122756958008,1,0,3,7
-1,chinese,"""Central Government Allocates 6.44 Billion Yuan in Subsidies for Car Trade-In Program""",neutral,0.5585156083106995,1,0,3,7
-2,chinese,"""Over 60 million individuals have opened personal pension accounts, and they are the main force""",neutral,0.7264711260795593,1,0,3,7
-3,chinese,"""Non-Manufacturing Business Activity Index Maintains Expansion in May""",neutral,0.7252675294876099,1,0,3,7
-4,chinese,"""Local temperatures may reach above 40℃! Multiple regions in China issue heat wave warning signals""",neutral,0.5625272393226624,1,0,3,7
-5,chinese,"""This is what ""zongzi"" looked like during the Warring States period!""",negative,0.43031999468803406,-1,0,3,7
-6,chinese,"""Shooting Incident Near a University in California Leaves 1 Dead and 4 Injured""",negative,0.7392061352729797,-2,0,3,7
-7,chinese,"""Multiple Attacks in Eastern Congo Result in at Least 50 Civilian Deaths""",negative,0.7290064692497253,-2,0,3,7
-8,chinese,"""Media: Israel Seeks to Form Alternative Government in Gaza to Replace Hamas""",neutral,0.6981220841407776,1,0,3,7
-9,chinese,"""Second Day of National College Entrance Exam, These Places Have Announced the Time for Checking Scores!""",neutral,0.5680939555168152,1,0,3,7
+0,chinese,"""Ambassador Xie Feng Celebrates Dragon Boat Festival with Representatives from the Chinese Community in Washington D.C.""",neutral,0.5275976657867432,1,1,0,9
+1,chinese,"""U-Theatre Returns to the Stage at the National Theatre""",neutral,0.8897031545639038,1,1,0,9
+2,chinese,"""Former Chinese Ambassador to the UK Liu Xiaoming's New Book ""Q&A"" Debuts in Beijing""",neutral,0.8676372766494751,1,1,0,9
+3,chinese,"""Vice President of Russia's Foreign Trade Bank: Renminbi's International Status is Strengthening""",neutral,0.5230972766876221,1,1,0,9
+4,chinese,"""Our country's ""blue circle of friends"" is expanding day by day""",positive,0.5988563299179077,2,1,0,9
+5,chinese,"""Chinese Online Literature World Gains Popularity""",neutral,0.7733638882637024,1,1,0,9
+6,chinese,"""2024 Cultural and Natural Heritage Day Main Venue City Event Held in Shenyang, Liaoning Province""",neutral,0.8332794904708862,1,1,0,9
+7,chinese,"""National Necessities Market Supply Sufficient Before the Holiday, Overall Prices Stable""",neutral,0.49083834886550903,1,1,0,9
+8,chinese,"""Central Government Allocates 6.44 Billion Yuan in Subsidies for Car Trade-In Program""",neutral,0.5585156083106995,1,1,0,9
+9,chinese,"""Over 60 million individuals have opened personal pension accounts, and they are the main force.""",neutral,0.7119214534759521,1,1,0,9
