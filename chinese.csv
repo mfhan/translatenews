@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Launch of Intangible Cultural Heritage Promotion Exhibition for ""Cultural and Natural Heritage Day"" in 2024""",neutral,0.745452880859375,1,0,2,8
-1,chinese,"""Number of Individuals with Pension Accounts Exceeds 60 Million, These People are the Main Force""",neutral,0.7125155925750732,1,0,2,8
-2,chinese,"""Non-manufacturing Business Activity Index Maintains Expansion in May""",neutral,0.7179940938949585,1,0,2,8
-3,chinese,"""Local temperatures may reach above 40℃! Multiple areas in China issue high temperature warning signals""",neutral,0.54361891746521,1,0,2,8
-4,chinese,"""This is What ""Zongzi"" Looked Like During the Warring States Period!""",neutral,0.48072710633277893,1,0,2,8
-5,chinese,"""Shooting Incident Near a University in California Leaves 1 Dead and 4 Injured""",negative,0.7392061352729797,-2,0,2,8
-6,chinese,"""Multiple Attacks in Eastern Democratic Republic of Congo, At Least 50 Civilians Killed""",negative,0.7742422223091125,-2,0,2,8
-7,chinese,"""Media: Israel Seeks to Form Alternative Government in Gaza to Replace Hamas""",neutral,0.6981220841407776,1,0,2,8
-8,chinese,"""Second Day of National College Entrance Exam, These Places Have Announced the Time for Checking Results!""",neutral,0.6013903617858887,1,0,2,8
-9,chinese,"""US and France Announce Providing More Aid to Ukraine""",neutral,0.5091091394424438,1,0,2,8
+0,chinese,"""National Market for Essential Goods Adequately Supplied Before the Holiday, Prices Remain Stable Overall""",neutral,0.6530122756958008,1,0,3,7
+1,chinese,"""Central Government Allocates 6.44 Billion Yuan in Subsidies for Car Trade-In Program""",neutral,0.5585156083106995,1,0,3,7
+2,chinese,"""Over 60 million individuals have opened personal pension accounts, and they are the main force""",neutral,0.7264711260795593,1,0,3,7
+3,chinese,"""Non-Manufacturing Business Activity Index Maintains Expansion in May""",neutral,0.7252675294876099,1,0,3,7
+4,chinese,"""Local temperatures may reach above 40℃! Multiple regions in China issue heat wave warning signals""",neutral,0.5625272393226624,1,0,3,7
+5,chinese,"""This is what ""zongzi"" looked like during the Warring States period!""",negative,0.43031999468803406,-1,0,3,7
+6,chinese,"""Shooting Incident Near a University in California Leaves 1 Dead and 4 Injured""",negative,0.7392061352729797,-2,0,3,7
+7,chinese,"""Multiple Attacks in Eastern Congo Result in at Least 50 Civilian Deaths""",negative,0.7290064692497253,-2,0,3,7
+8,chinese,"""Media: Israel Seeks to Form Alternative Government in Gaza to Replace Hamas""",neutral,0.6981220841407776,1,0,3,7
+9,chinese,"""Second Day of National College Entrance Exam, These Places Have Announced the Time for Checking Scores!""",neutral,0.5680939555168152,1,0,3,7
