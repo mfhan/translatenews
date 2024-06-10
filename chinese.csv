@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Cultural Journey in China: Liu Huiyan, Member of the Standing Committee of the Liaoning Provincial Committee of the Communist Party of China and Minister of the Propaganda Department, Explores the Beauty of Liaoning Civilization from the Beginning of Flowers and Birds to the Source of Civilization""",neutral,0.7145971059799194,1,6,0,4
-1,chinese,"""Cultural Journey in China: President and Editor-in-Chief of China Daily, Qu Yingpu: Zero Weapons Found in Liaoning Hongshan Culture Tombs, Chinese People Have Cherished Peace Since Ancient Times""",neutral,0.4553206264972687,1,6,0,4
-2,chinese,"""Cultural Journey in China: Liu Kewu, Secretary of the Jinzhou Municipal Committee of the Communist Party, says Jinzhou is a Land of Heroic Redness""",neutral,0.473283588886261,1,6,0,4
-3,chinese,"""The Romantic National Style of Dragon Boat Festival in the Eyes of AI, Lasting for Thousands of Years!""",positive,0.5614639520645142,2,6,0,4
-4,chinese,"""Independent Design and Manufacturing! World's First! China Achieves New Breakthrough in Intelligent Development Model for Deepwater Oil Fields""",positive,0.8254422545433044,3,6,0,4
-5,chinese,"""The 17th ""Beautiful Scenery and Auspicious Time • Intangible Cultural Heritage Performance Season"" Kunqu Special Performance""",positive,0.8528729677200317,3,6,0,4
-6,chinese,"""Cultural Journey in China: Hungarian International Students: Cultural Heritage Represents Our Country and Helps Us Understand 'Who We Are'""",positive,0.6336644887924194,2,6,0,4
-7,chinese,"""Cultural Journey in China: Indonesian International Students Praise China's Five Female Mountains: ""Extremely Shocked and Amazed""""",positive,0.4683474600315094,2,6,0,4
-8,chinese,"""The Sound of Music"" Hong Kong Tour Successfully Concludes on Dragon Boat Festival",positive,0.6896085739135742,2,6,0,4
-9,chinese,"""Cultural Journey in China: Shanghai Jiao Tong University International Students Share Chinese Stories in Their Own Way""",neutral,0.7053230404853821,1,6,0,4
+0,chinese,"""Communist Party Liaoning Provincial Committee Member and Minister of Propaganda Liu Huiyan: From the Beginning of Flowers and Birds to the Source of Civilization, Exploring the Beauty of Liaoning Civilization""",positive,0.5309461355209351,2,5,1,4
+1,chinese,"""President and Chief Editor of China Daily, Qu Yingpu: Zero Weapons Found in Liaoning Hongshan Culture Tombs, Chinese People Have Cherished Peace Since Ancient Times""",positive,0.41422969102859497,2,5,1,4
+2,chinese,"""Communist Party Secretary of Jinzhou City, Liu Kewu: Jinzhou is a Land of Heroic Redness""",neutral,0.436678409576416,1,5,1,4
+3,chinese,"""Cultural Tour of China: Foreign Young Man Wears Hanfu and Visits Temples in Beizhen, Experiencing the Rich Intangible Cultural Heritage of Liaoning""",positive,0.6875481605529785,2,5,1,4
+4,chinese,"""Cultural Journey in China: Professor Zhong Lina from Beijing Second Foreign Language Institute: Unlocking the Key to Communication between East and West Civilizations through a Global Perspective on Liaoning""",neutral,0.7572813034057617,1,5,1,4
+5,chinese,"""Doctor Resignation Wave Continues, South Korean Medical Community Decides to Go on Full Strike""",neutral,0.7063189148902893,1,5,1,4
+6,chinese,"""Gunshot incident in Wisconsin, USA leaves at least 10 injured""",negative,0.773457407951355,-2,5,1,4
+7,chinese,"""Taiwanese Students Deeply Rooted in Patriotism: To Live is to Understand One's Country and History!""",positive,0.5902705192565918,2,5,1,4
+8,chinese,"""Cultural Journey in China: Belarusian Exchange Students Share Personal Experiences: European Friends from Thousands of Miles Away Express Desire to Visit China""",neutral,0.5576162934303284,1,5,1,4
+9,chinese,"""This year, China's cumulative irrigated area has exceeded 400 million mu - Watering fields and ridges welcome a bountiful harvest""",positive,0.5785140991210938,2,5,1,4
