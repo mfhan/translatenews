@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Liu Huiyan, Member of the Standing Committee of Liaoning Provincial Party Committee and Minister of Propaganda Department: Cultural Revitalization is a Necessary Part of Comprehensive Revitalization in Liaoning""",neutral,0.7219720482826233,1,4,0,6
-1,chinese,"""President and Editor-in-Chief of China Daily, Qu Yingpu: Telling the Story of Chinese Civilization to the World, Showcasing the Splendid Chapter of China's Modernization""",positive,0.6602346897125244,2,4,0,6
-2,chinese,"""Jinzhou Municipal Party Secretary Liu Kewu: Contributing Jinzhou's Strength to the Construction of a Strong Cultural Nation and Province""",positive,0.6142998933792114,2,4,0,6
-3,chinese,"""Cultural Journey in China: Author Zhu Yong: Chinese Civilization Shines Like a Constellation""",neutral,0.5466492772102356,1,4,0,6
-4,chinese,"""Iran Announces List of 6 Presidential Candidates""",neutral,0.7704500555992126,1,4,0,6
-5,chinese,"""More than 20 Diplomats Visit Guizhou: The Development Here is ""Moving""!""",positive,0.5476081967353821,2,4,0,6
-6,chinese,"""Over 200 million people cross regions on the first day of the Dragon Boat Festival holiday""",neutral,0.7429377436637878,1,4,0,6
-7,chinese,"""Dragon Boat Festival: Experience the Cultural Bond Connecting the World""",positive,0.6221235394477844,2,4,0,6
-8,chinese,"""Cultural Journey in China: Australian Scholar Says Ancient Dragon Dance is a Testament to Cross-Border Cultural Exchange""",neutral,0.7270805835723877,1,4,0,6
-9,chinese,"""Once a Year Dragon Boat Festival, Once a Year Good Health""",neutral,0.642572283744812,1,4,0,6
+0,chinese,"""Cultural Journey in China: Liu Huiyan, Member of the Standing Committee of the Liaoning Provincial Committee of the Communist Party of China and Minister of the Propaganda Department, Explores the Beauty of Liaoning Civilization from the Beginning of Flowers and Birds to the Source of Civilization""",neutral,0.7145971059799194,1,6,0,4
+1,chinese,"""Cultural Journey in China: President and Editor-in-Chief of China Daily, Qu Yingpu: Zero Weapons Found in Liaoning Hongshan Culture Tombs, Chinese People Have Cherished Peace Since Ancient Times""",neutral,0.4553206264972687,1,6,0,4
+2,chinese,"""Cultural Journey in China: Liu Kewu, Secretary of the Jinzhou Municipal Committee of the Communist Party, says Jinzhou is a Land of Heroic Redness""",neutral,0.473283588886261,1,6,0,4
+3,chinese,"""The Romantic National Style of Dragon Boat Festival in the Eyes of AI, Lasting for Thousands of Years!""",positive,0.5614639520645142,2,6,0,4
+4,chinese,"""Independent Design and Manufacturing! World's First! China Achieves New Breakthrough in Intelligent Development Model for Deepwater Oil Fields""",positive,0.8254422545433044,3,6,0,4
+5,chinese,"""The 17th ""Beautiful Scenery and Auspicious Time • Intangible Cultural Heritage Performance Season"" Kunqu Special Performance""",positive,0.8528729677200317,3,6,0,4
+6,chinese,"""Cultural Journey in China: Hungarian International Students: Cultural Heritage Represents Our Country and Helps Us Understand 'Who We Are'""",positive,0.6336644887924194,2,6,0,4
+7,chinese,"""Cultural Journey in China: Indonesian International Students Praise China's Five Female Mountains: ""Extremely Shocked and Amazed""""",positive,0.4683474600315094,2,6,0,4
+8,chinese,"""The Sound of Music"" Hong Kong Tour Successfully Concludes on Dragon Boat Festival",positive,0.6896085739135742,2,6,0,4
+9,chinese,"""Cultural Journey in China: Shanghai Jiao Tong University International Students Share Chinese Stories in Their Own Way""",neutral,0.7053230404853821,1,6,0,4
