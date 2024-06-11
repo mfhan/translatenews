@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Coexistence through Civilized Dialogue and Rational Discussion""",neutral,0.733601450920105,1,1,4,5
-1,chinese,"""Hamas: Accepts Latest UN Security Council Resolution for Ceasefire in Gaza""",neutral,0.6639634966850281,1,1,4,5
-2,chinese,"""Daily Word | International Day for Dialogue among Civilizations""",neutral,0.7474325895309448,1,1,4,5
-3,chinese,"""Dunhuang in the Eyes of Foreign Diplomats: A Model of Cultural Exchange and Mutual Learning""",neutral,0.6375607252120972,1,1,4,5
-4,chinese,"""UN Agency: Ship Sinks in Waters Near Yemen, at Least 39 People Dead""",negative,0.8026726245880127,-2,1,4,5
-5,chinese,"""Fire breaks out in a national park in Vietnam, thick smoke rises hundreds of meters""",negative,0.5062655806541443,-1,1,4,5
-6,chinese,"""Beijing Upgrades to Release Orange High-Temperature Warning, Have These Cooling Misconceptions Been Avoided?""",negative,0.7012702226638794,-2,1,4,5
-7,chinese,"""Southern Provinces Experience Heavy Rainfall, Local Departments Take Measures to Respond Proactively""",negative,0.5707519054412842,-1,1,4,5
-8,chinese,"""Holiday Economy"" Continues to Heat Up, Dragon Boat Festival Holiday Ignites New Vitality in Consumer Market",positive,0.697489321231842,2,1,4,5
-9,chinese,"""Market Supervision Administration Launches Investigation to Collect Information on Electric Bicycles""",neutral,0.83014976978302,1,1,4,5
+0,chinese,"""Harmony and Coexistence through Civilized Dialogue""",neutral,0.6660436987876892,1,0,5,5
+1,chinese,"""Malawi Vice President and All Passengers on Board Military Plane Perish""",negative,0.7290309071540833,-2,0,5,5
+2,chinese,"""Ministry of National Defense Spokesperson Zhang Xiaogang Answers Questions from Reporters Regarding Dutch Navy Helicopter Provocation""",neutral,0.8007939457893372,1,0,5,5
+3,chinese,"""Hamas: Accepts Latest UN Security Council Resolution for Ceasefire in Gaza""",neutral,0.6639634966850281,1,0,5,5
+4,chinese,"""Daily Word | International Day for Dialogue among Civilizations""",neutral,0.7474325895309448,1,0,5,5
+5,chinese,"""Dunhuang through the Eyes of Diplomats in China: A Model of Cultural Exchange and Mutual Learning""",neutral,0.6654106378555298,1,0,5,5
+6,chinese,"""UN Agency: Ship Sinks in Waters Near Yemen, at Least 39 People Dead""",negative,0.8026726245880127,-2,0,5,5
+7,chinese,"""Fire Breaks Out in a National Park in Vietnam, Thick Smoke Rises Hundreds of Meters""",negative,0.6331230998039246,-1,0,5,5
+8,chinese,"""Beijing Upgrades to Issue Orange Heat Warning: Have These Cooling Misconceptions Been Avoided?""",negative,0.7093710899353027,-2,0,5,5
+9,chinese,"""Southern Provinces Experience Heavy Rainfall, Local Departments Take Measures to Respond Actively""",negative,0.5733831524848938,-1,0,5,5
