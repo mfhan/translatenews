@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Communist Party Liaoning Provincial Committee Standing Committee Member and Minister of Propaganda Liu Huiyan: From the Beginning of Flowers and Birds to the Source of Civilization, Exploring the Beauty of Liaoning Civilization""",neutral,0.550469696521759,1,4,1,5
-1,chinese,"""President and Editor-in-Chief of China Daily, Qu Yingpu: Zero Weapons Found in Liaoning Hongshan Culture Burial Site, Chinese People Have Cherished Peace Since Ancient Times""",positive,0.4479787349700928,2,4,1,5
-2,chinese,"""Communist Party Secretary of Jinzhou City, Liu Kewu: Jinzhou is a Land of Heroic Red Soil""",neutral,0.5513932704925537,1,4,1,5
-3,chinese,"""Deputy Secretary-General of the United Nations: Establishing International Day of Dialogue for Civilization Helps Respect Cultural Diversity""",positive,0.6825755834579468,2,4,1,5
-4,chinese,"""Over 110 million domestic tourists traveled during the 2024 Dragon Boat Festival holiday""",neutral,0.7091566920280457,1,4,1,5
-5,chinese,"""Cultural Journey in China: Youth Dialogue in ""New Era Lecture Hall"" Contributes to Promoting People-to-People Connectivity and Exchange""",positive,0.559921383857727,2,4,1,5
-6,chinese,"""Cultural Journey in China: Foreign Brothers Wear Hanfu and Visit Temples in Beizhen, Experiencing the Rich Non-heritage Culture of Liaoning""",positive,0.4668146073818207,2,4,1,5
-7,chinese,"""Cultural Journey in China: Professor Zhong Lina from Beijing Second Foreign Language Institute: Unlocking the Key to Communicating Between Eastern and Western Civilizations through a Global Perspective on Liaoning""",neutral,0.754180908203125,1,4,1,5
-8,chinese,"""Doctor Resignation Wave Continues, South Korean Medical Community Decides to Go on Full Strike""",neutral,0.7063189148902893,1,4,1,5
-9,chinese,"""Gun Shooting Incident in Wisconsin, USA Leaves at Least 10 Injured""",negative,0.7126901745796204,-2,4,1,5
+0,chinese,"""Communist Party Liaoning Provincial Committee Standing Committee Member and Minister of Propaganda Liu Huiyan: From the Beginning of Flowers and Birds to the Source of Civilization, Exploring the Beauty of Liaoning Civilization""",neutral,0.550469696521759,1,6,1,3
+1,chinese,"""President and Chief Editor of China Daily, Qu Yingpu: Zero Weapons Found in Liaoning Hongshan Culture Burial Sites, Chinese People Have Cherished Peace Since Ancient Times""",positive,0.42963317036628723,2,6,1,3
+2,chinese,"""CCP Jinzhou Municipal Committee Secretary Liu Kewu: Jinzhou is a Land of Heroic Redness""",negative,0.7578645348548889,-2,6,1,3
+3,chinese,"""China's Goods Trade Imports and Exports Increase by 6.3% Year-on-Year in the First 5 Months, Foreign Trade Continues to Strengthen""",positive,0.6393377184867859,2,6,1,3
+4,chinese,"""The Dragon Boat Race on the Dragon Boat Festival Brings Chinese Traditional Culture to Milan""",positive,0.564500629901886,2,6,1,3
+5,chinese,"""UN Deputy Secretary-General: Establishing International Day of Dialogue for Civilization Contributes to Respecting Cultural Diversity""",positive,0.6121743321418762,2,6,1,3
+6,chinese,"""Domestic Tourism During the 2024 Dragon Boat Festival Holiday Attracts 110 Million Travelers""",neutral,0.5841062664985657,1,6,1,3
+7,chinese,"""Cultural China Tour: ""New Era Lecture Hall"" Youth Dialogue Contributes to Promoting People-to-People Connectivity and Exchange""",positive,0.5479271411895752,2,6,1,3
+8,chinese,"""Cultural Journey in China: Foreign Young Men Wear Hanfu to Visit Temples in Beizhen and Experience the Rich Intangible Cultural Heritage of Liaoning""",positive,0.6268550753593445,2,6,1,3
+9,chinese,"""Cultural Journey in China: Professor Zhong Lina from Beijing Second Foreign Language Institute: Unlocking the Key to Communicating Eastern and Western Civilizations through a Global Perspective on Liaoning""",neutral,0.7182337045669556,1,6,1,3
