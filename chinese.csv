@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Danish Scholar: Tolerance and Openness are Key Factors in China's Remarkable Achievements, Something Lacking in the West""",negative,0.33606114983558655,-1,1,5,4
-1,chinese,"""EU Plans to Impose Temporary Anti-Subsidy Tax on Electric Cars from China! Experts Respond: China Has Countermeasures, But Prefers Win-Win Negotiations""",neutral,0.45713427662849426,1,1,5,4
-2,chinese,"""A helicopter crashes in Poyang County, Jiangxi Province""",negative,0.5977985262870789,-1,1,5,4
-3,chinese,"""HH-100 Commercial Unmanned Aerial Transport System Verification Aircraft Successfully Completes First Flight""",neutral,0.6202551126480103,1,1,5,4
-4,chinese,"""Japanese Scholars Donate Large Amount of Bacterial Warfare Historical Materials to China, Ministry of Foreign Affairs: Appreciative""",positive,0.7222130298614502,3,1,5,4
-5,chinese,"""US Includes Three Chinese Companies in Entity List, Foreign Ministry: Immediately Revoke Illegal Unilateral Sanctions""",negative,0.6119410395622253,-1,1,5,4
-6,chinese,"""Bilingual News: Study Shows Xylitol and Other Sweeteners May Cause Heart Disease and Stroke""",negative,0.49728015065193176,-1,1,5,4
-7,chinese,"""Use of ""Self-Defense Rights"" by the Liberation Army? The Taiwan Affairs Office sternly warns the Democratic Progressive Party authorities not to play with fire""",negative,0.7547422647476196,-2,1,5,4
-8,chinese,"""Will the EU Impose Taxes on Chinese Electric Cars? China Responds""",neutral,0.8097831010818481,1,1,5,4
-9,chinese,"""Israeli military claims around 160 ""projectiles"" fired from Lebanon towards northern Israel""",neutral,0.5820280909538269,1,1,5,4
+0,chinese,"""Danish Scholar: Inclusivity and Openness Key to China's Remarkable Achievements, What the West Lacks""",positive,0.6325924396514893,2,2,3,5
+1,chinese,"""EU Plans to Impose Temporary Anti-Subsidy Tax on Electric Vehicles from China! Experts Respond: China Has Countermeasures, But Prefers Win-Win Negotiations""",neutral,0.4525667130947113,1,2,3,5
+2,chinese,"""A helicopter crashed in Poyang County, Jiangxi""",negative,0.6279374361038208,-1,2,3,5
+3,chinese,"""HH-100 Commercial Unmanned Aerial Transport System Verification Aircraft Successfully Completes First Flight""",neutral,0.6202551126480103,1,2,3,5
+4,chinese,"""Japanese Scholars Donate Large Amount of Bacterial Warfare Historical Materials to China, Ministry of Foreign Affairs: Appreciates""",positive,0.6447662115097046,2,2,3,5
+5,chinese,"""US Includes Three Chinese Companies on Entity List, Foreign Ministry: Immediately Revoke Unilateral Sanctions""",negative,0.5803768038749695,-1,2,3,5
+6,chinese,[Bilingual News] Study: Xylitol and Other Sweeteners May Cause Heart Disease and Stroke,neutral,0.4828373193740845,1,2,3,5
+7,chinese,"""Exercising the PLA's ""Right to Self-Defense""? Taiwan Affairs Office sternly warns DPP authorities not to play with fire""",negative,0.6886632442474365,-1,2,3,5
+8,chinese,"""Will the EU impose taxes on Chinese electric cars? China responds.""",neutral,0.7609257102012634,1,2,3,5
+9,chinese,"""Israeli Army Claims Around 160 ""Projectiles"" Fired from Lebanon Towards Northern Israel""",neutral,0.5360760688781738,1,2,3,5
