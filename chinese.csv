@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Coexistence through Civilized Dialogue""",neutral,0.6660436987876892,1,3,3,4
-1,chinese,"""Danish Scholar: Tolerance and Openness are Key Factors in China's Remarkable Achievements, Something Lacking in the West""",negative,0.33606114983558655,-1,3,3,4
-2,chinese,"""Record-breaking High Temperatures Expected in Multiple Regions! Please Check for Heat Wave Protection Measures""",neutral,0.5246202945709229,1,3,3,4
-3,chinese,"""National Railway Fixed Asset Investment Increases by 10.8% Year-on-Year from January to May""",neutral,0.6309045553207397,1,3,3,4
-4,chinese,"""Mainland China's Dragon Boat Festival box office falls short of expectations, hopes for new releases to boost summer box office""",positive,0.6642299890518188,2,3,3,4
-5,chinese,"""Thousands of Industries Join Forces to Achieve Great Success, Unfolding a Beautiful Picture of People's Better Lives""",positive,0.869803786277771,3,3,3,4
-6,chinese,"""Smart Campus, Full of Technological Sensation""",positive,0.8563613295555115,3,3,3,4
-7,chinese,"""Chinese Couple Gets into Argument and Confuses Italian Girl: What Does ""意思"" Actually Mean?""",negative,0.5716618895530701,-1,3,3,4
-8,chinese,"""Malawi Vice President and All Passengers on Board Military Plane Perish""",negative,0.7290309071540833,-2,3,3,4
-9,chinese,"""Ministry of National Defense Spokesperson Zhang Xiaogang Answers Questions from Reporters Regarding Dutch Navy Helicopter Provocation""",neutral,0.8007939457893372,1,3,3,4
+0,chinese,"""Danish Scholar: Tolerance and Openness are Key Factors in China's Remarkable Achievements, Something Lacking in the West""",negative,0.33606114983558655,-1,1,5,4
+1,chinese,"""EU Plans to Impose Temporary Anti-Subsidy Tax on Electric Cars from China! Experts Respond: China Has Countermeasures, But Prefers Win-Win Negotiations""",neutral,0.45713427662849426,1,1,5,4
+2,chinese,"""A helicopter crashes in Poyang County, Jiangxi Province""",negative,0.5977985262870789,-1,1,5,4
+3,chinese,"""HH-100 Commercial Unmanned Aerial Transport System Verification Aircraft Successfully Completes First Flight""",neutral,0.6202551126480103,1,1,5,4
+4,chinese,"""Japanese Scholars Donate Large Amount of Bacterial Warfare Historical Materials to China, Ministry of Foreign Affairs: Appreciative""",positive,0.7222130298614502,3,1,5,4
+5,chinese,"""US Includes Three Chinese Companies in Entity List, Foreign Ministry: Immediately Revoke Illegal Unilateral Sanctions""",negative,0.6119410395622253,-1,1,5,4
+6,chinese,"""Bilingual News: Study Shows Xylitol and Other Sweeteners May Cause Heart Disease and Stroke""",negative,0.49728015065193176,-1,1,5,4
+7,chinese,"""Use of ""Self-Defense Rights"" by the Liberation Army? The Taiwan Affairs Office sternly warns the Democratic Progressive Party authorities not to play with fire""",negative,0.7547422647476196,-2,1,5,4
+8,chinese,"""Will the EU Impose Taxes on Chinese Electric Cars? China Responds""",neutral,0.8097831010818481,1,1,5,4
+9,chinese,"""Israeli military claims around 160 ""projectiles"" fired from Lebanon towards northern Israel""",neutral,0.5820280909538269,1,1,5,4
