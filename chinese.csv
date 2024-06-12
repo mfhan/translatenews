@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Coexistence through Civilized Dialogue""",neutral,0.6660436987876892,1,0,5,5
-1,chinese,"""Malawi Vice President and All Passengers on Board Military Plane Perish""",negative,0.7290309071540833,-2,0,5,5
-2,chinese,"""Ministry of National Defense Spokesperson Zhang Xiaogang Answers Questions from Reporters Regarding Dutch Navy Helicopter Provocation""",neutral,0.8007939457893372,1,0,5,5
-3,chinese,"""Hamas: Accepts Latest UN Security Council Resolution for Ceasefire in Gaza""",neutral,0.6639634966850281,1,0,5,5
-4,chinese,"""Daily Word | International Day for Dialogue among Civilizations""",neutral,0.7474325895309448,1,0,5,5
-5,chinese,"""Dunhuang through the Eyes of Diplomats in China: A Model of Cultural Exchange and Mutual Learning""",neutral,0.6654106378555298,1,0,5,5
-6,chinese,"""UN Agency: Ship Sinks in Waters Near Yemen, at Least 39 People Dead""",negative,0.8026726245880127,-2,0,5,5
-7,chinese,"""Fire Breaks Out in a National Park in Vietnam, Thick Smoke Rises Hundreds of Meters""",negative,0.6331230998039246,-1,0,5,5
-8,chinese,"""Beijing Upgrades to Issue Orange Heat Warning: Have These Cooling Misconceptions Been Avoided?""",negative,0.7093710899353027,-2,0,5,5
-9,chinese,"""Southern Provinces Experience Heavy Rainfall, Local Departments Take Measures to Respond Actively""",negative,0.5733831524848938,-1,0,5,5
+0,chinese,"""Harmony and Coexistence through Civilized Dialogue""",neutral,0.6660436987876892,1,3,2,5
+1,chinese,"""Record-breaking High Temperatures Expected in Multiple Regions! Please Check for Heat Wave Protection Measures""",neutral,0.5246202945709229,1,3,2,5
+2,chinese,"""National Railway's Fixed Asset Investment Increases by 10.8% Year-on-Year from January to May""",neutral,0.6254204511642456,1,3,2,5
+3,chinese,"""Mainland China's Dragon Boat Festival Box Office Falls Short of Expectations, Hopes for New Films to Boost Summer Box Office""",positive,0.6101984977722168,2,3,2,5
+4,chinese,"""Thousands of Industries Join Hands to Achieve Great Success, Creating a Beautiful Picture of People's Better Lives""",positive,0.8635711073875427,3,3,2,5
+5,chinese,"""Smart Campus, Full of Technological Sensation""",positive,0.8563613295555115,3,3,2,5
+6,chinese,"""Chinese Couple Argues and Confuses Italian Girl: What Does ""意思"" Actually Mean?""",negative,0.5592185854911804,-1,3,2,5
+7,chinese,"""Malawi Vice President and All Passengers on Board Military Plane Perish""",negative,0.7290309071540833,-2,3,2,5
+8,chinese,"""Ministry of National Defense Spokesperson Zhang Xiaogang Answers Questions from Reporters Regarding Dutch Navy Helicopter Provocation""",neutral,0.8007939457893372,1,3,2,5
+9,chinese,"""Hamas: Accepts Latest UN Security Council Resolution for Ceasefire in Gaza""",neutral,0.6639634966850281,1,3,2,5
