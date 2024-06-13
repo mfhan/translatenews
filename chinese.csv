@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Danish Scholar: Tolerance and Openness are Key Factors in China's Remarkable Achievements, Something Lacking in the West""",negative,0.33606114983558655,-1,3,2,5
-1,chinese,"""Li Qiang Arrives in Wellington to Begin Official Visit to New Zealand""",neutral,0.8106763362884521,1,3,2,5
-2,chinese,"""Panda's Popularity Remains Strong: Xiang Xiang Brings 2.8 Billion Yuan Economic Benefits to Japan in 6 Years""",positive,0.753231942653656,3,3,2,5
-3,chinese,"""Despite Multiple Objections, EU Commission Plans to Impose Temporary Anti-Subsidy Tax on Chinese Electric Cars""",neutral,0.603622317314148,1,3,2,5
-4,chinese,"""Uncovering the Truth Behind ""Box Opening Hanging"" - Tackling the New Form of Online Violence""",neutral,0.5083447098731995,1,3,2,5
-5,chinese,"""Multi-dimensional Data Outlines the Vibrant Picture of Economic Recovery, China Expands ""New"" Space for High-quality Development""",positive,0.6646605730056763,2,3,2,5
-6,chinese,"""Continued High Temperatures: Multiple Measures Taken in Northern Regions to Respond Positively""",neutral,0.7009238600730896,1,3,2,5
-7,chinese,"""EU Plans to Impose Temporary Anti-Subsidy Tax on Electric Vehicles from China! Experts Respond: China Has Countermeasures But Prefers Win-Win Negotiations""",neutral,0.45171427726745605,1,3,2,5
-8,chinese,"""A helicopter crashes in Poyang County, Jiangxi""",negative,0.6257889270782471,-1,3,2,5
-9,chinese,"""Successful First Flight of HH-100 Commercial Unmanned Aerial Transportation System Validation Aircraft""",positive,0.7060878872871399,3,3,2,5
+0,chinese,"""Danish Scholar: Tolerance and Openness are Key Factors in China's Remarkable Achievements, Something Lacking in the West""",negative,0.33606114983558655,-1,2,2,6
+1,chinese,"""Li Qiang Arrives in Wellington to Begin Official Visit to New Zealand""",neutral,0.8106763362884521,1,2,2,6
+2,chinese,"""Panda's Popularity Remains Strong: Xiang Xiang Brings 2.8 Billion Yuan Economic Benefit to Japan in 6 Years""",positive,0.7579257488250732,3,2,2,6
+3,chinese,"""Despite Multiple Objections, EU Commission Plans to Impose Temporary Anti-Subsidy Tax on Chinese Electric Cars""",neutral,0.603622317314148,1,2,2,6
+4,chinese,"""Uncovering the ""Box Opening Hanging"" Phenomenon: Combating New Forms of Online Violence""",neutral,0.6257798075675964,1,2,2,6
+5,chinese,"""Multidimensional Data Outlines the Vibrant Picture of Economic Recovery, China Expands ""New"" Space for High-Quality Development""",positive,0.6899474859237671,2,2,2,6
+6,chinese,"""Continued High Temperatures: Multiple Measures Taken in Northern Regions to Actively Respond""",neutral,0.772832453250885,1,2,2,6
+7,chinese,"""EU Plans to Impose Temporary Anti-Subsidy Tax on Electric Vehicles from China! Experts Respond: China Has Countermeasures But Prefers Win-Win Negotiations""",neutral,0.45171427726745605,1,2,2,6
+8,chinese,"""A helicopter crashes in Poyang County, Jiangxi Province""",negative,0.5977985262870789,-1,2,2,6
+9,chinese,"""HH-100 Commercial Unmanned Aerial Transport System Verification Aircraft Successfully Completes First Flight""",neutral,0.6202551126480103,1,2,2,6
