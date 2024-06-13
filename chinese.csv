@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Taxing China Won't Save the American Electric Car Industry""",negative,0.7271460890769958,-2,3,2,5
-1,chinese,"""China's Economic Structure Continues to Improve, Private Sector Accounts for a Steady Increase""",positive,0.7315548062324524,3,3,2,5
-2,chinese,"""Israel hit by over a hundred rockets and drones attacks""",negative,0.7341333627700806,-2,3,2,5
-3,chinese,"""China-Europe Freight Train Sets New Monthly Record for May""",neutral,0.7726412415504456,1,3,2,5
-4,chinese,"""Central Meteorological Observatory issues five warnings simultaneously, many areas in the north to experience thunderstorms with wind speeds above 10 levels""",neutral,0.5450094938278198,1,3,2,5
-5,chinese,"""Founder of China-Europe Forum: The West Should Take Note of China's Rapid Development of Electric Vehicles""",neutral,0.5201850533485413,1,3,2,5
-6,chinese,"""Diplomats Praise China's Commercial Aircraft Corporation for Producing Large Domestic Aircraft""",positive,0.770309567451477,3,3,2,5
-7,chinese,"""Why Do We Need to Protect Insects? Let's Enter the Microscopic World Together""",neutral,0.44844910502433777,1,3,2,5
-8,chinese,"""Li Zhu, Executive Director: China is Our Driving Force for Innovation""",positive,0.6537299752235413,2,3,2,5
-9,chinese,"""Continuous High Temperatures: How to Prevent Heatstroke? Tips: Adjust Work Intensity When Working Outdoors in High Temperatures""",neutral,0.6732054352760315,1,3,2,5
+0,chinese,"""Imposing tariffs on China won't save the US electric car industry""",negative,0.7793050408363342,-2,3,3,4
+1,chinese,"""Continuous Optimization of China's Economic Structure, Steady Increase in Proportion of Private Sector""",positive,0.6030320525169373,2,3,3,4
+2,chinese,"""Learning from China is the Right Path"" - African Experts Look Forward to Deepening Agricultural Technology Cooperation with China",positive,0.7742675542831421,3,3,3,4
+3,chinese,"""Israel Under Attack by Hundreds of Rockets and Drones""",negative,0.8198657631874084,-2,3,3,4
+4,chinese,"""China-Europe Freight Train Sets New Monthly Record in May""",neutral,0.7892165780067444,1,3,3,4
+5,chinese,"""Central Meteorological Observatory Issues Five Warnings Simultaneously, Many Areas in the North Expected to Experience Severe Thunderstorms and Strong Winds of Over 10 Levels""",neutral,0.4645847976207733,1,3,3,4
+6,chinese,"""Founder of China-Europe Forum: The West Should Face the Rapid Development of Chinese Electric Cars""",neutral,0.5110073685646057,1,3,3,4
+7,chinese,"""Ministry of Foreign Affairs: Urges European Side to Listen to Rational Voices from All Sectors and Stop Politicizing Economic and Trade Issues""",neutral,0.5555956959724426,1,3,3,4
+8,chinese,"""Diplomats Praise China's Homegrown Large Aircraft Produced by COMAC""",positive,0.8065666556358337,3,3,3,4
+9,chinese,"""Why do we need to protect insects? Let's enter the microscopic world together""",negative,0.48738527297973633,-1,3,3,4
