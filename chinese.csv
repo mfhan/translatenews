@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Imposing tariffs on China won't save the American electric car industry""",negative,0.7868008613586426,-2,3,3,4
-1,chinese,"""How to Deal with Heatstroke in Hot Weather?""",neutral,0.4961403012275696,1,3,3,4
-2,chinese,"""China's Economic Structure Continues to Improve, Private Sector Accounts for Steady Increase""",positive,0.7230644822120667,3,3,3,4
-3,chinese,"""Learning from China is the Right Path"" - African Experts Look Forward to Deepening Agricultural Technology Cooperation with China",positive,0.7742675542831421,3,3,3,4
-4,chinese,"""Regulations for Fair Competition Review""",positive,0.7635791897773743,3,3,3,4
-5,chinese,"""Israel hit by hundreds of rockets and drone attacks""",negative,0.717503547668457,-2,3,3,4
-6,chinese,"""China-Europe Freight Train Sets New Monthly Record for Volume in May""",neutral,0.7858893275260925,1,3,3,4
-7,chinese,"""Central Meteorological Observatory Issues Five Warnings Simultaneously, Many Areas in the North to Experience Severe Thunderstorms with Wind Speeds Above Level 10""",negative,0.572363018989563,-1,3,3,4
-8,chinese,"""Founder of China-Europe Forum: The West Should Take Notice of China's Rapid Development of Electric Vehicles""",neutral,0.5137558579444885,1,3,3,4
-9,chinese,Ministry of Foreign Affairs: Urges European side to listen to rational voices from all sectors and stop politicizing economic and trade issues.,neutral,0.4603334069252014,1,3,3,4
+0,chinese,"""Imposing tariffs on China will not save the US electric car industry""",negative,0.7703810930252075,-2,3,4,3
+1,chinese,"""High-Quality Development Research Trip | Yingkou, Liaoning: Hoisting the ""Smart"" Sails, Revitalizing the Century-Old Port""",positive,0.5139831900596619,2,3,4,3
+2,chinese,Brazil: World's Largest Wetland Suffers Severe Fire Damage This Year,negative,0.7546757459640503,-2,3,4,3
+3,chinese,"""2024 Beijing-Hangzhou Dialogue Launches ""Thousand-Year Canal, Thousand-Mile Journey"" in Tongzhou, Beijing""",neutral,0.8173294067382812,1,3,4,3
+4,chinese,"""Cross-Strait Life | Why Do Taiwanese Young Men Love Kunqu Opera?""",neutral,0.4596739411354065,1,3,4,3
+5,chinese,"""Houthi Militants Claim to Attack 3 Cargo Ships in the Red Sea and the Gulf of Aden""",negative,0.5371902585029602,-1,3,4,3
+6,chinese,"""Chinese Women's Volleyball Team Rises to Sixth Place in World Ranking""",positive,0.6427910923957825,2,3,4,3
+7,chinese,"""How to deal with heatstroke in hot weather?""",negative,0.5752700567245483,-1,3,4,3
+8,chinese,"""CCP Central Office Issues ""National Party and Government Leadership Team Construction Plan Outline (2024-2028)""",neutral,0.9417073130607605,1,3,4,3
+9,chinese,"""China's Economic Structure Continues to Improve, Private Sector Accounts for Steady Increase""",positive,0.7230644822120667,3,3,4,3
