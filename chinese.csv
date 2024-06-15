@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Dialogue and Reasoning | Don't Let Protectionism Harm China-Europe Economic and Trade Cooperation""",neutral,0.5391800403594971,1,2,1,7
-1,chinese,"""Cross-border E-commerce Trade Volume Grows Over 10 Times! This ""Warehouse"" is Extraordinary""",positive,0.8484170436859131,3,2,1,7
-2,chinese,"""1 to May, National Railways Sent 1.73 Billion Passengers""",neutral,0.7499244213104248,1,2,1,7
-3,chinese,"""China Securities Regulatory Commission Seeks Public Opinions on Hong Kong Mutual Recognition Fund Management Regulations""",neutral,0.8724288940429688,1,2,1,7
-4,chinese,"""New Regulations are Here! How to Recruit and Train Public-funded Normal Students?""",neutral,0.7131049036979675,1,2,1,7
-5,chinese,"""The Next Generation of Manned Lunar Rocket is Here! What Revolutionary Technologies are Being Used?""",neutral,0.6312780380249023,1,2,1,7
-6,chinese,"""Diplomats Experience the Charm of Oriental Aesthetics in Shanghai""",positive,0.8065890669822693,3,2,1,7
-7,chinese,"""Putin Proposes Conditions for Ceasefire in Russia-Ukraine Conflict""",negative,0.5561344027519226,-1,2,1,7
-8,chinese,"""Ministry of National Defense Spokesperson Answers Journalists' Questions on Recent Military Issues""",neutral,0.7302192449569702,1,2,1,7
-9,chinese,"""Long March 10 Series Carrier Rocket Completes First Stage Power System Test""",neutral,0.7385900616645813,1,2,1,7
+0,chinese,"""Dialogue and Fairness: Don't Let Protectionism Harm China-Europe Economic and Trade Cooperation""",neutral,0.47818225622177124,1,4,0,6
+1,chinese,"""Long March 10 Series Carrier Rocket Successfully Completes First-Stage Power System Test""",positive,0.6044048070907593,2,4,0,6
+2,chinese,"""Shanghai: Shanghai-Hong Kong High-Speed Sleeper Train Ready for Operation""",neutral,0.7179381251335144,1,4,0,6
+3,chinese,"""Southwest Region's Largest High-speed Train Station Completed and Put into Use""",positive,0.5457794070243835,2,4,0,6
+4,chinese,"""Promoting High-Quality Development: Guizhou Embarks on a New Journey of Economic Prosperity, People's Wealth, and Beautiful Ecology""",positive,0.8047793507575989,3,4,0,6
+5,chinese,"""Cross-border e-commerce trade scale grows over 10 times! This warehouse is extraordinary""",positive,0.8706488609313965,3,4,0,6
+6,chinese,"""1 to May, National Railway Sends 1.73 Billion Passengers""",neutral,0.7863668203353882,1,4,0,6
+7,chinese,"""China Securities Regulatory Commission Solicits Public Opinions on Hong Kong Mutual Recognition Fund Management Regulations""",neutral,0.6505193710327148,1,4,0,6
+8,chinese,"""New Regulations are Here! How to Recruit and Train State-Sponsored Normal Students?""",neutral,0.760275661945343,1,4,0,6
+9,chinese,"""The Next Generation of Manned Lunar Rocket is Here! What Revolutionary Technologies are Used?""",neutral,0.6498559713363647,1,4,0,6
