@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Dialogue and Justice | Don't Let Protectionism Harm China-Europe Economic and Trade Cooperation""",neutral,0.49084898829460144,1,1,3,6
-1,chinese,"""Opportunities in Hong Kong | A Journey through the Past and Present of the Hong Kong Stock Exchange: Weathering Storms and Achieving Greatness""",positive,0.5404661297798157,2,1,3,6
-2,chinese,"""Central Meteorological Observatory Continues to Issue High Temperature Yellow Warning, Local Temperatures May Reach Above 40℃""",neutral,0.523381769657135,1,1,3,6
-3,chinese,Ministry of Water Resources: National water consumption in 2023 decreased by 9.17 billion cubic meters compared to the previous year.,neutral,0.6760544776916504,1,1,3,6
-4,chinese,"""Kate Middleton Makes First Public Appearance in Six Months in the UK""",neutral,0.49323341250419617,1,1,3,6
-5,chinese,"""Current Round of Israeli-Palestinian Conflict Has Resulted in 37,296 Deaths in Gaza Strip""",negative,0.6611962914466858,-1,1,3,6
-6,chinese,"""What is the new productive force? Experts from the National People's Congress hold interdisciplinary seminar""",neutral,0.7201242446899414,1,1,3,6
-7,chinese,"""This graduation ceremony, only one student!""",neutral,0.6512521505355835,1,1,3,6
-8,chinese,"""Beijing Issues Yellow Alert for High Temperatures Above 35℃""",negative,0.5925614237785339,-1,1,3,6
-9,chinese,"""Car Plunges into Canyon in India, Resulting in Approximately 8 Deaths""",negative,0.6791622042655945,-1,1,3,6
+0,chinese,"""Dialogue and Reasoning | Don't Let Protectionism Harm China-Europe Economic and Trade Cooperation""",neutral,0.5391800403594971,1,2,1,7
+1,chinese,"""Visiting the Scene of the College Entrance Examination Marking: How is the Score of a Test Paper Determined?""",neutral,0.880634605884552,1,2,1,7
+2,chinese,"""Opportunities in Hong Kong | Hong Kong Airport's ""Intelligent Brain"" Revealed, Each Employee Keeps a Watchful Eye""",neutral,0.5683104991912842,1,2,1,7
+3,chinese,"""High-quality Development Research Trip | 14 Meters Underground! 30 Football Fields in Size: Exploring the World's Largest ""Underground Factory""""",positive,0.519019365310669,2,2,1,7
+4,chinese,"""Opportunities in Hong Kong | The Past and Present of Entering the Hong Kong Stock Exchange: Weathering the Storm and Achieving Brilliance""",neutral,0.6012409925460815,1,2,1,7
+5,chinese,"""Central Meteorological Observatory Continues to Issue High Temperature Yellow Warning, Local Temperatures May Reach Above 40℃""",neutral,0.523381769657135,1,2,1,7
+6,chinese,Ministry of Water Resources: National water consumption decreases by 9.17 billion cubic meters in 2023 compared to the previous year.,neutral,0.6947028040885925,1,2,1,7
+7,chinese,"""Kate Middleton Makes First Public Appearance in Six Months""",positive,0.4866622984409332,2,2,1,7
+8,chinese,"""Current Round of Israeli-Palestinian Conflict Has Caused 37,296 Deaths in Gaza Strip""",negative,0.6529182195663452,-1,2,1,7
+9,chinese,"""What is the New Productive Force? Experts from National People's Congress Conduct Interdisciplinary Research""",neutral,0.8616069555282593,1,2,1,7
