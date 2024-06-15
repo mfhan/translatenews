@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Dialogue and Fairness: Don't Let Protectionism Harm China-Europe Economic and Trade Cooperation""",neutral,0.47818225622177124,1,4,0,6
-1,chinese,"""Long March 10 Series Carrier Rocket Successfully Completes First-Stage Power System Test""",positive,0.6044048070907593,2,4,0,6
-2,chinese,"""Shanghai: Shanghai-Hong Kong High-Speed Sleeper Train Ready for Operation""",neutral,0.7179381251335144,1,4,0,6
-3,chinese,"""Southwest Region's Largest High-speed Train Station Completed and Put into Use""",positive,0.5457794070243835,2,4,0,6
-4,chinese,"""Promoting High-Quality Development: Guizhou Embarks on a New Journey of Economic Prosperity, People's Wealth, and Beautiful Ecology""",positive,0.8047793507575989,3,4,0,6
-5,chinese,"""Cross-border e-commerce trade scale grows over 10 times! This warehouse is extraordinary""",positive,0.8706488609313965,3,4,0,6
-6,chinese,"""1 to May, National Railway Sends 1.73 Billion Passengers""",neutral,0.7863668203353882,1,4,0,6
-7,chinese,"""China Securities Regulatory Commission Solicits Public Opinions on Hong Kong Mutual Recognition Fund Management Regulations""",neutral,0.6505193710327148,1,4,0,6
-8,chinese,"""New Regulations are Here! How to Recruit and Train State-Sponsored Normal Students?""",neutral,0.760275661945343,1,4,0,6
-9,chinese,"""The Next Generation of Manned Lunar Rocket is Here! What Revolutionary Technologies are Used?""",neutral,0.6498559713363647,1,4,0,6
+0,chinese,"""Dialogue and Justice | Don't Let Protectionism Harm China-Europe Economic and Trade Cooperation""",neutral,0.49084898829460144,1,1,3,6
+1,chinese,"""Opportunities in Hong Kong | A Journey through the Past and Present of the Hong Kong Stock Exchange: Weathering Storms and Achieving Greatness""",positive,0.5404661297798157,2,1,3,6
+2,chinese,"""Central Meteorological Observatory Continues to Issue High Temperature Yellow Warning, Local Temperatures May Reach Above 40℃""",neutral,0.523381769657135,1,1,3,6
+3,chinese,Ministry of Water Resources: National water consumption in 2023 decreased by 9.17 billion cubic meters compared to the previous year.,neutral,0.6760544776916504,1,1,3,6
+4,chinese,"""Kate Middleton Makes First Public Appearance in Six Months in the UK""",neutral,0.49323341250419617,1,1,3,6
+5,chinese,"""Current Round of Israeli-Palestinian Conflict Has Resulted in 37,296 Deaths in Gaza Strip""",negative,0.6611962914466858,-1,1,3,6
+6,chinese,"""What is the new productive force? Experts from the National People's Congress hold interdisciplinary seminar""",neutral,0.7201242446899414,1,1,3,6
+7,chinese,"""This graduation ceremony, only one student!""",neutral,0.6512521505355835,1,1,3,6
+8,chinese,"""Beijing Issues Yellow Alert for High Temperatures Above 35℃""",negative,0.5925614237785339,-1,1,3,6
+9,chinese,"""Car Plunges into Canyon in India, Resulting in Approximately 8 Deaths""",negative,0.6791622042655945,-1,1,3,6
