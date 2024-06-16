@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-Quality Development Research Trip | Exploring the ""Pearl on the Crown"" of the Shipbuilding Industry: Chinese-Made LNG Transport Ships Accelerating Towards the Global Market""",positive,0.6030339002609253,2,2,2,6
-1,chinese,"""Trump Appears to be Almost Real,"" We Stand Up for Our Rights Against CNN, and the Comments Section Lights Up...",positive,0.5222752690315247,2,2,2,6
-2,chinese,"""High-Quality Development Research Trip | Dalian Jinpu New Area: Building a Hydrogen Full Industrial Chain Development Pattern""",neutral,0.603409469127655,1,2,2,6
-3,chinese,"""Xiamen-Jinmen ""Small Three Links"" Establishes Passenger Terminal, Sets Up Jinmen Kinmen Service Station""",neutral,0.8352470397949219,1,2,2,6
-4,chinese,"""14 Jordanian Citizens Die and 17 Others Go Missing During Pilgrimage in Saudi Arabia""",negative,0.6970710158348083,-1,2,2,6
-5,chinese,"""Beijing Education Commission: Kindergartens, Primary and Secondary Schools to Reduce Outdoor Physical Education Classes During High Temperature Periods""",neutral,0.6628816723823547,1,2,2,6
-6,chinese,"""Iran and Sweden mutually release each other's detained individuals""",negative,0.6599613428115845,-1,2,2,6
-7,chinese,"""Hamas Leader: Response to Gaza Ceasefire Agreement Aligns with Principles of UN Resolution""",neutral,0.7471709251403809,1,2,2,6
-8,chinese,"""Ice City's ""Second Generation of Police"" Have Something to Say to Their Fathers""",neutral,0.6470329761505127,1,2,2,6
-9,chinese,"""How to Ensure Personal Safety in the Event of Heavy Rain and Thunderstorms?""",neutral,0.640600860118866,1,2,2,6
+0,chinese,"""High-Quality Development Research Tour | Visiting the ""Crown Jewel"" of the Shipbuilding Industry: Accelerating the Global Journey of Domestic LNG Transport Ships""",positive,0.5102137327194214,2,2,3,5
+1,chinese,"""Multiple Injuries and Fatalities in Texas Shooting Incident in the United States""",negative,0.7599080801010132,-2,2,3,5
+2,chinese,"""Opportunities in Hong Kong and Macau | A Thrilling Summer on the Artificial Island of the Hong Kong-Zhuhai-Macau Bridge""",neutral,0.607229471206665,1,2,3,5
+3,chinese,"""High-quality Development Research Tour丨Dalian Jinpu New Area: Building a Hydrogen Full Industrial Chain Development Pattern""",neutral,0.7153768539428711,1,2,3,5
+4,chinese,"""Xiamen-Jinmen ""Small Three Links"" Establishes Five Passenger Terminals and Sets Up a Jinmen Hometown Service Station""",neutral,0.6316385865211487,1,2,3,5
+5,chinese,"""14 Jordanian Citizens Die During Pilgrimage in Saudi Arabia, 17 Others Missing""",negative,0.6627358198165894,-1,2,3,5
+6,chinese,"""Beijing Education Commission: Kindergartens, Primary and Secondary Schools to Reduce Outdoor Physical Education Classes During High Temperature Periods""",neutral,0.6628816723823547,1,2,3,5
+7,chinese,"""Iran and Sweden mutually release each other's detained personnel""",negative,0.6009892225265503,-1,2,3,5
+8,chinese,"""Hamas Leader: Response to Gaza Ceasefire Agreement Consistent with UN Security Council Resolution Principles""",neutral,0.7488821744918823,1,2,3,5
+9,chinese,"""Trump seems almost real,"" we stand up for CNN's rights, and the comment section lights up...",positive,0.6029858589172363,2,2,3,5
