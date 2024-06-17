@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-Quality Development Research Tour | Visiting the ""Crown Jewel"" of the Shipbuilding Industry: Accelerating the Global Journey of Domestic LNG Transport Ships""",positive,0.5102137327194214,2,1,4,5
-1,chinese,"""Where to Find Authoritative Information on Schools? Ministry of Education Launches First Online College Entrance Examination Voluntary Information System""",neutral,0.8162729740142822,1,1,4,5
-2,chinese,"""G7 Group Stirs Up Controversy Regarding China Again, Ministry of Foreign Affairs: Goes Against the Trend of Peaceful Development""",neutral,0.5332918167114258,1,1,4,5
-3,chinese,"""Chinese Coast Guard Implements Control Measures on Philippine Vessels, Foreign Ministry Responds: Professional Restraint, Reasonable and Legal""",neutral,0.552004337310791,1,1,4,5
-4,chinese,Netanyahu announces dissolution of wartime cabinet,negative,0.5157122611999512,-1,1,4,5
-5,chinese,"""US Secretly Conducts Smear Campaign Against Chinese Vaccines, Foreign Ministry: Exposes Its Hegemonic Hypocrisy""",negative,0.875969409942627,-2,1,4,5
-6,chinese,"""73.31 Billion Pieces! Postal Industry Performance Report for January-May Released""",neutral,0.859000563621521,1,1,4,5
-7,chinese,Ministry of Commerce Responds to Anti-Dumping Investigation on Imported Pork and Pork By-Products from the European Union,negative,0.5782508254051208,-1,1,4,5
-8,chinese,"""Farthest Spacecraft from Earth, ""Voyager 1"", Resumes Transmitting Scientific Data""",neutral,0.7349456548690796,1,1,4,5
-9,chinese,"""Chinese Citizen Dies in India, Chinese Embassy Urges Indian Authorities to Quickly Investigate the Truth""",negative,0.6614646315574646,-1,1,4,5
+0,chinese,"""High-Quality Development Research Tour | Visiting the ""Crown Jewel"" of the Shipbuilding Industry: Accelerating the Global Voyage of Domestic LNG Transport Ships""",positive,0.49982237815856934,2,1,4,5
+1,chinese,"""Where to Find Authoritative Information on Colleges and Universities? Ministry of Education Launches First Online College Entrance Exam Volunteering System""",neutral,0.838699460029602,1,1,4,5
+2,chinese,"""G7 Group Stirs Up Controversy Over China-Related Issues Again, Ministry of Foreign Affairs: Goes Against the Trend of Peaceful Development""",neutral,0.5703115463256836,1,1,4,5
+3,chinese,"""Chinese Coast Guard Implements Control Measures on Philippine Vessels, Ministry of Foreign Affairs Responds: Professional Restraint, Reasonable and Legal""",neutral,0.5535724759101868,1,1,4,5
+4,chinese,"""Netanyahu announces dissolution of war-time cabinet""",negative,0.6357643604278564,-1,1,4,5
+5,chinese,"""US Secretly Conducts Smear Campaign Against Chinese Vaccines, Foreign Ministry: Exposing Their Hegemonic Hypocrisy""",negative,0.8871855139732361,-2,1,4,5
+6,chinese,"""733.1 Billion Pieces! Postal Industry Performance Report for January to May Released""",neutral,0.837838888168335,1,1,4,5
+7,chinese,Ministry of Commerce responds to anti-dumping investigation on imported pork and pork by-products from the European Union,negative,0.644599199295044,-1,1,4,5
+8,chinese,"""Farthest Spacecraft from Earth, Voyager 1, Resumes Transmitting Scientific Data""",neutral,0.7260246872901917,1,1,4,5
+9,chinese,"""One Chinese Citizen Dies in India, Chinese Embassy in India Urges Indian Authorities to Quickly Investigate the Truth""",negative,0.6388150453567505,-1,1,4,5
