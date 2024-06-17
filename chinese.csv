@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-Quality Development Research Tour | Exploring the ""Crown Jewel"" of the Shipbuilding Industry: Domestic LNG Transport Ships Accelerating Towards the Global Market""",positive,0.5449607372283936,2,4,2,4
-1,chinese,"""In the New Era, I am in China | Bangladeshi Entrepreneurs: Doing What I Love in China""",positive,0.525814414024353,2,4,2,4
-2,chinese,"""Record High Monthly Volume for China-Europe Freight Train in May, Revealed by Data""",neutral,0.8211145997047424,1,4,2,4
-3,chinese,"""National Healthcare Security Administration: ""Medical Insurance Rebates"" as an Incentive for Purchasing Medication is a Scam""",negative,0.9097248911857605,-2,4,2,4
-4,chinese,"""Multiple Mass Shootings Occur in the United States, at Least Five Over the Weekend""",neutral,0.6445909142494202,1,4,2,4
-5,chinese,"""Chinese Bridge Storytelling Event: Folk Songs Convey Emotions, World Listens, Foreign Youth Appreciate the Charm of Chinese Ethnic Music""",positive,0.8032291531562805,3,4,2,4
-6,chinese,"""【Chinese Bridge Storytelling Event】Foreign Youth Describe the Beauty of Zhangjiajie's Fairyland with Poetry""",positive,0.5143103003501892,2,4,2,4
-7,chinese,"""Australian Scholar: Sino-Australian Relations Not Smooth Sailing, But Also Not Lacking Resilience""",negative,0.7307131886482239,-2,4,2,4
-8,chinese,"""Continued Recovery and Improvement Trend: China's National Economic Performance in May Released""",neutral,0.6812716722488403,1,4,2,4
-9,chinese,"""High-Quality Development Research Trip | What is the Experience Like When Foreigners Become Your ""Fellow Villagers""?""",neutral,0.6436808705329895,1,4,2,4
+0,chinese,"""High-Quality Development Research Tour | Visiting the ""Crown Jewel"" of the Shipbuilding Industry: Accelerating the Global Journey of Domestic LNG Transport Ships""",positive,0.5102137327194214,2,1,4,5
+1,chinese,"""Where to Find Authoritative Information on Schools? Ministry of Education Launches First Online College Entrance Examination Voluntary Information System""",neutral,0.8162729740142822,1,1,4,5
+2,chinese,"""G7 Group Stirs Up Controversy Regarding China Again, Ministry of Foreign Affairs: Goes Against the Trend of Peaceful Development""",neutral,0.5332918167114258,1,1,4,5
+3,chinese,"""Chinese Coast Guard Implements Control Measures on Philippine Vessels, Foreign Ministry Responds: Professional Restraint, Reasonable and Legal""",neutral,0.552004337310791,1,1,4,5
+4,chinese,Netanyahu announces dissolution of wartime cabinet,negative,0.5157122611999512,-1,1,4,5
+5,chinese,"""US Secretly Conducts Smear Campaign Against Chinese Vaccines, Foreign Ministry: Exposes Its Hegemonic Hypocrisy""",negative,0.875969409942627,-2,1,4,5
+6,chinese,"""73.31 Billion Pieces! Postal Industry Performance Report for January-May Released""",neutral,0.859000563621521,1,1,4,5
+7,chinese,Ministry of Commerce Responds to Anti-Dumping Investigation on Imported Pork and Pork By-Products from the European Union,negative,0.5782508254051208,-1,1,4,5
+8,chinese,"""Farthest Spacecraft from Earth, ""Voyager 1"", Resumes Transmitting Scientific Data""",neutral,0.7349456548690796,1,1,4,5
+9,chinese,"""Chinese Citizen Dies in India, Chinese Embassy Urges Indian Authorities to Quickly Investigate the Truth""",negative,0.6614646315574646,-1,1,4,5
