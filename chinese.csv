@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-Quality Development Research Tour | Visiting the ""Crown Jewel"" of the Shipbuilding Industry: Accelerating the Global Journey of Domestic LNG Transport Ships""",positive,0.5102137327194214,2,2,3,5
-1,chinese,"""Multiple Injuries and Fatalities in Texas Shooting Incident in the United States""",negative,0.7599080801010132,-2,2,3,5
-2,chinese,"""Opportunities in Hong Kong and Macau | A Thrilling Summer on the Artificial Island of the Hong Kong-Zhuhai-Macau Bridge""",neutral,0.607229471206665,1,2,3,5
-3,chinese,"""High-quality Development Research Tour丨Dalian Jinpu New Area: Building a Hydrogen Full Industrial Chain Development Pattern""",neutral,0.7153768539428711,1,2,3,5
-4,chinese,"""Xiamen-Jinmen ""Small Three Links"" Establishes Five Passenger Terminals and Sets Up a Jinmen Hometown Service Station""",neutral,0.6316385865211487,1,2,3,5
-5,chinese,"""14 Jordanian Citizens Die During Pilgrimage in Saudi Arabia, 17 Others Missing""",negative,0.6627358198165894,-1,2,3,5
-6,chinese,"""Beijing Education Commission: Kindergartens, Primary and Secondary Schools to Reduce Outdoor Physical Education Classes During High Temperature Periods""",neutral,0.6628816723823547,1,2,3,5
-7,chinese,"""Iran and Sweden mutually release each other's detained personnel""",negative,0.6009892225265503,-1,2,3,5
-8,chinese,"""Hamas Leader: Response to Gaza Ceasefire Agreement Consistent with UN Security Council Resolution Principles""",neutral,0.7488821744918823,1,2,3,5
-9,chinese,"""Trump seems almost real,"" we stand up for CNN's rights, and the comment section lights up...",positive,0.6029858589172363,2,2,3,5
+0,chinese,"""High-Quality Development Research Tour | Visiting the ""Crown Jewel"" of the Shipbuilding Industry: Accelerating the Globalization of Domestic LNG Transport Ships""",positive,0.5060819387435913,2,3,4,3
+1,chinese,"""Chinese Coast Guard Takes Control Measures Against Illegal Philippine Vessels Entering Ren'ai Reef Waters""",negative,0.5414274334907532,-1,3,4,3
+2,chinese,"""Chinese Women's Volleyball Team Defeats Poland in World Grand Prix, Achieving Four Consecutive Wins""",positive,0.5239693522453308,2,3,4,3
+3,chinese,"""Gaza Health Department: Current Round of Israeli-Palestinian Conflict Has Caused Over 37,300 Deaths in Gaza""",negative,0.6371598243713379,-1,3,4,3
+4,chinese,"""Multiple Casualties in Texas Shooting Incident""",negative,0.6440766453742981,-1,3,4,3
+5,chinese,"""Opportunities in Hong Kong and Macau | Exciting Summer on the Artificial Island of the Hong Kong-Zhuhai-Macau Bridge""",positive,0.644457995891571,2,3,4,3
+6,chinese,"""High-Quality Development Research Trip | Dalian Jinpu New Area: Building a Hydrogen Energy Full Industrial Chain Development Pattern""",neutral,0.5950739979743958,1,3,4,3
+7,chinese,"""Xiamen-Jinmen ""Small Three Links"" Establishes Five Passenger Terminals, Sets Up Jinmen Kinmen Service Station""",neutral,0.7517321705818176,1,3,4,3
+8,chinese,"""14 Jordanian Citizens Die During Hajj in Saudi Arabia, 17 Others Missing""",negative,0.6472111344337463,-1,3,4,3
+9,chinese,"""Beijing Education Commission: Kindergartens, Primary and Secondary Schools to Reduce Outdoor Physical Education Classes During High Temperature Periods""",neutral,0.6628816723823547,1,3,4,3
