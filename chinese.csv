@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-Quality Development Research Trip | Green Factories Turn Waste into Gold: A Hidden ""Forest Oxygen Bar"" in Heavy Industrial Parks""",neutral,0.731948971748352,1,3,2,5
-1,chinese,"""Another New Achievement in Combating Telecom Fraud in Northern Myanmar! 150 Suspects Transferred to Our Side""",neutral,0.5990938544273376,1,3,2,5
-2,chinese,"""US Congressmen Warn: Potential Terrorist Threats in the US Have Reached the Highest Level""",negative,0.7616865634918213,-2,3,2,5
-3,chinese,"""[C Finance] International Community Optimistic about China's Economic Growth Prospects: Multiple International Organizations and Institutions Raise China's Economic Growth Expectations""",positive,0.7300049662590027,3,3,2,5
-4,chinese,"Promoting Cultural Confidence and Self-Strengthening, Let Intangible Cultural Heritage ""Protect"" Well and ""Pass Down"" Continuously",positive,0.655133843421936,2,3,2,5
-5,chinese,"""Dialogue with Millennium Civilization: Popularity of Archaeological Sites and Museums on the Rise""",neutral,0.6779588460922241,1,3,2,5
-6,chinese,"""Crossing 3000 Kilometers: Witnessing How Large-Scale Equipment Heads to the Frontline of Construction""",neutral,0.6568947434425354,1,3,2,5
-7,chinese,"""Industrial Added Value in May Increases by 5.6%, Service Production Index Grows by 4.8% - China's Economy Runs Steadily Overall""",positive,0.5132438540458679,2,3,2,5
-8,chinese,"""National Bureau of Statistics Responds to Hot Topics such as Price and Employment: Prices Expected to Mildly Rise, Employment Foundation Continuously Strengthened""",neutral,0.607568621635437,1,3,2,5
-9,chinese,"""Continuous Heavy Rain in Southern and Jiangnan Regions, National Disaster Relief Headquarters Sends Work Team to Frontline for Rescue""",negative,0.5983400344848633,-1,3,2,5
+0,chinese,"""High-quality Development Research Trip | Green Factory Turns ""Waste"" into Gold, Hidden ""Forest Oxygen Bar"" in Heavy Industrial Parks""",neutral,0.7244821786880493,1,1,2,7
+1,chinese,"""Shandong Weifang Comprehensive Bonded Zone Revitalizes Cross-border E-commerce""",neutral,0.6326670050621033,1,1,2,7
+2,chinese,"""He Chaoqiong discusses Macau's addition of the ""Eastern Cultural Capital"" golden business card: should actively play the role of Macau's cultural exchange platform""",neutral,0.5351887345314026,1,1,2,7
+3,chinese,"""Experience the Fastest Customs Clearance at Hengqin Port, Only 20 Seconds!""",neutral,0.6539668440818787,1,1,2,7
+4,chinese,"""Rain Belt Moves North! The Middle and Lower Reaches of the Yangtze River Will Soon Enter the Period of Concentrated Rainfall""",neutral,0.5762687921524048,1,1,2,7
+5,chinese,"""Corporate Tax ""Backtracking 30 Years""? State Administration of Taxation Responds: Rumor!""",negative,0.5362496972084045,-1,1,2,7
+6,chinese,"""Notice Issued by the General Office of the CPC Central Committee and the General Office of the State Council on the Selection of National Unity and Progress Models Nationwide""",neutral,0.8566157221794128,1,1,2,7
+7,chinese,"""High-Quality Development Research Tour | How Impressive are Giant ""Charging Stations"" in Different Cities?""",positive,0.8480048179626465,3,1,2,7
+8,chinese,"""Ministry of Foreign Affairs: NATO Should Engage in Self-Reflection Instead of Arbitrarily Attacking and Defaming China""",negative,0.7080426216125488,-2,1,2,7
+9,chinese,"""Putin Signs Resolution to Agree on Signing Comprehensive Strategic Partnership Treaty with North Korea""",neutral,0.5658822655677795,1,1,2,7
