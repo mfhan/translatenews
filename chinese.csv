@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-Quality Development Research Tour | Green Factories Turn Waste into Gold: A Hidden ""Oxygen Bar"" in Heavy Industrial Parks""",neutral,0.7752138376235962,1,1,2,7
-1,chinese,"""Industrial Added Value in May Increases by 5.6%, Service Production Index Grows by 4.8% - China's Economy Runs Steadily Overall""",positive,0.5132438540458679,2,1,2,7
-2,chinese,"National Bureau of Statistics Responds to Hot Topics such as Price and Employment: Prices Expected to Mildly Rise, Employment Fundamentals Continuously Strengthened",neutral,0.5961135625839233,1,1,2,7
-3,chinese,"""Continuous Heavy Rain in Southern and Jiangnan Regions, National Disaster Relief Headquarters Sends Work Team to Frontline for Rescue""",negative,0.5983400344848633,-1,1,2,7
-4,chinese,"""US Sells Venezuelan-Owned Oil Company in the US, Venezuelan Government: Robbery""",negative,0.8457841277122498,-2,1,2,7
-5,chinese,"""Countdown to the End of the Month for the Opening of the Shenzhen-Zhongshan Tunnel! A Review of the 7-Year Construction Process""",neutral,0.7376614809036255,1,1,2,7
-6,chinese,"""Second Batch of National Digital Rural Pilot Selection List Announced""",neutral,0.8403599858283997,1,1,2,7
-7,chinese,"""Only 8% of the Fire Under Control, California Wildfires Continue to Spread""",neutral,0.5369104743003845,1,1,2,7
-8,chinese,Where to Find Authoritative Information on Schools? Ministry of Education Launches First High School Entrance Examination Voluntary Information System Online,neutral,0.8249685764312744,1,1,2,7
-9,chinese,"""G7 Group Stirs Up Controversy on China-related Issues Again, Ministry of Foreign Affairs: Goes Against the Trend of Peaceful Development""",neutral,0.5156524181365967,1,1,2,7
+0,chinese,"""High-Quality Development Research Trip | Green Factories Turn Waste into Gold: A Hidden ""Forest Oxygen Bar"" in Heavy Industrial Parks""",neutral,0.731948971748352,1,3,2,5
+1,chinese,"""Another New Achievement in Combating Telecom Fraud in Northern Myanmar! 150 Suspects Transferred to Our Side""",neutral,0.5990938544273376,1,3,2,5
+2,chinese,"""US Congressmen Warn: Potential Terrorist Threats in the US Have Reached the Highest Level""",negative,0.7616865634918213,-2,3,2,5
+3,chinese,"""[C Finance] International Community Optimistic about China's Economic Growth Prospects: Multiple International Organizations and Institutions Raise China's Economic Growth Expectations""",positive,0.7300049662590027,3,3,2,5
+4,chinese,"Promoting Cultural Confidence and Self-Strengthening, Let Intangible Cultural Heritage ""Protect"" Well and ""Pass Down"" Continuously",positive,0.655133843421936,2,3,2,5
+5,chinese,"""Dialogue with Millennium Civilization: Popularity of Archaeological Sites and Museums on the Rise""",neutral,0.6779588460922241,1,3,2,5
+6,chinese,"""Crossing 3000 Kilometers: Witnessing How Large-Scale Equipment Heads to the Frontline of Construction""",neutral,0.6568947434425354,1,3,2,5
+7,chinese,"""Industrial Added Value in May Increases by 5.6%, Service Production Index Grows by 4.8% - China's Economy Runs Steadily Overall""",positive,0.5132438540458679,2,3,2,5
+8,chinese,"""National Bureau of Statistics Responds to Hot Topics such as Price and Employment: Prices Expected to Mildly Rise, Employment Foundation Continuously Strengthened""",neutral,0.607568621635437,1,3,2,5
+9,chinese,"""Continuous Heavy Rain in Southern and Jiangnan Regions, National Disaster Relief Headquarters Sends Work Team to Frontline for Rescue""",negative,0.5983400344848633,-1,3,2,5
