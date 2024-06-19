@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-Quality Development Research Trip | Green Factory Turns ""Waste"" into Gold, Hidden ""Forest Oxygen Bar"" in Heavy Industrial Park""",neutral,0.7134060859680176,1,2,1,7
-1,chinese,"""Shandong Weifang Comprehensive Bonded Zone Revitalizes with New Energy in Cross-border E-commerce""",neutral,0.5967438817024231,1,2,1,7
-2,chinese,"""He Chaoqiong discusses Macau's addition of the ""East Asian Cultural Capital"" golden business card: should actively play the role of Macau's cultural exchange platform""",neutral,0.5287632346153259,1,2,1,7
-3,chinese,"""Hengqin Port Offers Ultra-Fast Customs Clearance Experience, As Fast As 20 Seconds!""",positive,0.5134426355361938,2,2,1,7
-4,chinese,"""Maximum temperature could reach 35℃-36℃! Beijing issues yellow alert for high temperatures""",neutral,0.4881875216960907,1,2,1,7
-5,chinese,"""Companies Being Investigated for Tax Payments from 30 Years Ago? State Administration of Taxation Responds: Rumors!""",neutral,0.721089780330658,1,2,1,7
-6,chinese,"""Rain Belt Shifts North! The Middle and Lower Reaches of the Yangtze River Will Soon Enter the Peak Rainfall Period""",neutral,0.5968621373176575,1,2,1,7
-7,chinese,"""Notice Issued by the General Office of the CPC Central Committee and the General Office of the State Council on the Selection and Evaluation of National Unity and Progress Models Nationwide""",neutral,0.8604931831359863,1,2,1,7
-8,chinese,"""High-Quality Development Research Trip | How Powerful are Urban Giant ""Power Banks"" with Different ""Vanadium"" Effects?""",positive,0.6181250810623169,2,2,1,7
-9,chinese,"""Ministry of Foreign Affairs: NATO Should Engage in Self-Reflection Instead of Arbitrarily Attacking and Slandering China""",negative,0.7117701768875122,-2,2,1,7
+0,chinese,"""High-Quality Development Research Trip | Green Factories Turn Waste into Gold, Hidden ""Forest Oxygen Bar"" in Heavy Industrial Parks""",neutral,0.7207595109939575,1,2,0,8
+1,chinese,"""Establishment of the International Monetary Fund Shanghai Regional Center""",neutral,0.9017338156700134,1,2,0,8
+2,chinese,"""2024 College Graduates Employment and Entrepreneurship ""Policy Promotion Month"" Activities to be Launched in June""",neutral,0.7346036434173584,1,2,0,8
+3,chinese,"""Rubber Boat Becomes ""Lifeboat"" They Respond to Floods and Deal with Dangerous Situations""",neutral,0.6262690424919128,1,2,0,8
+4,chinese,"""US 2024 Fiscal Year Budget Deficit Forecast Increased by 27% to Approximately $1.9 Trillion""",neutral,0.6894849538803101,1,2,0,8
+5,chinese,Debut! 5 New Stations Fully Completed,positive,0.5096621513366699,2,2,0,8
+6,chinese,"""College Entrance Examination Enrollment, How to Provide Better Public Services?""",neutral,0.819961667060852,1,2,0,8
+7,chinese,"""Swedish Parliament Approves Defense Cooperation Agreement Allowing US Military to Use All Military Bases in the Country""",neutral,0.4660816192626953,1,2,0,8
+8,chinese,"""National Development and Reform Commission: Actively Consolidating and Enhancing the Positive Trend of Economic Recovery""",positive,0.7020686864852905,3,2,0,8
+9,chinese,"Ministry of Agriculture and Rural Affairs: National ""Three Summer"" Wheat Harvesting Task Basically Completed",neutral,0.6987782120704651,1,2,0,8
