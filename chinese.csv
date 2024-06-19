@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""South Korean exchange student Shen Wenxie in China: Witnessing China's 10-year tremendous changes, singing praises of the ""Belt and Road"" through music""",positive,0.48944878578186035,2,4,1,5
-1,chinese,"""People's Bank of China: China to Further Improve Market-based Interest Rate Control Mechanism""",neutral,0.49322956800460815,1,4,1,5
-2,chinese,"""China Meteorological Administration: Yangtze River Middle and Lower Reaches and Jianghuai Region Enter Plum Rain Season Successively""",neutral,0.5443047285079956,1,4,1,5
-3,chinese,"""Former Malaysian Ambassador to China: Mutual Benefit and Win-Win Cooperation Bring Development Momentum""",positive,0.5745297074317932,2,4,1,5
-4,chinese,"""China's First Industrial Nuclear Power Generation Project Completed and Put into Operation""",positive,0.523183286190033,2,4,1,5
-5,chinese,"""Promoting High-Quality Development: State Administration for Market Regulation: Striving to Ensure the General Public Can Shop Online with Confidence, Clarity, and Peace of Mind""",positive,0.5903294086456299,2,4,1,5
-6,chinese,"""The ""Du Fu Complex"" of the British Documentary Master""",neutral,0.7216224074363708,1,4,1,5
-7,chinese,"""Doubts and ""noise"" cannot stop the pace of cooperation between New Zealand and China""",negative,0.5718387365341187,-1,4,1,5
-8,chinese,"""Establishment of International Monetary Fund Shanghai Regional Center""",neutral,0.9021229147911072,1,4,1,5
-9,chinese,"""2024 University Graduates Employment and Entrepreneurship ""Policy Promotion Month"" Activity to be Launched in June""",neutral,0.7313953042030334,1,4,1,5
+0,chinese,"""South Korean exchange student Shen Wenxie in China: Witnessing China's tremendous changes over the past decade, singing praises of the ""Belt and Road"" through music""",positive,0.5019493699073792,2,2,4,4
+1,chinese,Ministry of Finance Allocates 916 Million Yuan for Flood Relief Funds,neutral,0.612569272518158,1,2,4,4
+2,chinese,"""69 trapped people evacuated! Guilin, Guangxi experiences largest flood peak since 1998""",negative,0.8397952318191528,-2,2,4,4
+3,chinese,"""South Korea's Supreme Court Rejects Medical Community's Request to Halt Expansion of Medical University Admissions""",negative,0.5838513374328613,-1,2,4,4
+4,chinese,"""Death rate reaches 30%! What is the ""cannibal bacteria"" that has broken out in Japan?""",negative,0.875919759273529,-2,2,4,4
+5,chinese,"""First Look Revealed! Chinese Coast Guard Inspects Philippine Vessels""",neutral,0.7333735823631287,1,2,4,4
+6,chinese,"""Ministry of Foreign Affairs: Urges the Philippines to Immediately Cease Provocative Actions of Infringement""",negative,0.7183259725570679,-2,2,4,4
+7,chinese,"""National Anti-Drug Office Announces Top 10 Typical Cases of Drug Prohibition Work Since 2023 Today""",neutral,0.6451207995414734,1,2,4,4
+8,chinese,"""Two departments pre-allocate 346 million yuan to support local efforts in flood prevention, drought resistance, and geological disaster relief work""",neutral,0.45740318298339844,1,2,4,4
+9,chinese,"""Zheng Qianwen Wins Against Osaka Naomi Again, Sets New Record for Most Aces in a Single Match""",positive,0.5673147439956665,2,2,4,4
