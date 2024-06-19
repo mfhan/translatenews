@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""South Korean exchange student Shen Wenxie in China: Witnessing China's tremendous changes over the past decade, singing praises of the ""Belt and Road"" through music""",positive,0.5019493699073792,2,2,4,4
-1,chinese,Ministry of Finance Allocates 916 Million Yuan for Flood Relief Funds,neutral,0.612569272518158,1,2,4,4
-2,chinese,"""69 trapped people evacuated! Guilin, Guangxi experiences largest flood peak since 1998""",negative,0.8397952318191528,-2,2,4,4
-3,chinese,"""South Korea's Supreme Court Rejects Medical Community's Request to Halt Expansion of Medical University Admissions""",negative,0.5838513374328613,-1,2,4,4
-4,chinese,"""Death rate reaches 30%! What is the ""cannibal bacteria"" that has broken out in Japan?""",negative,0.875919759273529,-2,2,4,4
-5,chinese,"""First Look Revealed! Chinese Coast Guard Inspects Philippine Vessels""",neutral,0.7333735823631287,1,2,4,4
-6,chinese,"""Ministry of Foreign Affairs: Urges the Philippines to Immediately Cease Provocative Actions of Infringement""",negative,0.7183259725570679,-2,2,4,4
-7,chinese,"""National Anti-Drug Office Announces Top 10 Typical Cases of Drug Prohibition Work Since 2023 Today""",neutral,0.6451207995414734,1,2,4,4
-8,chinese,"""Two departments pre-allocate 346 million yuan to support local efforts in flood prevention, drought resistance, and geological disaster relief work""",neutral,0.45740318298339844,1,2,4,4
-9,chinese,"""Zheng Qianwen Wins Against Osaka Naomi Again, Sets New Record for Most Aces in a Single Match""",positive,0.5673147439956665,2,2,4,4
+0,chinese,"""Pakistani Student Wu Junlang in China: Feeling Safe and Prosperous, Willing to Be a Cultural Ambassador for Exchange""",positive,0.7364950776100159,3,1,5,4
+1,chinese,"""Former US Intelligence Official: America Treats the Philippines as a ""Tool"" Rather than a Friend""",negative,0.6364849805831909,-1,1,5,4
+2,chinese,"""Ministry of Finance allocates 916 million yuan for water conservancy disaster relief""",neutral,0.46852633357048035,1,1,5,4
+3,chinese,"""69 Trapped People Evacuated! Guilin, Guangxi Hit by the Largest Flood Since 1998""",negative,0.8129141926765442,-2,1,5,4
+4,chinese,"""South Korea's Supreme Court Rejects Medical Community's Request to Halt Expansion of Medical University Admissions""",negative,0.5838513374328613,-1,1,5,4
+5,chinese,"""Death rate reaches 30%! What is the ""cannibal bacteria"" that has erupted in Japan?""",negative,0.849120020866394,-2,1,5,4
+6,chinese,"""First Look Revealed! Chinese Coast Guard Inspects Philippine Vessels""",neutral,0.7333735823631287,1,1,5,4
+7,chinese,"""Ministry of Foreign Affairs: Urges the Philippines to Immediately Cease Provocative Acts of Violation""",negative,0.6906887888908386,-1,1,5,4
+8,chinese,"""National Anti-Drug Office Announces Top 10 Typical Drug Prohibition Cases Since 2023 Today""",neutral,0.597594141960144,1,1,5,4
+9,chinese,"""Two Departments Allocate 346 Million Yuan to Support Local Efforts in Flood Prevention, Drought Resistance, and Geological Disaster Relief""",neutral,0.5163987278938293,1,1,5,4
