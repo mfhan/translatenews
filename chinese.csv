@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Pakistani Student Wu Junlang in China: Experiencing Safety and Prosperity, Willing to be a Cultural Ambassador for Exchange""",positive,0.5533546209335327,2,4,3,3
-1,chinese,"""China Welcomes Afghan Youth to Confucius' Hometown: Chinese Culture is Vast and Profound""",positive,0.7842451930046082,3,4,3,3
-2,chinese,"""China has an appointment｜Spanish exchange student: Started learning Confucian philosophy in their third year""",neutral,0.6857478022575378,1,4,3,3
-3,chinese,"""China Invites | British Journalist Praises Shandong: Everyone Should Come and See""",positive,0.4705013334751129,2,4,3,3
-4,chinese,"""Ministry of Foreign Affairs: Urges the Philippines to Immediately Cease Maritime Provocations, Otherwise Consequences Will Be At Their Own Risk""",negative,0.8428981304168701,-2,4,3,3
-5,chinese,"""China and Malaysia mutually extend visa-free policy""",positive,0.5102422833442688,2,4,3,3
-6,chinese,Central Bank: Total Assets of Financial Institutions at the End of the First Quarter Reached 47.649 Trillion Yuan,neutral,0.782487154006958,1,4,3,3
-7,chinese,"Ministry of Foreign Affairs: The US's insistence on ""using force to aid separatism"" will only backfire and end in failure.",negative,0.912330687046051,-2,4,3,3
-8,chinese,"""Ministry of Commerce: US Insistence on Maintaining and Increasing 301 Tariffs on China is a Typical Political Manipulation""",negative,0.8776901364326477,-2,4,3,3
-9,chinese,"""148.88 Meters! Record-Breaking Flood Occurs in the Guiliu Section of the Guijiang River in Guangxi""",neutral,0.521080493927002,1,4,3,3
+0,chinese,"""Pakistani Student Wu Junlang in China: Experiencing Safety and Prosperity, Willing to be a Cultural Ambassador for Exchange""",positive,0.5533546209335327,2,3,3,4
+1,chinese,"""China Welcomes Afghan Young Man to Confucius' Hometown: Chinese Culture is Vast and Profound""",positive,0.7850492596626282,3,3,3,4
+2,chinese,"""China's Appointment | Spanish Exchange Student: Introduced to Confucian Philosophy in Junior Year""",neutral,0.765937864780426,1,3,3,4
+3,chinese,"""China's Invitation | British Journalist Praises Shandong: Everyone Should Come and See""",positive,0.5554611682891846,2,3,3,4
+4,chinese,"""Ministry of Foreign Affairs: Urges Philippine Side to Immediately Cease Maritime Infringement Provocations, Otherwise Will Bear Consequences""",negative,0.670315682888031,-1,3,3,4
+5,chinese,"""China and Malaysia Extend Mutual Visa-Free Policy""",neutral,0.596376359462738,1,3,3,4
+6,chinese,"""Central Bank: Total Assets of Financial Institutions at the End of the First Quarter Reached 47.649 Trillion Yuan""",neutral,0.8030489087104797,1,3,3,4
+7,chinese,"Ministry of Foreign Affairs: The US's insistence on ""using force to aid separatism"" will only backfire and end in failure.",negative,0.912330687046051,-2,3,3,4
+8,chinese,"""Ministry of Commerce: US Insistence on Maintaining and Increasing 301 Tariffs on China is a Typical Political Manipulation""",negative,0.8776901364326477,-2,3,3,4
+9,chinese,"""148.88 Meters! Record-Breaking Flood Occurs in the Guilin Section of the Guijiang River in Guangxi Province""",neutral,0.5280958414077759,1,3,3,4
