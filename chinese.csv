@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Pakistani Student in China, Wu Junlang: Experiencing Safety and Prosperity in China, Willing to be a Cultural Ambassador""",positive,0.4892318546772003,2,1,5,4
-1,chinese,"""Military Enthusiasts Use Drones to Film High-Definition New Warship, Receive Punishment - These Flying Taboos You Must Know""",negative,0.8895794749259949,-2,1,5,4
-2,chinese,"""Wildfires in New Mexico, USA Continue, Thousands of People Urgently Evacuated""",negative,0.7857145071029663,-2,1,5,4
-3,chinese,"""China Speaks Out Against Double Standards at the United Nations Human Rights Council""",neutral,0.6504648923873901,1,1,5,4
-4,chinese,"""Entering the Plum Rain Season! China's Main Rain Belt Shifts to the Middle and Lower Reaches of the Yangtze River, Severe Flood Prevention Situation""",neutral,0.6622827053070068,1,1,5,4
-5,chinese,"""Current Round of Israeli-Palestinian Conflict Has Resulted in 37,396 Deaths in Gaza Strip""",negative,0.6552297472953796,-1,1,5,4
-6,chinese,"""Go See the Paris Olympics! Things to Know About Ticketing""",neutral,0.7338210940361023,1,1,5,4
-7,chinese,"""Former US Intelligence Officer: America Treats Philippines as a ""Tool"" Instead of a Friend""",negative,0.6821114420890808,-1,1,5,4
-8,chinese,"""Ministry of Finance Allocates 916 Million Yuan for Water Conservancy Disaster Relief""",neutral,0.653342604637146,1,1,5,4
-9,chinese,"""69 Trapped Civilians Evacuated! Guilin, Guangxi Suffers Largest Flood Since 1998""",negative,0.7970910668373108,-2,1,5,4
+0,chinese,"""Pakistani Student Wu Junlang in China: Experiencing Safety and Prosperity, Willing to be a Cultural Ambassador for Exchange""",positive,0.5533546209335327,2,3,4,3
+1,chinese,"""Highlights to Look Forward to at the 2024 World Artificial Intelligence Conference Opening on July 4th""",positive,0.6509193778038025,2,3,4,3
+2,chinese,Debt Out of Control: US Federal Deficit to Significantly Increase in the Next Ten Years,negative,0.6366997361183167,-1,3,4,3
+3,chinese,"""Shanghai Police: Two individuals detained for fabricating rumors of stabbing at Zhongshan Park subway station and sharing false video of subway violence""",negative,0.7858132719993591,-2,3,4,3
+4,chinese,"""China's First Shale Oil Hydraulic Fracturing Test Site Officially Completed""",neutral,0.6652991771697998,1,3,4,3
+5,chinese,"""High-Quality Development Research Trip | Adding ""Intelligence"" Wings, Traditional Brands Create Chinese ""Heart""""",positive,0.5470470190048218,2,3,4,3
+6,chinese,"""Military Enthusiasts Use Drones to Film High-Definition New Warship, Receives Punishment - These Flying Taboos You Must Know""",negative,0.8922363519668579,-2,3,4,3
+7,chinese,"""Wildfires in New Mexico, USA Continue, Thousands of People Evacuated Urgently""",negative,0.7880107164382935,-2,3,4,3
+8,chinese,"""China Speaks Out Against Double Standards at the United Nations Human Rights Council""",neutral,0.6504648923873901,1,3,4,3
+9,chinese,"""Entering the Plum Rain Season! China's Main Rain Belt Shifts to the Middle and Lower Reaches of the Yangtze River, Severe Flood Prevention Situation""",neutral,0.6622827053070068,1,3,4,3
