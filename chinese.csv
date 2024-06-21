@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Ministry of Foreign Affairs: Advising the Philippine side to immediately stop its infringement and provocative actions,negative,0.547320544719696,-1,3,7,0
-1,chinese,"""Former Presidential Advisor of Costa Rica: EU's Implementation of Protectionism Will Only Backfire""",negative,0.8456884622573853,-2,3,7,0
-2,chinese,"""Debate and Reasoning | Urging Allies to Board the ""Thief Ship"", US Implements Heavy Obstacles for Chip Ban""",negative,0.8136531710624695,-2,3,7,0
-3,chinese,"""China Ranks First in the World for Number of Geoparks""",positive,0.4818520247936249,2,3,7,0
-4,chinese,"""Armenia Recognizes Palestine as a Country""",positive,0.5232107639312744,2,3,7,0
-5,chinese,"""[C Finance] National Energy Administration: China's New Energy Industry Does Not Have the So-Called ""Overcapacity"" Issue""",negative,0.5597100257873535,-1,3,7,0
-6,chinese,Interference in internal affairs and provocation of confrontation fully reveal hypocrisy and hegemony.,negative,0.8689144849777222,-2,3,7,0
-7,chinese,"""Will the tense situation in Libya escalate into a full-scale war?""",negative,0.7494308352470398,-2,3,7,0
-8,chinese,"""Australian Scholar: US Dominance in West Asia Geopolitics for Decades Only Brings War and Destruction""",negative,0.877942681312561,-2,3,7,0
-9,chinese,"""American College Student: Shanghai's Development is Astonishing""",positive,0.7313984632492065,3,3,7,0
+0,chinese,Ministry of Agriculture and Rural Affairs: Stabilizing the Development of Beef Cattle Production,positive,0.607914924621582,2,5,4,1
+1,chinese,"""First Batch of Infrastructure Publicly Offered REITs Listed for Three Years - China's Public REITs Market Improves and Expands to New Heights""",positive,0.7105690240859985,3,5,4,1
+2,chinese,"""Debating Protectionism: How Protectionism is Hindering the EU's Green Transformation""",negative,0.8818239569664001,-2,5,4,1
+3,chinese,"""President of Rolls-Royce Greater China: Must Invest in China to Meet Future Market Demands""",neutral,0.6006044745445251,1,5,4,1
+4,chinese,"""President of University of International Business and Economics, Zhao Zhongxiu: Accusing China of Excess Production Capacity Hinders Developing Countries from Enjoying High-Quality Products""",positive,0.46839025616645813,2,5,4,1
+5,chinese,Ministry of Foreign Affairs: Advises the Philippines to immediately stop infringing and provocative actions.,negative,0.6356529593467712,-1,5,4,1
+6,chinese,"""Former Costa Rican President's Advisor: EU's Implementation of Protectionism Will Only Backfire""",negative,0.8504294753074646,-2,5,4,1
+7,chinese,"""Reasoning and Discussion | Calling on Allies to Board the ""Thief Ship"", US Implements Heavy Obstacles on Chip Ban""",negative,0.8208568096160889,-2,5,4,1
+8,chinese,"""China Tops the World in Number of Geoparks""",positive,0.6692365407943726,2,5,4,1
+9,chinese,"""Armenia Recognizes Palestine as a Country""",positive,0.5232107639312744,2,5,4,1
