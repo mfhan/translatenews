@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Exclusive: Four Chinese STEM students harassed and interrogated by US authorities, one person out of contact for over 30 hours.",negative,0.8390415906906128,-2,0,8,2
-1,chinese,"""Creative Works Collection Activity for ""National Trend in Cultural Relics"" Begins!""",neutral,0.5352455973625183,1,0,8,2
-2,chinese,"""Explosion at Indian Factory Leaves 9 Dead""",negative,0.7783742547035217,-2,0,8,2
-3,chinese,"""US Shuts Down Russian Visa Centers in Washington and New York""",negative,0.7538851499557495,-2,0,8,2
-4,chinese,"""Nansha Lixinsha Bridge in Guangzhou resumes traffic today""",neutral,0.7990702390670776,1,0,8,2
-5,chinese,"""Gunshot Incident Occurs at a Shopping Center in Melbourne, Australia""",negative,0.5135534405708313,-1,0,8,2
-6,chinese,"""55 people dead in fake alcohol poisoning incident in Tamil Nadu, India""",negative,0.7791571021080017,-2,0,8,2
-7,chinese,"""Double Warnings Issued: Many Areas to Experience Heavy Rain, Thunderstorms, and Strong Convection Weather""",negative,0.5403530597686768,-1,0,8,2
-8,chinese,"""Two Agricultural Planes Collide in Idaho, USA, Resulting in 1 Death and 1 Injury""",negative,0.6977105140686035,-1,0,8,2
-9,chinese,"""Death Toll Rises to 12 in Southeastern Turkey Wildfires""",negative,0.6692485809326172,-1,0,8,2
+0,chinese,"""International Olympic Committee Holds Olympic Day Celebration Event""",neutral,0.8414717316627502,1,0,6,4
+1,chinese,"Exclusive: Four Chinese STEM students harassed and interrogated by US authorities, one person out of contact with the outside world for over 30 hours.",negative,0.8515273332595825,-2,0,6,4
+2,chinese,"""Creative Works Collection Event for ""National Trend in Cultural Relics"" Begins Now!""",neutral,0.6931296586990356,1,0,6,4
+3,chinese,"""Explosion at an Indian Factory Results in 9 Deaths""",negative,0.7832163572311401,-2,0,6,4
+4,chinese,"""US Closes Russian Visa Centers in Washington and New York""",neutral,0.622094452381134,1,0,6,4
+5,chinese,"""Nansha Lixinsha Bridge in Guangzhou resumes traffic today""",neutral,0.7990702390670776,1,0,6,4
+6,chinese,"""Gunshot Incident Occurs at a Shopping Center in Melbourne, Australia""",negative,0.5135534405708313,-1,0,6,4
+7,chinese,"""55 People Dead in India's Tamil Nadu State Due to Fake Alcohol Poisoning Incident""",negative,0.7650192975997925,-2,0,6,4
+8,chinese,"""Double Warnings Issued: Many Areas to Experience Severe Convective Weather such as Heavy Rain, Thunderstorms, and Strong Winds""",negative,0.545404314994812,-1,0,6,4
+9,chinese,"""Two Agricultural Planes Collide in Idaho, USA, Resulting in 1 Death and 1 Injury""",negative,0.6977105140686035,-1,0,6,4
