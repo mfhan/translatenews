@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Creative Planning Project ""National Trend in Cultural Relics"" Released in Yangzhou""",neutral,0.8397102355957031,1,0,5,5
-1,chinese,"""Continuing the Unresolved Fate - Xi Jinping's American ""Landlord"", Brings a Group of High School Students to China""",negative,0.7633863091468811,-2,0,5,5
-2,chinese,"""Philippines, Wake Up from Being a ""Tool""""",negative,0.4602004885673523,-1,0,5,5
-3,chinese,"""Long-standing Legacy - A Hand-drawn Scroll Depicting the Grand Canal of China""",neutral,0.6022239327430725,1,0,5,5
-4,chinese,"""The Debut of ""National Trend in Cultural Relics"": Hand-drawn Scroll of ""Long-standing and Far-reaching - A Comic Journey of China's Grand Canal"" Launched with Great Fanfare""",neutral,0.5716409683227539,1,0,5,5
-5,chinese,"""The International Olympic Committee Holds Olympic Day Celebration Event""",neutral,0.8374784588813782,1,0,5,5
-6,chinese,"Exclusive: Four Chinese STEM students harassed and interrogated by US authorities, one person out of contact with the outside world for over 30 hours.",negative,0.8515273332595825,-2,0,5,5
-7,chinese,"""Creative Works Collection Event for ""National Trend in Cultural Relics"" Begins Now!""",neutral,0.6931296586990356,1,0,5,5
-8,chinese,"""Explosion at Indian Factory Leaves 9 Dead""",negative,0.7783742547035217,-2,0,5,5
-9,chinese,"""US Shuts Down Russian Visa Centers in Washington and New York""",negative,0.7538851499557495,-2,0,5,5
+0,chinese,Journalist's Notes: China and Foreign Countries Join Hands to Paint the Vast Starry Sea Together,positive,0.5539606213569641,2,5,2,3
+1,chinese,"""Death toll from consuming fake alcohol rises to 54 in southern India""",negative,0.7689597010612488,-2,5,2,3
+2,chinese,"""New Productivity Injects New Energy into Achieving UN Sustainable Development Goals - Interview with Former UN Deputy Secretary-General Solheim""",positive,0.6272268295288086,2,5,2,3
+3,chinese,"""Preventing Mold, Protecting Grain, Reducing Losses: Granules Return to Warehouse for Safety""",neutral,0.5264860987663269,1,5,2,3
+4,chinese,"""Multiple regions accelerate the creation of new hotspots for foreign investment""",positive,0.7915722727775574,3,5,2,3
+5,chinese,"""International Observation | Anti-China Stance at Every Opportunity, Inviting Ridicule from the World - Exposing the Deception of the US ""External Threat Theory""""",negative,0.9314683079719543,-2,5,2,3
+6,chinese,"""How High is Yangzhou's Poetry Content?""",neutral,0.8187711238861084,1,5,2,3
+7,chinese,"""National Sports Celebrate the Olympics: 38th Olympic Day Activities Begin""",positive,0.517114520072937,2,5,2,3
+8,chinese,"""Why is the museum so popular? Zheng Jing, director of the Yangzhou China Grand Canal Museum, says that the audience's experience is the most important.""",positive,0.4678560197353363,2,5,2,3
+9,chinese,"""Creative Planning Project ""National Trend in Cultural Relics"" Released in Yangzhou""",neutral,0.8397102355957031,1,5,2,3
