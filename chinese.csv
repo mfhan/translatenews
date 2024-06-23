@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Long-standing Legacy - A Hand-drawn Scroll of the Grand Canal in China""",neutral,0.6744400262832642,1,0,5,5
-1,chinese,"""The Debut of ""National Trend in Cultural Relics"": Hand-Drawn Scroll of ""The Long History of the Grand Canal of China"" Launched with Grandeur""",neutral,0.5686072707176208,1,0,5,5
-2,chinese,"""International Olympic Committee Holds Olympic Day Celebration Event""",neutral,0.8414717316627502,1,0,5,5
-3,chinese,"Exclusive: Four Chinese STEM students harassed and investigated by US authorities, one person out of contact with the outside world for over 30 hours.",negative,0.8351816534996033,-2,0,5,5
-4,chinese,"""Creative Works Collection Activity for ""National Trend in Cultural Relics"" Begins Now!""",neutral,0.5590206384658813,1,0,5,5
-5,chinese,"""Explosion at Indian Factory Kills 9 People""",negative,0.7946592569351196,-2,0,5,5
-6,chinese,"""US Shuts Down Russian Visa Centers in Washington and New York""",negative,0.7538851499557495,-2,0,5,5
-7,chinese,"""Guangzhou Nansha Lixinsha Bridge resumes traffic today""",neutral,0.7593911290168762,1,0,5,5
-8,chinese,"""Gunshot Incident Occurs at a Shopping Center in Melbourne, Australia""",negative,0.5135534405708313,-1,0,5,5
-9,chinese,"""55 people dead in India's Tamil Nadu fake alcohol poisoning incident""",negative,0.8217605352401733,-2,0,5,5
+0,chinese,"""Creative Planning Project ""National Trend in Cultural Relics"" Released in Yangzhou""",neutral,0.8397102355957031,1,0,5,5
+1,chinese,"""Continuing the Unresolved Fate - Xi Jinping's American ""Landlord"", Brings a Group of High School Students to China""",negative,0.7633863091468811,-2,0,5,5
+2,chinese,"""Philippines, Wake Up from Being a ""Tool""""",negative,0.4602004885673523,-1,0,5,5
+3,chinese,"""Long-standing Legacy - A Hand-drawn Scroll Depicting the Grand Canal of China""",neutral,0.6022239327430725,1,0,5,5
+4,chinese,"""The Debut of ""National Trend in Cultural Relics"": Hand-drawn Scroll of ""Long-standing and Far-reaching - A Comic Journey of China's Grand Canal"" Launched with Great Fanfare""",neutral,0.5716409683227539,1,0,5,5
+5,chinese,"""The International Olympic Committee Holds Olympic Day Celebration Event""",neutral,0.8374784588813782,1,0,5,5
+6,chinese,"Exclusive: Four Chinese STEM students harassed and interrogated by US authorities, one person out of contact with the outside world for over 30 hours.",negative,0.8515273332595825,-2,0,5,5
+7,chinese,"""Creative Works Collection Event for ""National Trend in Cultural Relics"" Begins Now!""",neutral,0.6931296586990356,1,0,5,5
+8,chinese,"""Explosion at Indian Factory Leaves 9 Dead""",negative,0.7783742547035217,-2,0,5,5
+9,chinese,"""US Shuts Down Russian Visa Centers in Washington and New York""",negative,0.7538851499557495,-2,0,5,5
