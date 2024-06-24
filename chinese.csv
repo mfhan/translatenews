@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[Video] French People in Dalian Davos: Feeling the Inseparable Connection between China and World Development""",positive,0.5508484840393066,2,4,2,4
-1,chinese,Chinese Citizen Dies in South Korean Battery Factory Fire,negative,0.7508216500282288,-2,4,2,4
-2,chinese,"""More than 20 People Killed in South Korean Battery Factory Fire""",negative,0.7128153443336487,-2,4,2,4
-3,chinese,"""Canadian Business Leaders as ""China Experts"": China Provides Tremendous Opportunities for Multinational Companies""",positive,0.8472939133644104,3,4,2,4
-4,chinese,"""【CityDance: Tale of Two Cities】Shanghai-Milan""",neutral,0.9033775925636292,1,4,2,4
-5,chinese,"""Wuzhen Launches Ancient Town Summer Festival""",neutral,0.8506951332092285,1,4,2,4
-6,chinese,"""What is the potential of the new round of large-scale industrial equipment updates?""",neutral,0.7538236975669861,1,4,2,4
-7,chinese,"""2024 National Highest Science and Technology Award Recipient Xue Qikun: On the Road to Climbing the Peak of Science, I am Extremely Happy and Work Extremely Hard""",positive,0.9003304243087769,3,4,2,4
-8,chinese,"""Dialogue and Negotiation: The Best Approach to Avoid Trade Frictions between China and Europe""",neutral,0.5449279546737671,1,4,2,4
-9,chinese,"""Li Deren and Xue Qikun Win the 2023 National Highest Science and Technology Award""",positive,0.6109939217567444,2,4,2,4
+0,chinese,"""[Video] French People in Dalian Davos: Feeling the Inseparable Connection between China and World Development""",positive,0.5508484840393066,2,3,3,4
+1,chinese,"""Ministry of Commerce: Strongly Concerned and Firmly Opposed to US's Proposed Rules on Investment Restrictions towards China""",negative,0.5061869621276855,-1,3,3,4
+2,chinese,"""China's Gift of Crested Ibises ""Youyou"" and ""Yangyang"" Arrive in Japan for 25th Anniversary Commemoration Conference in Niigata""",neutral,0.4757172763347626,1,3,3,4
+3,chinese,"""Chinese Citizen Dies in South Korean Battery Factory Fire""",negative,0.7150697708129883,-2,3,3,4
+4,chinese,"""More than 20 people killed in South Korean battery factory fire""",negative,0.7194499373435974,-2,3,3,4
+5,chinese,"""Canadian Business Leaders as ""China Experts"": China Offers Tremendous Opportunities for Multinational Corporations""",positive,0.8096786141395569,3,3,3,4
+6,chinese,"""【CityDance: Tale of Two Cities】Shanghai - Milan""",neutral,0.9020552039146423,1,3,3,4
+7,chinese,"""Wuzhen Kicks Off Ancient Town Summer Festival""",neutral,0.8206303119659424,1,3,3,4
+8,chinese,"""What is the potential of the new round of large-scale industrial equipment updates?""",neutral,0.7538236975669861,1,3,3,4
+9,chinese,"""2024 National Highest Science and Technology Award Recipient Xue Qikun: On the Road to Conquering Scientific Peaks, I am Extremely Happy and Diligent""",positive,0.914466142654419,3,3,3,4
