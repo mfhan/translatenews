@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Largest Offshore Self-Operated Oilfield Achieves Crude Oil Production of Over 100 Million Tons""",positive,0.6960927844047546,2,5,2,3
-1,chinese,"""Japanese Public Opinion Survey: Only 10% of Respondents Hope for Prime Minister Fumio Kishida to Continue in Office""",neutral,0.4685531258583069,1,5,2,3
-2,chinese,China Successfully Completes First 10-Kilometer Vertical Takeoff and Landing Flight Test of Reusable Launch Vehicle,neutral,0.5320802927017212,1,5,2,3
-3,chinese,"""Portuguese Official: Great Potential for Economic and Trade Cooperation between Portugal and China""",positive,0.850746214389801,3,5,2,3
-4,chinese,"""Reporter's Notes: Joining Hands with Foreign Countries to Paint the Vast Ocean of Stars Together""",positive,0.4900398552417755,2,5,2,3
-5,chinese,"""Death Toll Rises to 54 in South India from Consumption of Fake Alcohol""",negative,0.6447269916534424,-1,5,2,3
-6,chinese,"""New Productive Forces Inject New Momentum into Achieving UN Sustainable Development Goals - Interview with Former UN Deputy Secretary-General Solheim""",positive,0.6443060040473938,2,5,2,3
-7,chinese,"""Preventing Mold and Protecting Grain to Reduce Losses, Safeguarding Storage Safety""",neutral,0.5452954769134521,1,5,2,3
-8,chinese,"""Multiple regions accelerate the creation of new hotspots for foreign investment""",positive,0.7915722727775574,3,5,2,3
-9,chinese,"""International Observation: Anti-China Stance at Every Opportunity, Laughingstock of the World - Exposing the Deception of the US ""External Threat Theory""""",negative,0.8150019645690918,-2,5,2,3
+0,chinese,"""Terrorist Attack in the Republic of Dagestan, Russia Leaves at Least 7 Dead""",negative,0.8025447130203247,-2,2,4,4
+1,chinese,"""Houthi Armed Forces Claim to Attack Two Cargo Ships in the Red Sea and Indian Ocean""",neutral,0.6016190052032471,1,2,4,4
+2,chinese,"""8 People Killed in Sudden Landslide in Xinhua, Hunan""",negative,0.7314077019691467,-2,2,4,4
+3,chinese,"""Shooting Incident in Ohio, USA Leaves 10 Injured""",negative,0.7333167791366577,-2,2,4,4
+4,chinese,"""Over 70 research results on lunar soil samples from Chang'e 5 published - 85.48 grams of lunar soil reveals numerous mysteries""",neutral,0.7419371008872986,1,2,4,4
+5,chinese,"""Feeling the ""Pulse"" of Economic Recovery through Data: China's High-Quality Development is Surging with Energy""",positive,0.7361913919448853,3,2,4,4
+6,chinese,"""Various Measures Taken Across the Country to Accelerate the Promotion of Industrial Equipment Upgrades""",neutral,0.5180938839912415,1,2,4,4
+7,chinese,"""Fire Continues to Rise: Is the US Trying to Turn Lebanon into Another Gaza?""",negative,0.7753176093101501,-2,2,4,4
+8,chinese,"""China's Largest Offshore Self-Operated Oilfield Achieves Crude Oil Production of Over 100 Million Tons""",positive,0.6960927844047546,2,2,4,4
+9,chinese,"""Japanese Public Opinion Survey: Only 10% of Respondents Hope for Prime Minister Fumio Kishida to Continue in Office""",neutral,0.4685531258583069,1,2,4,4
