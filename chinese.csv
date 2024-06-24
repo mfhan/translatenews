@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Terrorist Attack in the Republic of Dagestan, Russia Leaves at Least 7 Dead""",negative,0.8025447130203247,-2,2,4,4
-1,chinese,"""Houthi Armed Forces Claim to Attack Two Cargo Ships in the Red Sea and Indian Ocean""",neutral,0.6016190052032471,1,2,4,4
-2,chinese,"""8 People Killed in Sudden Landslide in Xinhua, Hunan""",negative,0.7314077019691467,-2,2,4,4
-3,chinese,"""Shooting Incident in Ohio, USA Leaves 10 Injured""",negative,0.7333167791366577,-2,2,4,4
-4,chinese,"""Over 70 research results on lunar soil samples from Chang'e 5 published - 85.48 grams of lunar soil reveals numerous mysteries""",neutral,0.7419371008872986,1,2,4,4
-5,chinese,"""Feeling the ""Pulse"" of Economic Recovery through Data: China's High-Quality Development is Surging with Energy""",positive,0.7361913919448853,3,2,4,4
-6,chinese,"""Various Measures Taken Across the Country to Accelerate the Promotion of Industrial Equipment Upgrades""",neutral,0.5180938839912415,1,2,4,4
-7,chinese,"""Fire Continues to Rise: Is the US Trying to Turn Lebanon into Another Gaza?""",negative,0.7753176093101501,-2,2,4,4
-8,chinese,"""China's Largest Offshore Self-Operated Oilfield Achieves Crude Oil Production of Over 100 Million Tons""",positive,0.6960927844047546,2,2,4,4
-9,chinese,"""Japanese Public Opinion Survey: Only 10% of Respondents Hope for Prime Minister Fumio Kishida to Continue in Office""",neutral,0.4685531258583069,1,2,4,4
+0,chinese,"""[Video] French People in Dalian Davos: Feeling the Inseparable Relationship between China and World Development""",neutral,0.4839903712272644,1,3,1,6
+1,chinese,"""Wuzhen Kicks Off Ancient Town Summer Festival""",neutral,0.8206303119659424,1,3,1,6
+2,chinese,"""What is the potential for a new round of large-scale industrial equipment updates?""",neutral,0.7554789781570435,1,3,1,6
+3,chinese,"""2024 National Highest Science and Technology Award Recipient Xue Qikun: On the Road to Conquering Scientific Peaks, I am Extremely Happy and Diligent""",positive,0.914466142654419,3,3,1,6
+4,chinese,"""Dialogue and Negotiation: The Best Approach to Avoid Trade Frictions between China and Europe""",neutral,0.5449279546737671,1,3,1,6
+5,chinese,"""Li Deren and Xue Qikun Receive the 2023 National Highest Science and Technology Award""",positive,0.5332057476043701,2,3,1,6
+6,chinese,"""Peruvian President Vizcarra to Visit China""",neutral,0.8179476857185364,1,3,1,6
+7,chinese,"""Former Polish Deputy Prime Minister: ""Belt and Road"" will open a new chapter of intertwined competition and cooperation""",positive,0.6778358817100525,2,3,1,6
+8,chinese,"""Special Presentation on the Story of the Chinese Communist Party to be Held in Xiong'an New Area""",neutral,0.8779913783073425,1,3,1,6
+9,chinese,"""Terrorist Attack in the Republic of Dagestan, Russia Leaves at Least 7 Dead""",negative,0.8025447130203247,-2,3,1,6
