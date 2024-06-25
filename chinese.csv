@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[Video] French People in Dalian Davos: Feeling the Inseparable Connection between China and World Development""",positive,0.5508484840393066,2,3,3,4
-1,chinese,"""Domestic Popular Game Officially Releases Comic in Southeast Asia""",neutral,0.788762092590332,1,3,3,4
-2,chinese,"""Ministry of Public Security: Average Age of Victims of Telecom Fraud Last Year was 37, Brushing and Rebate Scams the Most Common Type of Fraud""",negative,0.765992283821106,-2,3,3,4
-3,chinese,"""54.3 Million Cases of Telecommunications Fraud Uncovered from January Last Year to May This Year, Blocking 452.9 Billion Yuan of Involved Funds""",negative,0.6538127660751343,-1,3,3,4
-4,chinese,"""Ningde Times ""Electric Aircraft"" Accelerating? Zeng Yuqun: Can Fly Approximately 2000 to 3000 Kilometers""",neutral,0.5820357799530029,1,3,3,4
-5,chinese,"""National Highest Science and Technology Award Recipient Discusses How to Achieve Progress Quickly""",positive,0.5329824686050415,2,3,3,4
-6,chinese,"""Supreme People's Procuratorate: Over 65,000 People Prosecuted for Drug Crimes from January Last Year to May This Year, Warning Against Youth Involvement in Addictive Substances""",negative,0.7094323039054871,-2,3,3,4
-7,chinese,"""Immigration Police Seize 4.5 Tons of Drugs in Six-Month Operation""",neutral,0.6805343627929688,1,3,3,4
-8,chinese,"""Five Departments: Creating Six Major Consumer Scenes to Cultivate New Growth Points for Consumption""",neutral,0.5132019519805908,1,3,3,4
-9,chinese,"""Cultural Charm of Shanxi Province Shines Through the ""Cultural and Creative Fever""""",positive,0.6025639176368713,2,3,3,4
+0,chinese,"""2023 Annual ""Economic Check-up"" Report Released: What are the Results?""",neutral,0.908506453037262,1,2,4,4
+1,chinese,"""Chairman of China Council for the Promotion of International Trade, Ren Hongbin: EU's Imposition of Additional Tariffs on Electric Cars from China Violates WTO Regulations""",negative,0.7366526126861572,-2,2,4,4
+2,chinese,"""Ministry of Foreign Affairs: China is willing to continue working with international partners to strive for peaceful use of outer space""",positive,0.6946563720703125,2,2,4,4
+3,chinese,"""Davos Voices: Canadian Scholar: China's Economic Momentum is Strong, Technology Driven Economic Development is Inspiring""",positive,0.836846649646759,3,2,4,4
+4,chinese,"""China Implements Visa-Free Policy for New Zealand, Australia, and Poland""",neutral,0.6588445901870728,1,2,4,4
+5,chinese,"""Deadline for Annual Personal Income Tax Settlement Declaration for 2023 is at the End of This Month""",neutral,0.8298021554946899,1,2,4,4
+6,chinese,"""Spacesuit Leak: NASA Cancels Spacewalk""",negative,0.5643247961997986,-1,2,4,4
+7,chinese,"""Popular Domestic Game Official Comic Goes Overseas to Southeast Asia""",neutral,0.8857576847076416,1,2,4,4
+8,chinese,"""Ministry of Public Security: Average Age of Victims of Telephone Fraud Last Year was 37 Years Old, Brushing and Rebate Scam was the Most Common Type of Fraud""",negative,0.8105000257492065,-2,2,4,4
+9,chinese,"""54,300 Cases of Telecom Fraud Uncovered from January Last Year to May This Year, Seizing 452.9 Billion Yuan of Involved Funds""",negative,0.542192816734314,-1,2,4,4
