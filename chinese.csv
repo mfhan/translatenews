@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Davos Voices: Foreign Executives: Foreign Companies to Benefit Equally from China's Economic Growth, Will Continue to Increase Investment in China""",positive,0.6518561840057373,2,8,0,2
-1,chinese,"""Dialogue and Reasoning | Focusing on the Summer Davos: Promoting Inclusive and Sustainable Development, Countries Should Embrace Green Transformation with a More Open Mind""",positive,0.5251663327217102,2,8,0,2
-2,chinese,"""World's First Commercial Carbon Fiber Subway Train Debuts""",neutral,0.7657086253166199,1,8,0,2
-3,chinese,"""Taiwan Affairs Office: 10.17 Million People from Both Sides of the Taiwan Strait Participate in the ""Cloud"" Construction of Xiamen-Kinmen Bridge, Demonstrating the Unity of Both Sides""",positive,0.5033614635467529,2,8,0,2
-4,chinese,"""Weifang Bohai International Communication Center Established to Promote High-Quality Development of International Communication Industry""",positive,0.6027168035507202,2,8,0,2
-5,chinese,"""Peruvian President Test Rides Huawei's M9: Excellent! Hopes for Chinese Companies to Bring this Technology to Invest in Peru!""",positive,0.8878275752067566,3,8,0,2
-6,chinese,"""China and Austria Initiate a New Round of International Cooperation for Giant Panda Conservation""",positive,0.5577191710472107,2,8,0,2
-7,chinese,"""China's Achievements: Chang'e-6 Successfully Completes World's First Lunar Far Side Sample Return, International Scientific Community Praises the Collection of Scientific ""Gold""""",positive,0.7798334360122681,3,8,0,2
-8,chinese,"""Summer Davos Forum | The Rise of Artificial Intelligence, How Will It Change Our Work?""",neutral,0.7744652628898621,1,8,0,2
-9,chinese,"""Expansion of China's Visa-Free ""Friend Circle"" Boosts Inbound Tourism Popularity""",positive,0.6305947303771973,2,8,0,2
+0,chinese,"""Giant Pandas"" Yun Chuan ""Xin Bao"" Set Off to the US to Begin a New Round of Cooperation""",neutral,0.501744270324707,1,4,0,6
+1,chinese,"""Debut of ""National Trend in Cultural Relics"": The Epic Tale of the Grand Canal of China Illustrated Scroll Launched with Great Fanfare""",neutral,0.6017030477523804,1,4,0,6
+2,chinese,"""Rapid Progress in the Construction of Cyber Rule of Law: A Timeline of China's 30 Years of Cyber Rule of Law""",neutral,0.575867235660553,1,4,0,6
+3,chinese,"""Beijing's First Home Down Payment Ratio Reduced to Lowest at 20%""",neutral,0.5126612782478333,1,4,0,6
+4,chinese,"""Davos Voices: Foreign Executives: Foreign Companies to Benefit Equally from China's Economic Growth, Will Continue to Increase Investment in China""",positive,0.6518561840057373,2,4,0,6
+5,chinese,"""Dialogue and Reasoning | Focusing on the Summer Davos: Promoting Inclusive and Sustainable Development, Countries Should Embrace Green Transformation with Greater Open-mindedness""",positive,0.581855058670044,2,4,0,6
+6,chinese,"""World's First Commercial Carbon Fiber Subway Train Debuts""",neutral,0.7657086253166199,1,4,0,6
+7,chinese,"""Taiwan Affairs Office: 10.17 million people from both sides of the Taiwan Strait participate in the ""Cloud"" construction of the Xiamen-Kinmen Bridge, demonstrating the close relationship between the two sides""",neutral,0.5517768263816833,1,4,0,6
+8,chinese,"""Weifang Bohai International Communication Center Established to Promote High-Quality Development of International Communication Industry""",positive,0.6027168035507202,2,4,0,6
+9,chinese,"""Peruvian President Test Drives Intelligent Car Wanjie M9: Excellent! Hopes Chinese Companies Will Bring This Technology to Invest in Peru!""",positive,0.8880147933959961,3,4,0,6
