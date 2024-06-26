@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2023 Annual ""Economic Check-up"" Report Released: What Are the Results?""",neutral,0.9073789715766907,1,3,3,4
-1,chinese,"""Gulingyuan: Chinese and American Youth Plant Friendship Tree Together, Branches Filled with ""Blessing Bookmarks""""",positive,0.7137807607650757,3,3,3,4
-2,chinese,"""[Perspective] American Writer's Impressions of Traveling in China: China Surpasses the United States in Seven Major Aspects""",neutral,0.7086606025695801,1,3,3,4
-3,chinese,"""[Insight] Rapid Increase in Number of Injuries and Deaths from Guns, US Health Bureau Director Declares Gun Violence as a Public Health Crisis""",negative,0.7691294550895691,-2,3,3,4
-4,chinese,"""China Chamber of International Commerce Chairman Ren Hongbin: EU's Imposition of Tariffs on Electric Cars from China Violates WTO Regulations""",negative,0.7649428844451904,-2,3,3,4
-5,chinese,"""Ministry of Foreign Affairs: China is willing to continue working with international partners to strive for peaceful use of outer space""",positive,0.6946563720703125,2,3,3,4
-6,chinese,"""Davos Voices: Canadian Scholar: China's Economic Momentum is Strong, Inspiring Economic Development through Technology""",positive,0.8086622953414917,3,3,3,4
-7,chinese,"""China Implements Visa-Free Policy for New Zealand, Australia, and Poland""",neutral,0.6588445901870728,1,3,3,4
-8,chinese,"""Deadline for Annual Individual Income Tax Settlement and Declaration for 2023 is at the End of this Month""",neutral,0.8448565602302551,1,3,3,4
-9,chinese,"""Spacesuit Leak: NASA Cancels Spacewalk""",negative,0.5643247961997986,-1,3,3,4
+0,chinese,"""2023 Annual 'Economic Check-up' Report Released, What Are the Results?""",neutral,0.9116255640983582,1,3,2,5
+1,chinese,"""How to Properly Hydrate in the Summer? Expert Answers are Here!""",neutral,0.6234002113342285,1,3,2,5
+2,chinese,"""Gulingyuan: Chinese and American Youth Plant Friendship Tree Together, Hanging Branches Full of ""Blessing Bookmarks""""",positive,0.7041599750518799,3,3,2,5
+3,chinese,"""[Insight] American Writer's Experience in China: China Surpasses the United States in Seven Major Aspects""",neutral,0.6383266448974609,1,3,2,5
+4,chinese,"""[Insight] Rapid Increase in Number of Gun Injuries and Deaths, US Health Bureau Director Declares Gun Violence a Public Health Crisis""",negative,0.7554106116294861,-2,3,2,5
+5,chinese,"""President of China Council for the Promotion of International Trade, Ren Hongbin: EU's Imposition of Additional Tariffs on Electric Cars from China Violates WTO Regulations""",negative,0.7530746459960938,-2,3,2,5
+6,chinese,"""Ministry of Foreign Affairs: China is willing to continue working with international partners to strive for peaceful use of outer space""",positive,0.6946563720703125,2,3,2,5
+7,chinese,"""Davos Voice: Canadian Scholar Says China's Economic Momentum is Strong, Technology Drives Economic Development and Inspires People""",positive,0.7372655272483826,3,3,2,5
+8,chinese,"""China Implements Visa-Free Policy for New Zealand, Australia, and Poland""",neutral,0.6588445901870728,1,3,2,5
+9,chinese,"""Deadline for Annual Individual Income Tax Settlement Declaration for 2023 is at the End of This Month""",neutral,0.8198241591453552,1,3,2,5
