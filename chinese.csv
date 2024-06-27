@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Giant Pandas"" Yun Chuan ""Xin Bao"" Set Off for the US to Start a New Round of Cooperation""",positive,0.4698058068752289,2,6,0,4
-1,chinese,"""The Debut of ""National Trend in Cultural Relics"": ""Long-standing Heritage - A Comic Journey of the Grand Canal in China"" Hand-drawn Scroll Launched with Great Fanfare""",positive,0.498354971408844,2,6,0,4
-2,chinese,"""Rapid Progress in the Construction of Cyber Rule of Law: A 30-Year Chronicle of China's Cyber Rule of Law""",neutral,0.4923582673072815,1,6,0,4
-3,chinese,"""Beijing's First Home Down Payment Ratio Reduced to Lowest 20%""",neutral,0.519832968711853,1,6,0,4
-4,chinese,"""Davos Voices: Foreign Executives: Foreign Companies to Benefit Equally from China's Economic Growth, Will Continue to Increase Investment in China""",positive,0.6518561840057373,2,6,0,4
-5,chinese,"""Dialogue and Reasoning | Focusing on the Summer Davos: Promoting Inclusive and Sustainable Development, Countries Should Embrace Green Transformation with Greater Open-mindedness""",positive,0.581855058670044,2,6,0,4
-6,chinese,"""World's First Commercial Carbon Fiber Subway Train Debuts""",neutral,0.7657086253166199,1,6,0,4
-7,chinese,"""Taiwan Affairs Office: 10.17 Million People from Both Sides of the Taiwan Strait Participate in the ""Cloud"" Construction of Xiamen-Kinmen Bridge, Demonstrating the Close Relationship between the Two Sides""",neutral,0.6347301006317139,1,6,0,4
-8,chinese,"""Weifang Bohai International Communication Center Established to Promote High-Quality Development of International Communication Industry""",positive,0.6027168035507202,2,6,0,4
-9,chinese,"""Peruvian President Test Drives Intelligent Car M9: Excellent! Hopes for Chinese Companies to Bring this Technology to Invest in Peru!""",positive,0.89769047498703,3,6,0,4
+0,chinese,"""Profit of Large-Scale Industrial Enterprises Maintains Growth from January to May""",positive,0.5803335905075073,2,3,0,7
+1,chinese,"""Four Departments Issue Notice: Eligible Equipment Upgrading Loans Can Enjoy Financial Subsidies""",neutral,0.6258938908576965,1,3,0,7
+2,chinese,"""The Management Approach of ""Duhao Countryside""""",neutral,0.8650001287460327,1,3,0,7
+3,chinese,"""Former Prime Minister of Kyrgyzstan: A New Railway Transforms Central Asia into a Eurasian Hub""",neutral,0.7227693796157837,1,3,0,7
+4,chinese,"""China does not have excessive debt, but urgently needs to optimize its debt structure. The good news is: there is enough policy space.""",neutral,0.37726879119873047,1,3,0,7
+5,chinese,"""5 Common Misconceptions When Choosing Hearing Aids, Read Quickly to Avoid Pitfalls! | Senior Health Awareness Week""",neutral,0.5542783141136169,1,3,0,7
+6,chinese,"""Summer Travel Boosts Strong Consumer Spending""",positive,0.6382056474685669,2,3,0,7
+7,chinese,"""Giant Pandas"" Yun Chuan ""Xin Bao"" Depart for the US to Begin a New Round of Cooperation""",positive,0.46318140625953674,2,3,0,7
+8,chinese,"""The Beginning of ""National Trend in Cultural Relics"": ""Long History and Enduring Legacy - A Comic Journey of the Grand Canal in China"" Hand-drawn Scroll Launched with Grand Ceremony""",neutral,0.6750286221504211,1,3,0,7
+9,chinese,"""Rapid Progress in the Construction of Cyber Rule of Law: A Timeline of 30 Years of China's Cyber Rule of Law""",neutral,0.5977283120155334,1,3,0,7
