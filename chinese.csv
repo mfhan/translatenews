@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Giant Pandas"" Yun Chuan ""Xin Bao"" Set Off to the US to Begin a New Round of Cooperation""",neutral,0.501744270324707,1,4,0,6
-1,chinese,"""Debut of ""National Trend in Cultural Relics"": The Epic Tale of the Grand Canal of China Illustrated Scroll Launched with Great Fanfare""",neutral,0.6017030477523804,1,4,0,6
-2,chinese,"""Rapid Progress in the Construction of Cyber Rule of Law: A Timeline of China's 30 Years of Cyber Rule of Law""",neutral,0.575867235660553,1,4,0,6
-3,chinese,"""Beijing's First Home Down Payment Ratio Reduced to Lowest at 20%""",neutral,0.5126612782478333,1,4,0,6
-4,chinese,"""Davos Voices: Foreign Executives: Foreign Companies to Benefit Equally from China's Economic Growth, Will Continue to Increase Investment in China""",positive,0.6518561840057373,2,4,0,6
-5,chinese,"""Dialogue and Reasoning | Focusing on the Summer Davos: Promoting Inclusive and Sustainable Development, Countries Should Embrace Green Transformation with Greater Open-mindedness""",positive,0.581855058670044,2,4,0,6
-6,chinese,"""World's First Commercial Carbon Fiber Subway Train Debuts""",neutral,0.7657086253166199,1,4,0,6
-7,chinese,"""Taiwan Affairs Office: 10.17 million people from both sides of the Taiwan Strait participate in the ""Cloud"" construction of the Xiamen-Kinmen Bridge, demonstrating the close relationship between the two sides""",neutral,0.5517768263816833,1,4,0,6
-8,chinese,"""Weifang Bohai International Communication Center Established to Promote High-Quality Development of International Communication Industry""",positive,0.6027168035507202,2,4,0,6
-9,chinese,"""Peruvian President Test Drives Intelligent Car Wanjie M9: Excellent! Hopes Chinese Companies Will Bring This Technology to Invest in Peru!""",positive,0.8880147933959961,3,4,0,6
+0,chinese,"""Giant Pandas"" Yun Chuan ""Xin Bao"" Set Off for the US to Start a New Round of Cooperation""",positive,0.4698058068752289,2,6,0,4
+1,chinese,"""The Debut of ""National Trend in Cultural Relics"": ""Long-standing Heritage - A Comic Journey of the Grand Canal in China"" Hand-drawn Scroll Launched with Great Fanfare""",positive,0.498354971408844,2,6,0,4
+2,chinese,"""Rapid Progress in the Construction of Cyber Rule of Law: A 30-Year Chronicle of China's Cyber Rule of Law""",neutral,0.4923582673072815,1,6,0,4
+3,chinese,"""Beijing's First Home Down Payment Ratio Reduced to Lowest 20%""",neutral,0.519832968711853,1,6,0,4
+4,chinese,"""Davos Voices: Foreign Executives: Foreign Companies to Benefit Equally from China's Economic Growth, Will Continue to Increase Investment in China""",positive,0.6518561840057373,2,6,0,4
+5,chinese,"""Dialogue and Reasoning | Focusing on the Summer Davos: Promoting Inclusive and Sustainable Development, Countries Should Embrace Green Transformation with Greater Open-mindedness""",positive,0.581855058670044,2,6,0,4
+6,chinese,"""World's First Commercial Carbon Fiber Subway Train Debuts""",neutral,0.7657086253166199,1,6,0,4
+7,chinese,"""Taiwan Affairs Office: 10.17 Million People from Both Sides of the Taiwan Strait Participate in the ""Cloud"" Construction of Xiamen-Kinmen Bridge, Demonstrating the Close Relationship between the Two Sides""",neutral,0.6347301006317139,1,6,0,4
+8,chinese,"""Weifang Bohai International Communication Center Established to Promote High-Quality Development of International Communication Industry""",positive,0.6027168035507202,2,6,0,4
+9,chinese,"""Peruvian President Test Drives Intelligent Car M9: Excellent! Hopes for Chinese Companies to Bring this Technology to Invest in Peru!""",positive,0.89769047498703,3,6,0,4
