@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Expanding Positions, Standardizing Registration: Five Measures to Help College Graduates Find Employment""",neutral,0.6463503837585449,1,4,1,5
-1,chinese,"""Beijing to allocate over 10 billion yuan to support high-end industries""",positive,0.6547854542732239,2,4,1,5
-2,chinese,"""World Economic Forum Expert Mairum: Chinese Technological Innovation May Reshape Global Energy Market""",positive,0.5630306005477905,2,4,1,5
-3,chinese,"""Graduating from a prestigious university is the top choice for postgraduate students, with approximately 8 out of 10 graduates from Tsinghua and Peking University pursuing further education.""",positive,0.7680444717407227,3,4,1,5
-4,chinese,"""Gasoline and Diesel Prices Increase""",neutral,0.7086835503578186,1,4,1,5
-5,chinese,"""New Land and Sea Passage: Inaugural Launch of Bi-Directional Cross-Border Railway Freight Service between China, Laos, Thailand, and Myanmar""",neutral,0.7472172975540161,1,4,1,5
-6,chinese,"""Reasoning and Justice | EU Imposes Sanctions on Chinese Companies Amid Russia-Ukraine Conflict, Damaging Trust Between China and Europe""",negative,0.9062210321426392,-2,4,1,5
-7,chinese,"""Supreme People's Court Intellectual Property Court: Annual Increase of Nearly 30% in Foreign-related Cases, China is Becoming a Preferred Destination for International Intellectual Property Litigation""",positive,0.49173131585121155,2,4,1,5
-8,chinese,"""Reflections of a Thousand Autumns: Exploring the Cultural Symphony of Ancient Bronze Mirrors and Court Enamelware in ""Radiant Splendor""""",neutral,0.5933444499969482,1,4,1,5
-9,chinese,"""Davos Voice: Chairman of McKinsey China: China is the Global Leader in Innovation, Chinese Market Cannot Be Replaced""",neutral,0.46518227458000183,1,4,1,5
+0,chinese,"""5 Districts in Chongqing Experience Heavy Rainfall, 2 Rivers Reach Flood Levels Beyond Safety Standards""",negative,0.7613319754600525,-2,4,1,5
+1,chinese,"""When Will the Entertainment Market Bid Farewell to ""Bizarre Tickets""?""",neutral,0.8576475977897644,1,4,1,5
+2,chinese,"""Davos Voices: Zhang Xiaoyan, Vice Dean of Tsinghua University PBC School of Finance, says Artificial Intelligence and Green Industries will become important engines for China's economic growth.""",neutral,0.590387225151062,1,4,1,5
+3,chinese,"""Davos Voice: Boston Consulting Group: China is the Global Leader in Technological Innovation""",positive,0.6620705127716064,2,4,1,5
+4,chinese,"""Expanding Positions and Standardizing Registration: Five Measures to Assist College Graduates in Employment""",neutral,0.6489824056625366,1,4,1,5
+5,chinese,"""Beijing to allocate over 10 billion yuan to support high-end industries""",positive,0.6547854542732239,2,4,1,5
+6,chinese,"""World Economic Forum Expert Mairum: Chinese Technological Innovation May Reshape Global Energy Market""",positive,0.5630306005477905,2,4,1,5
+7,chinese,"""Graduate Studies are the Top Choice for Prestigious Universities, with Approximately 8 out of 10 Graduates from Tsinghua and Peking University Pursuing Further Education""",positive,0.7806337475776672,3,4,1,5
+8,chinese,"""Gasoline and diesel prices increase""",neutral,0.7357625365257263,1,4,1,5
+9,chinese,"""New Land and Sea Channel: Inaugural Launch of Bi-directional Cross-border Railway Train between China, Laos, Thailand, and Myanmar""",neutral,0.717317521572113,1,4,1,5
