@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Giant Pandas"" Yun Chuan"" and ""Xin Bao"" Successfully Arrive in San Diego, USA",neutral,0.5192768573760986,1,0,1,9
-1,chinese,"""Yangtze River Experiences the First Flood of 2024""",neutral,0.7637606859207153,1,0,1,9
-2,chinese,"""Bulgarian Scholar: Confronting China While Also Needing China, Western Countries Fall into Contradiction""",negative,0.8170591592788696,-2,0,1,9
-3,chinese,"""The ""Silk Road Dream"" Chinese Club Project Officially Launches""",neutral,0.6063674688339233,1,0,1,9
-4,chinese,"""70th Anniversary Commemoration Conference of the Five Principles of Peaceful Coexistence Held in Beijing""",neutral,0.6315616369247437,1,0,1,9
-5,chinese,"""China's Independent Knowledge System Achievements Conference (Summer 2024) Held in Beijing""",neutral,0.8830605149269104,1,0,1,9
-6,chinese,"""Japanese Scholars: To Contain China, the US and Japan Bring Out the ""Script"" from 70 Years Ago Again""",neutral,0.7283204793930054,1,0,1,9
-7,chinese,"""The ""Legal Education Station"" on the Grassland: Baotou City's Saihantala Network Legal Education Demonstration Site""",neutral,0.889134407043457,1,0,1,9
-8,chinese,"""Biden and Trump's First Debate: Mutual Exchange of Fire""",neutral,0.7810208201408386,1,0,1,9
-9,chinese,"""Exploring Baotou Golden Street: Traditional Culture Joins Hands with Modern Legal Education""",neutral,0.531654417514801,1,0,1,9
+0,chinese,"""Cao Dewang: The Five Principles of Peaceful Coexistence Bring Tremendous Changes to China's Economy""",positive,0.6638110280036926,2,2,1,7
+1,chinese,"""Zheng Yongnian: China does not take sides, our principle is peaceful coexistence""",neutral,0.5656504034996033,1,2,1,7
+2,chinese,"""Giant Pandas""Yunchuan"" and ""Xinbao"" Successfully Arrive in San Diego, USA""",positive,0.5314396619796753,2,2,1,7
+3,chinese,"""Yangtze River Experiences the First Flood of 2024""",neutral,0.7637606859207153,1,2,1,7
+4,chinese,"""Bulgarian Scholar: Confronting China While Also Needing China, the West Falls into Self-Contradiction""",negative,0.673590898513794,-1,2,1,7
+5,chinese,"""Dream Silk Road"" Chinese Club Project Officially Launched",neutral,0.619274377822876,1,2,1,7
+6,chinese,"""70th Anniversary Commemoration Conference of the Five Principles of Peaceful Coexistence Held in Beijing""",neutral,0.6315616369247437,1,2,1,7
+7,chinese,"""China's Independent Knowledge System Achievements Conference (Summer 2024) Held in Beijing""",neutral,0.8830605149269104,1,2,1,7
+8,chinese,"""Japanese Scholars: In Order to Contain China, the US and Japan Have Revived the ""Script"" from 70 Years Ago""",neutral,0.6397665739059448,1,2,1,7
+9,chinese,"""The ""Legal Education Gas Station"" on the Grassland: Baotou City's Saihantala Network Legal Education Demonstration Site""",neutral,0.8873515725135803,1,2,1,7
