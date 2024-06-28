@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""New Land and Sea Channel: Cross-border Railway Train between China, Laos, Thailand, and Myanmar Commences Operation in Both Directions""",neutral,0.7875954508781433,1,1,1,8
-1,chinese,"""Reasoning and Justice | EU Imposes Sanctions on Chinese Companies in Response to Russia-Ukraine Conflict, Undermining Trust Between China and Europe""",negative,0.8398348689079285,-2,1,1,8
-2,chinese,"""Supreme People's Court Intellectual Property Court: Average Annual Growth of Foreign-related Cases Approaches 30%, China Increasingly Becoming Preferred Destination for International Intellectual Property Litigation""",neutral,0.6958037614822388,1,1,1,8
-3,chinese,"""Reflections of the Past: Exploring the Cultural Symphony of Ancient Bronze Mirrors and Court Enamelware in ""Radiant Brilliance""""",neutral,0.6952987313270569,1,1,1,8
-4,chinese,"""Davos Voices: Chairman of McKinsey China: China is the Global Leader in Innovation, Chinese Market Cannot Be Replaced""",neutral,0.4649203419685364,1,1,1,8
-5,chinese,"""Shenzhen-Zhongshan Passage Officially Opens on June 30th""",neutral,0.859508752822876,1,1,1,8
-6,chinese,"""Osaka, Japan: Appreciating the Art of Tea and the World - Gathering of Elegance and Tradition""",positive,0.8105239272117615,3,1,1,8
-7,chinese,"""Relevant departments have solved a total of 1087 cases of various types of maritime smuggling crimes from August last year until now""",neutral,0.6025099754333496,1,1,1,8
-8,chinese,"""Chongqing Launches First High-Speed Train to Ba'nan""",neutral,0.6336377859115601,1,1,1,8
-9,chinese,China to Implement Tariff Reductions on Free Trade Agreement with Serbia,neutral,0.6585971713066101,1,1,1,8
+0,chinese,"""Expanding Positions, Standardizing Registration: Five Measures to Help College Graduates Find Employment""",neutral,0.6463503837585449,1,4,1,5
+1,chinese,"""Beijing to allocate over 10 billion yuan to support high-end industries""",positive,0.6547854542732239,2,4,1,5
+2,chinese,"""World Economic Forum Expert Mairum: Chinese Technological Innovation May Reshape Global Energy Market""",positive,0.5630306005477905,2,4,1,5
+3,chinese,"""Graduating from a prestigious university is the top choice for postgraduate students, with approximately 8 out of 10 graduates from Tsinghua and Peking University pursuing further education.""",positive,0.7680444717407227,3,4,1,5
+4,chinese,"""Gasoline and Diesel Prices Increase""",neutral,0.7086835503578186,1,4,1,5
+5,chinese,"""New Land and Sea Passage: Inaugural Launch of Bi-Directional Cross-Border Railway Freight Service between China, Laos, Thailand, and Myanmar""",neutral,0.7472172975540161,1,4,1,5
+6,chinese,"""Reasoning and Justice | EU Imposes Sanctions on Chinese Companies Amid Russia-Ukraine Conflict, Damaging Trust Between China and Europe""",negative,0.9062210321426392,-2,4,1,5
+7,chinese,"""Supreme People's Court Intellectual Property Court: Annual Increase of Nearly 30% in Foreign-related Cases, China is Becoming a Preferred Destination for International Intellectual Property Litigation""",positive,0.49173131585121155,2,4,1,5
+8,chinese,"""Reflections of a Thousand Autumns: Exploring the Cultural Symphony of Ancient Bronze Mirrors and Court Enamelware in ""Radiant Splendor""""",neutral,0.5933444499969482,1,4,1,5
+9,chinese,"""Davos Voice: Chairman of McKinsey China: China is the Global Leader in Innovation, Chinese Market Cannot Be Replaced""",neutral,0.46518227458000183,1,4,1,5
