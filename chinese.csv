@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""5 Districts in Chongqing Experience Heavy Rainfall, 2 Rivers Reach Flood Levels Beyond Safety Standards""",negative,0.7613319754600525,-2,4,1,5
-1,chinese,"""When Will the Entertainment Market Bid Farewell to ""Bizarre Tickets""?""",neutral,0.8576475977897644,1,4,1,5
-2,chinese,"""Davos Voices: Zhang Xiaoyan, Vice Dean of Tsinghua University PBC School of Finance, says Artificial Intelligence and Green Industries will become important engines for China's economic growth.""",neutral,0.590387225151062,1,4,1,5
-3,chinese,"""Davos Voice: Boston Consulting Group: China is the Global Leader in Technological Innovation""",positive,0.6620705127716064,2,4,1,5
-4,chinese,"""Expanding Positions and Standardizing Registration: Five Measures to Assist College Graduates in Employment""",neutral,0.6489824056625366,1,4,1,5
-5,chinese,"""Beijing to allocate over 10 billion yuan to support high-end industries""",positive,0.6547854542732239,2,4,1,5
-6,chinese,"""World Economic Forum Expert Mairum: Chinese Technological Innovation May Reshape Global Energy Market""",positive,0.5630306005477905,2,4,1,5
-7,chinese,"""Graduate Studies are the Top Choice for Prestigious Universities, with Approximately 8 out of 10 Graduates from Tsinghua and Peking University Pursuing Further Education""",positive,0.7806337475776672,3,4,1,5
-8,chinese,"""Gasoline and diesel prices increase""",neutral,0.7357625365257263,1,4,1,5
-9,chinese,"""New Land and Sea Channel: Inaugural Launch of Bi-directional Cross-border Railway Train between China, Laos, Thailand, and Myanmar""",neutral,0.717317521572113,1,4,1,5
+0,chinese,"""Giant Pandas"" Yun Chuan"" and ""Xin Bao"" Successfully Arrive in San Diego, USA",neutral,0.5192768573760986,1,0,1,9
+1,chinese,"""Yangtze River Experiences the First Flood of 2024""",neutral,0.7637606859207153,1,0,1,9
+2,chinese,"""Bulgarian Scholar: Confronting China While Also Needing China, Western Countries Fall into Contradiction""",negative,0.8170591592788696,-2,0,1,9
+3,chinese,"""The ""Silk Road Dream"" Chinese Club Project Officially Launches""",neutral,0.6063674688339233,1,0,1,9
+4,chinese,"""70th Anniversary Commemoration Conference of the Five Principles of Peaceful Coexistence Held in Beijing""",neutral,0.6315616369247437,1,0,1,9
+5,chinese,"""China's Independent Knowledge System Achievements Conference (Summer 2024) Held in Beijing""",neutral,0.8830605149269104,1,0,1,9
+6,chinese,"""Japanese Scholars: To Contain China, the US and Japan Bring Out the ""Script"" from 70 Years Ago Again""",neutral,0.7283204793930054,1,0,1,9
+7,chinese,"""The ""Legal Education Station"" on the Grassland: Baotou City's Saihantala Network Legal Education Demonstration Site""",neutral,0.889134407043457,1,0,1,9
+8,chinese,"""Biden and Trump's First Debate: Mutual Exchange of Fire""",neutral,0.7810208201408386,1,0,1,9
+9,chinese,"""Exploring Baotou Golden Street: Traditional Culture Joins Hands with Modern Legal Education""",neutral,0.531654417514801,1,0,1,9
