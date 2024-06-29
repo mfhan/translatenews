@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Cao Dewang: The Five Principles of Peaceful Coexistence Bring Tremendous Changes to China's Economy""",positive,0.6638110280036926,2,2,1,7
-1,chinese,"""Zheng Yongnian: China does not take sides, our principle is peaceful coexistence""",neutral,0.5656504034996033,1,2,1,7
-2,chinese,"""Giant Pandas""Yunchuan"" and ""Xinbao"" Successfully Arrive in San Diego, USA""",positive,0.5314396619796753,2,2,1,7
-3,chinese,"""Yangtze River Experiences the First Flood of 2024""",neutral,0.7637606859207153,1,2,1,7
-4,chinese,"""Bulgarian Scholar: Confronting China While Also Needing China, the West Falls into Self-Contradiction""",negative,0.673590898513794,-1,2,1,7
-5,chinese,"""Dream Silk Road"" Chinese Club Project Officially Launched",neutral,0.619274377822876,1,2,1,7
-6,chinese,"""70th Anniversary Commemoration Conference of the Five Principles of Peaceful Coexistence Held in Beijing""",neutral,0.6315616369247437,1,2,1,7
-7,chinese,"""China's Independent Knowledge System Achievements Conference (Summer 2024) Held in Beijing""",neutral,0.8830605149269104,1,2,1,7
-8,chinese,"""Japanese Scholars: In Order to Contain China, the US and Japan Have Revived the ""Script"" from 70 Years Ago""",neutral,0.6397665739059448,1,2,1,7
-9,chinese,"""The ""Legal Education Gas Station"" on the Grassland: Baotou City's Saihantala Network Legal Education Demonstration Site""",neutral,0.8873515725135803,1,2,1,7
+0,chinese,"""China's Banks Processed 1347.86 Trillion Yuan in Non-Cash Payments in the First Quarter, a Year-on-Year Increase of 5.51%""",neutral,0.6534600257873535,1,1,1,8
+1,chinese,"""135.3 Trillion Yuan, Year-on-Year Increase of 5.9%: Logistics Data Shows Promising Growth in the Dynamic China""",neutral,0.5851929187774658,1,1,1,8
+2,chinese,"""Cao Dewang: The Five Principles of Peaceful Coexistence Bring Tremendous Changes to China's Economy""",positive,0.6638110280036926,2,1,1,8
+3,chinese,"""Zheng Yongnian: China does not take sides, our principle is peaceful coexistence""",neutral,0.5656504034996033,1,1,1,8
+4,chinese,"""Giant Pandas"" Yun Chuan ""Xin Bao"" Successfully Arrive in San Diego, USA",neutral,0.49599459767341614,1,1,1,8
+5,chinese,"""Yangtze River Experiences the First Flood of 2024""",neutral,0.7637606859207153,1,1,1,8
+6,chinese,"""Bulgarian Scholar: Facing China While Needing China, the West Falls into Contradictions""",negative,0.5917352437973022,-1,1,1,8
+7,chinese,"""Building Dreams on the Silk Road: Chinese Club Project Officially Launches""",neutral,0.5497068166732788,1,1,1,8
+8,chinese,"""70th Anniversary Commemoration Conference of the Five Principles of Peaceful Coexistence Held in Beijing""",neutral,0.6315616369247437,1,1,1,8
+9,chinese,"""China's Independent Knowledge System Achievements Conference (Summer 2024) Held in Beijing""",neutral,0.8830605149269104,1,1,1,8
