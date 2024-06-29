@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China Open Paddleboarding Championship (Changshu Stop) Begins Today, June 29th""",neutral,0.833966076374054,1,3,0,7
-1,chinese,"""Research on High-Quality Development: How Long Can the Chinese Giant Salamander Live? 60 Years Old May Just Be ""Middle-Aged"" for It""",neutral,0.6350603103637695,1,3,0,7
-2,chinese,"""In May, China's international trade in goods and services saw a year-on-year increase of 7% in import and export volume""",neutral,0.5694204568862915,1,3,0,7
-3,chinese,"""National Medical Insurance Drug Catalogue Adjustment to Begin on July 1, 2024""",neutral,0.901804506778717,1,3,0,7
-4,chinese,"""Exploring Beijing's ""Underground East Sixth Ring Road""""",neutral,0.8543440103530884,1,3,0,7
-5,chinese,"""In the first quarter, China's banks processed non-cash payments of 1347.86 trillion yuan, a year-on-year increase of 5.51%""",neutral,0.628378689289093,1,3,0,7
-6,chinese,"""135.3 Trillion Yuan, Year-on-Year Increase of 5.9%: Logistics Data Shows Promising Growth in ""Mobile China"" with Vibrant Energy""",positive,0.4939674735069275,2,3,0,7
-7,chinese,"""Cao Dewang: The Five Principles of Peaceful Coexistence Bring Tremendous Changes to China's Economy""",positive,0.6638110280036926,2,3,0,7
-8,chinese,"""Zheng Yongnian: China does not take sides, our principle is peaceful coexistence""",neutral,0.5656504034996033,1,3,0,7
-9,chinese,"""Giant Pandas"" Yunchuan"" and ""Xinbao"" Successfully Arrive in San Diego, USA",positive,0.5020156502723694,2,3,0,7
+0,chinese,"""New Regulations to be Implemented in July to Address Big Data ""Price Discrimination"" and Promote Electronic Driving Licenses""",neutral,0.6723483800888062,1,1,1,8
+1,chinese,"""No candidate receives majority vote, Iran's presidential election will enter second round of voting""",neutral,0.5558174252510071,1,1,1,8
+2,chinese,"""Kobayashi Pharmaceutical's Health Products Suspected of Causing Multiple Deaths, Japan's Ministry of Health, Labour and Welfare Takes Direct Control of Investigation""",negative,0.6501548290252686,-1,1,1,8
+3,chinese,Central Bank: Increase the Implementation Strength of Already Issued Monetary Policies,positive,0.6198078989982605,2,1,1,8
+4,chinese,"""National Medical Insurance Drug List Adjustment to Begin on July 1, 2024""",neutral,0.9007284045219421,1,1,1,8
+5,chinese,"""Liang Sicheng and Lin Huiyin Academic Literature Exhibition Opens in Taiyuan, Shanxi""",neutral,0.7681902050971985,1,1,1,8
+6,chinese,"""The 2024 China Paddleboard Open (Changshu Station) starts today, June 29th""",neutral,0.8539280891418457,1,1,1,8
+7,chinese,"""Sentiments - Exhibition of Academicians from the Accademia di Belle Arti di Firenze in the National Art Museum of China""",neutral,0.8871878981590271,1,1,1,8
+8,chinese,"""Research on High-Quality Development: How Long Can the Axolotl Live? 60 Years May Just Be ""Middle Age""""",neutral,0.7277267575263977,1,1,1,8
+9,chinese,"In May, China's international trade in goods and services saw a year-on-year increase of 7% in import and export volume.",neutral,0.5528343915939331,1,1,1,8
