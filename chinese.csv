@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Banks Processed 1347.86 Trillion Yuan in Non-Cash Payments in the First Quarter, a Year-on-Year Increase of 5.51%""",neutral,0.6534600257873535,1,1,1,8
-1,chinese,"""135.3 Trillion Yuan, Year-on-Year Increase of 5.9%: Logistics Data Shows Promising Growth in the Dynamic China""",neutral,0.5851929187774658,1,1,1,8
-2,chinese,"""Cao Dewang: The Five Principles of Peaceful Coexistence Bring Tremendous Changes to China's Economy""",positive,0.6638110280036926,2,1,1,8
-3,chinese,"""Zheng Yongnian: China does not take sides, our principle is peaceful coexistence""",neutral,0.5656504034996033,1,1,1,8
-4,chinese,"""Giant Pandas"" Yun Chuan ""Xin Bao"" Successfully Arrive in San Diego, USA",neutral,0.49599459767341614,1,1,1,8
-5,chinese,"""Yangtze River Experiences the First Flood of 2024""",neutral,0.7637606859207153,1,1,1,8
-6,chinese,"""Bulgarian Scholar: Facing China While Needing China, the West Falls into Contradictions""",negative,0.5917352437973022,-1,1,1,8
-7,chinese,"""Building Dreams on the Silk Road: Chinese Club Project Officially Launches""",neutral,0.5497068166732788,1,1,1,8
-8,chinese,"""70th Anniversary Commemoration Conference of the Five Principles of Peaceful Coexistence Held in Beijing""",neutral,0.6315616369247437,1,1,1,8
-9,chinese,"""China's Independent Knowledge System Achievements Conference (Summer 2024) Held in Beijing""",neutral,0.8830605149269104,1,1,1,8
+0,chinese,"""2024 China Open Paddleboarding Championship (Changshu Stop) Begins Today, June 29th""",neutral,0.833966076374054,1,3,0,7
+1,chinese,"""Research on High-Quality Development: How Long Can the Chinese Giant Salamander Live? 60 Years Old May Just Be ""Middle-Aged"" for It""",neutral,0.6350603103637695,1,3,0,7
+2,chinese,"""In May, China's international trade in goods and services saw a year-on-year increase of 7% in import and export volume""",neutral,0.5694204568862915,1,3,0,7
+3,chinese,"""National Medical Insurance Drug Catalogue Adjustment to Begin on July 1, 2024""",neutral,0.901804506778717,1,3,0,7
+4,chinese,"""Exploring Beijing's ""Underground East Sixth Ring Road""""",neutral,0.8543440103530884,1,3,0,7
+5,chinese,"""In the first quarter, China's banks processed non-cash payments of 1347.86 trillion yuan, a year-on-year increase of 5.51%""",neutral,0.628378689289093,1,3,0,7
+6,chinese,"""135.3 Trillion Yuan, Year-on-Year Increase of 5.9%: Logistics Data Shows Promising Growth in ""Mobile China"" with Vibrant Energy""",positive,0.4939674735069275,2,3,0,7
+7,chinese,"""Cao Dewang: The Five Principles of Peaceful Coexistence Bring Tremendous Changes to China's Economy""",positive,0.6638110280036926,2,3,0,7
+8,chinese,"""Zheng Yongnian: China does not take sides, our principle is peaceful coexistence""",neutral,0.5656504034996033,1,3,0,7
+9,chinese,"""Giant Pandas"" Yunchuan"" and ""Xinbao"" Successfully Arrive in San Diego, USA",positive,0.5020156502723694,2,3,0,7
