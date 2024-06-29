@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""New Regulations to be Implemented in July to Address Big Data ""Price Discrimination"" and Promote Electronic Driving Licenses""",neutral,0.6723483800888062,1,1,1,8
-1,chinese,"""No candidate receives majority vote, Iran's presidential election will enter second round of voting""",neutral,0.5558174252510071,1,1,1,8
-2,chinese,"""Kobayashi Pharmaceutical's Health Products Suspected of Causing Multiple Deaths, Japan's Ministry of Health, Labour and Welfare Takes Direct Control of Investigation""",negative,0.6501548290252686,-1,1,1,8
-3,chinese,Central Bank: Increase the Implementation Strength of Already Issued Monetary Policies,positive,0.6198078989982605,2,1,1,8
-4,chinese,"""National Medical Insurance Drug List Adjustment to Begin on July 1, 2024""",neutral,0.9007284045219421,1,1,1,8
-5,chinese,"""Liang Sicheng and Lin Huiyin Academic Literature Exhibition Opens in Taiyuan, Shanxi""",neutral,0.7681902050971985,1,1,1,8
-6,chinese,"""The 2024 China Paddleboard Open (Changshu Station) starts today, June 29th""",neutral,0.8539280891418457,1,1,1,8
-7,chinese,"""Sentiments - Exhibition of Academicians from the Accademia di Belle Arti di Firenze in the National Art Museum of China""",neutral,0.8871878981590271,1,1,1,8
-8,chinese,"""Research on High-Quality Development: How Long Can the Axolotl Live? 60 Years May Just Be ""Middle Age""""",neutral,0.7277267575263977,1,1,1,8
-9,chinese,"In May, China's international trade in goods and services saw a year-on-year increase of 7% in import and export volume.",neutral,0.5528343915939331,1,1,1,8
+0,chinese,"""Explosion in the Southern Philippines' Sambuagan Province Leaves 5 Dead and 20 Injured""",negative,0.7948923707008362,-2,2,3,5
+1,chinese,"""China Successfully Launches Zhongxing-3A Satellite""",positive,0.6861169934272766,2,2,3,5
+2,chinese,"""Judge's Report: Seine River Water Quality Still Does Not Meet Standards for Public Water Events""",negative,0.6119401454925537,-1,2,3,5
+3,chinese,"""New regulations to be implemented from July to address ""price discrimination"" in big data and promote electronic driving licenses""",neutral,0.6786686778068542,1,2,3,5
+4,chinese,"""No Candidate Receives Majority of Votes, Iran's Presidential Election Will Enter Second Round of Voting""",neutral,0.6360214948654175,1,2,3,5
+5,chinese,"""Kobayashi Pharmaceutical's Health Products Suspected of Causing Multiple Deaths, Japan's Ministry of Health, Labour and Welfare Takes Direct Control of Investigation""",negative,0.6501548290252686,-1,2,3,5
+6,chinese,Central Bank: Increase the Implementation Intensity of Monetary Policies Already Introduced,positive,0.5694658160209656,2,2,3,5
+7,chinese,"""National Medical Insurance Drug List Adjustment to Begin on July 1, 2024""",neutral,0.9007284045219421,1,2,3,5
+8,chinese,"""Liang Sicheng and Lin Huiyin Academic Literature Exhibition Opens in Taiyuan, Shanxi""",neutral,0.7681902050971985,1,2,3,5
+9,chinese,"""2024 China Open Paddleboarding Competition (Changshu Stop) Begins Today, June 29th""",neutral,0.8566722869873047,1,2,3,5
