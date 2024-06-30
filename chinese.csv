@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Women's Volleyball Team's Roster for Paris Olympics Revealed""",neutral,0.8755735754966736,1,1,3,6
-1,chinese,"""Express Delivery Business Volume Grows 24.4% Year-on-Year in First 5 Months""",neutral,0.6253808736801147,1,1,3,6
-2,chinese,"""Removing the Wall of ""No Reservation, No Entry"" for the Greatest Convenience of Tourists""",neutral,0.5085138082504272,1,1,3,6
-3,chinese,"""Explosion in the Southern Philippines' Sambuagan Province Leaves 5 Dead and 20 Injured""",negative,0.7948923707008362,-2,1,3,6
-4,chinese,"""Judge's Report: Seine River Water Quality Still Does Not Meet Standards for Public Water Events""",negative,0.6119401454925537,-1,1,3,6
-5,chinese,"""New Regulations to be Implemented in July to Address ""Price Discrimination"" in Big Data and Promote Electronic Driving Licenses""",neutral,0.7497014403343201,1,1,3,6
-6,chinese,"""No Candidate Wins Majority Vote, Iran's Presidential Election Will Enter Second Round of Voting""",neutral,0.5862717032432556,1,1,3,6
-7,chinese,"""Kobayashi Pharmaceuticals' Health Products Suspected to Have Caused Multiple Deaths, Japan's Ministry of Health Takes Direct Control of Investigation""",negative,0.6489776372909546,-1,1,3,6
-8,chinese,"""Central Bank: Increase the Implementation Strength of Existing Monetary Policies""",positive,0.5997686982154846,2,1,3,6
-9,chinese,"""National Medical Insurance Drug List Adjustment to Begin on July 1st, 2024""",neutral,0.9012827277183533,1,1,3,6
+0,chinese,"""Strong rainfall to continue for the next three days in the middle and lower reaches of the Yangtze River, while high temperatures in the north will decrease starting tomorrow""",neutral,0.5626141428947449,1,0,3,7
+1,chinese,"""10.06 Seconds! 17-Year-Old Rising Star He Jinzhi Breaks National Youth Record in 100-Meter Dash""",neutral,0.6172283291816711,1,0,3,7
+2,chinese,"""Chinese Women's Volleyball Team's Roster for Paris Olympics Revealed""",neutral,0.8755735754966736,1,0,3,7
+3,chinese,Express delivery volume increased by 24.4% year-on-year in the first five months.,neutral,0.6021985411643982,1,0,3,7
+4,chinese,"""Removing the Wall of ""No Reservation, No Entry"" to Provide Maximum Convenience for Tourists""",neutral,0.6180698275566101,1,0,3,7
+5,chinese,"""Explosion in the Southern Philippines' Sambuagan Province Leaves 5 Dead and 20 Injured""",negative,0.7948923707008362,-2,0,3,7
+6,chinese,"""Judge's Report: Seine River Water Quality Still Does Not Meet Standards for Public Water Events""",negative,0.6119401454925537,-1,0,3,7
+7,chinese,"""New Regulations to be Implemented in July to Address ""Price Discrimination"" in Big Data and Promote Electronic Driving Licenses""",neutral,0.7497014403343201,1,0,3,7
+8,chinese,"""No candidate receives majority vote, Iran's presidential election will enter second round of voting""",neutral,0.5558174252510071,1,0,3,7
+9,chinese,"""Kobayashi Pharmaceuticals' Health Products Suspected of Causing Multiple Deaths, Japan's Ministry of Health, Labour and Welfare Takes Direct Control of Investigation""",negative,0.6605408191680908,-1,0,3,7
