@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strong rainfall to continue for the next three days in the middle and lower reaches of the Yangtze River, while high temperatures in the north will decrease starting tomorrow""",neutral,0.5626141428947449,1,0,3,7
-1,chinese,"""10.06 Seconds! 17-Year-Old Rising Star He Jinzhi Breaks National Youth Record in 100-Meter Dash""",neutral,0.6172283291816711,1,0,3,7
-2,chinese,"""Chinese Women's Volleyball Team's Roster for Paris Olympics Revealed""",neutral,0.8755735754966736,1,0,3,7
-3,chinese,Express delivery volume increased by 24.4% year-on-year in the first five months.,neutral,0.6021985411643982,1,0,3,7
-4,chinese,"""Removing the Wall of ""No Reservation, No Entry"" to Provide Maximum Convenience for Tourists""",neutral,0.6180698275566101,1,0,3,7
-5,chinese,"""Explosion in the Southern Philippines' Sambuagan Province Leaves 5 Dead and 20 Injured""",negative,0.7948923707008362,-2,0,3,7
-6,chinese,"""Judge's Report: Seine River Water Quality Still Does Not Meet Standards for Public Water Events""",negative,0.6119401454925537,-1,0,3,7
-7,chinese,"""New Regulations to be Implemented in July to Address ""Price Discrimination"" in Big Data and Promote Electronic Driving Licenses""",neutral,0.7497014403343201,1,0,3,7
-8,chinese,"""No candidate receives majority vote, Iran's presidential election will enter second round of voting""",neutral,0.5558174252510071,1,0,3,7
-9,chinese,"""Kobayashi Pharmaceuticals' Health Products Suspected of Causing Multiple Deaths, Japan's Ministry of Health, Labour and Welfare Takes Direct Control of Investigation""",negative,0.6605408191680908,-1,0,3,7
+0,chinese,"""La Ri High-grade Highway Fully Opened Today, Totaling 1196 Kilometers in Length in Tibet""",neutral,0.718535304069519,1,2,0,8
+1,chinese,"""Opening Trial Run of the Shenzhen-Zhongshan Passage Happening This Afternoon!""",neutral,0.7704199552536011,1,2,0,8
+2,chinese,"""Hong Kong Customs Officially Appointed as Deputy Chair of Asia-Pacific Region for World Customs Organization for 2024-2026 Term""",neutral,0.726180374622345,1,2,0,8
+3,chinese,"""China's Manufacturing PMI for June at 49.5%, Enterprise Production Continues to Expand""",neutral,0.5945748090744019,1,2,0,8
+4,chinese,"""Foreign Trade Enterprises Quickly Adapt to Changes in Overseas Market Demands""",positive,0.6220864653587341,2,2,0,8
+5,chinese,"""World Pork Belly Competition is Coming!""",neutral,0.5385940074920654,1,2,0,8
+6,chinese,"""Continued Heavy Rain Expected in the Middle and Lower Reaches of the Yangtze River for the Next Three Days, Northern Heatwave to Subside Starting Tomorrow""",neutral,0.625636637210846,1,2,0,8
+7,chinese,"""10.06 seconds! 17-year-old rising star He Jinzhi breaks the national youth record in the 100-meter race""",positive,0.6888285875320435,2,2,0,8
+8,chinese,"""Chinese Women's Volleyball Team Announces Roster for Paris Olympics""",neutral,0.7257633805274963,1,2,0,8
+9,chinese,"""Express Delivery Volume Increases by 24.4% Year-on-Year in the First 5 Months""",neutral,0.6270274519920349,1,2,0,8
