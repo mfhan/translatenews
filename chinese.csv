@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""La Ri High-grade Highway Fully Opened Today, Totaling 1196 Kilometers in Length in Tibet""",neutral,0.718535304069519,1,2,0,8
-1,chinese,"""Opening Trial Run of the Shenzhen-Zhongshan Passage Happening This Afternoon!""",neutral,0.7704199552536011,1,2,0,8
-2,chinese,"""Hong Kong Customs Officially Appointed as Deputy Chair of Asia-Pacific Region for World Customs Organization for 2024-2026 Term""",neutral,0.726180374622345,1,2,0,8
-3,chinese,"""China's Manufacturing PMI for June at 49.5%, Enterprise Production Continues to Expand""",neutral,0.5945748090744019,1,2,0,8
-4,chinese,"""Foreign Trade Enterprises Quickly Adapt to Changes in Overseas Market Demands""",positive,0.6220864653587341,2,2,0,8
-5,chinese,"""World Pork Belly Competition is Coming!""",neutral,0.5385940074920654,1,2,0,8
-6,chinese,"""Continued Heavy Rain Expected in the Middle and Lower Reaches of the Yangtze River for the Next Three Days, Northern Heatwave to Subside Starting Tomorrow""",neutral,0.625636637210846,1,2,0,8
-7,chinese,"""10.06 seconds! 17-year-old rising star He Jinzhi breaks the national youth record in the 100-meter race""",positive,0.6888285875320435,2,2,0,8
-8,chinese,"""Chinese Women's Volleyball Team Announces Roster for Paris Olympics""",neutral,0.7257633805274963,1,2,0,8
-9,chinese,"""Express Delivery Volume Increases by 24.4% Year-on-Year in the First 5 Months""",neutral,0.6270274519920349,1,2,0,8
+0,chinese,"""One Year Anniversary of the Implementation of the ""Accessible Environment Construction Law"" Showcases the New Charm of ""Accessibility and Good Design""""",positive,0.7607191801071167,3,4,0,6
+1,chinese,"""2024 China Family Sailing Race · Suzhou Dushu Lake Station Successfully Concludes""",positive,0.4938149154186249,2,4,0,6
+2,chinese,"""First Round of Voting Begins for French National Assembly Elections""",neutral,0.80067378282547,1,4,0,6
+3,chinese,"""China's First Commercial Space Launch Site is Ready for Launch Operations""",positive,0.5807814598083496,2,4,0,6
+4,chinese,"""Summer Education Ministry Hotline for College Student Assistance Opens on the 1st""",neutral,0.8579075336456299,1,4,0,6
+5,chinese,"""La Ri High-grade Highway Fully Opens Today, Total Length of Tibet High-grade Highway Reaches 1196 Kilometers""",neutral,0.6948050260543823,1,4,0,6
+6,chinese,"""Just this afternoon! Shenzhen-Zhongshan Passage opens for trial operation""",neutral,0.8582057952880859,1,4,0,6
+7,chinese,"""Hong Kong Customs Officially Appointed as Deputy Chair of the Asia-Pacific Region for the World Customs Organization for 2024-2026 Term""",neutral,0.7295498847961426,1,4,0,6
+8,chinese,"""China's Manufacturing PMI for June at 49.5%, Business Production Remains in Expansion""",neutral,0.6525323390960693,1,4,0,6
+9,chinese,"""Foreign Trade Enterprises Quickly Adapt to Changes in Overseas Market Demands""",positive,0.6220864653587341,2,4,0,6
