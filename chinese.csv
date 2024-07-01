@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Hong Kong Celebrates 27th Anniversary of Reunification with China, Former Chinese Women's Volleyball Captain Huifan Qi Wishes Hong Kong All the Best""",positive,0.7450217604637146,3,4,2,4
-1,chinese,"""Spanish plane makes emergency landing in Brazil, at least 30 people injured""",negative,0.8072065711021423,-2,4,2,4
-2,chinese,"""Maotai translated as ""Rice Vodka""? Reporter finds out the truth and bursts into laughter...""",positive,0.41244953870773315,2,4,2,4
-3,chinese,"""China's Diplomatic Philosophy Inheritance and Innovation Highly Recognized by Experts at Home and Abroad""",positive,0.6642524003982544,2,4,2,4
-4,chinese,Mainland and Hong Kong Substantially Complete CEPA Service Trade Agreement New Round of Revision Consultations,neutral,0.786237359046936,1,4,2,4
-5,chinese,"""Convenient! Efficient! 300 Beijing Pharmacies to Support Online Purchases with Personal Medical Insurance Accounts Starting July 1st""",positive,0.6682265996932983,2,4,2,4
-6,chinese,"""High-Quality Development Research Trip | Visiting the Hometown of Chinese Freshwater Lobster in Jishui, Jiangxi: Rice-Shrimp Co-Cultivation Creates the ""Golden Business Card"" for Rural Revitalization""",neutral,0.48968130350112915,1,4,2,4
-7,chinese,"""Israel has released around 55 Palestinian detainees to return to Gaza""",neutral,0.6445705890655518,1,4,2,4
-8,chinese,"""US Police Shoot and Kill 13-Year-Old Boy Carrying Fake Gun, Sparking Protests and Prompting Investigation by Prosecutors""",negative,0.7659741044044495,-2,4,2,4
-9,chinese,"""Traffic Volume on Shenzhen-Zhongshan Corridor Maintains High Level, Traffic Police Department Fully Ensures Smooth and Safe Operation""",neutral,0.5450754165649414,1,4,2,4
+0,chinese,"""China's Diplomatic Ideals Inherited and Innovated, Highly Recognized by Experts at Home and Abroad""",positive,0.5884964466094971,2,3,4,3
+1,chinese,"""Death Toll in Traffic Accidents in Seoul City Center Rises to 7""",negative,0.5673319101333618,-1,3,4,3
+2,chinese,"""Spanish Plane Makes Emergency Landing in Brazil, at Least 30 Injured""",negative,0.7116658091545105,-2,3,4,3
+3,chinese,"""Maotai Translated as ""Rice Vodka""? Reporter Finds Out the Truth and Bursts into Laughter...""",neutral,0.6418771743774414,1,3,4,3
+4,chinese,"""Beijing issues lightning blue warning, strong winds and small hail expected in some areas""",negative,0.6556315422058105,-1,3,4,3
+5,chinese,Mainland and Hong Kong Substantially Complete New Round of Negotiations on the Revision of CEPA Service Trade Agreement,neutral,0.7327355146408081,1,3,4,3
+6,chinese,"""Convenient and Efficient! Starting from July 1st, 300 pharmacies in Beijing will support online purchases using personal medical insurance accounts.""",positive,0.6086744070053101,2,3,4,3
+7,chinese,"""High-Quality Development Research Trip | Visiting Jiangxi Jishui, the Hometown of Chinese Freshwater Lobster: Rice-Shrimp Co-Cultivation Creates the ""Golden Business Card"" for Rural Revitalization""",positive,0.5001780986785889,2,3,4,3
+8,chinese,"""Israel has released approximately 55 detained Palestinians to return to Gaza""",neutral,0.5440584421157837,1,3,4,3
+9,chinese,"""US Police Shoot and Kill 13-Year-Old Boy Carrying Fake Gun, Sparking Protests and Prompting Investigation by Prosecutors""",negative,0.7659741044044495,-2,3,4,3
