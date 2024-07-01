@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Hong Kong Celebrates 27th Anniversary of Reunification with China, Former Chinese Women's Volleyball Captain Huifang Qi Wishes Hong Kong All the Best""",positive,0.751223087310791,3,4,0,6
-1,chinese,"""Non-Chinese Permanent Residents of Hong Kong and Macau Can Apply for Mainland Travel Documents Starting July 10th""",neutral,0.8734148144721985,1,4,0,6
-2,chinese,"""Electronic Driving Licenses and Automatic Renewal Will No Longer Quietly Deduct Fees in 60 Cities - New Regulations Coming in July""",neutral,0.8075809478759766,1,4,0,6
-3,chinese,"""Concerning 1.334 billion insured individuals! 2024 Medical Insurance Drug Catalogue Adjustment to Begin on July 1st""",neutral,0.8725841045379639,1,4,0,6
-4,chinese,"""China Communist Party History Museum Has Received 3.5 Million Visitors""",neutral,0.6496556401252747,1,4,0,6
-5,chinese,National Bureau of Statistics: Digital China Development to Further Improve and Accelerate,positive,0.6252847909927368,2,4,0,6
-6,chinese,"""Manufacturing Production Maintains Expansion, New Momentum Continues to Grow""",positive,0.6270467042922974,2,4,0,6
-7,chinese,"""How is the Deep Zhongtong Channel Undersea Tunnel Laid? Reporter Visits the Integrated Ship for Sunken Tube Floating Installation""",neutral,0.8317726850509644,1,4,0,6
-8,chinese,"""French National Assembly Elections Symbolize a Historic Turning Point for France? Experts Interpret""",neutral,0.7466996312141418,1,4,0,6
-9,chinese,"""One Year Anniversary of the Implementation of the ""Accessible Environment Construction Law"" Showcases the Charm of ""Accessibility and Good Design""",positive,0.7967044115066528,3,4,0,6
+0,chinese,"""Hong Kong Celebrates 27th Anniversary of Reunification with China, Former Chinese Women's Volleyball Captain Huifan Qi Wishes Hong Kong All the Best""",positive,0.7450217604637146,3,4,2,4
+1,chinese,"""Spanish plane makes emergency landing in Brazil, at least 30 people injured""",negative,0.8072065711021423,-2,4,2,4
+2,chinese,"""Maotai translated as ""Rice Vodka""? Reporter finds out the truth and bursts into laughter...""",positive,0.41244953870773315,2,4,2,4
+3,chinese,"""China's Diplomatic Philosophy Inheritance and Innovation Highly Recognized by Experts at Home and Abroad""",positive,0.6642524003982544,2,4,2,4
+4,chinese,Mainland and Hong Kong Substantially Complete CEPA Service Trade Agreement New Round of Revision Consultations,neutral,0.786237359046936,1,4,2,4
+5,chinese,"""Convenient! Efficient! 300 Beijing Pharmacies to Support Online Purchases with Personal Medical Insurance Accounts Starting July 1st""",positive,0.6682265996932983,2,4,2,4
+6,chinese,"""High-Quality Development Research Trip | Visiting the Hometown of Chinese Freshwater Lobster in Jishui, Jiangxi: Rice-Shrimp Co-Cultivation Creates the ""Golden Business Card"" for Rural Revitalization""",neutral,0.48968130350112915,1,4,2,4
+7,chinese,"""Israel has released around 55 Palestinian detainees to return to Gaza""",neutral,0.6445705890655518,1,4,2,4
+8,chinese,"""US Police Shoot and Kill 13-Year-Old Boy Carrying Fake Gun, Sparking Protests and Prompting Investigation by Prosecutors""",negative,0.7659741044044495,-2,4,2,4
+9,chinese,"""Traffic Volume on Shenzhen-Zhongshan Corridor Maintains High Level, Traffic Police Department Fully Ensures Smooth and Safe Operation""",neutral,0.5450754165649414,1,4,2,4
