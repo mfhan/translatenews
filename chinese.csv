@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Electronic driving licenses and automatic renewal no longer quietly deduct fees in 60 pilot cities, new regulations to be implemented in July""",neutral,0.6763926148414612,1,5,0,5
-1,chinese,"""Concerning 1.334 billion insured individuals! 2024 Medical Insurance Drug Catalog Adjustment to Begin on July 1st""",neutral,0.8868579864501953,1,5,0,5
-2,chinese,"""China Communist Party History Museum Has Received 3.5 Million Visitors""",neutral,0.6496556401252747,1,5,0,5
-3,chinese,"""National Bureau of Statistics: Digital China Development Will Further Improve and Accelerate""",positive,0.7080968022346497,3,5,0,5
-4,chinese,"""Manufacturing production maintains expansion, new driving forces continue to grow""",positive,0.7318887114524841,3,5,0,5
-5,chinese,"""How is the Deep Zhongtong Channel Undersea Tunnel Laid? Reporter Visits the Integrated Ship for Sunken Tube Floating Installation""",neutral,0.8317726850509644,1,5,0,5
-6,chinese,"""French National Assembly Elections Mark a Historic Moment for France? Experts Weigh In""",neutral,0.5293384790420532,1,5,0,5
-7,chinese,"""China's First Commercial Space Launch Site is Now Capable of Launching""",positive,0.5389503240585327,2,5,0,5
-8,chinese,"""One Year Anniversary of the Implementation of the ""Accessible Environment Construction Law"" Showcases the New Charm of ""Accessible and Good Design""""",positive,0.740247905254364,3,5,0,5
-9,chinese,"""2024 China Family Sailing Race · Suzhou Dushu Lake Station Successfully Concludes""",positive,0.4938149154186249,2,5,0,5
+0,chinese,"""Hong Kong Celebrates 27th Anniversary of Reunification with China, Former Chinese Women's Volleyball Captain Huifang Qi Wishes Hong Kong All the Best""",positive,0.751223087310791,3,4,0,6
+1,chinese,"""Non-Chinese Permanent Residents of Hong Kong and Macau Can Apply for Mainland Travel Documents Starting July 10th""",neutral,0.8734148144721985,1,4,0,6
+2,chinese,"""Electronic Driving Licenses and Automatic Renewal Will No Longer Quietly Deduct Fees in 60 Cities - New Regulations Coming in July""",neutral,0.8075809478759766,1,4,0,6
+3,chinese,"""Concerning 1.334 billion insured individuals! 2024 Medical Insurance Drug Catalogue Adjustment to Begin on July 1st""",neutral,0.8725841045379639,1,4,0,6
+4,chinese,"""China Communist Party History Museum Has Received 3.5 Million Visitors""",neutral,0.6496556401252747,1,4,0,6
+5,chinese,National Bureau of Statistics: Digital China Development to Further Improve and Accelerate,positive,0.6252847909927368,2,4,0,6
+6,chinese,"""Manufacturing Production Maintains Expansion, New Momentum Continues to Grow""",positive,0.6270467042922974,2,4,0,6
+7,chinese,"""How is the Deep Zhongtong Channel Undersea Tunnel Laid? Reporter Visits the Integrated Ship for Sunken Tube Floating Installation""",neutral,0.8317726850509644,1,4,0,6
+8,chinese,"""French National Assembly Elections Symbolize a Historic Turning Point for France? Experts Interpret""",neutral,0.7466996312141418,1,4,0,6
+9,chinese,"""One Year Anniversary of the Implementation of the ""Accessible Environment Construction Law"" Showcases the Charm of ""Accessibility and Good Design""",positive,0.7967044115066528,3,4,0,6
