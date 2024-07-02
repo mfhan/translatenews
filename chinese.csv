@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Diplomatic Ideals Inherited and Innovated, Highly Recognized by Experts at Home and Abroad""",positive,0.5884964466094971,2,5,3,2
-1,chinese,"""Mid-Year Economic Observation: June PMI Remains Stable Compared to Last Month, Overall Economy Maintains Expansion with Accelerated Growth in New Driving Forces""",positive,0.4802244007587433,2,5,3,2
-2,chinese,"""Our country releases four categories of chronic disease nutrition and exercise guidance principles""",neutral,0.8038883805274963,1,5,3,2
-3,chinese,"""National Cultural Heritage Administration: Key and Popular Venues Can Extend Opening Hours During Summer""",positive,0.5433127284049988,2,5,3,2
-4,chinese,"""Attracting Talents to Return to Hometown, Boosting Income for Villagers""",positive,0.6854888796806335,2,5,3,2
-5,chinese,"""Community Micro Factories: Able to Work from Home""",neutral,0.5750874876976013,1,5,3,2
-6,chinese,"""Multiple River Basins in China Expected to Experience Significant Flooding in July - Why is This Year's Flood Season Earlier and More Severe?""",negative,0.6777060031890869,-1,5,3,2
-7,chinese,"""Death toll in traffic accidents in Seoul's city center rises to 7""",negative,0.7090686559677124,-2,5,3,2
-8,chinese,"""Spanish Plane Makes Emergency Landing in Brazil, at Least 30 Injured""",negative,0.7116658091545105,-2,5,3,2
-9,chinese,"""Maotai translated as ""rice vodka""? Reporter finds out the truth and bursts into laughter...""",positive,0.36096227169036865,2,5,3,2
+0,chinese,"""Exclusive Interview with Yang Wanming: Sustaining Long-term Stability in US-China Relations by Listening to Public Opinion and Meeting People's Expectations""",neutral,0.6330156922340393,1,4,0,6
+1,chinese,"""Kazakhstani Youth: ""Belt and Road"" Initiative Brings New Life to Residents of Border Towns""",positive,0.5519815683364868,2,4,0,6
+2,chinese,"""Ministry of Foreign Affairs: China is willing to strengthen bilateral dialogue and cooperation with the United States in the field of artificial intelligence""",positive,0.7418913245201111,3,4,0,6
+3,chinese,"""Vibrant and unstoppable cooperation: Upcoming SCO Summit sparks positive public response""",positive,0.8678611516952515,3,4,0,6
+4,chinese,"""Chengdu-Chongqing High-Speed Rail Boosts Development with ""Pen"", Painting a Picture of High-Quality Development""",neutral,0.49223488569259644,1,4,0,6
+5,chinese,"""Expected Summer Grain Procurement Volume of Around 70 Million Tons, How to Ensure Quality and Freshness of Reserve Grain""",neutral,0.6846585273742676,1,4,0,6
+6,chinese,"""EU Increases Scrutiny on Artificial Intelligence Giants' Transactions""",neutral,0.7084748148918152,1,4,0,6
+7,chinese,"""Hu Youping is awarded the title of ""Suzhou City Model of Courage and Selflessness""""",neutral,0.4880158603191376,1,4,0,6
+8,chinese,"""China Continues to Expand the ""Friend Circle"" of Visa-Free Travel, Data Shows Strong Momentum for Inbound Tourism""",positive,0.7682271003723145,3,4,0,6
+9,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Provision of Supplies to Illegally Stationed Ships at Xianbi Reef""",neutral,0.5456684231758118,1,4,0,6
