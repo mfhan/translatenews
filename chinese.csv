@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Exclusive Interview with Yang Wanming: Sustaining Long-term Stability in US-China Relations by Listening to Public Opinion and Meeting People's Expectations""",neutral,0.6330156922340393,1,4,0,6
-1,chinese,"""Kazakhstani Youth: ""Belt and Road"" Initiative Brings New Life to Residents of Border Towns""",positive,0.5519815683364868,2,4,0,6
-2,chinese,"""Ministry of Foreign Affairs: China is willing to strengthen bilateral dialogue and cooperation with the United States in the field of artificial intelligence""",positive,0.7418913245201111,3,4,0,6
-3,chinese,"""Vibrant and unstoppable cooperation: Upcoming SCO Summit sparks positive public response""",positive,0.8678611516952515,3,4,0,6
-4,chinese,"""Chengdu-Chongqing High-Speed Rail Boosts Development with ""Pen"", Painting a Picture of High-Quality Development""",neutral,0.49223488569259644,1,4,0,6
-5,chinese,"""Expected Summer Grain Procurement Volume of Around 70 Million Tons, How to Ensure Quality and Freshness of Reserve Grain""",neutral,0.6846585273742676,1,4,0,6
-6,chinese,"""EU Increases Scrutiny on Artificial Intelligence Giants' Transactions""",neutral,0.7084748148918152,1,4,0,6
-7,chinese,"""Hu Youping is awarded the title of ""Suzhou City Model of Courage and Selflessness""""",neutral,0.4880158603191376,1,4,0,6
-8,chinese,"""China Continues to Expand the ""Friend Circle"" of Visa-Free Travel, Data Shows Strong Momentum for Inbound Tourism""",positive,0.7682271003723145,3,4,0,6
-9,chinese,"""Chinese Coast Guard Spokesperson Issues Statement on Philippines' Provision of Supplies to Illegally Stationed Ships at Xianbi Reef""",neutral,0.5456684231758118,1,4,0,6
+0,chinese,"""Exclusive Interview with Yang Wanming: Sustaining Long-term Stability in Sino-US Relations by Listening to Public Opinion and Meeting People's Expectations""",neutral,0.6488052010536194,1,3,1,6
+1,chinese,"""World Badminton Responds to the Passing of Zhang Zhijie: Will Conduct a Thorough Investigation""",neutral,0.7015135884284973,1,3,1,6
+2,chinese,"""Kazakhstani Youth: ""Belt and Road"" Initiative Brings New Life to Residents of Border Towns""",positive,0.5519815683364868,2,3,1,6
+3,chinese,"""Implementation of ""Foreign Card Fee Reduction"", What Benefits Will Merchants Receive?""",neutral,0.8461592793464661,1,3,1,6
+4,chinese,"""US Supreme Court Rules Trump Has ""Certain Degree"" of Immunity, Biden: Dangerous Precedent""",negative,0.9184874892234802,-2,3,1,6
+5,chinese,"""Ministry of Foreign Affairs: China is willing to strengthen bilateral dialogue and cooperation with the United States in the field of artificial intelligence""",positive,0.7418913245201111,3,3,1,6
+6,chinese,"""Vibrant and Unstoppable: Upcoming SCO Summit Receives Positive Public Response for ""Win-Win Cooperation""""",positive,0.8444376587867737,3,3,1,6
+7,chinese,"""Chengdu-Chongqing High-Speed Rail Drives Development with ""Pen"", Paints a Picture of High-Quality Development""",neutral,0.5197615623474121,1,3,1,6
+8,chinese,"""Expected Summer Grain Procurement Volume of Around 70 Million Tons, How to Ensure the Quality and Freshness of Reserve Grain""",neutral,0.684812605381012,1,3,1,6
+9,chinese,"""EU Increases Scrutiny on Artificial Intelligence Giants' Transactions""",neutral,0.7084748148918152,1,3,1,6
