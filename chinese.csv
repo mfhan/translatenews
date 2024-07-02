@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Diplomatic Ideals Inherited and Innovated, Highly Recognized by Experts at Home and Abroad""",positive,0.5884964466094971,2,4,3,3
-1,chinese,"""Mid-Year Economic Observation: June PMI Remains Steady Compared to Previous Month, Overall Economy Maintains Expansion with Accelerated Growth in New Driving Forces""",positive,0.6038326025009155,2,4,3,3
-2,chinese,"""Our country releases four categories of chronic disease nutrition and exercise guidance principles""",neutral,0.8038883805274963,1,4,3,3
-3,chinese,"""National Cultural Heritage Administration: Key venues and popular venues can extend their opening hours during summer vacation""",positive,0.6987245082855225,2,4,3,3
-4,chinese,"""Attracting Talents to Return Home and Boosting Income for Villagers""",positive,0.6378060579299927,2,4,3,3
-5,chinese,"""Community Micro-factories: Able to Work from Home""",neutral,0.48644477128982544,1,4,3,3
-6,chinese,"""Multiple River Basins in China Expected to Experience Significant Floods in July - Why is This Year's Flood Season Earlier and More Severe?""",negative,0.6512297987937927,-1,4,3,3
-7,chinese,"""Number of fatalities in traffic accidents in Seoul city center, South Korea rises to 7""",negative,0.5722563862800598,-1,4,3,3
-8,chinese,"""Spanish Plane Makes Emergency Landing in Brazil, At Least 30 Injured""",negative,0.7092871069908142,-2,4,3,3
-9,chinese,"""Maotai Translated as ""Rice Vodka""? Reporter Knows the Truth and Bursts into Laughter...""",neutral,0.5767510533332825,1,4,3,3
+0,chinese,"""China's Diplomatic Ideals Inherited and Innovated, Highly Recognized by Experts at Home and Abroad""",positive,0.5884964466094971,2,5,3,2
+1,chinese,"""Mid-Year Economic Observation: June PMI Remains Stable Compared to Last Month, Overall Economy Maintains Expansion with Accelerated Growth in New Driving Forces""",positive,0.4802244007587433,2,5,3,2
+2,chinese,"""Our country releases four categories of chronic disease nutrition and exercise guidance principles""",neutral,0.8038883805274963,1,5,3,2
+3,chinese,"""National Cultural Heritage Administration: Key and Popular Venues Can Extend Opening Hours During Summer""",positive,0.5433127284049988,2,5,3,2
+4,chinese,"""Attracting Talents to Return to Hometown, Boosting Income for Villagers""",positive,0.6854888796806335,2,5,3,2
+5,chinese,"""Community Micro Factories: Able to Work from Home""",neutral,0.5750874876976013,1,5,3,2
+6,chinese,"""Multiple River Basins in China Expected to Experience Significant Flooding in July - Why is This Year's Flood Season Earlier and More Severe?""",negative,0.6777060031890869,-1,5,3,2
+7,chinese,"""Death toll in traffic accidents in Seoul's city center rises to 7""",negative,0.7090686559677124,-2,5,3,2
+8,chinese,"""Spanish Plane Makes Emergency Landing in Brazil, at Least 30 Injured""",negative,0.7116658091545105,-2,5,3,2
+9,chinese,"""Maotai translated as ""rice vodka""? Reporter finds out the truth and bursts into laughter...""",positive,0.36096227169036865,2,5,3,2
