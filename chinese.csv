@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Diplomatic Ideals Inherited and Innovated, Highly Recognized by Experts at Home and Abroad""",positive,0.5884964466094971,2,3,4,3
-1,chinese,"""Death Toll in Traffic Accidents in Seoul City Center Rises to 7""",negative,0.5673319101333618,-1,3,4,3
-2,chinese,"""Spanish Plane Makes Emergency Landing in Brazil, at Least 30 Injured""",negative,0.7116658091545105,-2,3,4,3
-3,chinese,"""Maotai Translated as ""Rice Vodka""? Reporter Finds Out the Truth and Bursts into Laughter...""",neutral,0.6418771743774414,1,3,4,3
-4,chinese,"""Beijing issues lightning blue warning, strong winds and small hail expected in some areas""",negative,0.6556315422058105,-1,3,4,3
-5,chinese,Mainland and Hong Kong Substantially Complete New Round of Negotiations on the Revision of CEPA Service Trade Agreement,neutral,0.7327355146408081,1,3,4,3
-6,chinese,"""Convenient and Efficient! Starting from July 1st, 300 pharmacies in Beijing will support online purchases using personal medical insurance accounts.""",positive,0.6086744070053101,2,3,4,3
-7,chinese,"""High-Quality Development Research Trip | Visiting Jiangxi Jishui, the Hometown of Chinese Freshwater Lobster: Rice-Shrimp Co-Cultivation Creates the ""Golden Business Card"" for Rural Revitalization""",positive,0.5001780986785889,2,3,4,3
-8,chinese,"""Israel has released approximately 55 detained Palestinians to return to Gaza""",neutral,0.5440584421157837,1,3,4,3
-9,chinese,"""US Police Shoot and Kill 13-Year-Old Boy Carrying Fake Gun, Sparking Protests and Prompting Investigation by Prosecutors""",negative,0.7659741044044495,-2,3,4,3
+0,chinese,"""China's Diplomatic Ideals Inherited and Innovated, Highly Recognized by Experts at Home and Abroad""",positive,0.5884964466094971,2,4,3,3
+1,chinese,"""Mid-Year Economic Observation: June PMI Remains Steady Compared to Previous Month, Overall Economy Maintains Expansion with Accelerated Growth in New Driving Forces""",positive,0.6038326025009155,2,4,3,3
+2,chinese,"""Our country releases four categories of chronic disease nutrition and exercise guidance principles""",neutral,0.8038883805274963,1,4,3,3
+3,chinese,"""National Cultural Heritage Administration: Key venues and popular venues can extend their opening hours during summer vacation""",positive,0.6987245082855225,2,4,3,3
+4,chinese,"""Attracting Talents to Return Home and Boosting Income for Villagers""",positive,0.6378060579299927,2,4,3,3
+5,chinese,"""Community Micro-factories: Able to Work from Home""",neutral,0.48644477128982544,1,4,3,3
+6,chinese,"""Multiple River Basins in China Expected to Experience Significant Floods in July - Why is This Year's Flood Season Earlier and More Severe?""",negative,0.6512297987937927,-1,4,3,3
+7,chinese,"""Number of fatalities in traffic accidents in Seoul city center, South Korea rises to 7""",negative,0.5722563862800598,-1,4,3,3
+8,chinese,"""Spanish Plane Makes Emergency Landing in Brazil, At Least 30 Injured""",negative,0.7092871069908142,-2,4,3,3
+9,chinese,"""Maotai Translated as ""Rice Vodka""? Reporter Knows the Truth and Bursts into Laughter...""",neutral,0.5767510533332825,1,4,3,3
