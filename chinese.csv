@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Exclusive Interview with Yang Wanming: Sustaining Long-term Stability in US-China Relations Requires Listening to Public Opinion and Responding to Popular Will""",neutral,0.781751275062561,1,1,5,4
-1,chinese,"""Britain's Pre-Election ""Cold Reception""""",negative,0.8152503371238708,-2,1,5,4
-2,chinese,"""China's Artificial Intelligence Industry to Establish Over 50 National and Industry Standards""",neutral,0.6158557534217834,1,1,5,4
-3,chinese,"""At least 116 people dead in stampede accident in Northern India""",negative,0.7440647482872009,-2,1,5,4
-4,chinese,"""Russian Deputy Defense Minister Dismissed""",negative,0.6526414155960083,-1,1,5,4
-5,chinese,State Council Taiwan Affairs Office: Any actions that challenge the One China principle and provoke compatriots on both sides of the Taiwan Strait will be punished and will surely fail.,negative,0.9308575391769409,-2,1,5,4
-6,chinese,"""World Badminton Responds to the Passing of Zhang Zhijie: Will Conduct a Thorough Investigation""",neutral,0.7015135884284973,1,1,5,4
-7,chinese,"""Kazakhstani Youth: ""Belt and Road"" Initiative Brings New Life to Residents of Border Towns""",positive,0.5519815683364868,2,1,5,4
-8,chinese,"""What benefits will merchants gain from the implementation of ""discounted fees for foreign cards""?""",neutral,0.6973391771316528,1,1,5,4
-9,chinese,"""US Supreme Court Rules Trump Has ""Certain Degree"" of Immunity, Biden: Dangerous Precedent""",negative,0.9184874892234802,-2,1,5,4
+0,chinese,"""German Experts: In the Era of Electric Cars, China and Germany's Offensive and Defensive Strategies are Changing""",neutral,0.5906598567962646,1,2,2,6
+1,chinese,"""Promising Prospects for Low-altitude Economic Development Injects New Momentum into China's New Transportation Transformation""",positive,0.6707337498664856,2,2,2,6
+2,chinese,"""Digital Economy to Receive Multiple Policy Benefits""",neutral,0.5517385005950928,1,2,2,6
+3,chinese,"""New Energy Vehicle Mechanics Become the ""New Favorite"" in the Automotive Repair Industry""",neutral,0.5318130254745483,1,2,2,6
+4,chinese,"""Over 100 People Dead in Stampede Accident in Northern India, Government Criticized for Inadequate Response""",negative,0.8642401695251465,-2,2,2,6
+5,chinese,"""SCO-CIM Alliance Established, SCO-City International Training Base for Digital Transformation Unveiled""",neutral,0.645835816860199,1,2,2,6
+6,chinese,"""Three More Cases of Sexual Violence by US Military Personnel in Okinawa Exposed, Suspects Not Prosecuted""",negative,0.7374013066291809,-2,2,2,6
+7,chinese,"Promoting the ""Shanghai Spirit"" and Providing the ""Chinese Solution"": SCO Injects New Energy into World Peace and Prosperity",positive,0.7796201705932617,3,2,2,6
+8,chinese,"""Weifang's Practice of Chinese-style Modernization, AI Anchors Have Something to Say""",neutral,0.8007048964500427,1,2,2,6
+9,chinese,"""China Urges Israel to Ensure Large-scale Humanitarian Aid Enters Gaza Strip""",neutral,0.6150750517845154,1,2,2,6
