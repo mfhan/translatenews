@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Exclusive Interview with Yang Wanming: Sustaining Long-term Stability in Sino-US Relations by Listening to Public Opinion and Meeting People's Expectations""",neutral,0.6488052010536194,1,3,1,6
-1,chinese,"""World Badminton Responds to the Passing of Zhang Zhijie: Will Conduct a Thorough Investigation""",neutral,0.7015135884284973,1,3,1,6
-2,chinese,"""Kazakhstani Youth: ""Belt and Road"" Initiative Brings New Life to Residents of Border Towns""",positive,0.5519815683364868,2,3,1,6
-3,chinese,"""Implementation of ""Foreign Card Fee Reduction"", What Benefits Will Merchants Receive?""",neutral,0.8461592793464661,1,3,1,6
-4,chinese,"""US Supreme Court Rules Trump Has ""Certain Degree"" of Immunity, Biden: Dangerous Precedent""",negative,0.9184874892234802,-2,3,1,6
-5,chinese,"""Ministry of Foreign Affairs: China is willing to strengthen bilateral dialogue and cooperation with the United States in the field of artificial intelligence""",positive,0.7418913245201111,3,3,1,6
-6,chinese,"""Vibrant and Unstoppable: Upcoming SCO Summit Receives Positive Public Response for ""Win-Win Cooperation""""",positive,0.8444376587867737,3,3,1,6
-7,chinese,"""Chengdu-Chongqing High-Speed Rail Drives Development with ""Pen"", Paints a Picture of High-Quality Development""",neutral,0.5197615623474121,1,3,1,6
-8,chinese,"""Expected Summer Grain Procurement Volume of Around 70 Million Tons, How to Ensure the Quality and Freshness of Reserve Grain""",neutral,0.684812605381012,1,3,1,6
-9,chinese,"""EU Increases Scrutiny on Artificial Intelligence Giants' Transactions""",neutral,0.7084748148918152,1,3,1,6
+0,chinese,"""Exclusive Interview with Yang Wanming: Sustaining Long-term Stability in US-China Relations Requires Listening to Public Opinion and Responding to Popular Will""",neutral,0.781751275062561,1,1,5,4
+1,chinese,"""Britain's Pre-Election ""Cold Reception""""",negative,0.8152503371238708,-2,1,5,4
+2,chinese,"""China's Artificial Intelligence Industry to Establish Over 50 National and Industry Standards""",neutral,0.6158557534217834,1,1,5,4
+3,chinese,"""At least 116 people dead in stampede accident in Northern India""",negative,0.7440647482872009,-2,1,5,4
+4,chinese,"""Russian Deputy Defense Minister Dismissed""",negative,0.6526414155960083,-1,1,5,4
+5,chinese,State Council Taiwan Affairs Office: Any actions that challenge the One China principle and provoke compatriots on both sides of the Taiwan Strait will be punished and will surely fail.,negative,0.9308575391769409,-2,1,5,4
+6,chinese,"""World Badminton Responds to the Passing of Zhang Zhijie: Will Conduct a Thorough Investigation""",neutral,0.7015135884284973,1,1,5,4
+7,chinese,"""Kazakhstani Youth: ""Belt and Road"" Initiative Brings New Life to Residents of Border Towns""",positive,0.5519815683364868,2,1,5,4
+8,chinese,"""What benefits will merchants gain from the implementation of ""discounted fees for foreign cards""?""",neutral,0.6973391771316528,1,1,5,4
+9,chinese,"""US Supreme Court Rules Trump Has ""Certain Degree"" of Immunity, Biden: Dangerous Precedent""",negative,0.9184874892234802,-2,1,5,4
