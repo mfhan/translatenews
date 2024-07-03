@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Kazakhstani Experts: SCO Sets an Example of Cooperation, China Plays an Important Role""",neutral,0.495390385389328,1,4,2,4
-1,chinese,Ministry of Foreign Affairs: China will continue to promote South Korea's efforts in handling the aftermath of the Huacheng Battery Factory fire incident.,neutral,0.40221157670021057,1,4,2,4
-2,chinese,"""Kazakhstan Youth: ""Belt and Road"" Initiative Brings More Employment Opportunities to the Caspian Sea Region""",positive,0.6624846458435059,2,4,2,4
-3,chinese,"""Philippine Police: Clues on Suspects Involved in Kidnapping and Murder of Chinese Citizen Obtained""",negative,0.6938323378562927,-1,4,2,4
-4,chinese,"""C Finance | Win-Win Cooperation and Synergistic Development: China-Kazakhstan Economic and Trade Cooperation Achieves Outstanding Results""",positive,0.8318827748298645,3,4,2,4
-5,chinese,"""【Overseas Perspective】Kazakhstani Girl Falls in Love with Chinese Kung Fu, ""Apprentices"" in Chinese Parks""",positive,0.5240190625190735,2,4,2,4
-6,chinese,"""US troops stationed in Syria engage in illegal wheat transportation activities, Ministry of Foreign Affairs: US is using counter-terrorism as a cover for resource plundering""",negative,0.852446436882019,-2,4,2,4
-7,chinese,"""Last year, Turkey's imports and exports to SCO member countries saw a significant increase compared to 2019""",neutral,0.5653415322303772,1,4,2,4
-8,chinese,"""Promising Prospects for Low-altitude Economic Development Injects New Momentum into China's New Transportation Transformation""",positive,0.6707337498664856,2,4,2,4
-9,chinese,"""Digital Economy to Receive Multiple Policy Benefits""",neutral,0.5517385005950928,1,4,2,4
+0,chinese,"""Kazakhstan Expert: SCO Sets an Example of Cooperation, China Plays an Important Role""",neutral,0.5008646249771118,1,5,2,3
+1,chinese,Ministry of Foreign Affairs: China will continue to promote South Korea to do a good job in the aftermath of the Hwaseong battery factory fire incident.,positive,0.5089120268821716,2,5,2,3
+2,chinese,"""New Cross-Border Bus Routes for Western Land and Sea Link have Reached 19 Countries""",neutral,0.7244611382484436,1,5,2,3
+3,chinese,"""Kazakhstan Youth: ""Belt and Road"" Initiative Brings More Employment Opportunities to the Caspian Sea Region""",positive,0.6624846458435059,2,5,2,3
+4,chinese,"""Philippine Police: Have Obtained Clues of Suspects Involved in Kidnapping and Murder of Chinese Citizen""",negative,0.7305576205253601,-2,5,2,3
+5,chinese,"""C Finance | Win-Win Cooperation and Synergistic Development: China-Kazakhstan Economic and Trade Cooperation Achieves Outstanding Results""",positive,0.8318827748298645,3,5,2,3
+6,chinese,"""【Overseas Perspective】Kazakhstani Girl Falls in Love with Chinese Kung Fu, ""Apprentices"" in Chinese Parks""",positive,0.5240190625190735,2,5,2,3
+7,chinese,"""US troops stationed in Syria engage in illegal wheat transportation activities, Foreign Ministry: US is using the guise of counter-terrorism, but their true intention is to plunder resources""",negative,0.8766698837280273,-2,5,2,3
+8,chinese,"""Last year, Turkey's imports and exports to SCO member countries saw a significant increase compared to 2019""",neutral,0.5653415322303772,1,5,2,3
+9,chinese,"""Promising Prospects for Low-altitude Economic Development Injects New Momentum into China's New Transportation Transformation""",positive,0.6707337498664856,2,5,2,3
