@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""German Experts: In the Era of Electric Cars, China and Germany's Offensive and Defensive Strategies are Changing""",neutral,0.5906598567962646,1,2,2,6
-1,chinese,"""Promising Prospects for Low-altitude Economic Development Injects New Momentum into China's New Transportation Transformation""",positive,0.6707337498664856,2,2,2,6
-2,chinese,"""Digital Economy to Receive Multiple Policy Benefits""",neutral,0.5517385005950928,1,2,2,6
-3,chinese,"""New Energy Vehicle Mechanics Become the ""New Favorite"" in the Automotive Repair Industry""",neutral,0.5318130254745483,1,2,2,6
-4,chinese,"""Over 100 People Dead in Stampede Accident in Northern India, Government Criticized for Inadequate Response""",negative,0.8642401695251465,-2,2,2,6
-5,chinese,"""SCO-CIM Alliance Established, SCO-City International Training Base for Digital Transformation Unveiled""",neutral,0.645835816860199,1,2,2,6
-6,chinese,"""Three More Cases of Sexual Violence by US Military Personnel in Okinawa Exposed, Suspects Not Prosecuted""",negative,0.7374013066291809,-2,2,2,6
-7,chinese,"Promoting the ""Shanghai Spirit"" and Providing the ""Chinese Solution"": SCO Injects New Energy into World Peace and Prosperity",positive,0.7796201705932617,3,2,2,6
-8,chinese,"""Weifang's Practice of Chinese-style Modernization, AI Anchors Have Something to Say""",neutral,0.8007048964500427,1,2,2,6
-9,chinese,"""China Urges Israel to Ensure Large-scale Humanitarian Aid Enters Gaza Strip""",neutral,0.6150750517845154,1,2,2,6
+0,chinese,"""Kazakhstani Experts: SCO Sets an Example of Cooperation, China Plays an Important Role""",neutral,0.495390385389328,1,4,2,4
+1,chinese,Ministry of Foreign Affairs: China will continue to promote South Korea's efforts in handling the aftermath of the Huacheng Battery Factory fire incident.,neutral,0.40221157670021057,1,4,2,4
+2,chinese,"""Kazakhstan Youth: ""Belt and Road"" Initiative Brings More Employment Opportunities to the Caspian Sea Region""",positive,0.6624846458435059,2,4,2,4
+3,chinese,"""Philippine Police: Clues on Suspects Involved in Kidnapping and Murder of Chinese Citizen Obtained""",negative,0.6938323378562927,-1,4,2,4
+4,chinese,"""C Finance | Win-Win Cooperation and Synergistic Development: China-Kazakhstan Economic and Trade Cooperation Achieves Outstanding Results""",positive,0.8318827748298645,3,4,2,4
+5,chinese,"""【Overseas Perspective】Kazakhstani Girl Falls in Love with Chinese Kung Fu, ""Apprentices"" in Chinese Parks""",positive,0.5240190625190735,2,4,2,4
+6,chinese,"""US troops stationed in Syria engage in illegal wheat transportation activities, Ministry of Foreign Affairs: US is using counter-terrorism as a cover for resource plundering""",negative,0.852446436882019,-2,4,2,4
+7,chinese,"""Last year, Turkey's imports and exports to SCO member countries saw a significant increase compared to 2019""",neutral,0.5653415322303772,1,4,2,4
+8,chinese,"""Promising Prospects for Low-altitude Economic Development Injects New Momentum into China's New Transportation Transformation""",positive,0.6707337498664856,2,4,2,4
+9,chinese,"""Digital Economy to Receive Multiple Policy Benefits""",neutral,0.5517385005950928,1,4,2,4
