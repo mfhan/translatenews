@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Prime Minister of Kyrgyzstan: Facing Global Security Challenges, SCO Lights Up a ""Lighthouse""""",neutral,0.4863806962966919,1,3,2,5
-1,chinese,"""[C Finance] Jointly Building the ""Belt and Road"" Takes China-Tajikistan Economic Cooperation to a New Stage""",positive,0.4831954836845398,2,3,2,5
-2,chinese,"""Belarus Expert: Belarus's Joining of the Shanghai Cooperation Organization is of Great Significance and Has a Bright Future""",positive,0.8922075033187866,3,3,2,5
-3,chinese,"""[China Stories] The ""China Connection"" of a Kazakhstani Girl""",neutral,0.889433741569519,1,3,2,5
-4,chinese,"""Ministry of Foreign Affairs: Urges the Philippines to Stop Infringement and Provocation, Return to the Correct Track of Resolving Differences through Dialogue and Consultation""",neutral,0.46886759996414185,1,3,2,5
-5,chinese,"""Security Situation in Northeastern Democratic Republic of Congo Severe, Ministry of Foreign Affairs Issues Security Reminder""",negative,0.5447973012924194,-1,3,2,5
-6,chinese,"""Millennial Silk Road Love, Using ""Music"" as the Medium to Play a New Chapter of China-Tajikistan Friendship""",neutral,0.4880174398422241,1,3,2,5
-7,chinese,"""German Automobile Industry Association Opposes EU's Imposition of Tariffs on Chinese Electric Vehicles""",negative,0.7886757850646973,-2,3,2,5
-8,chinese,"""How has the progress of the 'trade-in for new' policy for cars been in the past two months?""",neutral,0.7557835578918457,1,3,2,5
-9,chinese,"""[Overseas Perspective] Tajikistani Girl Mina Encourages Everyone to Learn Chinese and Experience the Real China Firsthand""",positive,0.5341373682022095,2,3,2,5
+0,chinese,"""Former Prime Minister of Kyrgyzstan: Facing Global Security Challenges, SCO Shines as a ""Lighthouse""""",negative,0.6158034801483154,-1,3,3,4
+1,chinese,"""European Political and Business Leaders Oppose EU's Imposition of Tariffs on Electric Cars from China""",negative,0.49201396107673645,-1,3,3,4
+2,chinese,"""Young SCO Members in China: Russian ""China Expert"" Shares the Great Wisdom of ""Harmony in Diversity""""",positive,0.7246792316436768,3,3,3,4
+3,chinese,"""SCO Youth in China: Afghan Boy Sees Chinese Style Through Calligraphy""",neutral,0.7166355848312378,1,3,3,4
+4,chinese,"""Ministry of Commerce: Hopes for European and Chinese sides to work together and accelerate the progress of negotiations""",positive,0.762122392654419,3,3,3,4
+5,chinese,"""[C Finance] Building the ""Belt and Road"": China and Tajikistan's Economy Enters a New Stage""",neutral,0.5838338732719421,1,3,3,4
+6,chinese,"""Belarus Expert: Belarus' Joining of the SCO is of Great Significance and Has a Bright Future""",positive,0.8988755941390991,3,3,3,4
+7,chinese,"""[China Stories] The ""Chinese Fate"" of a Kazakh Girl""",neutral,0.7475204467773438,1,3,3,4
+8,chinese,"Ministry of Foreign Affairs: Urges the Philippines to Stop Infringement and Provocation, Return to the Correct Track of Resolving Differences through Dialogue and Consultation",neutral,0.45935118198394775,1,3,3,4
+9,chinese,"""Security Situation in Northeastern Democratic Republic of Congo Becomes Severe, Ministry of Foreign Affairs Issues Security Reminder""",negative,0.7157651782035828,-2,3,3,4
