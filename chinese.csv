@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Kazakhstan Expert: SCO Sets an Example of Cooperation, China Plays an Important Role""",neutral,0.5008646249771118,1,2,2,6
-1,chinese,"""Former Prime Minister of Kyrgyzstan: In the Face of Global Security Challenges, the Shanghai Cooperation Organization Lights a ""Beacon""""",neutral,0.5994259119033813,1,2,2,6
-2,chinese,"""Price Discrimination Using Big Data Prohibited by Law, Automatic Renewal Must Be Notified in Advance""",negative,0.48750734329223633,-1,2,2,6
-3,chinese,"""Multiple domestic and international flight routes opened or increased during the summer season, average ticket prices for inbound and outbound flights have decreased by approximately 7% compared to the same period last year""",neutral,0.7065708041191101,1,2,2,6
-4,chinese,"""Foreigners Enjoy More Convenient Payment Options in China, ""Outsourcing for Domestic Use"" Transaction Volume Increases Over 7 Times in the First Half of the Year""",positive,0.7480059862136841,3,2,2,6
-5,chinese,"""26 Companies Sign Contract to Become First Batch of Exhibitors at the 8th China International Import Expo""",neutral,0.7133309841156006,1,2,2,6
-6,chinese,"""Ministry of Foreign Affairs: China will continue to promote South Korea to properly handle the aftermath of the Huacheng Battery Factory fire incident""",neutral,0.444379597902298,1,2,2,6
-7,chinese,"""New Cross-Border Bus Routes for Western Land and Sea Channels Reach 19 Countries""",neutral,0.7623986005783081,1,2,2,6
-8,chinese,"Kazakhstani Youth: ""Belt and Road"" Initiative Brings More Job Opportunities to the Caspian Sea Region",positive,0.6742528676986694,2,2,2,6
-9,chinese,"""Philippine Police: Have Obtained Clues of Suspects Involved in Kidnapping and Murder of Chinese Citizen""",negative,0.7305576205253601,-2,2,2,6
+0,chinese,"""Former Prime Minister of Kyrgyzstan: Facing Global Security Challenges, the SCO Illuminates a ""Lighthouse""""",negative,0.74784255027771,-2,4,2,4
+1,chinese,"""[Overseas Perspective] Tajikistani Girl Mina Encourages Everyone to Learn Chinese and Experience the Real China Firsthand""",positive,0.5341373682022095,2,4,2,4
+2,chinese,"Former SCO Secretary-General: ""Shanghai Spirit"" and Chinese Initiatives Point the Way for Building a New Type of International Relations",positive,0.6441289782524109,2,4,2,4
+3,chinese,"""Ancient Discovery | New Study Reveals Survival Strategies of Mysterious Denisovan Humans""",neutral,0.7343405485153198,1,4,2,4
+4,chinese,"""Tajik young man sings Lei Feng song at the drop of a hat""",neutral,0.6005369424819946,1,4,2,4
+5,chinese,"""Price Discrimination Based on Big Data Prohibited, Advance Notice Required for Automatic Renewal""",negative,0.5858258008956909,-1,4,2,4
+6,chinese,"""Multiple Domestic and International Flight Routes Newly Opened or Increased in Frequency During the Summer Season, Average Ticket Prices for Inbound and Outbound Flights Decreased by Approximately 7% Compared to the Same Period Last Year""",neutral,0.7777690887451172,1,4,2,4
+7,chinese,"""Foreigners Enjoy More Convenient Payment Options in China, ""Outsourcing for Domestic Use"" Transaction Volume Increases Over 7 Times in the First Half of the Year""",positive,0.7480059862136841,3,4,2,4
+8,chinese,"""26 Companies Sign Contracts to Become the First Batch of Exhibitors at the 8th China International Import Expo""",neutral,0.7101976871490479,1,4,2,4
+9,chinese,Ministry of Foreign Affairs: China will continue to push for South Korea to do a good job in handling the aftermath of the Huacheng Battery Factory fire incident.,positive,0.476612389087677,2,4,2,4
