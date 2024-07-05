@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China News] Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path of the Shanghai Cooperation Organization""",positive,0.5515305995941162,2,4,1,5
-1,chinese,"""Very Interesting! 9 Images to Quickly Understand Lesser-Known Facts about Tajikistan""",positive,0.6191451549530029,2,4,1,5
-2,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,4,1,5
-3,chinese,"""Tornado in Dongming County, Heze, Shandong Province Causes 1 Death and 79 Injuries""",negative,0.7034788727760315,-2,4,1,5
-4,chinese,"""FAO: Global Food Price Index Remains Stable in June""",neutral,0.5043853521347046,1,4,1,5
-5,chinese,"""King Charles III of England has accepted Prime Minister Sunak's resignation""",neutral,0.5869248509407043,1,4,1,5
-6,chinese,Ministry of Foreign Affairs: SCO member countries will inject strong impetus into maintaining world peace and development,positive,0.6938355565071106,2,4,1,5
-7,chinese,"""Multiple Departments Coordinate to Provide Over 100,000 Units of Relief Supplies for Daily Necessities to Hunan Pingjiang""",neutral,0.5341399908065796,1,4,1,5
-8,chinese,"""Ministry of Foreign Affairs: Establishment of Strategic Partnership between China and Algeria is an Important Milestone in Bilateral Relations""",positive,0.6170791983604431,2,4,1,5
-9,chinese,"""British Prime Minister Boris Johnson Will Submit Resignation to the British King""",neutral,0.6264927983283997,1,4,1,5
+0,chinese,"""China's Affairs: Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path of the Shanghai Cooperation Organization""",positive,0.49938979744911194,2,5,1,4
+1,chinese,"""Interesting! 9 Images to Quickly Understand Lesser-Known Facts about Tajikistan""",positive,0.5101086497306824,2,5,1,4
+2,chinese,"""Promoting the Co-Governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.6211394667625427,1,5,1,4
+3,chinese,"Tornado in Dongming County, Heze, Shandong Province causes 1 death and 79 injuries.",negative,0.6551541686058044,-1,5,1,4
+4,chinese,"""FAO: Global Food Price Index Remains Stable in June""",neutral,0.5043853521347046,1,5,1,4
+5,chinese,"""British King Charles III has accepted Prime Minister Sunak's resignation""",neutral,0.59001624584198,1,5,1,4
+6,chinese,"""Foreign Ministry: SCO Member Countries Will Inject Strong Momentum for Maintaining World Peace and Development""",positive,0.6782021522521973,2,5,1,4
+7,chinese,"""Multiple departments coordinate to provide over 100,000 units of relief supplies for daily necessities to Hunan Pingjiang""",positive,0.4986506998538971,2,5,1,4
+8,chinese,"""Ministry of Foreign Affairs: Establishment of Strategic Partnership between China and Algeria is an Important Milestone in Bilateral Relations""",positive,0.6170791983604431,2,5,1,4
+9,chinese,"""British Prime Minister Boris Johnson Will Submit Resignation to the British King""",neutral,0.6264927983283997,1,5,1,4
