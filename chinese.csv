@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Affairs: Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path of the Shanghai Cooperation Organization""",positive,0.49938979744911194,2,5,1,4
-1,chinese,"""Interesting! 9 Images to Quickly Understand Lesser-Known Facts about Tajikistan""",positive,0.5101086497306824,2,5,1,4
-2,chinese,"""Promoting the Co-Governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.6211394667625427,1,5,1,4
-3,chinese,"Tornado in Dongming County, Heze, Shandong Province causes 1 death and 79 injuries.",negative,0.6551541686058044,-1,5,1,4
-4,chinese,"""FAO: Global Food Price Index Remains Stable in June""",neutral,0.5043853521347046,1,5,1,4
-5,chinese,"""British King Charles III has accepted Prime Minister Sunak's resignation""",neutral,0.59001624584198,1,5,1,4
-6,chinese,"""Foreign Ministry: SCO Member Countries Will Inject Strong Momentum for Maintaining World Peace and Development""",positive,0.6782021522521973,2,5,1,4
-7,chinese,"""Multiple departments coordinate to provide over 100,000 units of relief supplies for daily necessities to Hunan Pingjiang""",positive,0.4986506998538971,2,5,1,4
-8,chinese,"""Ministry of Foreign Affairs: Establishment of Strategic Partnership between China and Algeria is an Important Milestone in Bilateral Relations""",positive,0.6170791983604431,2,5,1,4
-9,chinese,"""British Prime Minister Boris Johnson Will Submit Resignation to the British King""",neutral,0.6264927983283997,1,5,1,4
+0,chinese,"""China's Affairs: Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path of the Shanghai Cooperation Organization""",positive,0.49938979744911194,2,1,1,8
+1,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,1,1,8
+2,chinese,"""How China Carries On for a Thousand Years | A Chinese-Style Romance Encounter at Beijing's Shichahai""",neutral,0.6810081601142883,1,1,1,8
+3,chinese,"""Young SCO Members in China: Russian Girl Sings Chinese Poetry: Chinese Flows and Jumps Like Music""",neutral,0.7636443376541138,1,1,1,8
+4,chinese,"""Dongting Lake breach extends to about 150 meters, 5755 people safely evacuated""",neutral,0.4951620101928711,1,1,1,8
+5,chinese,"""National Defense Office and Ministry of Emergency Management Send Work Team to Guide Rescue Efforts at the Site of a Breach in Huarong County, Hunan Province""",neutral,0.6695039868354797,1,1,1,8
+6,chinese,"""Yangtze River's Flood Process in the Middle and Lower Reaches Expected to Last About Two Weeks""",neutral,0.5771707892417908,1,1,1,8
+7,chinese,"""New British Prime Minister Stamer Forms Cabinet""",neutral,0.8297567367553711,1,1,1,8
+8,chinese,"""Frequent Thunderstorms Expected in Beijing for Two Days on the Weekend, with High Temperatures Reaching 33℃ to 34℃ and Humid Conditions""",neutral,0.5834352970123291,1,1,1,8
+9,chinese,"Tornado in Dongming County, Heze City, Shandong Province causes 1 death and 79 injuries",negative,0.6585140228271484,-1,1,1,8
