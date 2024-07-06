@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Focus: Foreign Media Promotes the ""Shanghai Spirit"" to Illuminate the Future Path of the Shanghai Cooperation Organization""",positive,0.6352814435958862,2,1,1,8
-1,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,1,1,8
-2,chinese,"""National Disaster Management Office and Ministry of Emergency Management continue to deploy personnel and equipment to support the handling of the breach situation in Huarong County, Yueyang City, Hunan Province""",neutral,0.5974350571632385,1,1,1,8
-3,chinese,"""More than 50 people have died in gun violence incidents on American Independence Day""",negative,0.667730987071991,-1,1,1,8
-4,chinese,"""National Ocean Forecasting Center Issues Blue Storm Surge Warning""",neutral,0.49461236596107483,1,1,1,8
-5,chinese,"""New British Prime Minister Stamer Forms Cabinet""",neutral,0.8297567367553711,1,1,1,8
-6,chinese,"""Dongting Lake's breach to begin merging this afternoon at the earliest""",neutral,0.6998968124389648,1,1,1,8
-7,chinese,"""First ""Arctic Express No.1"" Logistics Train Launched in Russia, Connecting Chinese and Russian Ports""",neutral,0.6789584755897522,1,1,1,8
-8,chinese,"""Global Commentary: US Drug Overdose Death Rate Doubles in Past 20 Years, Local Officials Call for ""Systemic Change"" to Address Opioid Crisis""",neutral,0.5239274501800537,1,1,1,8
-9,chinese,"""UNESCO Newly Designates 11 Biosphere Reserves""",neutral,0.7481074333190918,1,1,1,8
+0,chinese,"""【China News】Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path for the Shanghai Cooperation Organization""",positive,0.6433753967285156,2,2,1,7
+1,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,2,1,7
+2,chinese,"""Hunan Huarong Dongting Lake Breach Emergency Rescue Latest Progress丨As of 20:00 on the 6th, 226 meters of the breach in Dongting Lake has been sealed, with 66 meters remaining.""",neutral,0.7043378353118896,1,2,1,7
+3,chinese,"""Greater Bay Area: Talent Mobility Creates a New Chapter of ""North-South"" Exchange""",positive,0.596447229385376,2,2,1,7
+4,chinese,"""National Disaster Management Office and Ministry of Emergency Management continue to deploy personnel and equipment to support the handling of the breach situation in Huarong County, Yueyang City, Hunan Province""",neutral,0.5974350571632385,1,2,1,7
+5,chinese,"""Over 50 Deaths from Gun Violence on American Independence Day""",negative,0.6772376298904419,-1,2,1,7
+6,chinese,"""National Ocean Forecasting Center Issues Blue Storm Surge Warning""",neutral,0.49461236596107483,1,2,1,7
+7,chinese,"""British New Prime Minister Stamer Forms Cabinet""",neutral,0.8240548372268677,1,2,1,7
+8,chinese,"""Dongting Lake breach to begin jointing this afternoon at the fastest""",neutral,0.6640575528144836,1,2,1,7
+9,chinese,"""First ""Arctic Express 1"" Logistics Special Train Launched in Russia, Connecting Chinese and Russian Ports""",neutral,0.7391958832740784,1,2,1,7
