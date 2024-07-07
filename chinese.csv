@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""【China News】Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path of the Shanghai Cooperation Organization""",positive,0.5654339790344238,2,2,2,6
-1,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,2,2,6
-2,chinese,"""Summer Tourism Flourishes, Holiday Economy Thrives""",neutral,0.6375171542167664,1,2,2,6
-3,chinese,"""National Summer Grain Harvest Reaches 96.2%, Summer Sowing of Crops at 83.1%""",neutral,0.7359197735786438,1,2,2,6
-4,chinese,"""Central Meteorological Observatory Issues Three Warnings for Heavy Rain, High Temperatures, and Severe Convective Weather""",negative,0.6019169092178345,-1,2,2,6
-5,chinese,"""3 People Trapped in a Water Inflow Accident at a Coal Mine in Taiyuan, Shanxi, Rescue Operation Underway""",negative,0.6610174775123596,-1,2,2,6
-6,chinese,"""3.4 Magnitude Earthquake Occurs in Luxian County, Luzhou City, Sichuan Province with a Depth of 8 Kilometers""",neutral,0.5533727407455444,1,2,2,6
-7,chinese,"""Beijing Junior High School Entrance Exam Results to be Released Soon, Come and Check the Query Method""",neutral,0.8393793702125549,1,2,2,6
-8,chinese,"""2024 Chinese Athletics Street Tour Beijing Station: Niu Chungge Breaks Meet Record and Wins Championship""",neutral,0.6966025829315186,1,2,2,6
-9,chinese,"""Tajikistan's New Landmark in Capital Unveiled, President of Tajikistan Acknowledges China's Contribution to be Recorded in History""",positive,0.5941269397735596,2,2,2,6
+0,chinese,"""Promoting AI Governance and Sharing, the World Needs the ""Chinese Solution""""",neutral,0.6890619397163391,1,1,3,6
+1,chinese,"""Be Alert and Take Precautions! Multiple Warnings Issued for Heavy Rain, Geological Disasters, and More""",negative,0.552998960018158,-1,1,3,6
+2,chinese,"""Beijing-Tianjin-Hebei Reach Agreement on Joint Construction of Judicial Appraisal Talents: Implementation of Tri-City Joint Examination and Mutual Recognition of Qualifications""",neutral,0.6280918121337891,1,1,3,6
+3,chinese,"""Major Oil Fields in Xinjiang Increase Production, Tianshan Region Sees Growth in Both Oil and Gas Production""",positive,0.5871897339820862,2,1,3,6
+4,chinese,"""Hunan's Huarong Tuanzhou Embankment Breach Expected to be Sealed by 12:00 on the 9th""",neutral,0.5343618988990784,1,1,3,6
+5,chinese,"""Can food that has been soaked in flood water still be eaten? Experts warn of 4 types of infectious diseases to prevent after floods""",negative,0.66287761926651,-1,1,3,6
+6,chinese,"""Factory Fire Breaks Out in Zhongtang, Dongguan, Guangdong - Blaze Under Control, No Casualties Reported""",negative,0.673401415348053,-1,1,3,6
+7,chinese,"""Horgos Port in Xinjiang Breaks Through 4000 Trains for China-Europe Freight Services""",neutral,0.6488195061683655,1,1,3,6
+8,chinese,"""Last year, the asset size and loan balance of consumer finance companies in our country both exceeded one trillion yuan""",neutral,0.6701244115829468,1,1,3,6
+9,chinese,"""At the end of June, China's foreign exchange reserves reached 3.2224 trillion US dollars""",neutral,0.7035617828369141,1,1,3,6
