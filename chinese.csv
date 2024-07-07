@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Focus: Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path of the Shanghai Cooperation Organization""",positive,0.5400904417037964,2,1,2,7
-1,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,1,2,7
-2,chinese,"""2024 Chinese Athletics Street Tour Beijing Station: Niu Chung'e Breaks Tournament Record and Wins Championship""",neutral,0.6945038437843323,1,1,2,7
-3,chinese,"""Tajikistan's Capital Unveils New Landmark, Tajik President States China's Contributions Will Go Down in History""",negative,0.5002454519271851,-1,1,2,7
-4,chinese,"""National Defense Office and Ministry of Emergency Management fully support the emergency response to the dike breach in Huarong County, Hunan""",neutral,0.5297380685806274,1,1,2,7
-5,chinese,"""Japanese Historian's New Book Reveals the Truth Behind the ""Secret War"" of the Japanese Army during World War II""",neutral,0.7243450284004211,1,1,2,7
-6,chinese,"""Hunan Huarong Dongting Lake Flood Control Latest Progress | As of 20:00 on the 6th, 66 meters of the 226-meter breach in Dongting Lake has been sealed""",neutral,0.6649594306945801,1,1,2,7
-7,chinese,"""Greater Bay Area: ""North-South"" Talent Mobility Writes a New Chapter of ""Dual Directional Travel""""",neutral,0.6127719283103943,1,1,2,7
-8,chinese,"""National Disaster Management Office and Ministry of Emergency Management continue to deploy personnel and equipment to support the handling of the breach emergency in Huarong County, Yueyang City, Hunan Province""",neutral,0.5790693163871765,1,1,2,7
-9,chinese,"""Over 50 Deaths from Gun Violence on American Independence Day""",negative,0.6772376298904419,-1,1,2,7
+0,chinese,"""【China News】Foreign Media: Promoting the ""Shanghai Spirit"" Illuminates the Future Path of the Shanghai Cooperation Organization""",positive,0.5654339790344238,2,2,2,6
+1,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,2,2,6
+2,chinese,"""Summer Tourism Flourishes, Holiday Economy Thrives""",neutral,0.6375171542167664,1,2,2,6
+3,chinese,"""National Summer Grain Harvest Reaches 96.2%, Summer Sowing of Crops at 83.1%""",neutral,0.7359197735786438,1,2,2,6
+4,chinese,"""Central Meteorological Observatory Issues Three Warnings for Heavy Rain, High Temperatures, and Severe Convective Weather""",negative,0.6019169092178345,-1,2,2,6
+5,chinese,"""3 People Trapped in a Water Inflow Accident at a Coal Mine in Taiyuan, Shanxi, Rescue Operation Underway""",negative,0.6610174775123596,-1,2,2,6
+6,chinese,"""3.4 Magnitude Earthquake Occurs in Luxian County, Luzhou City, Sichuan Province with a Depth of 8 Kilometers""",neutral,0.5533727407455444,1,2,2,6
+7,chinese,"""Beijing Junior High School Entrance Exam Results to be Released Soon, Come and Check the Query Method""",neutral,0.8393793702125549,1,2,2,6
+8,chinese,"""2024 Chinese Athletics Street Tour Beijing Station: Niu Chungge Breaks Meet Record and Wins Championship""",neutral,0.6966025829315186,1,2,2,6
+9,chinese,"""Tajikistan's New Landmark in Capital Unveiled, President of Tajikistan Acknowledges China's Contribution to be Recorded in History""",positive,0.5941269397735596,2,2,2,6
