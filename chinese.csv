@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,3,1,6
-1,chinese,"""Polaroid's Wonderful Journey to Guling: Recording the ""China Connection"" with American Youth""",positive,0.6435340642929077,2,3,1,6
-2,chinese,"""Express Delivery Industry Promotes Upgrading of Rural Consumption""",positive,0.5437960624694824,2,3,1,6
-3,chinese,"""Empowering Business Entities to Receive ""Real Money"" Support""",positive,0.5075873136520386,2,3,1,6
-4,chinese,"""As of 23:00 on the 7th, the breach of Dongting Lake has been sealed at 112.4 meters, with a remaining distance of 113.6 meters.""",neutral,0.5133017897605896,1,3,1,6
-5,chinese,"""Poyang Lake Remains at High Water Level""",neutral,0.6662425398826599,1,3,1,6
-6,chinese,"""French Prime Minister Attal to Submit Resignation""",neutral,0.6017018556594849,1,3,1,6
-7,chinese,"""6.3 Magnitude Earthquake Strikes Western Waters of Japan's Ogasawara Islands""",neutral,0.5099515318870544,1,3,1,6
-8,chinese,"""Travel Fever! Shenzhen-Zhongshan Passage Opens First Weekend for Visiting Relatives, Tourism, and Scenic Sightseeing with Increased Demand""",neutral,0.57935631275177,1,3,1,6
-9,chinese,"""Current Round of Israeli-Palestinian Conflict Has Resulted in 38,153 Deaths in Gaza Strip""",negative,0.6593210697174072,-1,3,1,6
+0,chinese,"""Promoting the Co-governance and Sharing of Artificial Intelligence: The World Needs the ""Chinese Solution""""",neutral,0.5899859070777893,1,2,1,7
+1,chinese,"""Painting the Era | Landscape Rhythm: Impressions of Tai Chi""",neutral,0.841733455657959,1,2,1,7
+2,chinese,"""Number of Motor Vehicles in China Reaches 440 Million, with 532 Million Drivers""",neutral,0.7844642996788025,1,2,1,7
+3,chinese,"""Partial Suspension of Bus Services in Zhengzhou and Kaifeng Due to Rainfall Impact""",negative,0.6878008246421814,-1,2,1,7
+4,chinese,"""Exit Polls Show French Left-Wing Alliance Leading in National Assembly Elections, But Not Securing Absolute Majority of Seats""",neutral,0.4887148141860962,1,2,1,7
+5,chinese,"""Global Average Temperature Exceeds Pre-Industrial Levels by 1.5 Degrees Celsius for 12 Consecutive Months""",neutral,0.7112510800361633,1,2,1,7
+6,chinese,"""Central Asian Beauties: We Really Want to Shop on China's ""Taobao""!""",neutral,0.6039127111434937,1,2,1,7
+7,chinese,"""Survey Results of Confucian Culture from the Perspective of Foreign Friends Released: Surprisingly, This Quote from the Analects is the Most Familiar!""",positive,0.5441863536834717,2,2,1,7
+8,chinese,"""Polaroid's Gu Ling's Wonderful Journey: Documenting ""China Connection"" with American Youth""",positive,0.6480157971382141,2,2,1,7
+9,chinese,"""Each visit brings a different experience: Media representatives from 24 SCO countries visit Qingdao enterprises""",neutral,0.48345163464546204,1,2,1,7
