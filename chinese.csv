@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Multiple Main Streams in the Middle and Lower Reaches of the Yangtze River to Remain Above Warning Levels in the Next 24 Hours""",neutral,0.7007523775100708,1,3,1,6
-1,chinese,"""Stop Slandering and Defaming China Immediately: Response from the Ministry of Foreign Affairs to US Accusations of ""Operation Vot-Typhoon""""",negative,0.8197489976882935,-2,3,1,6
-2,chinese,"""Bilingual Financial News: Country to Accelerate Development of Digital Economy""",positive,0.7466204762458801,3,3,1,6
-3,chinese,"""American Guy Challenges to Be a Confucius Museum Tour Guide for a Day""",neutral,0.72122722864151,1,3,1,6
-4,chinese,"""Is There Also a ""Peak Period"" for Gun Violence in the United States? Expert: Ultimately, the Large Number of Firearms Often Leads People to Attempt to Resolve Disputes with Guns!""",neutral,0.5459354519844055,1,3,1,6
-5,chinese,"""Special Robot Combining Arms and Legs Makes Appearance at Artificial Intelligence Conference""",neutral,0.6310288906097412,1,3,1,6
-6,chinese,"""State-owned enterprises accelerate the layout of new industries, investment and mergers open up new space""",positive,0.744361162185669,3,3,1,6
-7,chinese,"""Multiple Regions Implement Strategies to Revitalize Existing Inventory and Stabilize the Housing Market""",positive,0.571344792842865,2,3,1,6
-8,chinese,"""Painting the Era | Landscape Rhythm: Impressions of Tai Chi""",neutral,0.841733455657959,1,3,1,6
-9,chinese,"""Number of Motor Vehicles in China Reaches 440 Million, with 532 Million Drivers""",neutral,0.7844642996788025,1,3,1,6
+0,chinese,"""China's New Generation of Commercial Aerospace and Space Information Products Released""",neutral,0.7502153515815735,1,1,2,7
+1,chinese,"""Boeing Company Reaches Plea Agreement with US Department of Justice""",neutral,0.711836576461792,1,1,2,7
+2,chinese,"""Two National Standards for Central Kitchens Approved and Released, to be Implemented from October 1st""",neutral,0.6214458346366882,1,1,2,7
+3,chinese,"""2 Dead, 19 Injured in Detroit Shooting Incident in the United States""",negative,0.7366496324539185,-2,1,2,7
+4,chinese,"""The 10th Nishan World Civilization Forum to be Held in Qufu, Shandong""",neutral,0.8256722688674927,1,1,2,7
+5,chinese,"""Multiple Main Streams in the Middle and Lower Reaches of the Yangtze River to Remain Above Warning Levels in the Next 24 Hours""",neutral,0.7007523775100708,1,1,2,7
+6,chinese,"""Stop Slandering and Defaming China Immediately: Response from the Ministry of Foreign Affairs on US's Plan to Stir Up ""Votai Typhoon"" Action""",negative,0.8149470686912537,-2,1,2,7
+7,chinese,Bilingual Financial News: Country to Accelerate Digital Economy Development,positive,0.7659902572631836,3,1,2,7
+8,chinese,"""American Guy Takes on the Challenge of Being a Confucius Museum Guide for a Day""",neutral,0.700457751750946,1,1,2,7
+9,chinese,"""Is There a ""Peak Period"" for Shootings in the US? Expert: At the Root of It, the Large Number of Firearms Often Leads People to Try to Resolve Conflicts with Guns!""",neutral,0.757122278213501,1,1,2,7
