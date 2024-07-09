@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Coexistence in Peace is the Cornerstone of International Order Stability""",neutral,0.5324203372001648,1,4,3,3
-1,chinese,"""Saulheim: If China's electric cars are ""overcapacity"", then what are the digital products in Silicon Valley, USA?""",neutral,0.7291635274887085,1,4,3,3
-2,chinese,"""8.48 billion yuan! Ministry of Finance allocates funds to support flood control and disaster relief in 12 provinces""",positive,0.49744442105293274,2,4,3,3
-3,chinese,"""The Five Principles of Peaceful Coexistence, Born 70 Years Ago, Are Even More Precious Today""",positive,0.8279898166656494,3,4,3,3
-4,chinese,Exploring the Unique Charm of Chinese Painting: Interpreting the Beauty of Chinese Art,positive,0.9013572931289673,3,4,3,3
-5,chinese,"""Chinese Tennis Players Achieve New Breakthrough at the 2024 Wimbledon Tennis Championships""",positive,0.6539700031280518,2,4,3,3
-6,chinese,Ministry of Commerce Responds to Unfounded Claims from European Side Regarding China's Electric Vehicle Anti-Subsidy Case,neutral,0.5170602202415466,1,4,3,3
-7,chinese,"""Over 100 People Shot in Chicago During American Independence Day Holiday""",negative,0.5862720608711243,-1,4,3,3
-8,chinese,"""Film ""Silent Killing"" Sparks Heated Discussions! These Real Stories of Fighting Against Campus Bullying are Heart-Wrenching""",negative,0.8335037231445312,-2,4,3,3
-9,chinese,"""Multiple Fruits Enter ""Discount Channel"": Why Are Domestic Market Fruits Cheap?""",negative,0.7663365602493286,-2,4,3,3
+0,chinese,"""Coexistence in Peace is the Cornerstone of International Order Stability""",neutral,0.5324203372001648,1,1,5,4
+1,chinese,"""Solheim: If China's electric cars are ""overcapacity"", then what are the digital products in Silicon Valley, USA?""",neutral,0.7236148118972778,1,1,5,4
+2,chinese,"State Council Food Safety Office Responds to ""Problems with Tanker Transport of Edible Oil"": Establish Joint Investigation Team for Thorough Investigation!",neutral,0.75356125831604,1,1,5,4
+3,chinese,"""Oxygen Masks at Risk of Failure? US Orders Inspection of Over 2600 Boeing 737 Aircraft""",negative,0.5383935570716858,-1,1,5,4
+4,chinese,"""Strict Investigation and Punishment! National Medical Products Administration Releases List of 37 Batches of Non-compliant Cosmetics""",negative,0.7950440645217896,-2,1,5,4
+5,chinese,"""Opposing Cyber Hegemony, Dealing with the ""Hacker Empire"" Cyber Hybrid Warfare""",negative,0.5670588612556458,-1,1,5,4
+6,chinese,Bilingual News: Mixing Energy Drinks with Alcohol May Damage Teen Brain Function,negative,0.6934769749641418,-1,1,5,4
+7,chinese,"Ministry of Foreign Affairs: Strongly Opposes NATO's Slanderous Attacks and Blame-Shifting Against China, Stirring Up Regional Tensions",negative,0.9013490676879883,-2,1,5,4
+8,chinese,"""Chinese Coast Guard Fleet Conducts Patrol in Diaoyu Islands' Territorial Waters on the 9th""",neutral,0.765510618686676,1,1,5,4
+9,chinese,"""2024 World Artificial Intelligence Conference | Zhang Yonghe: Great Potential of Artificial Intelligence in the Field of Astronomical Collaborative Observation""",positive,0.7164171934127808,3,1,5,4
