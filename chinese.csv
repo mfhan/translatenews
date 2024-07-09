@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's New Generation of Commercial Aerospace and Space Information Products Released""",neutral,0.7502153515815735,1,1,2,7
-1,chinese,"""Boeing Company Reaches Plea Agreement with US Department of Justice""",neutral,0.711836576461792,1,1,2,7
-2,chinese,"""Two National Standards for Central Kitchens Approved and Released, to be Implemented from October 1st""",neutral,0.6214458346366882,1,1,2,7
-3,chinese,"""2 Dead, 19 Injured in Detroit Shooting Incident in the United States""",negative,0.7366496324539185,-2,1,2,7
-4,chinese,"""The 10th Nishan World Civilization Forum to be Held in Qufu, Shandong""",neutral,0.8256722688674927,1,1,2,7
-5,chinese,"""Multiple Main Streams in the Middle and Lower Reaches of the Yangtze River to Remain Above Warning Levels in the Next 24 Hours""",neutral,0.7007523775100708,1,1,2,7
-6,chinese,"""Stop Slandering and Defaming China Immediately: Response from the Ministry of Foreign Affairs on US's Plan to Stir Up ""Votai Typhoon"" Action""",negative,0.8149470686912537,-2,1,2,7
-7,chinese,Bilingual Financial News: Country to Accelerate Digital Economy Development,positive,0.7659902572631836,3,1,2,7
-8,chinese,"""American Guy Takes on the Challenge of Being a Confucius Museum Guide for a Day""",neutral,0.700457751750946,1,1,2,7
-9,chinese,"""Is There a ""Peak Period"" for Shootings in the US? Expert: At the Root of It, the Large Number of Firearms Often Leads People to Try to Resolve Conflicts with Guns!""",neutral,0.757122278213501,1,1,2,7
+0,chinese,Ministry of Commerce responds to European allegations of unsubstantiated comments on China's electric vehicle anti-subsidy case.,negative,0.7286698818206787,-2,0,8,2
+1,chinese,"""Over 100 People Shot in Chicago During US Independence Day Holiday""",negative,0.5755680203437805,-1,0,8,2
+2,chinese,"""Film ""Silent Murder"" Sparks Heated Discussion! These Real Stories of Fighting Against Campus Bullying Hit Close to Home""",negative,0.5766924023628235,-1,0,8,2
+3,chinese,"""Various Fruits Enter the ""Discount Channel"": Why are Domestic Market Fruits Cheaper?""",negative,0.7662274837493896,-2,0,8,2
+4,chinese,"""China Urges All Armed Groups in the Democratic Republic of Congo to Immediately Lay Down Their Weapons""",negative,0.6536200642585754,-1,0,8,2
+5,chinese,"""World Report: Why is the Health Condition of American Children Not Optimistic? Study: Apart from High Infant Mortality Rate, there are also Reasons such as Guns and Drugs""",negative,0.7664240002632141,-2,0,8,2
+6,chinese,"""Blockage Completed! Ministry of Water Resources Deploys Follow-up Emergency Response Work for the Breach at Tuanzhou Embankment in Yueyang, Hunan""",negative,0.6744040846824646,-1,0,8,2
+7,chinese,"""Central Meteorological Observatory Continues to Issue High Temperature Yellow Alert This Morning""",neutral,0.6344953179359436,1,0,8,2
+8,chinese,"""Greece experiences over 1200 forest fires in June, a significant increase compared to the same period last year""",neutral,0.5541491508483887,1,0,8,2
+9,chinese,"""United Airlines Boeing 757 aircraft loses tire during takeoff""",negative,0.5585033893585205,-1,0,8,2
