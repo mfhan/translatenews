@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Ministry of Commerce responds to European allegations of unsubstantiated comments on China's electric vehicle anti-subsidy case.,negative,0.7286698818206787,-2,0,8,2
-1,chinese,"""Over 100 People Shot in Chicago During US Independence Day Holiday""",negative,0.5755680203437805,-1,0,8,2
-2,chinese,"""Film ""Silent Murder"" Sparks Heated Discussion! These Real Stories of Fighting Against Campus Bullying Hit Close to Home""",negative,0.5766924023628235,-1,0,8,2
-3,chinese,"""Various Fruits Enter the ""Discount Channel"": Why are Domestic Market Fruits Cheaper?""",negative,0.7662274837493896,-2,0,8,2
-4,chinese,"""China Urges All Armed Groups in the Democratic Republic of Congo to Immediately Lay Down Their Weapons""",negative,0.6536200642585754,-1,0,8,2
-5,chinese,"""World Report: Why is the Health Condition of American Children Not Optimistic? Study: Apart from High Infant Mortality Rate, there are also Reasons such as Guns and Drugs""",negative,0.7664240002632141,-2,0,8,2
-6,chinese,"""Blockage Completed! Ministry of Water Resources Deploys Follow-up Emergency Response Work for the Breach at Tuanzhou Embankment in Yueyang, Hunan""",negative,0.6744040846824646,-1,0,8,2
-7,chinese,"""Central Meteorological Observatory Continues to Issue High Temperature Yellow Alert This Morning""",neutral,0.6344953179359436,1,0,8,2
-8,chinese,"""Greece experiences over 1200 forest fires in June, a significant increase compared to the same period last year""",neutral,0.5541491508483887,1,0,8,2
-9,chinese,"""United Airlines Boeing 757 aircraft loses tire during takeoff""",negative,0.5585033893585205,-1,0,8,2
+0,chinese,"""Coexistence in Peace is the Cornerstone of International Order Stability""",neutral,0.5324203372001648,1,4,3,3
+1,chinese,"""Saulheim: If China's electric cars are ""overcapacity"", then what are the digital products in Silicon Valley, USA?""",neutral,0.7291635274887085,1,4,3,3
+2,chinese,"""8.48 billion yuan! Ministry of Finance allocates funds to support flood control and disaster relief in 12 provinces""",positive,0.49744442105293274,2,4,3,3
+3,chinese,"""The Five Principles of Peaceful Coexistence, Born 70 Years Ago, Are Even More Precious Today""",positive,0.8279898166656494,3,4,3,3
+4,chinese,Exploring the Unique Charm of Chinese Painting: Interpreting the Beauty of Chinese Art,positive,0.9013572931289673,3,4,3,3
+5,chinese,"""Chinese Tennis Players Achieve New Breakthrough at the 2024 Wimbledon Tennis Championships""",positive,0.6539700031280518,2,4,3,3
+6,chinese,Ministry of Commerce Responds to Unfounded Claims from European Side Regarding China's Electric Vehicle Anti-Subsidy Case,neutral,0.5170602202415466,1,4,3,3
+7,chinese,"""Over 100 People Shot in Chicago During American Independence Day Holiday""",negative,0.5862720608711243,-1,4,3,3
+8,chinese,"""Film ""Silent Killing"" Sparks Heated Discussions! These Real Stories of Fighting Against Campus Bullying are Heart-Wrenching""",negative,0.8335037231445312,-2,4,3,3
+9,chinese,"""Multiple Fruits Enter ""Discount Channel"": Why Are Domestic Market Fruits Cheap?""",negative,0.7663365602493286,-2,4,3,3
