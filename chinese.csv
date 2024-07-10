@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Justice and Reasoning | Confirmed! Illegal ""Sitting"" of Warships Damages Coral Reef Ecosystem, When Will the Philippines Fulfill Its Promise?""",negative,0.8572255969047546,-2,1,4,5
-1,chinese,"""Chinese Navy's ""Silk Road Ark"" Hospital Ship Conducts First Medical Mission to Islands and Reefs in the South China Sea""",neutral,0.6248903870582581,1,1,4,5
-2,chinese,"""Independent Prosecutor's Report: WADA's Handling of Food Contamination Incident Involving Chinese Swimmers is ""Unbiased""""",negative,0.7758960127830505,-2,1,4,5
-3,chinese,"""CSRC Approves Suspension of Securities Lending and Margin Trading Business in Accordance with the Law, Further Strengthening Counter-cyclical Adjustment of Margin Trading""",neutral,0.5200206637382507,1,1,4,5
-4,chinese,"The Most Dazzling Ethnic Style: Come to Kashgar, Xinjiang to Find ""Guli""",positive,0.5700160264968872,2,1,4,5
-5,chinese,"""Ministry of Foreign Affairs Responds to Illegal Grounding of Philippine Warship: Remove the Warship to Avoid Ongoing Damage to the Ren'ai Reef Ecological Environment""",negative,0.890344500541687,-2,1,4,5
-6,chinese,"""Multiple rounds of major flooding expected in the upper reaches of the Yangtze River, Three Gorges Dam to release floodwaters for the first time this year""",negative,0.5383871793746948,-1,1,4,5
-7,chinese,"""10,000 China-Europe Freight Trains Operated This Year, Sending 1.083 Million TEUs of Goods""",neutral,0.6413871049880981,1,1,4,5
-8,chinese,"""Double Growth in Production and Sales: China's Automobile Industry in Full Throttle""",neutral,0.4882502555847168,1,1,4,5
-9,chinese,"""Total Mileage Reaches 4.6 Million Kilometers: Multiple Policies Paint a New Path for Rural Roads""",neutral,0.5543433427810669,1,1,4,5
+0,chinese,"""Fairness and Justice | Confirmed! Illegal ""Beaching"" of Warship Damages Coral Reef Ecology, When Will the Philippines Fulfill its Promise?""",negative,0.8302342295646667,-2,2,4,4
+1,chinese,"""Chinese Navy's ""Silk Road Ark"" Hospital Ship Conducts First Medical Mission to South China Sea Islands and Reefs""",neutral,0.6597583293914795,1,2,4,4
+2,chinese,"""Independent Prosecutor's Report: WADA's Handling of Chinese Swimmers' Food Contamination Incident is ""Unbiased""""",negative,0.8050044178962708,-2,2,4,4
+3,chinese,"""CSRC Approves Suspension of Securities Lending and Margin Trading Business in Accordance with the Law, Further Strengthening Counter-Cyclical Adjustment of Margin Trading""",neutral,0.544750452041626,1,2,4,4
+4,chinese,"""The Most Dazzling Ethnic Style: Come to Kashgar, Xinjiang to Find ""Guli""""",positive,0.5798372626304626,2,2,4,4
+5,chinese,"""Ministry of Foreign Affairs responds to illegal grounding of Philippine warship: Remove the warship to avoid further damage to the ecology of Ren'ai Reef""",negative,0.8773275017738342,-2,2,4,4
+6,chinese,"""Multiple rounds of major flooding expected in the upper reaches of the Yangtze River, Three Gorges Dam to release floodwaters for the first time this year""",negative,0.5383871793746948,-1,2,4,4
+7,chinese,"""10,000 Trains of China-Europe Freight Train Operated This Year, Delivering 1.083 Million TEUs of Cargo""",neutral,0.5655938386917114,1,2,4,4
+8,chinese,"""Double Growth in Production and Sales: China's Automobile Industry in Full Throttle""",neutral,0.4882502555847168,1,2,4,4
+9,chinese,"""Total Mileage Reaches 4.6 Million Kilometers: Multiple Policies Create a New Path for Rural Roads""",positive,0.5122366547584534,2,2,4,4
