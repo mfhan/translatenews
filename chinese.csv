@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Coexistence in peace is the cornerstone of international order stability""",positive,0.6223792433738708,2,3,5,2
-1,chinese,"""Solheim: If China's electric cars are ""overcapacity"", then what are the digital products in Silicon Valley, USA?""",neutral,0.7236148118972778,1,3,5,2
-2,chinese,"""Egg Painting, Puppetry... Pingyang's Intangible Cultural Heritage Amazes Ugandan Boy""",positive,0.4297439455986023,2,3,5,2
-3,chinese,"""Cultural China Tour | Foreigners Become China's Strongest Mouthpiece: ""Sense of Security and Trust, We Have It Here!""",positive,0.5853793025016785,2,3,5,2
-4,chinese,"""Cultural Trip to China | American College Students Say Chinese Ports Benefit the Whole World""",neutral,0.6133620738983154,1,3,5,2
-5,chinese,"""State Council Food Safety Office Responds to ""Chaos in Tanker Transportation of Edible Oil"" Issue: Establishes Joint Investigation Team for Thorough Investigation!""",negative,0.5265490412712097,-1,3,5,2
-6,chinese,"""Oxygen Masks May Fail? US Orders Inspection of Over 2600 Boeing 737 Aircraft""",negative,0.7181031107902527,-2,3,5,2
-7,chinese,"""Strict Investigation and Punishment! National Medical Products Administration Releases List of 37 Batches of Non-Compliant Cosmetics""",negative,0.8040478825569153,-2,3,5,2
-8,chinese,"""Opposing Cyber Hegemony, Dealing with the ""Hacker Empire"" Hybrid Cyber Warfare""",negative,0.48717522621154785,-1,3,5,2
-9,chinese,Bilingual News: Mixing Energy Drinks with Alcohol May Harm Teen Brain Function,negative,0.6962477564811707,-1,3,5,2
+0,chinese,"""Coexistence in Peace is the Cornerstone of International Order Stability""",neutral,0.5324203372001648,1,0,2,8
+1,chinese,"""Sohm: If China's electric cars are ""overcapacity"", then what are the digital products in Silicon Valley, USA?""",neutral,0.6907055377960205,1,0,2,8
+2,chinese,"""Construction of the third line of defense in Tuanzhou Embankment is almost completed""",neutral,0.6475708484649658,1,0,2,8
+3,chinese,"""Digging for ""Treasure"" at a Depth of 4102.8 Meters Under the Sea! China's Deep-Sea Mining Vehicle Achieves New Breakthrough""",neutral,0.5110964179039001,1,0,2,8
+4,chinese,"""China Calls on International Community to Help Ease Tensions in Ukraine and Create Conditions for Negotiations""",neutral,0.5035189390182495,1,0,2,8
+5,chinese,"""Federal Reserve Chairman States First Quarter Data Does Not Support Interest Rate Cut""",negative,0.5274192690849304,-1,0,2,8
+6,chinese,"""Paris Olympics Opening Soon: Temporary Stands Installed Along the Seine River""",neutral,0.8523000478744507,1,0,2,8
+7,chinese,"""Gaza Mother: My Child is Slowly Dying Before My Eyes""",negative,0.5761749744415283,-1,0,2,8
+8,chinese,"""Spain defeats France 2-1, advances to the 2024 European Championship Final""",neutral,0.5056127905845642,1,0,2,8
+9,chinese,"""Scandals Lead to Decrease in Orders, Boeing's Sales Plunge 70% in First Half of the Year""",neutral,0.5754679441452026,1,0,2,8
