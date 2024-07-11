@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fairness and Justice | Confirmed! Illegal ""Sitting"" of Warships Damages Coral Reef Ecology, When Will the Philippines Fulfill Its Promise?""",negative,0.8488826155662537,-2,2,3,5
-1,chinese,"""SCO Secretary-General: Astana Summit Marks Another Important Milestone in the Organization's History""",positive,0.7421594858169556,3,2,3,5
-2,chinese,"""The Global Echo of the Nishan Initiative for Civilization""",neutral,0.83183354139328,1,2,3,5
-3,chinese,"""Words such as ""Her Majesty"" and ""Governor"" to be removed from Hong Kong's legal stage""",negative,0.6731468439102173,-1,2,3,5
-4,chinese,"Ministry of Foreign Affairs Responds to NATO's ""Washington Summit Declaration"": China Strongly Dissatisfied and Firmly Opposes",negative,0.8093536496162415,-2,2,3,5
-5,chinese,"""Open China·Cultural Dialogue | Maritime Trade Treasures - Tang Dynasty Changsha Kiln Porcelain""",neutral,0.7199145555496216,1,2,3,5
-6,chinese,"""Solomon Islands Prime Minister Manasseh Sogavare Lays Wreath at People's Heroes Monument""",neutral,0.6182363629341125,1,2,3,5
-7,chinese,"""CPI Mildly Rises, PPI Decrease Narrows - Low Price Level Operation in the First Half of the Year""",neutral,0.4828701317310333,1,2,3,5
-8,chinese,"""Power Plants Store Over 120 Million Tons of Coal, Coal Supply and Demand Balanced for Peak Summer Season""",neutral,0.5590233206748962,1,2,3,5
-9,chinese,"""Vanuatu Prime Minister: Willing to Learn Climate Governance Experience from China""",positive,0.6406528353691101,2,2,3,5
+0,chinese,"""Fairness and Justice | Confirmed! Illegal ""Sitting"" of Warships Damages Coral Reef Ecology, When Will the Philippines Fulfill its Promise?""",negative,0.8375701904296875,-2,2,3,5
+1,chinese,"""The 10th Nishan World Civilization Forum: Illuminating the Light of Civilization, Sharing the Beauty of Harmony""",positive,0.7242065072059631,3,2,3,5
+2,chinese,"""US to Deploy Long-Range Weapons in Germany Starting in 2026, Russia Vows Military Response""",neutral,0.7377007007598877,1,2,3,5
+3,chinese,"""SCO Secretary-General: Astana Summit is Another Important Milestone in the History of the Organization""",positive,0.6962432861328125,2,2,3,5
+4,chinese,"""The Global Echo of the Nishan Initiative for Civilization""",neutral,0.83183354139328,1,2,3,5
+5,chinese,"""Words such as ""Her Majesty"" and ""Governor"" to be removed from Hong Kong's legal stage""",negative,0.6731468439102173,-1,2,3,5
+6,chinese,"""Ministry of Foreign Affairs Responds to NATO's Washington Summit Declaration: China Strongly Dissatisfied and Firmly Opposes""",negative,0.8551747798919678,-2,2,3,5
+7,chinese,"""Open China · Cultural Relics Dialogue | Maritime Trade Treasures - Tang Dynasty Changsha Kiln Porcelain""",neutral,0.7423804998397827,1,2,3,5
+8,chinese,"""Solomon Islands Prime Minister Manasseh Sogavare Lays Wreath at People's Hero Monument""",neutral,0.588542103767395,1,2,3,5
+9,chinese,"""CPI Moderately Rises, PPI Decrease Narrows - Low Price Levels in the First Half of the Year""",neutral,0.5866374969482422,1,2,3,5
