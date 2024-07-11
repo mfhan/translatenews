@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Justice and Reasoning | Confirmed! Illegal ""Sitting"" of Warships Damages Coral Reef Ecology, When Will the Philippines Fulfill Their Promise?""",negative,0.8444845676422119,-2,2,5,3
-1,chinese,"""91 Foreign Youths Spend 3 Months Filming Chinese Stories, 2024 ""See China"" Successfully Concludes""",positive,0.5197789072990417,2,2,5,3
-2,chinese,"""Major Release! Chinese Think Tank Publishes Report ""Rebuttal of the South China Sea Arbitration Ruling"" (with full text attached)""",neutral,0.7782996892929077,1,2,5,3
-3,chinese,"""Report Released: China Government Will Not Recognize Illegal Ruling by Arbitration Court in South China Sea Dispute""",negative,0.706416130065918,-2,2,5,3
-4,chinese,"""Colombian Vice President's Convoy Attacked""",negative,0.7936630249023438,-2,2,5,3
-5,chinese,"""Chinese Navy's ""Silk Road Ark"" Hospital Ship Conducts First Medical Mission to Islands and Reefs in the South China Sea""",neutral,0.6248903870582581,1,2,5,3
-6,chinese,"""Independent Prosecutor's Report: WADA's Handling of Chinese Swimmer's Food Contamination Incident is ""Unbiased""""",negative,0.8042877912521362,-2,2,5,3
-7,chinese,"""CSRC Approves Suspension of Securities Lending and Margin Trading Business in Accordance with the Law, Further Strengthening Counter-Cyclical Adjustment of Margin Trading""",neutral,0.544750452041626,1,2,5,3
-8,chinese,"""The Most Dazzling Ethnic Style: Come to Kashgar, Xinjiang to Find ""Guli""""",positive,0.5798372626304626,2,2,5,3
-9,chinese,"""Ministry of Foreign Affairs responds to illegal grounding of Philippine warship: Remove the warship to avoid further damage to the ecological environment of Ren'ai Reef""",negative,0.8781198859214783,-2,2,5,3
+0,chinese,"""Fairness and Justice | Confirmed! Illegal ""Sitting"" of Warships Damages Coral Reef Ecology, When Will the Philippines Fulfill Its Promise?""",negative,0.8488826155662537,-2,2,3,5
+1,chinese,"""SCO Secretary-General: Astana Summit Marks Another Important Milestone in the Organization's History""",positive,0.7421594858169556,3,2,3,5
+2,chinese,"""The Global Echo of the Nishan Initiative for Civilization""",neutral,0.83183354139328,1,2,3,5
+3,chinese,"""Words such as ""Her Majesty"" and ""Governor"" to be removed from Hong Kong's legal stage""",negative,0.6731468439102173,-1,2,3,5
+4,chinese,"Ministry of Foreign Affairs Responds to NATO's ""Washington Summit Declaration"": China Strongly Dissatisfied and Firmly Opposes",negative,0.8093536496162415,-2,2,3,5
+5,chinese,"""Open China·Cultural Dialogue | Maritime Trade Treasures - Tang Dynasty Changsha Kiln Porcelain""",neutral,0.7199145555496216,1,2,3,5
+6,chinese,"""Solomon Islands Prime Minister Manasseh Sogavare Lays Wreath at People's Heroes Monument""",neutral,0.6182363629341125,1,2,3,5
+7,chinese,"""CPI Mildly Rises, PPI Decrease Narrows - Low Price Level Operation in the First Half of the Year""",neutral,0.4828701317310333,1,2,3,5
+8,chinese,"""Power Plants Store Over 120 Million Tons of Coal, Coal Supply and Demand Balanced for Peak Summer Season""",neutral,0.5590233206748962,1,2,3,5
+9,chinese,"""Vanuatu Prime Minister: Willing to Learn Climate Governance Experience from China""",positive,0.6406528353691101,2,2,3,5
