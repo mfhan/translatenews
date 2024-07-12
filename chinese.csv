@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Fairness and Justice | Confirmed! Illegal ""Sitting"" of Warships Damages Coral Reef Ecology, When Will the Philippines Fulfill Its Promises?""",negative,0.8556490540504456,-2,2,2,6
-1,chinese,"""More than 60 Bodies Found in a Community in Gaza City""",neutral,0.7214804291725159,1,2,2,6
-2,chinese,"""United Nations Predicts World Population Will Reach Its Peak in the Mid-1980s""",neutral,0.634316086769104,1,2,2,6
-3,chinese,"""6 Years, 6 Rounds of Adjustments! Over 700 New Types of Medicines Added to National Medical Insurance""",neutral,0.5633437633514404,1,2,2,6
-4,chinese,"""Chinese Coast Guard Lawfully Expels Japanese Vessels Illegally Entering Our Diaoyu Islands' Territorial Waters""",negative,0.6492826342582703,-1,2,2,6
-5,chinese,"In 2023, China's total marine production value reaches 9.9097 trillion yuan.",neutral,0.5523531436920166,1,2,2,6
-6,chinese,"""15,000! All National Bond Issuance Projects to Commence in 2023""",neutral,0.6462798714637756,1,2,2,6
-7,chinese,"""The 10th Nishan World Civilization Forum: Illuminating the Light of Civilization, Sharing the Beauty of Harmony""",positive,0.7242065072059631,3,2,2,6
-8,chinese,"""US to Deploy Long-Range Weapons in Germany Starting from 2026, Russia Vows Military Response""",neutral,0.7353074550628662,1,2,2,6
-9,chinese,"""SCO Secretary-General: Astana Summit Marks Another Important Milestone in the Organization's History""",positive,0.7421594858169556,3,2,2,6
+0,chinese,"""China's First DQ Burger Shop Opens in Shanghai""",neutral,0.49666252732276917,1,0,3,7
+1,chinese,"""British Scholar: Coexistence is the Right Way, but Some Fear Chaos in the World""",negative,0.6876780986785889,-1,0,3,7
+2,chinese,"""China's Green Industry is in an Expansion Phase, No ""Overcapacity"" in the Medium to Long Term""",neutral,0.7067528963088989,1,0,3,7
+3,chinese,"""UK Whooping Cough Epidemic Continues to Spread""",negative,0.7393412590026855,-2,0,3,7
+4,chinese,"""The Forbidden City releases a cooling route""",neutral,0.5793280601501465,1,0,3,7
+5,chinese,"""Announcement from National Bureau of Statistics on Summer Grain Production Data for 2024""",neutral,0.8693719506263733,1,0,3,7
+6,chinese,"""More than 60 Bodies Found in a Community in Gaza City""",neutral,0.7214804291725159,1,0,3,7
+7,chinese,"""United Nations Predicts World Population to Reach its Peak in Mid-1980s""",neutral,0.48672303557395935,1,0,3,7
+8,chinese,"""6 Years, 6 Rounds of Adjustments! Over 700 Types of Medicines Newly Added to National Medical Insurance""",neutral,0.6582677364349365,1,0,3,7
+9,chinese,"""Chinese Coast Guard Lawfully Expels Japanese Vessels Illegally Entering Our Diaoyu Islands' Territorial Waters""",negative,0.6492826342582703,-1,0,3,7
