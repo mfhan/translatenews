@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's First DQ Burger Shop Opens in Shanghai""",neutral,0.49666252732276917,1,0,3,7
-1,chinese,"""British Scholar: Coexistence is the Right Way, but Some Fear Chaos in the World""",negative,0.6876780986785889,-1,0,3,7
-2,chinese,"""China's Green Industry is in an Expansion Phase, No ""Overcapacity"" in the Medium to Long Term""",neutral,0.7067528963088989,1,0,3,7
-3,chinese,"""UK Whooping Cough Epidemic Continues to Spread""",negative,0.7393412590026855,-2,0,3,7
-4,chinese,"""The Forbidden City releases a cooling route""",neutral,0.5793280601501465,1,0,3,7
-5,chinese,"""Announcement from National Bureau of Statistics on Summer Grain Production Data for 2024""",neutral,0.8693719506263733,1,0,3,7
-6,chinese,"""More than 60 Bodies Found in a Community in Gaza City""",neutral,0.7214804291725159,1,0,3,7
-7,chinese,"""United Nations Predicts World Population to Reach its Peak in Mid-1980s""",neutral,0.48672303557395935,1,0,3,7
-8,chinese,"""6 Years, 6 Rounds of Adjustments! Over 700 Types of Medicines Newly Added to National Medical Insurance""",neutral,0.6582677364349365,1,0,3,7
-9,chinese,"""Chinese Coast Guard Lawfully Expels Japanese Vessels Illegally Entering Our Diaoyu Islands' Territorial Waters""",negative,0.6492826342582703,-1,0,3,7
+0,chinese,"""Ministry of National Defense: US and Philippines should immediately withdraw and never deploy intermediate-range missiles in the region""",negative,0.7245758771896362,-2,3,2,5
+1,chinese,"""Hu Bin: Accelerating the Construction of ""One Center, Four Bases"", Striving to Compose a New Chapter of Chinese-style Modernization in Jilin City""",positive,0.6780633926391602,2,3,2,5
+2,chinese,"""French Media: 4 Stowaways Drown While Crossing the English Channel from Northern France""",neutral,0.6516326069831848,1,3,2,5
+3,chinese,"""Beijing Experiences Heavy Rainfall Again, North China Air Traffic Control Activates Large-Scale Flight Diversion Protection Procedures""",neutral,0.7463569045066833,1,3,2,5
+4,chinese,"""Chinese police to go to Croatia to carry out joint patrol mission""",neutral,0.7116712331771851,1,3,2,5
+5,chinese,"""Biden's Solo Press Conference Draws Attention, Insists on Not Withdrawing from Election""",neutral,0.6609025001525879,1,3,2,5
+6,chinese,"""Continuous Decline in US Inflation May Drive Capital Shift in Stock Market""",negative,0.6305038332939148,-1,3,2,5
+7,chinese,"""In 2024, China's summer grain achieves a bountiful harvest with a total output of nearly 300 billion catties.""",positive,0.680138111114502,2,3,2,5
+8,chinese,"""6.1% Growth! China's Goods Trade Volume Exceeds 21 Trillion Yuan in the First Half of the Year""",positive,0.558603823184967,2,3,2,5
+9,chinese,"""China's First DQ Brand Burger Shop Opens in Shanghai""",neutral,0.504510223865509,1,3,2,5
