@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"North Korea Condemns NATO's ""Washington Summit Declaration""",negative,0.7068300843238831,-2,2,4,4
-1,chinese,"""RMB Loans Increase by 13.27 Trillion Yuan in the First Half of the Year""",neutral,0.6929117441177368,1,2,4,4
-2,chinese,"""National Summer Grain Harvest Achieves Bountiful Yield in 2024, Total Production Reaches 299.6 Billion Jin""",positive,0.6046896576881409,2,2,4,4
-3,chinese,"""SCO Member States' Culture Ministers Meeting Held in Belarus""",neutral,0.8661808371543884,1,2,4,4
-4,chinese,"""RMB loans increase by 13.27 trillion yuan in the first half of the year""",neutral,0.6892745494842529,1,2,4,4
-5,chinese,"""Refusal to Withdraw from Election: Can Biden Dispel Doubts within the Party?""",negative,0.5686331391334534,-1,2,4,4
-6,chinese,"""Chinese Navy's ""Peace Ark"" Hospital Ship Concludes Visit to Seychelles and Heads to Tanzania""",neutral,0.7873502969741821,1,2,4,4
-7,chinese,"""NATO's ""Asia-Pacific-ization"" is sinister, manipulating the ""new Cold War"" is unpopular""",negative,0.9177801609039307,-2,2,4,4
-8,chinese,"""Ministry of National Defense: US and Philippines should immediately withdraw and never deploy intermediate-range missiles in the region""",negative,0.7245758771896362,-2,2,4,4
-9,chinese,"""Hu Bin: Speeding up the Construction of ""One Center, Four Bases"", Striving to Compose a New Chapter of China-style Modernization in Jilin City""",positive,0.5907386541366577,2,2,4,4
+0,chinese,"""President of Guinea-Bissau: Looking Forward to Strengthening Education and Youth Exchange and Cooperation with China""",positive,0.6373075246810913,2,3,3,4
+1,chinese,"""Successful Lecture on President Sisi's Visit to China from the Perspective of Egyptians""",positive,0.8241102695465088,3,3,3,4
+2,chinese,"""5.1 Magnitude Earthquake Strikes Okinawa, Japan with Tremors Felt in Multiple Areas""",negative,0.6638936996459961,-1,3,3,4
+3,chinese,"North Korea Condemns NATO's ""Washington Summit Declaration""",negative,0.7068300843238831,-2,3,3,4
+4,chinese,"""RMB Loans Increase by 13.27 Trillion Yuan in the First Half of the Year""",neutral,0.6929117441177368,1,3,3,4
+5,chinese,"""National Summer Grain Achieves Bountiful Harvest in 2024, Total Output Reaches 299.6 Billion Catties""",positive,0.6418073177337646,2,3,3,4
+6,chinese,"""SCO Culture Ministers Meeting Held in Belarus""",neutral,0.8915590643882751,1,3,3,4
+7,chinese,"""RMB Loans Increase by 13.27 Trillion Yuan in the First Half of the Year""",neutral,0.6929117441177368,1,3,3,4
+8,chinese,"""Refusal to Withdraw: Can Biden Dispel Doubts within the Party?""",negative,0.48073264956474304,-1,3,3,4
+9,chinese,"""Chinese Navy's ""Peace Ark"" Hospital Ship Concludes Visit to Seychelles and Heads to Tanzania""",neutral,0.7873502969741821,1,3,3,4
