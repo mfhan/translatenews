@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""President of Guinea-Bissau: Looking Forward to Strengthening Education and Youth Exchange and Cooperation with China""",positive,0.6373075246810913,2,3,3,4
-1,chinese,"""Successful Lecture on President Sisi's Visit to China from the Perspective of Egyptians""",positive,0.8241102695465088,3,3,3,4
-2,chinese,"""5.1 Magnitude Earthquake Strikes Okinawa, Japan with Tremors Felt in Multiple Areas""",negative,0.6638936996459961,-1,3,3,4
-3,chinese,"North Korea Condemns NATO's ""Washington Summit Declaration""",negative,0.7068300843238831,-2,3,3,4
-4,chinese,"""RMB Loans Increase by 13.27 Trillion Yuan in the First Half of the Year""",neutral,0.6929117441177368,1,3,3,4
-5,chinese,"""National Summer Grain Achieves Bountiful Harvest in 2024, Total Output Reaches 299.6 Billion Catties""",positive,0.6418073177337646,2,3,3,4
-6,chinese,"""SCO Culture Ministers Meeting Held in Belarus""",neutral,0.8915590643882751,1,3,3,4
-7,chinese,"""RMB Loans Increase by 13.27 Trillion Yuan in the First Half of the Year""",neutral,0.6929117441177368,1,3,3,4
-8,chinese,"""Refusal to Withdraw: Can Biden Dispel Doubts within the Party?""",negative,0.48073264956474304,-1,3,3,4
-9,chinese,"""Chinese Navy's ""Peace Ark"" Hospital Ship Concludes Visit to Seychelles and Heads to Tanzania""",neutral,0.7873502969741821,1,3,3,4
+0,chinese,"""Can the European Cup inject a ""strong stimulant"" into the German economy?""",neutral,0.4498639702796936,1,5,2,3
+1,chinese,"""Three Months After Implementation, the Trade-In Program for Consumer Goods Has a Good Start""",positive,0.8685470223426819,3,5,2,3
+2,chinese,"""June CPI continues to rise year-on-year""",positive,0.5422829985618591,2,5,2,3
+3,chinese,"""President of Guinea-Bissau: Looking Forward to Strengthening Education and Youth Exchange Cooperation with China""",positive,0.6447839140892029,2,5,2,3
+4,chinese,"""Successful Lecture on President Sisi's Trip to China from the Perspective of Egyptians""",positive,0.8163720369338989,3,5,2,3
+5,chinese,"""5.1 Magnitude Earthquake Strikes Okinawa, Japan with Tremors Felt in Multiple Areas""",negative,0.6638936996459961,-1,5,2,3
+6,chinese,"North Korea Condemns NATO's ""Washington Summit Declaration""",negative,0.7068300843238831,-2,5,2,3
+7,chinese,"""RMB loans increased by 13.27 trillion yuan in the first half of the year""",neutral,0.6988827586174011,1,5,2,3
+8,chinese,"""National Summer Grain Harvest Achieves Bountiful Yield of 299.6 Billion Jin in 2024""",positive,0.5256009697914124,2,5,2,3
+9,chinese,"""SCO Culture Ministers' Meeting Held in Belarus""",neutral,0.8484797477722168,1,5,2,3
