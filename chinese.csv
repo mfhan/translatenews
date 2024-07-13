@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Can the European Cup inject a ""strong stimulant"" into the German economy?""",neutral,0.4498639702796936,1,5,2,3
-1,chinese,"""Three Months After Implementation, the Trade-In Program for Consumer Goods Has a Good Start""",positive,0.8685470223426819,3,5,2,3
-2,chinese,"""June CPI continues to rise year-on-year""",positive,0.5422829985618591,2,5,2,3
-3,chinese,"""President of Guinea-Bissau: Looking Forward to Strengthening Education and Youth Exchange Cooperation with China""",positive,0.6447839140892029,2,5,2,3
-4,chinese,"""Successful Lecture on President Sisi's Trip to China from the Perspective of Egyptians""",positive,0.8163720369338989,3,5,2,3
-5,chinese,"""5.1 Magnitude Earthquake Strikes Okinawa, Japan with Tremors Felt in Multiple Areas""",negative,0.6638936996459961,-1,5,2,3
-6,chinese,"North Korea Condemns NATO's ""Washington Summit Declaration""",negative,0.7068300843238831,-2,5,2,3
-7,chinese,"""RMB loans increased by 13.27 trillion yuan in the first half of the year""",neutral,0.6988827586174011,1,5,2,3
-8,chinese,"""National Summer Grain Harvest Achieves Bountiful Yield of 299.6 Billion Jin in 2024""",positive,0.5256009697914124,2,5,2,3
-9,chinese,"""SCO Culture Ministers' Meeting Held in Belarus""",neutral,0.8484797477722168,1,5,2,3
+0,chinese,"""Israeli Military Bombs Multiple Refugee Camps, Hundreds Dead or Injured""",negative,0.8044125437736511,-2,4,3,3
+1,chinese,"""Taiwan Street Erupts in Tragedy! One Police Officer Dead""",negative,0.873067319393158,-2,4,3,3
+2,chinese,"""US Signs So-Called ""Promoting Resolution of Tibet Dispute Act"", China Responds""",neutral,0.6518293619155884,1,4,3,3
+3,chinese,"""Can the European Championship Inject a ""Booster"" into the German Economy?""",neutral,0.5959699153900146,1,4,3,3
+4,chinese,"""Three Months After Launch, Trade-in Program for Consumer Goods Starts Off Well""",positive,0.8389158248901367,3,4,3,3
+5,chinese,"""June CPI continues to rise year-on-year""",positive,0.5422829985618591,2,4,3,3
+6,chinese,"""Guinea-Bissau President: Looking Forward to Strengthening Education and Youth Exchange Cooperation with China""",positive,0.641842246055603,2,4,3,3
+7,chinese,"""Details of Russian Plane Crash Revealed""",neutral,0.5255151391029358,1,4,3,3
+8,chinese,"""Successful Lecture on President Sisi's Trip to China from the Perspective of Egyptians""",positive,0.8163720369338989,3,4,3,3
+9,chinese,"""5.1 Magnitude Earthquake Strikes Okinawa, Japan, Many Areas Feel Tremors""",negative,0.6920349597930908,-1,4,3,3
