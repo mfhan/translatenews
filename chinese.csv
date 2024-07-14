@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""US Law Enforcement Officials: Trump Rally Shooting Incident Being Investigated as an Assassination Case""",negative,0.61533123254776,-1,2,5,3
-1,chinese,"""Trump Shooting Suspect Killed, Participant Shot Dead at Rally Scene""",negative,0.7397118806838989,-2,2,5,3
-2,chinese,"""National Disaster Management Authority: Dispatching 12 Provinces for Flood Prevention and Disaster Relief""",neutral,0.8101796507835388,1,2,5,3
-3,chinese,"Accumulated Water Level in Tuanzhou Embankment, Huarong, Hunan Drops by 56 Centimeters",neutral,0.6872934699058533,1,2,5,3
-4,chinese,"""Continued High Temperatures, Approximately 42 Million People in the US Still Under Heat Advisory""",negative,0.6322956085205078,-1,2,5,3
-5,chinese,"""International Experts: China is a Key Contributor to Global Sustainable Development""",positive,0.7445281147956848,3,2,5,3
-6,chinese,"""Li Jiachao: Fully Committed to Developing Hong Kong into an International Innovation and Technology Center""",positive,0.7089962363243103,3,2,5,3
-7,chinese,"""Israeli Military Bombs Multiple Refugee Camps, Hundreds Dead or Injured""",negative,0.8044125437736511,-2,2,5,3
-8,chinese,"""Taiwan Street Eruption! One Police Officer Dead""",negative,0.7787356972694397,-2,2,5,3
-9,chinese,"""US Signs So-Called ""Promoting Resolution of Tibetan Dispute Act"", China Responds""",neutral,0.6345239877700806,1,2,5,3
+0,chinese,"""National Performance Market Earns 19.016 Billion Yuan in Ticket Sales in the First Half of the Year""",neutral,0.6114746332168579,1,2,2,6
+1,chinese,"""People's Car Vision - First Half of the Year's ""Report Card"" Released, Exports Increase by 30.5% Achieving Excellent Results""",positive,0.8276068568229675,3,2,2,6
+2,chinese,"""China and Philippines Law Enforcement Departments Collaborate to Repatriate 3 Suspects of Kidnapping Crimes""",neutral,0.5753466486930847,1,2,2,6
+3,chinese,"""Significant Increase in Inbound and Outbound Foreign Tourists at Jiangsu Port in the First Half of the Year""",neutral,0.5331041812896729,1,2,2,6
+4,chinese,"""More than 80 French friends experience traditional Chinese medicine culture in Chengdu""",neutral,0.6639580726623535,1,2,2,6
+5,chinese,"""32 Ambassadors from Different Countries Visit Inner Mongolia, Praise the Vibrant Energy of Northern China!""",positive,0.849119246006012,3,2,2,6
+6,chinese,"""National Performance Market Earns 19.016 Billion Yuan in Ticket Sales in the First Half of the Year""",neutral,0.6114746332168579,1,2,2,6
+7,chinese,"""US Law Enforcement Officials: Trump Rally Shooting Incident Being Investigated as an Assassination Case""",negative,0.61533123254776,-1,2,2,6
+8,chinese,"""Trump Shooting Suspect Killed, Participant Shot Dead at Rally""",negative,0.7328206896781921,-2,2,2,6
+9,chinese,"""National Disaster Management Department: Dispatching 12 Provinces for Flood Prevention and Disaster Relief""",neutral,0.8115500807762146,1,2,2,6
