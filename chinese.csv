@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""National Performance Market Earns 19.016 Billion Yuan in Ticket Sales in the First Half of the Year""",neutral,0.6114746332168579,1,2,2,6
-1,chinese,"""People's Car Vision - First Half of the Year's ""Report Card"" Released, Exports Increase by 30.5% Achieving Excellent Results""",positive,0.8276068568229675,3,2,2,6
-2,chinese,"""China and Philippines Law Enforcement Departments Collaborate to Repatriate 3 Suspects of Kidnapping Crimes""",neutral,0.5753466486930847,1,2,2,6
-3,chinese,"""Significant Increase in Inbound and Outbound Foreign Tourists at Jiangsu Port in the First Half of the Year""",neutral,0.5331041812896729,1,2,2,6
-4,chinese,"""More than 80 French friends experience traditional Chinese medicine culture in Chengdu""",neutral,0.6639580726623535,1,2,2,6
-5,chinese,"""32 Ambassadors from Different Countries Visit Inner Mongolia, Praise the Vibrant Energy of Northern China!""",positive,0.849119246006012,3,2,2,6
-6,chinese,"""National Performance Market Earns 19.016 Billion Yuan in Ticket Sales in the First Half of the Year""",neutral,0.6114746332168579,1,2,2,6
-7,chinese,"""US Law Enforcement Officials: Trump Rally Shooting Incident Being Investigated as an Assassination Case""",negative,0.61533123254776,-1,2,2,6
-8,chinese,"""Trump Shooting Suspect Killed, Participant Shot Dead at Rally""",negative,0.7328206896781921,-2,2,2,6
-9,chinese,"""National Disaster Management Department: Dispatching 12 Provinces for Flood Prevention and Disaster Relief""",neutral,0.8115500807762146,1,2,2,6
+0,chinese,"""Full Firepower! Xinjiang Military District Conducts Multiple Live Ammunition Shooting Assessments""",neutral,0.6637356281280518,1,1,6,3
+1,chinese,"""The 2024 Paris Olympic Torch Begins Its Relay in Paris""",neutral,0.8670728206634521,1,1,6,3
+2,chinese,"""Mount Ibu in Indonesia Experiences Multiple Eruptions""",negative,0.7358207702636719,-2,1,6,3
+3,chinese,"""This round of Israeli-Palestinian conflict has caused 38,584 deaths in the Gaza Strip""",negative,0.7655459642410278,-2,1,6,3
+4,chinese,"""Economist Yao Yang: China's Development of New Productive Forces Comes at the Right Time""",positive,0.614542543888092,2,1,6,3
+5,chinese,"""Foreign Ministry Spokesperson Answers Questions Regarding Former US President Trump's Encounter with Gunfire""",negative,0.49147364497184753,-1,1,6,3
+6,chinese,"""North Korea Condemns South Korea for Airdropping Anti-North Propaganda Leaflets""",negative,0.8324549794197083,-2,1,6,3
+7,chinese,"""12 People Dead in Punjab Province, Pakistan Due to Heavy Rainfall""",negative,0.7758543491363525,-2,1,6,3
+8,chinese,"""Trump Rally Shooting Suspect Registered as Republican, Political Affiliation Still Unclear""",negative,0.5043530464172363,-1,1,6,3
+9,chinese,"""National Performance Market Earns 19.016 Billion Yuan in Ticket Sales in First Half of the Year""",neutral,0.6076867580413818,1,1,6,3
