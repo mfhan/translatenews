@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Economist Yao Yang: China's Development of New Productive Forces Comes at the Right Time""",positive,0.614542543888092,2,2,1,7
-1,chinese,"""Cultural China Tour | Memories of Young Chinese and American on the Beijing Central Axis""",neutral,0.8145878911018372,1,2,1,7
-2,chinese,"""China's 144-hour transit visa-free policy now applies to 37 ports of entry""",neutral,0.6544252038002014,1,2,1,7
-3,chinese,"""Astronauts Stranded in Space, When Will Boeing's ""Interstellar Passenger Plane"" Return?""",neutral,0.6974545121192932,1,2,1,7
-4,chinese,"""Iran's Elected President Pezheshkiyan: Looking Forward to Broadening Cooperation with China""",positive,0.6888822913169861,2,2,1,7
-5,chinese,"""US Federal Bureau of Investigation Releases Suspect in Trump Shooting""",negative,0.5679062008857727,-1,2,1,7
-6,chinese,"""Opening of the First Phase of the SCO International Green Agricultural Products Expo and Trading Center""",neutral,0.8238630890846252,1,2,1,7
-7,chinese,"""National Biotechnology Manufacturing Industry Innovation Center Launches Construction in Shenzhen""",neutral,0.6525024175643921,1,2,1,7
-8,chinese,"""Full Firepower! Xinjiang Military Region Organizes Multiple Live Ammunition Shooting Assessments""",neutral,0.6458680629730225,1,2,1,7
-9,chinese,"""Paris Olympic Torch Relay Begins in Paris for 2024 Olympics""",neutral,0.8388904333114624,1,2,1,7
+0,chinese,"""Former President of Guyana: Third Plenum Brings Anticipation""",negative,0.6530242562294006,-1,4,2,4
+1,chinese,"""Cultural Journey in China | Memories of Young Chinese and American on Beijing's Central Axis""",neutral,0.7490682601928711,1,4,2,4
+2,chinese,"""Today marks the beginning of the hottest period of the year, the next 40 days will require attention to detail!""",positive,0.7288814783096313,3,4,2,4
+3,chinese,"""Mengniu's Pure Milk Brand Spokesperson Wang Yibo Carries the Olympic Flame: China's Strength Shines Bright in Paris""",positive,0.78591388463974,3,4,2,4
+4,chinese,Why is the ancient city of Luoyang popular among young people?,negative,0.6712813377380371,-1,4,2,4
+5,chinese,"""185 teachers and students from the US experience the charm of China through ""immersive"" cultural exchange""",positive,0.714011013507843,3,4,2,4
+6,chinese,"""National Bureau of Statistics: GDP Grows 5% Year-on-Year in First Half of 2024""",neutral,0.722241997718811,1,4,2,4
+7,chinese,"""Follow the competition and travel, never say goodbye to the summer, Sanya Economic Circle awaits you to continue exploring""",positive,0.613459587097168,2,4,2,4
+8,chinese,"""China's 144-hour Transit Visa Exemption Policy Now Applicable to 37 Ports""",neutral,0.7328410744667053,1,4,2,4
+9,chinese,"""Astronauts Stranded in Space, When Will the Boeing ""Starliner"" Return?""",neutral,0.6290934085845947,1,4,2,4
