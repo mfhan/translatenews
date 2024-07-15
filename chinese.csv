@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former President of Guyana: Third Plenum Brings Anticipation""",negative,0.6530242562294006,-1,4,2,4
-1,chinese,"""Cultural Journey in China | Memories of Young Chinese and American on Beijing's Central Axis""",neutral,0.7490682601928711,1,4,2,4
-2,chinese,"""Today marks the beginning of the hottest period of the year, the next 40 days will require attention to detail!""",positive,0.7288814783096313,3,4,2,4
-3,chinese,"""Mengniu's Pure Milk Brand Spokesperson Wang Yibo Carries the Olympic Flame: China's Strength Shines Bright in Paris""",positive,0.78591388463974,3,4,2,4
-4,chinese,Why is the ancient city of Luoyang popular among young people?,negative,0.6712813377380371,-1,4,2,4
-5,chinese,"""185 teachers and students from the US experience the charm of China through ""immersive"" cultural exchange""",positive,0.714011013507843,3,4,2,4
-6,chinese,"""National Bureau of Statistics: GDP Grows 5% Year-on-Year in First Half of 2024""",neutral,0.722241997718811,1,4,2,4
-7,chinese,"""Follow the competition and travel, never say goodbye to the summer, Sanya Economic Circle awaits you to continue exploring""",positive,0.613459587097168,2,4,2,4
-8,chinese,"""China's 144-hour Transit Visa Exemption Policy Now Applicable to 37 Ports""",neutral,0.7328410744667053,1,4,2,4
-9,chinese,"""Astronauts Stranded in Space, When Will the Boeing ""Starliner"" Return?""",neutral,0.6290934085845947,1,4,2,4
+0,chinese,"""Former President of Guyana: Third Plenum Brings Anticipation""",negative,0.6530242562294006,-1,0,5,5
+1,chinese,"""Cultural Journey in China | The ""Riding"" Encounters of Chinese and American Youth on Beijing's Central Axis""",neutral,0.8331500291824341,1,0,5,5
+2,chinese,"""Palestinian Authority claims Israeli military arrested 15 Palestinians in the West Bank of the Jordan River""",negative,0.6437299847602844,-1,0,5,5
+3,chinese,"""Shandong Issues Meteorological Warning for Mountain Flood Disasters, Linyi Region Under Partial Orange Alert""",negative,0.7537562847137451,-2,0,5,5
+4,chinese,"""Railway Summer Transport Begins for Half a Month, Beijing Region Sends a Total of 7.983 Million Passengers""",neutral,0.7248446345329285,1,0,5,5
+5,chinese,"""China Southern Airlines Launches New Beijing Daxing to Dhaka Direct Flight Route""",neutral,0.842810869216919,1,0,5,5
+6,chinese,"""8 people dead in floods in southern Philippines""",negative,0.7520220875740051,-2,0,5,5
+7,chinese,"""Turkish Security Forces Kill 17 Members of the Kurdish Workers' Party in Syria and Iraq""",negative,0.7692402005195618,-2,0,5,5
+8,chinese,"""Ministry of Industry and Information Technology Launches Selection of Pilot Cities for Beidou Scale Application""",neutral,0.7157090306282043,1,0,5,5
+9,chinese,"""Overall Decrease in Housing Prices Narrows in Various Cities in June""",neutral,0.6138139367103577,1,0,5,5
