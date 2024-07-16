@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former President of Guyana: Third Plenary Session Brings Great Expectations""",positive,0.8307342529296875,3,1,4,5
-1,chinese,"""Cultural Journey in China | Memories of Young Chinese and American on the Beijing Central Axis""",neutral,0.7772126197814941,1,1,4,5
-2,chinese,"""Israeli Army Arrests 15 Palestinians on the West Bank of the Jordan River, According to Palestinian Authorities""",negative,0.7062849998474121,-2,1,4,5
-3,chinese,"""Shandong issues flood weather warning, Linyi partially under orange alert""",negative,0.7461087107658386,-2,1,4,5
-4,chinese,"""Railway Summer Transport Begins for Half a Month, Beijing Area Sends a Total of 7.983 Million Passengers""",neutral,0.7521491646766663,1,1,4,5
-5,chinese,"""China Southern Airlines Launches New Beijing Daxing to Dhaka Direct Flight Route""",neutral,0.842810869216919,1,1,4,5
-6,chinese,"""8 People Dead in Southern Philippines Flooding""",negative,0.7626445293426514,-2,1,4,5
-7,chinese,"""Turkish security forces kill 17 members of the Kurdish Workers' Party in Syria and Iraq""",negative,0.7685285806655884,-2,1,4,5
-8,chinese,"""Ministry of Industry and Information Technology Launches Selection of Pilot Cities for Beidou Scale Application""",neutral,0.7157090306282043,1,1,4,5
-9,chinese,"""Overall Decrease in Housing Prices Narrows in Major Cities in June""",neutral,0.6342708468437195,1,1,4,5
+0,chinese,"""Former President of Guyana: Third Plenum Brings Anticipation""",negative,0.6530242562294006,-1,1,3,6
+1,chinese,"""Cultural Journey in China: The ""Riding"" Encounter of Chinese and American Youth on Beijing's Central Axis""",neutral,0.8138492703437805,1,1,3,6
+2,chinese,"""China Daily Exclusive Interview: Hu Ruoqi and Her 100 Courts""",neutral,0.9028597474098206,1,1,3,6
+3,chinese,"""801.6 Billion Pieces, Express Delivery Industry Runs with New Vitality""",neutral,0.5502172708511353,1,1,3,6
+4,chinese,"""[Infographic] National Railway Freight ""Report Card"" for June Shows Impressive Results, Multiple Indicators Reach Record Highs""",positive,0.7857910394668579,3,1,3,6
+5,chinese,"""Trump Nominated as Republican Presidential Candidate, Pence as Vice Presidential Candidate""",neutral,0.7615363597869873,1,1,3,6
+6,chinese,"""Sales of New Energy Vehicles Expected to Reach Millions""",neutral,0.5900084376335144,1,1,3,6
+7,chinese,"""Israeli Forces Arrest 15 Palestinians on the West Bank of the Jordan River, According to Palestinian Authorities""",negative,0.655339241027832,-1,1,3,6
+8,chinese,"""Shandong issues meteorological warning for mountain flood disasters, Linyi area under partial orange alert""",negative,0.7874021530151367,-2,1,3,6
+9,chinese,"""Railway Summer Transport Begins for Half a Month, Beijing Region Sends a Total of 7.983 Million Passengers""",neutral,0.7248446345329285,1,1,3,6
