@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[Overseas Perspective] Pakistani Planning Minister Ahsan Iqbal: The Future is Here, Looking Forward to the Third Plenary Session Contributing More Chinese Experience to the World""",positive,0.5674949884414673,2,5,0,5
-1,chinese,"""Beijing Port Handles a Total of 307,000 Visa-Free Foreign Tourists in the First Half of the Year""",neutral,0.5765588879585266,1,5,0,5
-2,chinese,"""Wuzhen Midsummer Night Performance Season Kicks Off with a Dreamy Start""",positive,0.7649959921836853,3,5,0,5
-3,chinese,"""China's Affairs: Scholars from Multiple Countries Expecting the 3rd Plenum of the 20th CPC Central Committee to Promote Global Stability and Prosperity""",positive,0.5841550827026367,2,5,0,5
-4,chinese,"""International Talent Process: A Guide to Enrolling Children in Schools in Beijing""",neutral,0.7744898796081543,1,5,0,5
-5,chinese,"""The list of finalists for the 2nd Cross-Strait Animation Dubbing Competition is freshly released!""",neutral,0.588467538356781,1,5,0,5
-6,chinese,"""ADB Raises Economic Growth Expectations for Developing Economies in Asia-Pacific Region""",positive,0.7429227232933044,3,5,0,5
-7,chinese,"""French President Macron Approves Prime Minister Atar's Resignation Request""",neutral,0.43844616413116455,1,5,0,5
-8,chinese,"""China's Proportion of Smart Computing Scale Exceeds 30%, Accelerating the Implementation of Computing Power Infrastructure""",positive,0.6517444252967834,2,5,0,5
-9,chinese,"""Over 200 million passengers have been transported by rail nationwide since the start of the summer transportation rush""",neutral,0.7098777890205383,1,5,0,5
+0,chinese,"""[Overseas Perspective] Pakistani Planning Minister Ahsan Iqbal: The Future is Here, Looking Forward to the Third Plenary Session Contributing More Chinese Experience to the World""",positive,0.5674949884414673,2,3,0,7
+1,chinese,"""Cultural Exchange between China and Vietnam through the Eyes of Vietnamese Girls Working Across the Border""",neutral,0.7522420287132263,1,3,0,7
+2,chinese,"Ministry of Foreign Affairs: Welcome more foreign friends to enjoy ""China Tour""",positive,0.704352617263794,3,3,0,7
+3,chinese,"""China's Numbers | 80.16 Billion Pieces! Express ""Small Packages"", Economic ""New Vitality""""",neutral,0.8782268762588501,1,3,0,7
+4,chinese,New Study: Melting Rate of Antarctic Ice Shelves Far Higher Than Previously Predicted,neutral,0.5679119229316711,1,3,0,7
+5,chinese,"""Beijing Port Processes a Total of 307,000 Visa-Free Foreign Tourists in the First Half of the Year""",neutral,0.6194131970405579,1,3,0,7
+6,chinese,"""Wuzhen Midsummer Night Performance Season Kicks Off with a Dreamy Start""",positive,0.7649959921836853,3,3,0,7
+7,chinese,"""[China News] Scholars from Multiple Countries: The 3rd Plenary Session of the 20th CPC Central Committee Highly Anticipated to Promote Global Stability and Prosperity""",neutral,0.48068952560424805,1,3,0,7
+8,chinese,"""International Talent Process: Guide to Enrolling Children in Schools in Beijing""",neutral,0.7902589440345764,1,3,0,7
+9,chinese,"""The list of finalists for the 2nd Cross-Strait Animation Dubbing Competition is freshly released!""",neutral,0.588467538356781,1,3,0,7
