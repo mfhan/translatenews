@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[Overseas Perspective] Pakistani Planning Minister Ahsan Iqbal: The Future is Here, Looking Forward to the Third Plenum Contributing More Chinese Experience to the World""",positive,0.5699278712272644,2,1,4,5
-1,chinese,"""Zhoukou, Henan issues Level 2 flood emergency response: Production, classes, and transportation suspended in central urban area""",negative,0.7854925394058228,-2,1,4,5
-2,chinese,"""Thai Police: Cyanide Found in Water Cups and Kettles in Deceased's Hotel Room in Bangkok""",negative,0.7265059351921082,-2,1,4,5
-3,chinese,"""New Record Set for Deepest Lake Drilling in China: Nam Co International Continental Scientific Drilling Project Successfully Completed""",neutral,0.6352226734161377,1,1,4,5
-4,chinese,"""Strong Rebound in Japanese Yen Exchange Rate, Market Speculates Bank of Japan May Intervene in Currency Market""",neutral,0.5772774815559387,1,1,4,5
-5,chinese,"""Israeli military continues to attack multiple areas in Gaza, causing casualties and injuries""",negative,0.8283226490020752,-2,1,4,5
-6,chinese,Orange Alert! Heavy Rain and Torrential Downpours Expected in Six Provinces Including Sichuan and Shaanxi.,negative,0.5974103808403015,-1,1,4,5
-7,chinese,"""Qatar's Emir Holds Phone Call with French President to Discuss the Situation in Palestine and Israel""",neutral,0.8277745246887207,1,1,4,5
-8,chinese,"""Infographic: 144 Hours, Experiencing Dynamic China""",neutral,0.802887499332428,1,1,4,5
-9,chinese,"""Why is it always difficult to accurately measure blood pressure? Here comes a guide for managing blood pressure in adults!""",neutral,0.5483942627906799,1,1,4,5
+0,chinese,"""[Overseas Perspective] Pakistani Planning Minister Ahsan Iqbal: The Future is Here, Looking Forward to the Third Plenary Session Contributing More Chinese Experience to the World""",positive,0.5674949884414673,2,5,0,5
+1,chinese,"""Beijing Port Handles a Total of 307,000 Visa-Free Foreign Tourists in the First Half of the Year""",neutral,0.5765588879585266,1,5,0,5
+2,chinese,"""Wuzhen Midsummer Night Performance Season Kicks Off with a Dreamy Start""",positive,0.7649959921836853,3,5,0,5
+3,chinese,"""China's Affairs: Scholars from Multiple Countries Expecting the 3rd Plenum of the 20th CPC Central Committee to Promote Global Stability and Prosperity""",positive,0.5841550827026367,2,5,0,5
+4,chinese,"""International Talent Process: A Guide to Enrolling Children in Schools in Beijing""",neutral,0.7744898796081543,1,5,0,5
+5,chinese,"""The list of finalists for the 2nd Cross-Strait Animation Dubbing Competition is freshly released!""",neutral,0.588467538356781,1,5,0,5
+6,chinese,"""ADB Raises Economic Growth Expectations for Developing Economies in Asia-Pacific Region""",positive,0.7429227232933044,3,5,0,5
+7,chinese,"""French President Macron Approves Prime Minister Atar's Resignation Request""",neutral,0.43844616413116455,1,5,0,5
+8,chinese,"""China's Proportion of Smart Computing Scale Exceeds 30%, Accelerating the Implementation of Computing Power Infrastructure""",positive,0.6517444252967834,2,5,0,5
+9,chinese,"""Over 200 million passengers have been transported by rail nationwide since the start of the summer transportation rush""",neutral,0.7098777890205383,1,5,0,5
