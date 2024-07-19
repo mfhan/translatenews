@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,The Central Committee of the Communist Party of China will hold a press conference on the morning of the 19th to introduce and interpret the spirit of the Third Plenary Session of the 20th Central Committee.,neutral,0.8240073323249817,1,4,1,5
-1,chinese,"""British Economist Ross Y: ""China's Development has Unprecedentedly Improved People's Lives""""",positive,0.7297577261924744,3,4,1,5
-2,chinese,"""Understanding the Key Focus of the New Round of Reform Strategy from the Third Plenum Communique""",neutral,0.7830736637115479,1,4,1,5
-3,chinese,"""Prime Minister States that Israeli Military Pressure in Rafah Contributes to Ceasefire Agreement""",neutral,0.4847830832004547,1,4,1,5
-4,chinese,"""European Central Bank Announces Maintaining Unchanged Three Key Interest Rates in the Eurozone""",neutral,0.7743237614631653,1,4,1,5
-5,chinese,Ministry of Foreign Affairs: Strongly Opposes Vietnam's Unilateral Submission of South China Sea Continental Shelf Delimitation Case,negative,0.7836772799491882,-2,4,1,5
-6,chinese,"""French Experts: Deepening Reforms is the Key to Advancing China's Modernization""",positive,0.5574701428413391,2,4,1,5
-7,chinese,"""Australian Scholar: Breaking the Game of ""Hegemonic Relay"", China Empowers Decentralization of the World Economy""",positive,0.6907076835632324,2,4,1,5
-8,chinese,"""Water Resources Department Scientifically Manages Yangtze River Reservoirs to Control Floods""",neutral,0.6477102637290955,1,4,1,5
-9,chinese,"""Promoting the Construction of a More Just and Reasonable International Order""",positive,0.47104761004447937,2,4,1,5
+0,chinese,Special Topic: Introduction and Interpretation of the Spirit of the Third Plenary Session of the 20th Central Committee of the Party,neutral,0.8911646008491516,1,4,0,6
+1,chinese,"""Understanding the Key Focus of the New Round of Reform Strategy from the Third Plenum Communiqué""",neutral,0.8009300231933594,1,4,0,6
+2,chinese,"Focus on the Third Plenum of the 20th Party Congress | ""Decision"" Emphasizes Effectively Reducing the Burden on the Grassroots Level",positive,0.5033556818962097,2,4,0,6
+3,chinese,"""Zhejiang Ningbo Zhoushan Port's Six Horizontal Highway Bridge Successfully Joins with Meishan Waterway Bridge""",positive,0.4838204085826874,2,4,0,6
+4,chinese,"""Decision of the Central Committee of the Communist Party of China on Further Comprehensively Deepening Reforms and Advancing China's Modernization Proposes Over 300 Key Reform Measures""",neutral,0.6181865930557251,1,4,0,6
+5,chinese,"""Chinese Style"" Shines at Paris Olympics, People in Mainland China Proud!",positive,0.8979508876800537,3,4,0,6
+6,chinese,"""Gathering Global Youth, Composing a New Chapter of Civilized Dialogue - Global ""Z Generation"" Mount Tai Dialogue to be Held in Tai'an, Shandong""",neutral,0.4931710660457611,1,4,0,6
+7,chinese,"""Service Real Economy, Inclusive Financial Service System Coverage Gradually Expanding""",neutral,0.806678295135498,1,4,0,6
+8,chinese,"""China's inbound and outbound tourism accelerates recovery""",positive,0.7054497003555298,3,4,0,6
+9,chinese,"""Spokesperson for the Ministry of National Defense, Zhang Xiaogang, Answers Questions from Reporters on Japan's 2024 Edition of the ""Defense White Paper""""",neutral,0.8143749833106995,1,4,0,6
