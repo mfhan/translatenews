@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""British Economist Rossiter: ""China's Development Has Unprecedentedly Improved People's Lives""""",positive,0.7365002036094666,3,5,0,5
-1,chinese,"""Egyptian Diplomat: ""Belt and Road"" Initiative is an ""Antidote"" to ""Anti-Globalization""""",neutral,0.47568100690841675,1,5,0,5
-2,chinese,"""French Experts: Deepening Reforms is the Key to Advancing China's Modernization""",positive,0.5574701428413391,2,5,0,5
-3,chinese,"""Australian Scholars: Breaking the ""Hegemonic Relay"" Game, China Empowers Decentralization of the World Economy""",positive,0.6980534195899963,2,5,0,5
-4,chinese,"""Water Resources Department Scientifically Manages Yangtze River Reservoirs to Control Floods""",neutral,0.6477102637290955,1,5,0,5
-5,chinese,"""Promoting a More Just and Reasonable International Order: Holding High the Banner of Cooperation and Opposing Division and Confrontation""",positive,0.5480890870094299,2,5,0,5
-6,chinese,"""Zhengzhou Airport Implements 144-Hour Transit Visa-Free Policy""",neutral,0.5804718136787415,1,5,0,5
-7,chinese,Italian Scholars Share Experiences at the Nishan Forum: Cross-Cultural Dialogue and Cooperation,neutral,0.6295902729034424,1,5,0,5
-8,chinese,"""Singapore Scholar: Artificial Intelligence Can Create New Job Opportunities""",positive,0.7822202444076538,3,5,0,5
-9,chinese,"""China Releases First Global Security Initiative Progress Report""",neutral,0.7147274613380432,1,5,0,5
+0,chinese,The Central Committee of the Communist Party of China will hold a press conference on the morning of the 19th to introduce and interpret the spirit of the Third Plenary Session of the 20th Central Committee.,neutral,0.8240073323249817,1,4,1,5
+1,chinese,"""British Economist Ross Y: ""China's Development has Unprecedentedly Improved People's Lives""""",positive,0.7297577261924744,3,4,1,5
+2,chinese,"""Understanding the Key Focus of the New Round of Reform Strategy from the Third Plenum Communique""",neutral,0.7830736637115479,1,4,1,5
+3,chinese,"""Prime Minister States that Israeli Military Pressure in Rafah Contributes to Ceasefire Agreement""",neutral,0.4847830832004547,1,4,1,5
+4,chinese,"""European Central Bank Announces Maintaining Unchanged Three Key Interest Rates in the Eurozone""",neutral,0.7743237614631653,1,4,1,5
+5,chinese,Ministry of Foreign Affairs: Strongly Opposes Vietnam's Unilateral Submission of South China Sea Continental Shelf Delimitation Case,negative,0.7836772799491882,-2,4,1,5
+6,chinese,"""French Experts: Deepening Reforms is the Key to Advancing China's Modernization""",positive,0.5574701428413391,2,4,1,5
+7,chinese,"""Australian Scholar: Breaking the Game of ""Hegemonic Relay"", China Empowers Decentralization of the World Economy""",positive,0.6907076835632324,2,4,1,5
+8,chinese,"""Water Resources Department Scientifically Manages Yangtze River Reservoirs to Control Floods""",neutral,0.6477102637290955,1,4,1,5
+9,chinese,"""Promoting the Construction of a More Just and Reasonable International Order""",positive,0.47104761004447937,2,4,1,5
