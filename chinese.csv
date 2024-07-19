@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Special Topic: Introduction and Interpretation of the Spirit of the Third Plenary Session of the 20th Communist Party of China,neutral,0.8869066834449768,1,5,1,4
-1,chinese,"""Understanding the Key Focus of the New Round of Reform Strategy from the Third Plenum Communique""",neutral,0.7830736637115479,1,5,1,4
-2,chinese,"""Authoritative Interpretation of the Third Plenum, This Press Conference Contains a Wealth of Information!""",positive,0.5227599143981934,2,5,1,4
-3,chinese,"""Dialogue and Reasoning | India Eases Visa Restrictions for China, Beneficial for Improving Bilateral Relations""",positive,0.5202739238739014,2,5,1,4
-4,chinese,"""General Secretary of the Vietnamese Communist Party, Nguyen Phu Trong, Passes Away""",neutral,0.6215088367462158,1,5,1,4
-5,chinese,"""State Administration of Foreign Exchange: China's Cross-border Capital Flows Remain Reasonable and Orderly in the First Half of the Year""",neutral,0.5450518131256104,1,5,1,4
-6,chinese,"""Full Month Since the Implementation of ""Eight Measures for the Science and Technology Innovation Board"", All Parties in the Market Come Together to Witness the True Results""",positive,0.5040464997291565,2,5,1,4
-7,chinese,"""Philippines Embedded in US ""Chess Game"", Future Asia-Pacific Security Faces Triple Risks""",negative,0.5347266793251038,-1,5,1,4
-8,chinese,"""Deepening the ""Four Categories"" Reform: Ensuring Every Child Has Access to Fair and Quality Education""",positive,0.5133089423179626,2,5,1,4
-9,chinese,"""National Urban Renewal Project Achieves Cumulative Investment of 2.6 Trillion Yuan""",positive,0.6506171226501465,2,5,1,4
+0,chinese,Special Topic: Introduction and Interpretation of the Spirit of the Third Plenary Session of the 20th CPC Central Committee,neutral,0.8900222182273865,1,3,1,6
+1,chinese,"""Understanding the Key Focus of the New Round of Reform Strategy from the Third Plenum Communique""",neutral,0.7830736637115479,1,3,1,6
+2,chinese,"""Authoritative Interpretation of the Third Plenary Session, This Press Conference Contains a Wealth of Information!""",positive,0.6265095472335815,2,3,1,6
+3,chinese,"""Summer ""Hot"" Consumption | From South to North, Night Walk Launches a New Cooling Mode for Summer Travel""",neutral,0.606654703617096,1,3,1,6
+4,chinese,"""Ministry of Foreign Affairs: Open China is an Important Engine for Global Development and Prosperity""",positive,0.7028384208679199,3,3,1,6
+5,chinese,"""Dialogue and Justice | India Eases Visa Restrictions for China, Beneficial for Improving Bilateral Relations""",positive,0.4739593267440796,2,3,1,6
+6,chinese,"""General Secretary of the Communist Party of Vietnam, Nguyen Phu Trong, Passes Away""",neutral,0.6976358294487,1,3,1,6
+7,chinese,"""State Administration of Foreign Exchange: China's Cross-border Capital Flow Remains Reasonable and Orderly in the First Half of the Year""",neutral,0.5012812614440918,1,3,1,6
+8,chinese,"""Full Month Since the Implementation of ""Eight Measures for the Science and Technology Innovation Board"", All Parties in the Market Come Together to See the Real Results""",neutral,0.5804606080055237,1,3,1,6
+9,chinese,"""Philippines Embedded in US ""Chess Game"", Future Asia-Pacific Security Faces Triple Risks""",negative,0.5347266793251038,-1,3,1,6
