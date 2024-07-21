@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Beware of Heat Stroke, These Knowledge Need to be Understood""",negative,0.5882458686828613,-1,1,4,5
-1,chinese,"""Admission Letters Are Being Delivered, Don't Let These Scams Take Advantage""",negative,0.6513264775276184,-1,1,4,5
-2,chinese,"""In the first half of the year, digital goods and services consumption, as well as trading in old for new, become new growth points in our country.""",neutral,0.4910290241241455,1,1,4,5
-3,chinese,"""World Internet of Things Top 500 Summit Held in Beijing, Over 150 Chinese Companies Enter Top 500 Ranking""",neutral,0.7328839898109436,1,1,4,5
-4,chinese,"""Two departments urgently allocate 260 million yuan in central natural disaster relief funds""",neutral,0.4875866174697876,1,1,4,5
-5,chinese,"""National Energy Administration: As of the end of June, the cumulative installed capacity of power generation in the country is about 3.07 billion kilowatts.""",neutral,0.7569186687469482,1,1,4,5
-6,chinese,"""More than 30 people missing after flash flood in Hanyuan, Sichuan, China""",negative,0.7190232872962952,-2,1,4,5
-7,chinese,"""Beijing to Issue 20,000 Additional New Energy Vehicle Quotas Targeting Carless Households""",neutral,0.7934861183166504,1,1,4,5
-8,chinese,"""Death toll from collapsed bridge on Shaanxi Zhashui Expressway rises to 12, with 31 people missing""",negative,0.8190696239471436,-2,1,4,5
-9,chinese,"""Industrial Sector Equipment Has Great Potential for Upgrades""",positive,0.7879878282546997,3,1,4,5
+0,chinese,"""First Experience of Thai-Laos Railway | Direct Train from Bangkok to Vientiane Launches, Can Take Train from Kunming to Bangkok""",neutral,0.6087325811386108,1,0,5,5
+1,chinese,"""Vietnam to Hold State Funeral for Late General Secretary of the Communist Party of Vietnam, Nguyen Phu Trong""",neutral,0.7701484560966492,1,0,5,5
+2,chinese,"""National Health Commission: Zero Tolerance for Attacks on Medical Staff""",negative,0.769021213054657,-2,0,5,5
+3,chinese,"""8 Bodies of Victims Found in Sichuan Ya'an Hanyuan County Mountain Flood Disaster""",negative,0.7440441250801086,-2,0,5,5
+4,chinese,"""Large-scale system crash sounds alarm for global information technology security""",negative,0.8677007555961609,-2,0,5,5
+5,chinese,"""Paris Olympics | 263 Gold Medals! Complete Collection of Medal Data for Chinese Sports Delegation at the Summer Olympics""",neutral,0.5605338215827942,1,0,5,5
+6,chinese,"""Beware of Heatstroke, These Knowledge Need to be Understood""",negative,0.5860247015953064,-1,0,5,5
+7,chinese,"""Admission Notices Delivered, Don't Let These Scams Take Advantage of the Opportunity""",negative,0.6567904949188232,-1,0,5,5
+8,chinese,"""In the first half of the year, digital goods and services consumption, as well as trading in old for new, become new growth points in our country.""",neutral,0.4910290241241455,1,0,5,5
+9,chinese,"""World Internet of Things Top 500 Summit Held in Beijing, Over 150 Chinese Companies Enter the Top 500 Ranking""",neutral,0.6326229572296143,1,0,5,5
