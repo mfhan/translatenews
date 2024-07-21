@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""First Experience of Thai-Laos Railway | Direct Train from Bangkok to Vientiane Launches, Can Take Train from Kunming to Bangkok""",neutral,0.6087325811386108,1,0,5,5
-1,chinese,"""Vietnam to Hold State Funeral for Late General Secretary of the Communist Party of Vietnam, Nguyen Phu Trong""",neutral,0.7701484560966492,1,0,5,5
-2,chinese,"""National Health Commission: Zero Tolerance for Attacks on Medical Staff""",negative,0.769021213054657,-2,0,5,5
-3,chinese,"""8 Bodies of Victims Found in Sichuan Ya'an Hanyuan County Mountain Flood Disaster""",negative,0.7440441250801086,-2,0,5,5
-4,chinese,"""Large-scale system crash sounds alarm for global information technology security""",negative,0.8677007555961609,-2,0,5,5
-5,chinese,"""Paris Olympics | 263 Gold Medals! Complete Collection of Medal Data for Chinese Sports Delegation at the Summer Olympics""",neutral,0.5605338215827942,1,0,5,5
-6,chinese,"""Beware of Heatstroke, These Knowledge Need to be Understood""",negative,0.5860247015953064,-1,0,5,5
-7,chinese,"""Admission Notices Delivered, Don't Let These Scams Take Advantage of the Opportunity""",negative,0.6567904949188232,-1,0,5,5
-8,chinese,"""In the first half of the year, digital goods and services consumption, as well as trading in old for new, become new growth points in our country.""",neutral,0.4910290241241455,1,0,5,5
-9,chinese,"""World Internet of Things Top 500 Summit Held in Beijing, Over 150 Chinese Companies Enter the Top 500 Ranking""",neutral,0.6326229572296143,1,0,5,5
+0,chinese,"""Shijingshan Amusement Park's ""Summer Carnival"" Seasonal Event Begins""",neutral,0.653057873249054,1,0,5,5
+1,chinese,"""First Experience of the Thai-Lao Railway | Direct Train from Bangkok to Vientiane Launched, Can Take Train from Kunming to Bangkok""",neutral,0.5610969662666321,1,0,5,5
+2,chinese,"""Vietnam to Hold State Funeral for Late General Secretary of the Communist Party of Vietnam, Nguyen Phu Trong""",neutral,0.7701484560966492,1,0,5,5
+3,chinese,"""National Health Commission: Zero Tolerance for Medical Staff Injuries""",negative,0.6912269592285156,-1,0,5,5
+4,chinese,"""8 Bodies of Victims Found in Sichuan Ya'an Hanyuan County Mountain Flood Disaster""",negative,0.7440441250801086,-2,0,5,5
+5,chinese,"""Large-scale System Crash Rings Alarm Bell for Global Information Technology Security""",negative,0.6103834509849548,-1,0,5,5
+6,chinese,"""Paris Olympics | 263 Gold Medals! Complete Collection of Medal Data for Chinese Sports Delegation at the Summer Olympics""",neutral,0.5605338215827942,1,0,5,5
+7,chinese,"""Prevent Heat Stroke, These Knowledge Need to be Understood""",negative,0.5853790640830994,-1,0,5,5
+8,chinese,"""Admission Notice Delivered, Don't Let These Scams Take Advantage""",negative,0.7124724388122559,-2,0,5,5
+9,chinese,"""In the first half of the year, digital goods, service consumption, and trade-in programs became new growth points in China.""",neutral,0.5052238702774048,1,0,5,5
