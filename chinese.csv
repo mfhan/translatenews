@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""First Experience of the Thai-Laos Railway: Direct Train from Bangkok to Vientiane Launched, Can Take Train from Kunming to Bangkok""",neutral,0.5644059181213379,1,6,1,3
-1,chinese,"Typhoon Yellow Alert: ""Pabian"" Strength Gradually Increases, Maximum Wind Force of 10-11 Near the Center at Landfall",neutral,0.6418929696083069,1,6,1,3
-2,chinese,"""Russian Defense Ministry Claims to Have Prevented Two US Strategic Bombers from Violating Russian Airspace""",negative,0.6474927663803101,-1,6,1,3
-3,chinese,"""Cultural Journey to China | Ethiopian Poet Considers Laozi as a Great Poet""",positive,0.765588104724884,3,6,1,3
-4,chinese,"""Visa-free entry ignites the craze for ""China trip"" - ""city"" offers foreign tourists a fresh and immersive experience""",positive,0.7077968120574951,3,6,1,3
-5,chinese,"""Telling future generations the historical facts is an important step in reflecting on war""",neutral,0.5035691857337952,1,6,1,3
-6,chinese,"""Following the New Trend of Green and Low-Carbon Development, China's Various Industries are ""Going Green"" and Seizing New Opportunities""",positive,0.7047103643417358,3,6,1,3
-7,chinese,"""Multiple foreign media focus on the 3rd Plenum of the 20th CPC Central Committee: China remains committed to reform and opening up, boosting international confidence""",positive,0.7108178734779358,3,6,1,3
-8,chinese,Overview | China's Trade Policies Receive Recognition from the World Trade Organization,positive,0.5034366846084595,2,6,1,3
-9,chinese,"""Tourism Market is Booming, Stimulating New Vitality in Consumer Market""",positive,0.7772843241691589,3,6,1,3
+0,chinese,"""Insight into China | Dean of Peking University Guanghua School of Management Comments on the Significance of the Third Plenum: Chinese Economy Expected to Maintain 5% Growth in the Next 5 Years""",neutral,0.49282678961753845,1,4,3,3
+1,chinese,"""Software Update Causes Microsoft Windows System Crash, Affecting 8.5 Million Devices""",negative,0.7831597328186035,-2,4,3,3
+2,chinese,"""Flood Season Brings Frequent Geological Disasters, Share and Save These Evacuation Tips""",negative,0.6554079055786133,-1,4,3,3
+3,chinese,"Typhoon Yellow Warning: ""Pabian"" Strength Gradually Increases, Maximum Wind Force of 10-11 Near the Center Upon Landing",neutral,0.5540732741355896,1,4,3,3
+4,chinese,Russian Defense Ministry Claims to Have Prevented Two US Strategic Bombers from Violating Russian Airspace,negative,0.6644173860549927,-1,4,3,3
+5,chinese,"""Cultural Journey to China | Ethiopian Poet Believes Laozi to be a Great Poet""",positive,0.7472657561302185,3,4,3,3
+6,chinese,"""Visa-free entry ignites the craze for ""China trip"" - ""city"" offers foreign tourists a new and exciting experience""",positive,0.7273657917976379,3,4,3,3
+7,chinese,"""Telling future generations the historical facts is an important step in reflecting on war""",neutral,0.5035691857337952,1,4,3,3
+8,chinese,"""Following the New Trend of Green and Low-Carbon Development, Multiple Industries in China are Embracing Green Initiatives to Seize New Opportunities""",positive,0.7697029113769531,3,4,3,3
+9,chinese,"""Multiple Foreign Media Focus on the 3rd Plenary Session of the 20th CPC Central Committee: China Remains Committed to Reform and Opening Up, Boosting International Confidence""",positive,0.6069384217262268,2,4,3,3
