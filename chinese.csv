@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Insight into China | Dean of Peking University Guanghua School of Management Comments on the Significance of the Third Plenum: Chinese Economy Expected to Maintain 5% Growth in the Next 5 Years""",neutral,0.49282678961753845,1,4,3,3
-1,chinese,"""Software Update Causes Microsoft Windows System Crash, Affecting 8.5 Million Devices""",negative,0.7831597328186035,-2,4,3,3
-2,chinese,"""Flood Season Brings Frequent Geological Disasters, Share and Save These Evacuation Tips""",negative,0.6554079055786133,-1,4,3,3
-3,chinese,"Typhoon Yellow Warning: ""Pabian"" Strength Gradually Increases, Maximum Wind Force of 10-11 Near the Center Upon Landing",neutral,0.5540732741355896,1,4,3,3
-4,chinese,Russian Defense Ministry Claims to Have Prevented Two US Strategic Bombers from Violating Russian Airspace,negative,0.6644173860549927,-1,4,3,3
-5,chinese,"""Cultural Journey to China | Ethiopian Poet Believes Laozi to be a Great Poet""",positive,0.7472657561302185,3,4,3,3
-6,chinese,"""Visa-free entry ignites the craze for ""China trip"" - ""city"" offers foreign tourists a new and exciting experience""",positive,0.7273657917976379,3,4,3,3
-7,chinese,"""Telling future generations the historical facts is an important step in reflecting on war""",neutral,0.5035691857337952,1,4,3,3
-8,chinese,"""Following the New Trend of Green and Low-Carbon Development, Multiple Industries in China are Embracing Green Initiatives to Seize New Opportunities""",positive,0.7697029113769531,3,4,3,3
-9,chinese,"""Multiple Foreign Media Focus on the 3rd Plenary Session of the 20th CPC Central Committee: China Remains Committed to Reform and Opening Up, Boosting International Confidence""",positive,0.6069384217262268,2,4,3,3
+0,chinese,"""Biden Announces Withdrawal from Reelection Campaign and Endorses Nomination of Harris""",negative,0.46693578362464905,-1,1,5,4
+1,chinese,"""10 People Dead in Sichuan Ya'an Hanyuan County Mountain Flood and Debris Flow Disaster""",negative,0.8155414462089539,-2,1,5,4
+2,chinese,"""Scorching Sun, How to Help Outdoor Workers Safely Endure the ""Roasting Test""?""",neutral,0.674988329410553,1,1,5,4
+3,chinese,"""Hainan Refreshes Holiday Tourism ""Report Card"" - From Seasonal Fluctuations to Year-round Prosperity""",neutral,0.5298503041267395,1,1,5,4
+4,chinese,"""Microsoft Outage Affects 8.5 Million Windows System Devices""",negative,0.6952587366104126,-1,1,5,4
+5,chinese,"""Providing Strong Momentum and Institutional Support for Chinese-style Modernization""",positive,0.6392731666564941,2,1,5,4
+6,chinese,"""Software Update Causes Microsoft Windows System Crash, Affecting 8.5 Million Devices""",negative,0.7831597328186035,-2,1,5,4
+7,chinese,"""Insight China | Dean of Peking University Guanghua School of Management Comments on the Significance of the Third Plenum: Chinese Economy Expected to Maintain 5% Growth in the Next 5 Years""",neutral,0.48513108491897583,1,1,5,4
+8,chinese,"""Flood Season Brings Frequent Geological Disasters, Share and Save These Evacuation Tips""",negative,0.6554079055786133,-1,1,5,4
+9,chinese,"Typhoon Yellow Alert: ""Pabian"" Strength Gradually Increases, Maximum Wind Force of 10-11 Near the Center at Landfall",neutral,0.6418929696083069,1,1,5,4
