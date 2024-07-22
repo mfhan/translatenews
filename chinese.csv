@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Foreign Experts: The Third Plenum of the 20th Central Committee has Milestone Significance, Promoting Reform and Opening Up to a New Level""",positive,0.7291603684425354,3,3,3,4
-1,chinese,"""State Council Tariff Commission Announces 15th List of Exclusions and Extensions for Goods Subject to Tariffs on the US and Canada""",neutral,0.8184050917625427,1,3,3,4
-2,chinese,"""Shanghai Local Agricultural Products Make Their Way onto Disney Dining Tables""",neutral,0.651924729347229,1,3,3,4
-3,chinese,"""National Health Commission: Major Heatwave Season Arrives, Take Measures to Prevent Heatstroke and Stay Healthy""",neutral,0.541519045829773,1,3,3,4
-4,chinese,"""Ministry of Foreign Affairs: International Court's Determination of Israel's Illegal Occupation of Palestinian Territory is a Significant Milestone""",negative,0.5521541237831116,-1,3,3,4
-5,chinese,"""Ministry of Foreign Affairs Releases ""China's Working Document on the Initiative of No First Use of Nuclear Weapons""""",neutral,0.7967612743377686,1,3,3,4
-6,chinese,"""Zhou Zhilin Passes Away, Only 32 Survivors of the Nanjing Massacre Remain""",negative,0.6525868773460388,-1,3,3,4
-7,chinese,"""Temperatures over 35℃ in Multiple Areas of Japan, 80 People in Tokyo Hospitalized for Heatstroke in One Day""",negative,0.7429498434066772,-2,3,3,4
-8,chinese,"""Let more people see the real China! Foreign media focuses on ""China Travel"" and becomes a hit sensation""",positive,0.5131984949111938,2,3,3,4
-9,chinese,"""Justice and Reasoning | Holding High the Banner of Reform and Opening Up, China Marches Forward Courageously""",positive,0.7356796860694885,3,3,3,4
+0,chinese,"""Foreign Experts: The Third Plenum of the 20th Central Committee has Milestone Significance, Promoting Reform and Opening-up to a New Level""",positive,0.7175235748291016,3,2,3,5
+1,chinese,"""Taiwan Affairs Office: Lai Ching-te once again exposes true intentions of carrying out ""Taiwan independence"" separatist activities""",neutral,0.43948742747306824,1,2,3,5
+2,chinese,"""Multiple regions hit by high temperatures, how to better protect workers?""",negative,0.7388385534286499,-2,2,3,5
+3,chinese,"""State Council Tariff Commission Announces the Fifteenth List of Exclusions and Extensions for Goods Subject to Additional Tariffs on the US and Canada""",neutral,0.8173365592956543,1,2,3,5
+4,chinese,"""Shanghai Local Agricultural Products Make Their Way onto Disney Dining Tables""",neutral,0.651924729347229,1,2,3,5
+5,chinese,"""National Health Commission: Take Measures to Prevent Heatstroke and Protect Health During the Peak of Summer""",neutral,0.5637010335922241,1,2,3,5
+6,chinese,"""Ministry of Foreign Affairs: International Court's Ruling on Israel's Illegal Occupation of Palestinian Territories is a Significant Milestone""",negative,0.39969712495803833,-1,2,3,5
+7,chinese,"""Ministry of Foreign Affairs Releases ""Chinese Working Document on No First Use of Nuclear Weapons Initiative""""",neutral,0.7688530683517456,1,2,3,5
+8,chinese,"""French Experts: The Third Plenum of the 20th CPC Central Committee Promotes Further Development of Reform and Opening Up""",positive,0.584209144115448,2,2,3,5
+9,chinese,"""Zhou Zhilin Passes Away, Only 32 Survivors of the Nanjing Massacre Remain""",negative,0.6525868773460388,-1,2,3,5
