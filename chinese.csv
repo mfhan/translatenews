@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Biden Announces Withdrawal from Reelection Campaign and Endorses Nomination of Harris""",negative,0.46693578362464905,-1,1,5,4
-1,chinese,"""10 People Dead in Sichuan Ya'an Hanyuan County Mountain Flood and Debris Flow Disaster""",negative,0.8155414462089539,-2,1,5,4
-2,chinese,"""Scorching Sun, How to Help Outdoor Workers Safely Endure the ""Roasting Test""?""",neutral,0.674988329410553,1,1,5,4
-3,chinese,"""Hainan Refreshes Holiday Tourism ""Report Card"" - From Seasonal Fluctuations to Year-round Prosperity""",neutral,0.5298503041267395,1,1,5,4
-4,chinese,"""Microsoft Outage Affects 8.5 Million Windows System Devices""",negative,0.6952587366104126,-1,1,5,4
-5,chinese,"""Providing Strong Momentum and Institutional Support for Chinese-style Modernization""",positive,0.6392731666564941,2,1,5,4
-6,chinese,"""Software Update Causes Microsoft Windows System Crash, Affecting 8.5 Million Devices""",negative,0.7831597328186035,-2,1,5,4
-7,chinese,"""Insight China | Dean of Peking University Guanghua School of Management Comments on the Significance of the Third Plenum: Chinese Economy Expected to Maintain 5% Growth in the Next 5 Years""",neutral,0.48513108491897583,1,1,5,4
-8,chinese,"""Flood Season Brings Frequent Geological Disasters, Share and Save These Evacuation Tips""",negative,0.6554079055786133,-1,1,5,4
-9,chinese,"Typhoon Yellow Alert: ""Pabian"" Strength Gradually Increases, Maximum Wind Force of 10-11 Near the Center at Landfall",neutral,0.6418929696083069,1,1,5,4
+0,chinese,"""Biden Announces Withdrawal from Reelection Campaign and Endorsement of Harris Nomination""",neutral,0.4856308102607727,1,1,4,5
+1,chinese,"""Guizhou discovers Sumatran rhinoceros fossil""",neutral,0.5894930958747864,1,1,4,5
+2,chinese,"""[Video] Ma Kai Shuo's In-Depth Analysis: Containing and Isolating China? The US Has Made a Big Mistake!""",negative,0.7139225006103516,-2,1,4,5
+3,chinese,"""10 People Dead in Sichuan Ya'an Hanyuan County Mountain Flood and Debris Flow Disaster""",negative,0.8155414462089539,-2,1,4,5
+4,chinese,"""Scorching Sun, How to Help Outdoor Workers Safely Endure the ""Baking Test""?""",neutral,0.6970048546791077,1,1,4,5
+5,chinese,"""Hainan Refreshes Holiday Tourism ""Report Card"" - From Contrasting Seasons to Year-Round Prosperity""",neutral,0.4745366871356964,1,1,4,5
+6,chinese,"""Providing Strong Impetus and Institutional Support for Chinese-Style Modernization""",positive,0.5359933972358704,2,1,4,5
+7,chinese,"""Software Update Causes Microsoft Windows System Crash, Affecting 8.5 Million Devices""",negative,0.7831597328186035,-2,1,4,5
+8,chinese,"""Insight China | Dean of Peking University Guanghua School of Management Comments on the Significance of the Third Plenum: China's Economy Expected to Maintain 5% Growth in the Next 5 Years""",neutral,0.4963947832584381,1,1,4,5
+9,chinese,"""Flood Season Brings Frequent Geological Disasters, Share and Save These Evacuation Tips""",negative,0.6554079055786133,-1,1,4,5
