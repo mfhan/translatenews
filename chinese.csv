@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Foreign Experts: The Third Plenum of the 20th Central Committee has Milestone Significance, Promoting Reform and Opening-up to a New Level""",positive,0.7175235748291016,3,2,3,5
-1,chinese,"""Taiwan Affairs Office: Lai Ching-te once again exposes true intentions of carrying out ""Taiwan independence"" separatist activities""",neutral,0.43948742747306824,1,2,3,5
-2,chinese,"""Multiple regions hit by high temperatures, how to better protect workers?""",negative,0.7388385534286499,-2,2,3,5
-3,chinese,"""State Council Tariff Commission Announces the Fifteenth List of Exclusions and Extensions for Goods Subject to Additional Tariffs on the US and Canada""",neutral,0.8173365592956543,1,2,3,5
-4,chinese,"""Shanghai Local Agricultural Products Make Their Way onto Disney Dining Tables""",neutral,0.651924729347229,1,2,3,5
-5,chinese,"""National Health Commission: Take Measures to Prevent Heatstroke and Protect Health During the Peak of Summer""",neutral,0.5637010335922241,1,2,3,5
-6,chinese,"""Ministry of Foreign Affairs: International Court's Ruling on Israel's Illegal Occupation of Palestinian Territories is a Significant Milestone""",negative,0.39969712495803833,-1,2,3,5
-7,chinese,"""Ministry of Foreign Affairs Releases ""Chinese Working Document on No First Use of Nuclear Weapons Initiative""""",neutral,0.7688530683517456,1,2,3,5
-8,chinese,"""French Experts: The Third Plenum of the 20th CPC Central Committee Promotes Further Development of Reform and Opening Up""",positive,0.584209144115448,2,2,3,5
-9,chinese,"""Zhou Zhilin Passes Away, Only 32 Survivors of the Nanjing Massacre Remain""",negative,0.6525868773460388,-1,2,3,5
+0,chinese,"""Foreign Experts: The Third Plenary Session of the 20th Central Committee has Milestone Significance, Promoting Reform and Opening Up to a New Level""",positive,0.7863169312477112,3,1,2,7
+1,chinese,"""Five Departments Issue Notice on Strengthening Disaster Prevention, Mitigation, and Relief Work for Cultural Heritage during Flood Season""",neutral,0.6306506991386414,1,1,2,7
+2,chinese,"""Beijing Olympics | The 33rd Olympic Chinese Sports Delegation Arrives in Paris""",neutral,0.8639047145843506,1,1,2,7
+3,chinese,"""Total National Education Budget for 2023 Reaches 6.4595 Trillion Yuan""",neutral,0.7298904061317444,1,1,2,7
+4,chinese,"""Exploring the College Entrance Examination Admission Scene: How Does a Piece of Admission Result ""Born""""",neutral,0.8550587892532349,1,1,2,7
+5,chinese,"""Macron Calls for Global Ceasefire During Olympic Games""",negative,0.6931405663490295,-1,1,2,7
+6,chinese,"""State Council Taiwan Affairs Office: Lai Ching-te once again exposes true intentions of implementing ""Taiwan independence"" separatist activities""",neutral,0.4751852750778198,1,1,2,7
+7,chinese,"""Multiple Regions Hit by High Temperatures, How to Better Protect Workers?""",negative,0.6354644894599915,-1,1,2,7
+8,chinese,"""State Council Tariff Commission Announces 15th Round of Exclusion Extension List for Goods Subject to Additional Tariffs on the US and Canada""",neutral,0.81982421875,1,1,2,7
+9,chinese,"""Shanghai Local Agricultural Products Enter Disney Dining Table""",neutral,0.878775954246521,1,1,2,7
