@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Palestinian Factions Sign 'Beijing Declaration' on Ending Division""",neutral,0.7786843776702881,1,4,0,6
-1,chinese,"""【Overseas Perspective】Uruguayan National Sports Bureau Official: ""We are Super Fans of the Chinese Team, Cheering for Chinese Olympic Athletes!""",positive,0.8294318318367004,3,4,0,6
-2,chinese,"""Cultural Tour of China | American Singer Mika: China's Beautiful Mountains, Waters, and Scenery, Plus Her Favorite Mahjong Game""",positive,0.6219475269317627,2,4,0,6
-3,chinese,"""Is the Era of Flying Transportation Really Coming?""",neutral,0.7841615080833435,1,4,0,6
-4,chinese,"""Heat Rises: China Has Become the World's Second Largest Cruise Market""",positive,0.5137413740158081,2,4,0,6
-5,chinese,"""Partial Causes of Changes in the Shape of Jupiter's Great Red Spot Revealed""",neutral,0.8135637044906616,1,4,0,6
-6,chinese,"""Chasing the Light | How Will the New Olympic Events Ignite the Dreams of Chinese Youth?""",neutral,0.6668577790260315,1,4,0,6
-7,chinese,"""Expansion of Shanghai-Hong Kong Stock Connect ETFs Boosts Activity in Hong Kong Financial Market""",positive,0.6153315305709839,2,4,0,6
-8,chinese,"""Five Departments Issue Notice on Strengthening Disaster Prevention, Mitigation, and Relief Work for Cultural Heritage during Flood Season""",neutral,0.6306506991386414,1,4,0,6
-9,chinese,"""Beijing Olympics | 33rd Olympic Games Chinese Sports Delegation Arrives in Paris""",neutral,0.8561752438545227,1,4,0,6
+0,chinese,"""China Focus: Overseas Experts Discuss the 3rd Plenary Session of the 20th CPC Central Committee on Improving People's Quality of Life""",neutral,0.7171635627746582,1,6,0,4
+1,chinese,"""AG600 Receives Approval for First Model Inspection Certificate""",neutral,0.7750938534736633,1,6,0,4
+2,chinese,"""Ministry of Foreign Affairs: US Military Sales to Taiwan is Profiting from the Hard-Earned Money of Taiwanese People""",neutral,0.5339952707290649,1,6,0,4
+3,chinese,"""Wholesale and Retail Market in China Shows Overall Improvement in the First Half of the Year""",positive,0.6417399048805237,2,6,0,4
+4,chinese,Ministry of Foreign Affairs: Beijing Declaration Brings Valuable Hope to the Palestinian People,positive,0.8282937407493591,3,6,0,4
+5,chinese,Han Dongxun Elected as the New Chairman of South Korea's Ruling Party,neutral,0.7035361528396606,1,6,0,4
+6,chinese,"""Pakistani Enterprises Look Forward to Collaborating on Development Opportunities at the South Expo""",positive,0.685815155506134,2,6,0,4
+7,chinese,Brazilian President Lula: China is crucial for Brazil's economic growth,positive,0.5776118040084839,2,6,0,4
+8,chinese,"""Strengthening Innovation Leadership to Promote High-Quality Development""",positive,0.7516629099845886,3,6,0,4
+9,chinese,"""Dutch Legal Expert: China's Improvement of Income Distribution System Promotes Social Harmony""",positive,0.5902064442634583,2,6,0,4
