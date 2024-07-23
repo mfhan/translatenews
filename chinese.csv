@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Foreign Experts: The Third Plenary Session of the 20th Central Committee has Milestone Significance, Promoting Reform and Opening Up to a New Level""",positive,0.7863169312477112,3,1,2,7
-1,chinese,"""Five Departments Issue Notice on Strengthening Disaster Prevention, Mitigation, and Relief Work for Cultural Heritage during Flood Season""",neutral,0.6306506991386414,1,1,2,7
-2,chinese,"""Beijing Olympics | The 33rd Olympic Chinese Sports Delegation Arrives in Paris""",neutral,0.8639047145843506,1,1,2,7
-3,chinese,"""Total National Education Budget for 2023 Reaches 6.4595 Trillion Yuan""",neutral,0.7298904061317444,1,1,2,7
-4,chinese,"""Exploring the College Entrance Examination Admission Scene: How Does a Piece of Admission Result ""Born""""",neutral,0.8550587892532349,1,1,2,7
-5,chinese,"""Macron Calls for Global Ceasefire During Olympic Games""",negative,0.6931405663490295,-1,1,2,7
-6,chinese,"""State Council Taiwan Affairs Office: Lai Ching-te once again exposes true intentions of implementing ""Taiwan independence"" separatist activities""",neutral,0.4751852750778198,1,1,2,7
-7,chinese,"""Multiple Regions Hit by High Temperatures, How to Better Protect Workers?""",negative,0.6354644894599915,-1,1,2,7
-8,chinese,"""State Council Tariff Commission Announces 15th Round of Exclusion Extension List for Goods Subject to Additional Tariffs on the US and Canada""",neutral,0.81982421875,1,1,2,7
-9,chinese,"""Shanghai Local Agricultural Products Enter Disney Dining Table""",neutral,0.878775954246521,1,1,2,7
+0,chinese,"""Palestinian Factions Sign 'Beijing Declaration' on Ending Division""",neutral,0.7786843776702881,1,4,0,6
+1,chinese,"""【Overseas Perspective】Uruguayan National Sports Bureau Official: ""We are Super Fans of the Chinese Team, Cheering for Chinese Olympic Athletes!""",positive,0.8294318318367004,3,4,0,6
+2,chinese,"""Cultural Tour of China | American Singer Mika: China's Beautiful Mountains, Waters, and Scenery, Plus Her Favorite Mahjong Game""",positive,0.6219475269317627,2,4,0,6
+3,chinese,"""Is the Era of Flying Transportation Really Coming?""",neutral,0.7841615080833435,1,4,0,6
+4,chinese,"""Heat Rises: China Has Become the World's Second Largest Cruise Market""",positive,0.5137413740158081,2,4,0,6
+5,chinese,"""Partial Causes of Changes in the Shape of Jupiter's Great Red Spot Revealed""",neutral,0.8135637044906616,1,4,0,6
+6,chinese,"""Chasing the Light | How Will the New Olympic Events Ignite the Dreams of Chinese Youth?""",neutral,0.6668577790260315,1,4,0,6
+7,chinese,"""Expansion of Shanghai-Hong Kong Stock Connect ETFs Boosts Activity in Hong Kong Financial Market""",positive,0.6153315305709839,2,4,0,6
+8,chinese,"""Five Departments Issue Notice on Strengthening Disaster Prevention, Mitigation, and Relief Work for Cultural Heritage during Flood Season""",neutral,0.6306506991386414,1,4,0,6
+9,chinese,"""Beijing Olympics | 33rd Olympic Games Chinese Sports Delegation Arrives in Paris""",neutral,0.8561752438545227,1,4,0,6
