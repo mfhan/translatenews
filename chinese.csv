@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Focus: Overseas Experts Discuss the 3rd Plenary Session of the 20th CPC Central Committee on Improving People's Quality of Life""",neutral,0.7171635627746582,1,6,0,4
-1,chinese,"""AG600 Receives Approval for First Model Inspection Certificate""",neutral,0.7750938534736633,1,6,0,4
-2,chinese,"""Ministry of Foreign Affairs: US Military Sales to Taiwan is Profiting from the Hard-Earned Money of Taiwanese People""",neutral,0.5339952707290649,1,6,0,4
-3,chinese,"""Wholesale and Retail Market in China Shows Overall Improvement in the First Half of the Year""",positive,0.6417399048805237,2,6,0,4
-4,chinese,Ministry of Foreign Affairs: Beijing Declaration Brings Valuable Hope to the Palestinian People,positive,0.8282937407493591,3,6,0,4
-5,chinese,Han Dongxun Elected as the New Chairman of South Korea's Ruling Party,neutral,0.7035361528396606,1,6,0,4
-6,chinese,"""Pakistani Enterprises Look Forward to Collaborating on Development Opportunities at the South Expo""",positive,0.685815155506134,2,6,0,4
-7,chinese,Brazilian President Lula: China is crucial for Brazil's economic growth,positive,0.5776118040084839,2,6,0,4
-8,chinese,"""Strengthening Innovation Leadership to Promote High-Quality Development""",positive,0.7516629099845886,3,6,0,4
-9,chinese,"""Dutch Legal Expert: China's Improvement of Income Distribution System Promotes Social Harmony""",positive,0.5902064442634583,2,6,0,4
+0,chinese,"""China Focus: Overseas Experts Discuss the 3rd Plenary Session of the 20th CPC Central Committee on Improving People's Quality of Life""",neutral,0.7171635627746582,1,4,2,4
+1,chinese,"""Director of US Secret Service Resigns Due to Agency's Failure to Prevent Trump Assassination Attempt""",negative,0.8344321250915527,-2,4,2,4
+2,chinese,"""Efficient Customs Clearance Measures Show Results, Increase in Foreign Personnel Exchange""",neutral,0.7245832681655884,1,4,2,4
+3,chinese,"""AG600 Receives First Model Inspection Approval Certificate""",neutral,0.7252053022384644,1,4,2,4
+4,chinese,"""Ministry of Foreign Affairs: The US is profiting from the blood and sweat of the Taiwanese people through arms sales to Taiwan""",negative,0.6606293320655823,-1,4,2,4
+5,chinese,"""Wholesale and Retail Market in China Shows Overall Improvement in First Half of the Year""",positive,0.6362025141716003,2,4,2,4
+6,chinese,"""Ministry of Foreign Affairs: Beijing Declaration Brings Valuable Hope to the Palestinian People""",positive,0.8172165751457214,3,4,2,4
+7,chinese,Han Dongxun Elected as New Chairman of South Korea's Ruling Party,neutral,0.6974879503250122,1,4,2,4
+8,chinese,"""Pakistani Companies Look Forward to Collaborating on Development Opportunities at the South Expo""",positive,0.6907586455345154,2,4,2,4
+9,chinese,"""Brazilian President Lula: China is crucial to Brazil's economic growth""",positive,0.5313665866851807,2,4,2,4
