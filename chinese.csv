@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Focus: Overseas Experts Discuss the 3rd Plenary Session of the 20th CPC Central Committee on Improving People's Quality of Life""",neutral,0.7171635627746582,1,2,1,7
-1,chinese,"""Chinese Scientists Discover Molecular Water for the First Time in Lunar Soil""",neutral,0.6375401020050049,1,2,1,7
-2,chinese,"""Night Tour of the Museum, Cooling Off and ""Recharging""""",neutral,0.7884132266044617,1,2,1,7
-3,chinese,"""Nearly 608,000 New Drones Registered in the First Half of the Year, Bringing Low-altitude Economy Closer to the People""",positive,0.7418550848960876,3,2,1,7
-4,chinese,"""First Discovery of Handicraft Workshops: A Comprehensive Interpretation of New Archaeological Evidence at Sanxingdui""",neutral,0.8359888195991516,1,2,1,7
-5,chinese,"""How to Strengthen Employment in the Next Step - Authoritative Department Responds to Current Employment Hotspots""",neutral,0.6492554545402527,1,2,1,7
-6,chinese,Ministry of Finance Issues 55 Billion Yuan 30-Year Ultra-Long-Term Special Government Bonds on the 24th,neutral,0.8520393967628479,1,2,1,7
-7,chinese,"""Director of US Secret Service Resigns Due to Agency's Failure to Prevent Trump Assassination Attempt""",negative,0.8344321250915527,-2,2,1,7
-8,chinese,"""Convenient Customs Measures Show Results, Increase in Foreign Personnel Exchange""",neutral,0.7685400247573853,1,2,1,7
-9,chinese,"""AG600 Obtains First Model Inspection Approval Certificate""",positive,0.4878814220428467,2,2,1,7
+0,chinese,"""[Overseas Perspective] Uruguayan Deputy Secretary of the Sports Bureau Belo: Chinese Women's Football Leaves a Deep Impression, Looking Forward to China's Various Olympic Projects Shining in Paris""",neutral,0.4793383479118347,1,3,2,5
+1,chinese,"""Plane carrying 19 people crashes in Nepal, 4 confirmed dead""",negative,0.7560083866119385,-2,3,2,5
+2,chinese,"""Cultural Journey in China | ""Mei Yi Jin Hui - Commemorating the 130th Anniversary of Mei Lanfang's Birth"" Exhibition Opens in Beijing""",neutral,0.6643556952476501,1,3,2,5
+3,chinese,"""Promoting High-Quality Economic Development through Financial and Tax System Reform | A Discussion on Fairness and Reasoning""",neutral,0.638864278793335,1,3,2,5
+4,chinese,"""Cambodian Ministry of Commerce Official: Nanning Expo is an Important Platform for Regional Economic and Trade Exchange""",positive,0.5973851084709167,2,3,2,5
+5,chinese,"""Steady Progress in Multiple Fields, Improving Quality and Efficiency: China's Economic Recovery is Supported""",positive,0.8606148958206177,3,3,2,5
+6,chinese,"""Seven Highlights of the Paris Olympics - What a Great City!""",positive,0.9457117319107056,3,3,2,5
+7,chinese,"""Hotter Than the Weather: Shanghai's Urban Nightlife Heats Up""",negative,0.5273613333702087,-1,3,2,5
+8,chinese,"""The first Esports Olympics will be held in Saudi Arabia in 2025""",neutral,0.8116056323051453,1,3,2,5
+9,chinese,"""Paris Olympics | FINA: Chinese Swimming Team Receives an Average of 21 Doping Tests per Person Before the Olympics""",neutral,0.8463720083236694,1,3,2,5
