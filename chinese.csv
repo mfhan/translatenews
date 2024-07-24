@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Focus: Overseas Experts Discuss the 3rd Plenary Session of the 20th CPC Central Committee on Improving People's Quality of Life""",neutral,0.7171635627746582,1,4,2,4
-1,chinese,"""Director of US Secret Service Resigns Due to Agency's Failure to Prevent Trump Assassination Attempt""",negative,0.8344321250915527,-2,4,2,4
-2,chinese,"""Efficient Customs Clearance Measures Show Results, Increase in Foreign Personnel Exchange""",neutral,0.7245832681655884,1,4,2,4
-3,chinese,"""AG600 Receives First Model Inspection Approval Certificate""",neutral,0.7252053022384644,1,4,2,4
-4,chinese,"""Ministry of Foreign Affairs: The US is profiting from the blood and sweat of the Taiwanese people through arms sales to Taiwan""",negative,0.6606293320655823,-1,4,2,4
-5,chinese,"""Wholesale and Retail Market in China Shows Overall Improvement in First Half of the Year""",positive,0.6362025141716003,2,4,2,4
-6,chinese,"""Ministry of Foreign Affairs: Beijing Declaration Brings Valuable Hope to the Palestinian People""",positive,0.8172165751457214,3,4,2,4
-7,chinese,Han Dongxun Elected as New Chairman of South Korea's Ruling Party,neutral,0.6974879503250122,1,4,2,4
-8,chinese,"""Pakistani Companies Look Forward to Collaborating on Development Opportunities at the South Expo""",positive,0.6907586455345154,2,4,2,4
-9,chinese,"""Brazilian President Lula: China is crucial to Brazil's economic growth""",positive,0.5313665866851807,2,4,2,4
+0,chinese,"""China Focus: Overseas Experts Discuss the 3rd Plenary Session of the 20th CPC Central Committee on Improving People's Quality of Life""",neutral,0.7171635627746582,1,2,1,7
+1,chinese,"""Chinese Scientists Discover Molecular Water for the First Time in Lunar Soil""",neutral,0.6375401020050049,1,2,1,7
+2,chinese,"""Night Tour of the Museum, Cooling Off and ""Recharging""""",neutral,0.7884132266044617,1,2,1,7
+3,chinese,"""Nearly 608,000 New Drones Registered in the First Half of the Year, Bringing Low-altitude Economy Closer to the People""",positive,0.7418550848960876,3,2,1,7
+4,chinese,"""First Discovery of Handicraft Workshops: A Comprehensive Interpretation of New Archaeological Evidence at Sanxingdui""",neutral,0.8359888195991516,1,2,1,7
+5,chinese,"""How to Strengthen Employment in the Next Step - Authoritative Department Responds to Current Employment Hotspots""",neutral,0.6492554545402527,1,2,1,7
+6,chinese,Ministry of Finance Issues 55 Billion Yuan 30-Year Ultra-Long-Term Special Government Bonds on the 24th,neutral,0.8520393967628479,1,2,1,7
+7,chinese,"""Director of US Secret Service Resigns Due to Agency's Failure to Prevent Trump Assassination Attempt""",negative,0.8344321250915527,-2,2,1,7
+8,chinese,"""Convenient Customs Measures Show Results, Increase in Foreign Personnel Exchange""",neutral,0.7685400247573853,1,2,1,7
+9,chinese,"""AG600 Obtains First Model Inspection Approval Certificate""",positive,0.4878814220428467,2,2,1,7
