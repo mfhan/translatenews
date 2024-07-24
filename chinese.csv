@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[Overseas Perspective] Uruguayan Deputy Secretary-General of Sports Bureau Belo: Chinese Women's Football Leaves a Deep Impression, Looking Forward to China's Various Olympic Events Shining in Paris""",neutral,0.46215078234672546,1,3,4,3
-1,chinese,"""Ministry of Foreign Affairs: Further Comprehensive Deepening of Reforms Provides New Opportunities for China to Deepen Mutually Beneficial Cooperation with Other Countries""",positive,0.7038260698318481,3,3,4,3
-2,chinese,"""France's Alps Region and Salt Lake City in the United States to Host the 2030 and 2034 Winter Olympics Respectively""",neutral,0.7872854471206665,1,3,4,3
-3,chinese,"""18 People Killed in Nepal Plane Crash""",negative,0.6921840906143188,-1,3,4,3
-4,chinese,"""Central Meteorological Observatory continues to issue typhoon red alert: ""Goni"" expected to land in Taiwan on the night of the 24th""",negative,0.562382161617279,-1,3,4,3
-5,chinese,"""Red Typhoon Warning Issued: 9 Things to Pay Attention to During Heavy Rainy Weather!""",neutral,0.6006107926368713,1,3,4,3
-6,chinese,"""Two Injured in Moscow Car Explosion Incident""",negative,0.7095092535018921,-2,3,4,3
-7,chinese,"""China's Reform Blueprint Unleashes the Benefits of Openness""",positive,0.6665783524513245,2,3,4,3
-8,chinese,"""Historic Moment! China's Combined Installed Capacity of Wind and Solar Power Surpasses Coal Power for the First Time""",positive,0.6293889284133911,2,3,4,3
-9,chinese,"""Mainland Affairs Office: There is no such thing as ""travel risk"" in mainland China, DPP authorities' intimidation tactics are futile""",negative,0.9081019163131714,-2,3,4,3
+0,chinese,Dean of Peking University Guanghua School of Management Interprets the Significance of the Third Plenum: China's Reform Provides a New Path for Modernization to the World,positive,0.660971462726593,2,3,4,3
+1,chinese,Ministry of Foreign Affairs: Further Comprehensive Deepening of Reforms to Provide New Opportunities for China to Deepen Mutually Beneficial Cooperation with Other Countries,positive,0.6449416875839233,2,3,4,3
+2,chinese,"""Ma Long and Feng Yu to Serve as Flag Bearers for Chinese Delegation at Paris Olympics Opening Ceremony""",neutral,0.6979968547821045,1,3,4,3
+3,chinese,"""Multiple Chinese Citizens in Iraq Subjected to Fake Military and Police Searches, Extortion - Chinese Embassy Issues Safety Warning""",negative,0.8116892576217651,-2,3,4,3
+4,chinese,"""France's Alpine Region and Salt Lake City in the United States Awarded Hosting Rights for the 2030 and 2034 Winter Olympics""",neutral,0.8027577996253967,1,3,4,3
+5,chinese,"""Nepal plane crash kills 18 people""",negative,0.7793043851852417,-2,3,4,3
+6,chinese,"""Central Meteorological Observatory continues to issue red typhoon warning: ""Goni"" expected to make landfall in Taiwan on the night of the 24th""",negative,0.6000319719314575,-1,3,4,3
+7,chinese,"""Red Typhoon Warning Issued: 9 Things to Pay Attention to During Heavy Rainfall!""",neutral,0.6249278783798218,1,3,4,3
+8,chinese,"""Two Injured in Moscow Car Explosion Incident""",negative,0.7095092535018921,-2,3,4,3
+9,chinese,"""China's Reform Blueprint Unleashes the Benefits of Openness""",positive,0.6665783524513245,2,3,4,3
