@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Tsinghua University's Li Daokui: Real Estate Will Continue to be a Key Pillar Industry of China's Economy for the Next 15 to 20 Years""",positive,0.5337696075439453,2,4,2,4
-1,chinese,"""Vietnam Holds State Funeral for Late General Secretary of the Communist Party of Vietnam, Nguyen Phu Trong""",neutral,0.7762563228607178,1,4,2,4
-2,chinese,"""Cultural China Tour | Qinghai Yushu Holds ""Elegant Khampa People"" Tour Performance""",neutral,0.8669543862342834,1,4,2,4
-3,chinese,"""Joint Operation by Chinese and Burmese Anti-Drug Departments Achieves Major Success: 3 Long-Fugitive Drug Suspects Wanted with Public Rewards in Northern Burma are Extradited Back to China""",positive,0.6319432854652405,2,4,2,4
-4,chinese,"""Internal Reconciliation Dialogue between Palestinian Factions Held in Beijing, Egyptian Diplomat: Witnessing Chinese Wisdom""",neutral,0.6480296850204468,1,4,2,4
-5,chinese,"Typhoon ""Megi"" has caused 2 deaths and 201 injuries in Taiwan!",negative,0.7741662263870239,-2,4,2,4
-6,chinese,"""Research on Moon Samples, What Are We Expecting?""",neutral,0.8897353410720825,1,4,2,4
-7,chinese,"""Beijing Olympics | Chinese Sports Delegation Denies Rumors of ""Bringing Air-Conditioned Mattresses"" and Others""",negative,0.7229670286178589,-2,4,2,4
-8,chinese,"""Immersive Unlocking, ""Zero Distance"" Touch, Traditional Culture Creates ""New"" Expression, Attracting Fans with Charm""",positive,0.7935687303543091,3,4,2,4
-9,chinese,"""Discounts and Convenience Heat Up the Summer Travel Market, Showcasing the Vibrant Energy of ""Mobile China""""",positive,0.8105946183204651,3,4,2,4
+0,chinese,"""After reading the Communique of the Third Plenary Session of the 20th Central Committee, American scholars repeatedly express ""absolute confidence"" in China""",positive,0.520290732383728,2,2,3,5
+1,chinese,Ministry of Commerce Responds to EU's Plan to Impose Temporary Anti-Dumping Duties on Imported Biodiesel from China,neutral,0.4889279901981354,1,2,3,5
+2,chinese,Ministry of Foreign Affairs: Healthy and Stable Development of China-Italy Relations in Line with the Common Interests of Both Countries and Peoples,positive,0.5908855199813843,2,2,3,5
+3,chinese,Overview | Underperformance of American Tech Giants Drags Down New York Stock Market with a Big Drop,negative,0.8064849972724915,-2,2,3,5
+4,chinese,"""Arab League Welcomes Signing of ""Beijing Declaration"" by Various Palestinian Factions""",neutral,0.7211830615997314,1,2,3,5
+5,chinese,"""International Observation: Brazilian President Under US Surveillance, ""Surveillance Empire"" Leaves a Stain of Infamy""",negative,0.8391931056976318,-2,2,3,5
+6,chinese,"""Harmony and Reasoning | Reform and Opening Up Write a New Chapter: The Attraction of ""Investment Fertile Land""""",neutral,0.6448658108711243,1,2,3,5
+7,chinese,"""Gansu's Wen Shi Mian exports to Tajikistan for the first time""",neutral,0.6648744344711304,1,2,3,5
+8,chinese,"""Ministry of National Defense: Chinese Military Has Always Been Resistant to Superstition and Fearless of Pressure""",neutral,0.36562132835388184,1,2,3,5
+9,chinese,"""Russian Helicopter Crashes in Kaluga Region""",negative,0.6641995906829834,-1,2,3,5
