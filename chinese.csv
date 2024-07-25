@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Dean of Peking University's Guanghua School of Management Interprets the Significance of the Third Plenum: China's Reform Provides a New Modernization Path for the World""",positive,0.6065133810043335,2,3,3,4
-1,chinese,"Typhoon ""Megi"" has caused 2 deaths and 201 injuries in Taiwan!",negative,0.7741662263870239,-2,3,3,4
-2,chinese,"""Research on Lunar Samples: What Are We Expecting?""",neutral,0.8885035514831543,1,3,3,4
-3,chinese,"""Beijing Olympics | Chinese Sports Delegation Denies Rumors of ""Bringing Their Own Air-Conditioned Mattresses"" and Others""",negative,0.7593806982040405,-2,3,3,4
-4,chinese,"""Immersive Unlocking, ""Zero Distance"" Touch, Traditional Culture Creates ""New"" Expressions, Attracting Fans with Charm""",positive,0.7926205992698669,3,3,3,4
-5,chinese,"""Discounts and Convenience Heat Up the Summer Travel Market, Showcasing the Vibrant Energy of ""Mobile China""""",positive,0.8105946183204651,3,3,3,4
-6,chinese,"""Japan's Population Experiences Largest Decline Since Record Keeping Began""",neutral,0.6674332022666931,1,3,3,4
-7,chinese,"""UN Report: 1 in 11 People Worldwide Faced Hunger Last Year""",negative,0.4849952161312103,-1,3,3,4
-8,chinese,"""Over 150 International Companies Sign Contracts at the Import Expo for 7 Consecutive Years""",neutral,0.701410710811615,1,3,3,4
-9,chinese,"""What are the new trends in talent cultivation revealed by the adjustment of university majors?""",neutral,0.8381187319755554,1,3,3,4
+0,chinese,"""Tsinghua University's Li Daokui: Real Estate Will Continue to be a Key Pillar Industry of China's Economy for the Next 15 to 20 Years""",positive,0.5337696075439453,2,4,2,4
+1,chinese,"""Vietnam Holds State Funeral for Late General Secretary of the Communist Party of Vietnam, Nguyen Phu Trong""",neutral,0.7762563228607178,1,4,2,4
+2,chinese,"""Cultural China Tour | Qinghai Yushu Holds ""Elegant Khampa People"" Tour Performance""",neutral,0.8669543862342834,1,4,2,4
+3,chinese,"""Joint Operation by Chinese and Burmese Anti-Drug Departments Achieves Major Success: 3 Long-Fugitive Drug Suspects Wanted with Public Rewards in Northern Burma are Extradited Back to China""",positive,0.6319432854652405,2,4,2,4
+4,chinese,"""Internal Reconciliation Dialogue between Palestinian Factions Held in Beijing, Egyptian Diplomat: Witnessing Chinese Wisdom""",neutral,0.6480296850204468,1,4,2,4
+5,chinese,"Typhoon ""Megi"" has caused 2 deaths and 201 injuries in Taiwan!",negative,0.7741662263870239,-2,4,2,4
+6,chinese,"""Research on Moon Samples, What Are We Expecting?""",neutral,0.8897353410720825,1,4,2,4
+7,chinese,"""Beijing Olympics | Chinese Sports Delegation Denies Rumors of ""Bringing Air-Conditioned Mattresses"" and Others""",negative,0.7229670286178589,-2,4,2,4
+8,chinese,"""Immersive Unlocking, ""Zero Distance"" Touch, Traditional Culture Creates ""New"" Expression, Attracting Fans with Charm""",positive,0.7935687303543091,3,4,2,4
+9,chinese,"""Discounts and Convenience Heat Up the Summer Travel Market, Showcasing the Vibrant Energy of ""Mobile China""""",positive,0.8105946183204651,3,4,2,4
