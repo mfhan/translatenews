@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""After reading the Communique of the Third Plenary Session of the 20th Central Committee, American scholars repeatedly express ""absolute confidence"" in China""",positive,0.520290732383728,2,2,3,5
-1,chinese,Ministry of Commerce Responds to EU's Plan to Impose Temporary Anti-Dumping Duties on Imported Biodiesel from China,neutral,0.4889279901981354,1,2,3,5
-2,chinese,Ministry of Foreign Affairs: Healthy and Stable Development of China-Italy Relations in Line with the Common Interests of Both Countries and Peoples,positive,0.5908855199813843,2,2,3,5
-3,chinese,Overview | Underperformance of American Tech Giants Drags Down New York Stock Market with a Big Drop,negative,0.8064849972724915,-2,2,3,5
-4,chinese,"""Arab League Welcomes Signing of ""Beijing Declaration"" by Various Palestinian Factions""",neutral,0.7211830615997314,1,2,3,5
-5,chinese,"""International Observation: Brazilian President Under US Surveillance, ""Surveillance Empire"" Leaves a Stain of Infamy""",negative,0.8391931056976318,-2,2,3,5
-6,chinese,"""Harmony and Reasoning | Reform and Opening Up Write a New Chapter: The Attraction of ""Investment Fertile Land""""",neutral,0.6448658108711243,1,2,3,5
-7,chinese,"""Gansu's Wen Shi Mian exports to Tajikistan for the first time""",neutral,0.6648744344711304,1,2,3,5
-8,chinese,"""Ministry of National Defense: Chinese Military Has Always Been Resistant to Superstition and Fearless of Pressure""",neutral,0.36562132835388184,1,2,3,5
-9,chinese,"""Russian Helicopter Crashes in Kaluga Region""",negative,0.6641995906829834,-1,2,3,5
+0,chinese,"After reading the communique of the Third Plenary Session of the 20th Central Committee, American scholars repeatedly express ""absolute confidence"" in China.",positive,0.46621912717819214,2,2,3,5
+1,chinese,"Typhoon ""Gemei"" landed in Fujian in the evening, National Disaster Reduction Committee dispatches multiple provinces to deploy flood and typhoon prevention work.",negative,0.5476269125938416,-1,2,3,5
+2,chinese,"""Various regions actively respond to typhoons and rainy weather""",negative,0.6694352030754089,-1,2,3,5
+3,chinese,"""Ministry of Commerce Responds to EU's Plan to Impose Temporary Anti-Dumping Duties on Imported Biodiesel from China""",neutral,0.5050212740898132,1,2,3,5
+4,chinese,"""Ministry of Foreign Affairs: Healthy and Stable Development of Sino-Italian Relations in Line with the Common Interests of Both Countries and Peoples""",positive,0.5839178562164307,2,2,3,5
+5,chinese,Overview | Underperformance of American Tech Giants Drags Down New York Stock Market with a Big Drop,negative,0.8064849972724915,-2,2,3,5
+6,chinese,"""Arab League Welcomes Signing of ""Beijing Declaration"" by Palestinian Factions""",neutral,0.6978495717048645,1,2,3,5
+7,chinese,"""International Observation: Brazilian President Under US Surveillance, ""Surveillance Empire"" Has a Checkered Past""",neutral,0.7516139149665833,1,2,3,5
+8,chinese,"""Harmony and Justice | Reform and Opening Up Write a New Chapter: The Allure of ""Investment Fertile Land""""",neutral,0.7340980768203735,1,2,3,5
+9,chinese,"""Gansu's Wenshimian exports to Tajikistan for the first time""",neutral,0.5693517327308655,1,2,3,5
