@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Dean of Peking University Guanghua School of Management Interprets the Significance of the Third Plenum: China's Reform Provides a New Path for Modernization to the World,positive,0.660971462726593,2,3,4,3
-1,chinese,Ministry of Foreign Affairs: Further Comprehensive Deepening of Reforms to Provide New Opportunities for China to Deepen Mutually Beneficial Cooperation with Other Countries,positive,0.6449416875839233,2,3,4,3
-2,chinese,"""Ma Long and Feng Yu to Serve as Flag Bearers for Chinese Delegation at Paris Olympics Opening Ceremony""",neutral,0.6979968547821045,1,3,4,3
-3,chinese,"""Multiple Chinese Citizens in Iraq Subjected to Fake Military and Police Searches, Extortion - Chinese Embassy Issues Safety Warning""",negative,0.8116892576217651,-2,3,4,3
-4,chinese,"""France's Alpine Region and Salt Lake City in the United States Awarded Hosting Rights for the 2030 and 2034 Winter Olympics""",neutral,0.8027577996253967,1,3,4,3
-5,chinese,"""Nepal plane crash kills 18 people""",negative,0.7793043851852417,-2,3,4,3
-6,chinese,"""Central Meteorological Observatory continues to issue red typhoon warning: ""Goni"" expected to make landfall in Taiwan on the night of the 24th""",negative,0.6000319719314575,-1,3,4,3
-7,chinese,"""Red Typhoon Warning Issued: 9 Things to Pay Attention to During Heavy Rainfall!""",neutral,0.6249278783798218,1,3,4,3
-8,chinese,"""Two Injured in Moscow Car Explosion Incident""",negative,0.7095092535018921,-2,3,4,3
-9,chinese,"""China's Reform Blueprint Unleashes the Benefits of Openness""",positive,0.6665783524513245,2,3,4,3
+0,chinese,"""Dean of Peking University's Guanghua School of Management Interprets the Significance of the Third Plenum: China's Reform Provides a New Modernization Path for the World""",positive,0.6065133810043335,2,3,3,4
+1,chinese,"Typhoon ""Megi"" has caused 2 deaths and 201 injuries in Taiwan!",negative,0.7741662263870239,-2,3,3,4
+2,chinese,"""Research on Lunar Samples: What Are We Expecting?""",neutral,0.8885035514831543,1,3,3,4
+3,chinese,"""Beijing Olympics | Chinese Sports Delegation Denies Rumors of ""Bringing Their Own Air-Conditioned Mattresses"" and Others""",negative,0.7593806982040405,-2,3,3,4
+4,chinese,"""Immersive Unlocking, ""Zero Distance"" Touch, Traditional Culture Creates ""New"" Expressions, Attracting Fans with Charm""",positive,0.7926205992698669,3,3,3,4
+5,chinese,"""Discounts and Convenience Heat Up the Summer Travel Market, Showcasing the Vibrant Energy of ""Mobile China""""",positive,0.8105946183204651,3,3,3,4
+6,chinese,"""Japan's Population Experiences Largest Decline Since Record Keeping Began""",neutral,0.6674332022666931,1,3,3,4
+7,chinese,"""UN Report: 1 in 11 People Worldwide Faced Hunger Last Year""",negative,0.4849952161312103,-1,3,3,4
+8,chinese,"""Over 150 International Companies Sign Contracts at the Import Expo for 7 Consecutive Years""",neutral,0.701410710811615,1,3,3,4
+9,chinese,"""What are the new trends in talent cultivation revealed by the adjustment of university majors?""",neutral,0.8381187319755554,1,3,3,4
