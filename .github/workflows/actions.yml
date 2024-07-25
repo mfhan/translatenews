@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: "35 */6 * * *" # Runs at the beginning of every 6th hour
+    - cron: "30 7 * * *"  #Runs at 7:30 am
 
 permissions:
   contents: write
