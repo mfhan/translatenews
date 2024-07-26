@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"After reading the communique of the Third Plenary Session of the 20th Central Committee, American scholars repeatedly express ""absolute confidence"" in China.",positive,0.46621912717819214,2,2,3,5
-1,chinese,"Typhoon ""Gemei"" landed in Fujian in the evening, National Disaster Reduction Committee dispatches multiple provinces to deploy flood and typhoon prevention work.",negative,0.5476269125938416,-1,2,3,5
-2,chinese,"""Various regions actively respond to typhoons and rainy weather""",negative,0.6694352030754089,-1,2,3,5
-3,chinese,"""Ministry of Commerce Responds to EU's Plan to Impose Temporary Anti-Dumping Duties on Imported Biodiesel from China""",neutral,0.5050212740898132,1,2,3,5
-4,chinese,"""Ministry of Foreign Affairs: Healthy and Stable Development of Sino-Italian Relations in Line with the Common Interests of Both Countries and Peoples""",positive,0.5839178562164307,2,2,3,5
-5,chinese,Overview | Underperformance of American Tech Giants Drags Down New York Stock Market with a Big Drop,negative,0.8064849972724915,-2,2,3,5
-6,chinese,"""Arab League Welcomes Signing of ""Beijing Declaration"" by Palestinian Factions""",neutral,0.6978495717048645,1,2,3,5
-7,chinese,"""International Observation: Brazilian President Under US Surveillance, ""Surveillance Empire"" Has a Checkered Past""",neutral,0.7516139149665833,1,2,3,5
-8,chinese,"""Harmony and Justice | Reform and Opening Up Write a New Chapter: The Allure of ""Investment Fertile Land""""",neutral,0.7340980768203735,1,2,3,5
-9,chinese,"""Gansu's Wenshimian exports to Tajikistan for the first time""",neutral,0.5693517327308655,1,2,3,5
+0,chinese,"""New Debt Restructuring Aids Heavily Indebted Poor Countries to Break Out of Vicious Cycle""",negative,0.8348304033279419,-2,6,1,3
+1,chinese,"""Former President of Guyana: China Has Made Significant Contributions to ""Global South"" Peace and Development""",positive,0.7674083113670349,3,6,1,3
+2,chinese,"""Multiple sets of data witness China's foreign trade achieving ""quality improvement and stable quantity"" in the first half of the year, with a dual focus on ""going out"" and ""bringing in""""",positive,0.6168637275695801,2,6,1,3
+3,chinese,"""Two Highs and One Department: Key Focus on Combating Organizers and Protectors of Telecommunications Fraud and Related Crimes""",neutral,0.7379350662231445,1,6,1,3
+4,chinese,"""Oil Prices Drop for the 5th Time This Year, 92 Octane Gasoline Returns to the ""7 Yuan Era"" in Many Places""",neutral,0.7442177534103394,1,6,1,3
+5,chinese,"""Strongly Supporting Large-scale Equipment Upgrades and Consumer Goods Trade-ins""",positive,0.6866499185562134,2,6,1,3
+6,chinese,"""Experience the Charm of Pakistan at the South Expo""",positive,0.5591264963150024,2,6,1,3
+7,chinese,"""Call for Submissions | Official Launch of Global Call for ""CIIE Stories"" New Round!""",neutral,0.8384628891944885,1,6,1,3
+8,chinese,"""China Travel"" is on fire overseas! International tourists experience significant improvement in traveling in China.",positive,0.8641619086265564,3,6,1,3
+9,chinese,"""Foreigners Clock in China, Exclaiming How Safe It Is!""",positive,0.6610499620437622,2,6,1,3
