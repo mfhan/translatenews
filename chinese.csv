@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Experience the Strongest Chinese Influence at the Paris Olympics! Exploring the ""Chinese Home"" in Paris""",positive,0.6454707980155945,2,1,2,7
-1,chinese,"""Tunisian Blogger: Shanghai is a Photography Paradise""",neutral,0.4831100404262543,1,1,2,7
-2,chinese,"""Shanghai-Hong Kong Stock Connect Trading Information Disclosure Mechanism Undergoes Adjustment""",negative,0.551959753036499,-1,1,2,7
-3,chinese,"""Over 5 million inbound travelers used mobile payment in the first half of the year, four times higher than last year""",neutral,0.6872432827949524,1,1,2,7
-4,chinese,"""Wildfires Out of Control in Northern California, Thousands of Residents Evacuated Urgently""",negative,0.8459305167198181,-2,1,2,7
-5,chinese,Former Deputy Minister of Finance Interprets the Third Plenary Session: Some Regions Need to Solve Financial Tension through Reform,neutral,0.6412757039070129,1,1,2,7
-6,chinese,"""Lin Yifu Interprets the Third Plenum of the 20th Congress: Developing New Productive Forces, Adapting to Local Conditions Instead of Rushing Ahead""",neutral,0.48931530117988586,1,1,2,7
-7,chinese,"""National Profits of Large-Scale Industrial Enterprises Increase by 3.5% in January-June 2024""",neutral,0.6281580328941345,1,1,2,7
-8,chinese,"""What are the key tasks in deepening rural reform? Experts interpret""",neutral,0.7595259547233582,1,1,2,7
-9,chinese,"""Two Departments Pre-allocate 475 Million Yuan Again for Emergency Rescue""",neutral,0.7052881121635437,1,1,2,7
+0,chinese,"""Beijing's Central Axis Successfully Listed as a World Heritage Site, and Digital Human Yuan Xi Soars Over Beijing's Central Axis""",positive,0.5311324596405029,2,4,3,3
+1,chinese,"""Hong Kong Girl Wins Gold at Olympics | This is the Real Cool Female Lead, the Gold Medalist is Actually a Super Scholar""",positive,0.8789343237876892,3,4,3,3
+2,chinese,"""Cinemas Show Strong Response to Watching the Olympics, ""Cinema+"" Takes Another Solid Step Forward""",positive,0.836471438407898,3,4,3,3
+3,chinese,"""Jin-Qin High-speed Railway, Han-Chang Line, and Han-Ji Line Passenger Trains Fully Resume Operation""",neutral,0.7862122654914856,1,4,3,3
+4,chinese,"""Universities across the country continue to optimize employment and entrepreneurship guidance services""",positive,0.7347615361213684,3,4,3,3
+5,chinese,"""Chenzhou, Hunan: Bamaishan Township Experiences Road, Power, and Internet Outages; First Batch of 85 Stranded Residents Safely Evacuated""",negative,0.7535211443901062,-2,4,3,3
+6,chinese,"""Over 100 Large Wildfires Across the United States, Multiple States Issue Air Quality Warnings""",negative,0.6837814450263977,-1,4,3,3
+7,chinese,"""Stampede at Concert in Congo (DRC) Leaves at Least 9 Dead""",negative,0.7445711493492126,-2,4,3,3
+8,chinese,"""Delayed ""Closing Time"", Special Exhibitions Piling Up... Cultural and Museum Venues Enter ""Summer Time""""",neutral,0.5196740627288818,1,4,3,3
+9,chinese,"""A set of data reveals the ""report card"" of the first anniversary of the launch of the China-Europe freight train at Tongjiang Railway Port""",neutral,0.7893475294113159,1,4,3,3
