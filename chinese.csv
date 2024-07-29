@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Beijing's Central Axis Successfully Listed as a World Heritage Site, and Digital Human Yuan Xi Soars Over Beijing's Central Axis""",positive,0.5311324596405029,2,4,3,3
-1,chinese,"""Hong Kong Girl Wins Gold at Olympics | This is the Real Cool Female Lead, the Gold Medalist is Actually a Super Scholar""",positive,0.8789343237876892,3,4,3,3
-2,chinese,"""Cinemas Show Strong Response to Watching the Olympics, ""Cinema+"" Takes Another Solid Step Forward""",positive,0.836471438407898,3,4,3,3
-3,chinese,"""Jin-Qin High-speed Railway, Han-Chang Line, and Han-Ji Line Passenger Trains Fully Resume Operation""",neutral,0.7862122654914856,1,4,3,3
-4,chinese,"""Universities across the country continue to optimize employment and entrepreneurship guidance services""",positive,0.7347615361213684,3,4,3,3
-5,chinese,"""Chenzhou, Hunan: Bamaishan Township Experiences Road, Power, and Internet Outages; First Batch of 85 Stranded Residents Safely Evacuated""",negative,0.7535211443901062,-2,4,3,3
-6,chinese,"""Over 100 Large Wildfires Across the United States, Multiple States Issue Air Quality Warnings""",negative,0.6837814450263977,-1,4,3,3
-7,chinese,"""Stampede at Concert in Congo (DRC) Leaves at Least 9 Dead""",negative,0.7445711493492126,-2,4,3,3
-8,chinese,"""Delayed ""Closing Time"", Special Exhibitions Piling Up... Cultural and Museum Venues Enter ""Summer Time""""",neutral,0.5196740627288818,1,4,3,3
-9,chinese,"""A set of data reveals the ""report card"" of the first anniversary of the launch of the China-Europe freight train at Tongjiang Railway Port""",neutral,0.7893475294113159,1,4,3,3
+0,chinese,"""Hong Kong Girl Wins Gold at Olympics | The Ultimate Cool Female Lead, the Gold Medalist is Actually a Super Scholar""",positive,0.841066300868988,3,5,0,5
+1,chinese,"""Chinese Women's Singles Sweep Victory, Advance to Second Round of Olympic Tennis Event""",neutral,0.523642361164093,1,5,0,5
+2,chinese,"""Former IMF Vice President Interprets Third Plenum: Reform and Opening Up is the Most Important Driving Force for China's Economic Miracle""",positive,0.4977602958679199,2,5,0,5
+3,chinese,"""Former Vice Minister of Finance Interprets the Third Plenum: Why China's Persistence in Reform and Opening Up is Particularly Important in the Current International Situation""",neutral,0.5363114476203918,1,5,0,5
+4,chinese,"""Ministry of Water Resources fully supports Hunan in effectively managing the risk of breaches in small water embankments""",positive,0.6121934652328491,2,5,0,5
+5,chinese,"""National Intellectual Property Office: High-value intellectual property rights continue to emerge, corporate innovation becomes more active""",positive,0.7437852025032043,3,5,0,5
+6,chinese,"""China's Gold Production Slightly Increases, Consumption Decreases in the First Half of the Year""",neutral,0.5285168886184692,1,5,0,5
+7,chinese,"""Former Prime Minister of Kyrgyzstan: What is the Secret to China's Success in Electric Vehicles?""",neutral,0.8239702582359314,1,5,0,5
+8,chinese,"""The 14th Global Tiger Day丨The Number of Wild Tiger Populations in China Has Recovered and Increased""",neutral,0.567283034324646,1,5,0,5
+9,chinese,"Record-breaking! 14-year-old ""Little Sister"" Cui Chenxi takes 4th place in women's street skateboarding competition",positive,0.8146791458129883,3,5,0,5
