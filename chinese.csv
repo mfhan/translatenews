@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Hong Kong Girl Wins Gold at Olympics | The Ultimate Cool Female Lead, the Gold Medalist is Actually a Super Scholar""",positive,0.841066300868988,3,5,0,5
-1,chinese,"""Chinese Women's Singles Sweep Victory, Advance to Second Round of Olympic Tennis Event""",neutral,0.523642361164093,1,5,0,5
-2,chinese,"""Former IMF Vice President Interprets Third Plenum: Reform and Opening Up is the Most Important Driving Force for China's Economic Miracle""",positive,0.4977602958679199,2,5,0,5
-3,chinese,"""Former Vice Minister of Finance Interprets the Third Plenum: Why China's Persistence in Reform and Opening Up is Particularly Important in the Current International Situation""",neutral,0.5363114476203918,1,5,0,5
-4,chinese,"""Ministry of Water Resources fully supports Hunan in effectively managing the risk of breaches in small water embankments""",positive,0.6121934652328491,2,5,0,5
-5,chinese,"""National Intellectual Property Office: High-value intellectual property rights continue to emerge, corporate innovation becomes more active""",positive,0.7437852025032043,3,5,0,5
-6,chinese,"""China's Gold Production Slightly Increases, Consumption Decreases in the First Half of the Year""",neutral,0.5285168886184692,1,5,0,5
-7,chinese,"""Former Prime Minister of Kyrgyzstan: What is the Secret to China's Success in Electric Vehicles?""",neutral,0.8239702582359314,1,5,0,5
-8,chinese,"""The 14th Global Tiger Day丨The Number of Wild Tiger Populations in China Has Recovered and Increased""",neutral,0.567283034324646,1,5,0,5
-9,chinese,"Record-breaking! 14-year-old ""Little Sister"" Cui Chenxi takes 4th place in women's street skateboarding competition",positive,0.8146791458129883,3,5,0,5
+0,chinese,"Highlights of the fourth day of the Olympics! ""Sha Tou"" pair and Chinese women's sabre team compete for gold →",positive,0.7112730741500854,3,4,1,5
+1,chinese,"""Local Elderly Care: How to Make Seniors Feel More Secure and Comfortable?""",neutral,0.6411951780319214,1,4,1,5
+2,chinese,"""In 2023, the proportion of the ""Three New"" economy's added value in China will be equivalent to 17.73% of GDP""",neutral,0.7345851063728333,1,4,1,5
+3,chinese,"""By June of this year, China's domestic valid number of invention patents reached 4.425 million.""",neutral,0.648579478263855,1,4,1,5
+4,chinese,"""Indian Scholar: China's Comprehensive Reforms Provide Important Reference for India""",positive,0.5069306492805481,2,4,1,5
+5,chinese,"""Dialogue and Reasoning: BRICS Countries Continue to Strengthen, Multipolar World Accelerates Formation""",positive,0.6006328463554382,2,4,1,5
+6,chinese,"""Supreme Procuratorate: Strengthening Supervision of Criminal Proceedings, Lawfully Arresting 6,301 People and Filing Additional Charges Against 32,000 People""",negative,0.788431704044342,-2,4,1,5
+7,chinese,"""Where there is unity, the mountains and seas are not too far: 30 years of mutual travel between Fuzhou and Tacoma""",neutral,0.5479246973991394,1,4,1,5
+8,chinese,China's bond market issuance exceeds 7 trillion yuan in June.,neutral,0.665786862373352,1,4,1,5
+9,chinese,"""Remarkable Achievements in China's Intellectual Property Reform""",positive,0.9038796424865723,3,4,1,5
