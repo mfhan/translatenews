@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Highlights of the fourth day of the Olympics! ""Sha Tou"" pair and Chinese women's sabre team compete for gold →",positive,0.7112730741500854,3,4,1,5
-1,chinese,"""Local Elderly Care: How to Make Seniors Feel More Secure and Comfortable?""",neutral,0.6411951780319214,1,4,1,5
-2,chinese,"""In 2023, the proportion of the ""Three New"" economy's added value in China will be equivalent to 17.73% of GDP""",neutral,0.7345851063728333,1,4,1,5
-3,chinese,"""By June of this year, China's domestic valid number of invention patents reached 4.425 million.""",neutral,0.648579478263855,1,4,1,5
-4,chinese,"""Indian Scholar: China's Comprehensive Reforms Provide Important Reference for India""",positive,0.5069306492805481,2,4,1,5
-5,chinese,"""Dialogue and Reasoning: BRICS Countries Continue to Strengthen, Multipolar World Accelerates Formation""",positive,0.6006328463554382,2,4,1,5
-6,chinese,"""Supreme Procuratorate: Strengthening Supervision of Criminal Proceedings, Lawfully Arresting 6,301 People and Filing Additional Charges Against 32,000 People""",negative,0.788431704044342,-2,4,1,5
-7,chinese,"""Where there is unity, the mountains and seas are not too far: 30 years of mutual travel between Fuzhou and Tacoma""",neutral,0.5479246973991394,1,4,1,5
-8,chinese,China's bond market issuance exceeds 7 trillion yuan in June.,neutral,0.665786862373352,1,4,1,5
-9,chinese,"""Remarkable Achievements in China's Intellectual Property Reform""",positive,0.9038796424865723,3,4,1,5
+0,chinese,"""Highlights of the Fifth Day of the Olympics! All eyes on Red Chan and Yu Xi as they strive for gold together""",positive,0.8924542665481567,3,2,4,4
+1,chinese,"""Former IMF Vice President Zhu Min: Consumption to Maintain Strong Growth""",neutral,0.6311489343643188,1,2,4,4
+2,chinese,"""161 People Dead in Landslide in India's Kerala State""",negative,0.7989844679832458,-2,2,4,4
+3,chinese,"""Hamas Leader Ismail Haniyeh Assassinated in Iran's Capital""",negative,0.7700161933898926,-2,2,4,4
+4,chinese,"""Central Bank Conducts 251.67 Billion Yuan 7-Day Reverse Repurchase Operation on July 31st""",neutral,0.8077179193496704,1,2,4,4
+5,chinese,"""Australian Scholars Call on US and NATO: Remove Your ""Dirty Hands"" from Asia!""",negative,0.7347483038902283,-2,2,4,4
+6,chinese,"""Serious Negotiations! China Urges Japan to Stop Interfering in China's Internal Affairs""",negative,0.886976420879364,-2,2,4,4
+7,chinese,"""Revenue of Large-scale Cultural Enterprises Grows by 7.3% in the First Half of the Year""",neutral,0.5757657885551453,1,2,4,4
+8,chinese,"""Breaking Olympic Record! Qi Ying Wins Silver Medal in Men's Skeet Shooting at Paris Olympics""",positive,0.7896357178688049,3,2,4,4
+9,chinese,"""What is the Meteorological Cause of Continued Heavy Rain in the North and South, and How Long Will it Last?""",neutral,0.6275964975357056,1,2,4,4
