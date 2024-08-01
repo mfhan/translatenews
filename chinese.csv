@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Highlights of the Fifth Day of the Olympics! All eyes on Red Chan and Yu Xi as they strive for gold together""",positive,0.8924542665481567,3,2,4,4
-1,chinese,"""Former IMF Vice President Zhu Min: Consumption to Maintain Strong Growth""",neutral,0.6311489343643188,1,2,4,4
-2,chinese,"""161 People Dead in Landslide in India's Kerala State""",negative,0.7989844679832458,-2,2,4,4
-3,chinese,"""Hamas Leader Ismail Haniyeh Assassinated in Iran's Capital""",negative,0.7700161933898926,-2,2,4,4
-4,chinese,"""Central Bank Conducts 251.67 Billion Yuan 7-Day Reverse Repurchase Operation on July 31st""",neutral,0.8077179193496704,1,2,4,4
-5,chinese,"""Australian Scholars Call on US and NATO: Remove Your ""Dirty Hands"" from Asia!""",negative,0.7347483038902283,-2,2,4,4
-6,chinese,"""Serious Negotiations! China Urges Japan to Stop Interfering in China's Internal Affairs""",negative,0.886976420879364,-2,2,4,4
-7,chinese,"""Revenue of Large-scale Cultural Enterprises Grows by 7.3% in the First Half of the Year""",neutral,0.5757657885551453,1,2,4,4
-8,chinese,"""Breaking Olympic Record! Qi Ying Wins Silver Medal in Men's Skeet Shooting at Paris Olympics""",positive,0.7896357178688049,3,2,4,4
-9,chinese,"""What is the Meteorological Cause of Continued Heavy Rain in the North and South, and How Long Will it Last?""",neutral,0.6275964975357056,1,2,4,4
+0,chinese,"""Paris Olympics, August 1st Gold Medal Schedule is Here""",neutral,0.7930015921592712,1,2,2,6
+1,chinese,"""UN Secretary-General Urges All Parties to Increase Efforts to Ease Tensions in the Middle East""",neutral,0.5194075703620911,1,2,2,6
+2,chinese,"""Federal Reserve Maintains Interest Rates Unchanged, Hints at Possible Rate Cut in September this Year""",neutral,0.7762833833694458,1,2,2,6
+3,chinese,"""This year, China has experienced 25 numbered floods, the highest number since 1998.""",neutral,0.47957879304885864,1,2,2,6
+4,chinese,"""Multiple Measures Taken to Solve the Financing Difficulties of Science and Technology Innovation Enterprises""",neutral,0.679975688457489,1,2,2,6
+5,chinese,"""Policy Strength Intensifies, Boosting Market Confidence and Valuation Recovery""",positive,0.7027403116226196,3,2,2,6
+6,chinese,"""[C Finance] Illustrated | Showcasing Strong Power! ""Made in China"" Dominates the Paris Olympic Arena""",positive,0.7228725552558899,3,2,2,6
+7,chinese,"""Fairness and Justice | EU Restricts Investment in China: Interferes with Capital Flow, Only One Country Out of 27 Expresses Support""",negative,0.8144592642784119,-2,2,2,6
+8,chinese,"""Spokesperson for Eastern Theater Command Issues Statement on Canadian Warship ""Montreal"" Passing Through Taiwan Strait""",neutral,0.7111451029777527,1,2,2,6
+9,chinese,"""Hamas Leader Assassinated, Iran Declares Three Days of National Mourning""",negative,0.8218849897384644,-2,2,2,6
