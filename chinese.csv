@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Paris Olympics, August 1st Gold Medal Schedule is Here""",neutral,0.7930015921592712,1,2,2,6
-1,chinese,"""UN Secretary-General Urges All Parties to Increase Efforts to Ease Tensions in the Middle East""",neutral,0.5194075703620911,1,2,2,6
-2,chinese,"""Federal Reserve Maintains Interest Rates Unchanged, Hints at Possible Rate Cut in September this Year""",neutral,0.7762833833694458,1,2,2,6
-3,chinese,"""This year, China has experienced 25 numbered floods, the highest number since 1998.""",neutral,0.47957879304885864,1,2,2,6
-4,chinese,"""Multiple Measures Taken to Solve the Financing Difficulties of Science and Technology Innovation Enterprises""",neutral,0.679975688457489,1,2,2,6
-5,chinese,"""Policy Strength Intensifies, Boosting Market Confidence and Valuation Recovery""",positive,0.7027403116226196,3,2,2,6
-6,chinese,"""[C Finance] Illustrated | Showcasing Strong Power! ""Made in China"" Dominates the Paris Olympic Arena""",positive,0.7228725552558899,3,2,2,6
-7,chinese,"""Fairness and Justice | EU Restricts Investment in China: Interferes with Capital Flow, Only One Country Out of 27 Expresses Support""",negative,0.8144592642784119,-2,2,2,6
-8,chinese,"""Spokesperson for Eastern Theater Command Issues Statement on Canadian Warship ""Montreal"" Passing Through Taiwan Strait""",neutral,0.7111451029777527,1,2,2,6
-9,chinese,"""Hamas Leader Assassinated, Iran Declares Three Days of National Mourning""",negative,0.8218849897384644,-2,2,2,6
+0,chinese,"""Paris Olympics | Day 2 Highlights: Hope for Making History Again, Watch Multiple Events for Gold Medal Contention""",positive,0.8413236737251282,3,2,2,6
+1,chinese,"""Maduro Demands US to Stop Interfering in Venezuela's Presidential Election""",negative,0.664794385433197,-1,2,2,6
+2,chinese,"""China-US Joint Drug Control Working Group Holds First High-Level Meeting""",neutral,0.812868058681488,1,2,2,6
+3,chinese,"""Beijing's Inbound Tourism Shows Signs of Recovery, Receiving 1.658 Million Visitors in the First Half of the Year""",positive,0.6843635439872742,2,2,2,6
+4,chinese,"""Chief Economist of National Economic Center Interprets the Trend of Domestic Products: Domestic Products Reflect National Technological Level""",neutral,0.7916424870491028,1,2,2,6
+5,chinese,"""Is China's Economy Relying Solely on Exports and Investments Without Consumption? Yao Yang Responds""",neutral,0.7410526871681213,1,2,2,6
+6,chinese,"""Promoting the Accounting of Natural Capital, Making Natural Losses ""Visible""""",neutral,0.7004533410072327,1,2,2,6
+7,chinese,"""[C Finance] Businesspeople from China and the United States Discuss: Deepening Economic and Trade Cooperation to Promote Mutual Benefit and Win-Win""",neutral,0.4928874373435974,1,2,2,6
+8,chinese,"""Hamas Heavyweights Continue to Die, Difficulty of Ceasefire in Gaza Steeply Increases?""",negative,0.7780069708824158,-2,2,2,6
+9,chinese,"""New York Stock Market's Three Major Indices Fall on the 1st""",neutral,0.8252203464508057,1,2,2,6
