@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Paris Olympics | Day 2 Highlights: Hope for Making History Again, Watch Multiple Events for Gold Medal Contention""",positive,0.8413236737251282,3,2,2,6
-1,chinese,"""Maduro Demands US to Stop Interfering in Venezuela's Presidential Election""",negative,0.664794385433197,-1,2,2,6
-2,chinese,"""China-US Joint Drug Control Working Group Holds First High-Level Meeting""",neutral,0.812868058681488,1,2,2,6
-3,chinese,"""Beijing's Inbound Tourism Shows Signs of Recovery, Receiving 1.658 Million Visitors in the First Half of the Year""",positive,0.6843635439872742,2,2,2,6
-4,chinese,"""Chief Economist of National Economic Center Interprets the Trend of Domestic Products: Domestic Products Reflect National Technological Level""",neutral,0.7916424870491028,1,2,2,6
-5,chinese,"""Is China's Economy Relying Solely on Exports and Investments Without Consumption? Yao Yang Responds""",neutral,0.7410526871681213,1,2,2,6
-6,chinese,"""Promoting the Accounting of Natural Capital, Making Natural Losses ""Visible""""",neutral,0.7004533410072327,1,2,2,6
-7,chinese,"""[C Finance] Businesspeople from China and the United States Discuss: Deepening Economic and Trade Cooperation to Promote Mutual Benefit and Win-Win""",neutral,0.4928874373435974,1,2,2,6
-8,chinese,"""Hamas Heavyweights Continue to Die, Difficulty of Ceasefire in Gaza Steeply Increases?""",negative,0.7780069708824158,-2,2,2,6
-9,chinese,"""New York Stock Market's Three Major Indices Fall on the 1st""",neutral,0.8252203464508057,1,2,2,6
+0,chinese,"""Financial Regulatory Bureau Introduces Regulations on Due Diligence and Exemption for Inclusive Credit""",neutral,0.8206931352615356,1,6,2,2
+1,chinese,"""Accelerating Growth and Continuous Optimization of Structure, China's Foreign Trade Continues to Improve""",positive,0.7604137063026428,3,6,2,2
+2,chinese,"""Double Crown Victory: China Continues to Lead the Medal Tally with 2 Golds""",positive,0.7791186571121216,3,6,2,2
+3,chinese,"""High-altitude"" giant wind turbines: First batch of units in China's highest wind power plant in Northwest put into operation",positive,0.4987016022205353,2,6,2,2
+4,chinese,"""Two people killed and 12 missing in a village in Sichuan's Kangding due to mountain flood and debris flow""",negative,0.8076732158660889,-2,6,2,2
+5,chinese,"""Science Time | In addition to skin itching and pain, mosquito bites can also cause more serious problems""",negative,0.7828592658042908,-2,6,2,2
+6,chinese,"""Unlocking the ""N"" Ways to Open Up Summer Travel: High Popularity of Study Tours and Ecotourism""",positive,0.591986894607544,2,6,2,2
+7,chinese,"""Linking the Four Seas, ""Touching"" is Reachable: China's Cross-border E-commerce Gains ""Acceleration""""",positive,0.5333151817321777,2,6,2,2
+8,chinese,"Ministry of Commerce Responds to Hot Topics, Continues to Promote Consumer Expansion in Five Areas",positive,0.6706703305244446,2,6,2,2
+9,chinese,"""Interpretation of the Five-Year Action Plan: Urbanization Rate of Permanent Residents Approaches 70%""",neutral,0.8281461000442505,1,6,2,2
