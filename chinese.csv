@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Opponent Admits Defeat and Praises Zheng Qinwen's Championship: Well Deserved!""",positive,0.8847633600234985,3,4,2,4
-1,chinese,Foreign media claims Zheng Qinwen is well-deserving of the gold medal.,positive,0.7003746032714844,3,4,2,4
-2,chinese,"""US Media: American and Israeli Officials Expect Iran to Attack Israel as Early as the 5th""",negative,0.5440397262573242,-1,4,2,4
-3,chinese,"""Using Service Consumption as a Lever to Boost Domestic Demand""",neutral,0.6521055102348328,1,4,2,4
-4,chinese,"""Shanghai Stock Exchange Develops New Three-Year Action Plan for Index Business""",positive,0.5840649604797363,2,4,2,4
-5,chinese,"""Iran Reveals Investigation into Assassination of Fakhrizadeh""",negative,0.7261967658996582,-2,4,2,4
-6,chinese,"""Foreign Media: Hamas Claims to Have Initiated Process to Select New Leader""",neutral,0.7956031560897827,1,4,2,4
-7,chinese,"""Hezbollah claims to have launched dozens of rockets towards northern Israel""",neutral,0.5331786274909973,1,4,2,4
-8,chinese,"""22-point Victory! Chinese Women's Basketball Team Maintains Hope for Advancement""",positive,0.891139566898346,3,4,2,4
-9,chinese,"""Over 400 People Travel to Sichuan Kangding Disaster Site for Rescue, Over 300 People Have Been Relocated""",neutral,0.663122832775116,1,4,2,4
+0,chinese,"""Magical Chinese County Town | European Designers Invite Them to Open Shops in Europe""",positive,0.7201487421989441,3,3,2,5
+1,chinese,"""Female Captain Zhang Chunpei: I am the true fearless sister sailing against the wind""",neutral,0.5357686281204224,1,3,2,5
+2,chinese,"""Ministry of Housing and Urban-Rural Development is Actively Studying the Establishment of Three Housing-related Systems""",neutral,0.7360546588897705,1,3,2,5
+3,chinese,"""Steadily Improving the Quality and Level of Urbanization""",positive,0.7463142275810242,3,3,2,5
+4,chinese,"""Urgent Evacuation Advised: Multiple Countries Issue Warnings""",negative,0.6306419968605042,-1,3,2,5
+5,chinese,"""Ukrainian President Confirms: F-16s Have Joined the Battle""",neutral,0.619289219379425,1,3,2,5
+6,chinese,"""Japanese and South Korean Stock Markets Plunge""",neutral,0.6910300254821777,1,3,2,5
+7,chinese,"""Being a Shanghai Resident for a Day in Caoyang New Village""",neutral,0.808768630027771,1,3,2,5
+8,chinese,"""Capturing Friendship Together with the Olympics - Northern California Chinese Cultural and Athletic Association Holds Sports Event""",positive,0.5563685297966003,2,3,2,5
+9,chinese,"""Massive Riots Break Out Across Multiple Locations in UK, Largest in 13 Years!""",negative,0.6815951466560364,-1,3,2,5
