@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magical Chinese County Town | European Designers Invite Them to Open Shops in Europe""",positive,0.7201487421989441,3,3,2,5
-1,chinese,"""Female Captain Zhang Chunpei: I am the true fearless sister sailing against the wind""",neutral,0.5357686281204224,1,3,2,5
-2,chinese,"""Ministry of Housing and Urban-Rural Development is Actively Studying the Establishment of Three Housing-related Systems""",neutral,0.7360546588897705,1,3,2,5
-3,chinese,"""Steadily Improving the Quality and Level of Urbanization""",positive,0.7463142275810242,3,3,2,5
-4,chinese,"""Urgent Evacuation Advised: Multiple Countries Issue Warnings""",negative,0.6306419968605042,-1,3,2,5
-5,chinese,"""Ukrainian President Confirms: F-16s Have Joined the Battle""",neutral,0.619289219379425,1,3,2,5
-6,chinese,"""Japanese and South Korean Stock Markets Plunge""",neutral,0.6910300254821777,1,3,2,5
-7,chinese,"""Being a Shanghai Resident for a Day in Caoyang New Village""",neutral,0.808768630027771,1,3,2,5
-8,chinese,"""Capturing Friendship Together with the Olympics - Northern California Chinese Cultural and Athletic Association Holds Sports Event""",positive,0.5563685297966003,2,3,2,5
-9,chinese,"""Massive Riots Break Out Across Multiple Locations in UK, Largest in 13 Years!""",negative,0.6815951466560364,-1,3,2,5
+0,chinese,"""Magical Chinese County Town | European Designers Invite Them to Open Shops in Europe""",positive,0.7201487421989441,3,5,0,5
+1,chinese,"""China's Enterprise Credit Index Overall Improved in the First Half of the Year Compared to Last Year""",positive,0.5191248059272766,2,5,0,5
+2,chinese,"""Optimizing Business Environment: Various Regions Implementing Effective Measures""",positive,0.6339879631996155,2,5,0,5
+3,chinese,"""Economic Growth and Environmental Protection are not a ""Multiple Choice Question""""",neutral,0.8076457977294922,1,5,0,5
+4,chinese,"""Integrating Water, Energy, Food, and Ecosystems to Enhance Climate Resilience in the Yellow River Basin""",positive,0.5077749490737915,2,5,0,5
+5,chinese,"""2024 Cross-Strait Youth Baseball Invitational and Baseball Culture Festival Opens in Liancheng, Fujian""",neutral,0.8176255822181702,1,5,0,5
+6,chinese,"""PLA General Hospital's Ninth Medical Center Successfully Completes Surgery for Giant Meningioma""",neutral,0.5086607933044434,1,5,0,5
+7,chinese,"""Su Shi - The Endless Treasure Left to Chinese Art""",neutral,0.6738355755805969,1,5,0,5
+8,chinese,"""Tennis ""Queen"" Zheng Qinqin Exclusive Interview: I Really Like This Nickname""",positive,0.7805631160736084,3,5,0,5
+9,chinese,"""Zheng Qinwen's Article in People's Daily""",neutral,0.8427428007125854,1,5,0,5
