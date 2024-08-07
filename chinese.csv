@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magical Chinese County Town | European Designers Invite Them to Open Shops in Europe""",positive,0.7201487421989441,3,5,0,5
-1,chinese,"""China's Enterprise Credit Index Overall Improved in the First Half of the Year Compared to Last Year""",positive,0.5191248059272766,2,5,0,5
-2,chinese,"""Optimizing Business Environment: Various Regions Implementing Effective Measures""",positive,0.6339879631996155,2,5,0,5
-3,chinese,"""Economic Growth and Environmental Protection are not a ""Multiple Choice Question""""",neutral,0.8076457977294922,1,5,0,5
-4,chinese,"""Integrating Water, Energy, Food, and Ecosystems to Enhance Climate Resilience in the Yellow River Basin""",positive,0.5077749490737915,2,5,0,5
-5,chinese,"""2024 Cross-Strait Youth Baseball Invitational and Baseball Culture Festival Opens in Liancheng, Fujian""",neutral,0.8176255822181702,1,5,0,5
-6,chinese,"""PLA General Hospital's Ninth Medical Center Successfully Completes Surgery for Giant Meningioma""",neutral,0.5086607933044434,1,5,0,5
-7,chinese,"""Su Shi - The Endless Treasure Left to Chinese Art""",neutral,0.6738355755805969,1,5,0,5
-8,chinese,"""Tennis ""Queen"" Zheng Qinqin Exclusive Interview: I Really Like This Nickname""",positive,0.7805631160736084,3,5,0,5
-9,chinese,"""Zheng Qinwen's Article in People's Daily""",neutral,0.8427428007125854,1,5,0,5
+0,chinese,"""Magical Chinese County Town | European Designers Invite Them to Open Shops in Europe""",positive,0.7201487421989441,3,2,4,4
+1,chinese,"""Intact Giant Panda Fossil Discovered in Hanzhong, Shaanxi""",neutral,0.7729421257972717,1,2,4,4
+2,chinese,"""National Highway 318, Interrupted by Kangding Mountain Flood and Debris Flow Disaster, Resumes Traffic""",negative,0.7314797639846802,-2,2,4,4
+3,chinese,"""Light and Shadow Years, Blossoming Flowers - Exploring the Road of Chinese Film in the New Era through the Hundred Flowers Awards""",positive,0.4874756634235382,2,2,4,4
+4,chinese,"""Daily Word | People-Centered New-Type Urbanization Strategy""",neutral,0.852122962474823,1,2,4,4
+5,chinese,"""Share and Save! After the Beginning of Autumn, North and South Have Different Emphases on Diet and Nutrition""",neutral,0.7474965453147888,1,2,4,4
+6,chinese,"""Pan Zhanle says don't broadcast this interview yet! ""46.80 seconds at the World Championships is just a smokescreen""""",negative,0.7319208383560181,-2,2,4,4
+7,chinese,"Former Australian Official: I Don't Believe the US Can Win in Competition with China, Should Treat China Equally",negative,0.7845262289047241,-2,2,4,4
+8,chinese,"""Cultural Journey in China | Beginning of Autumn""",neutral,0.8769059777259827,1,2,4,4
+9,chinese,"""US Non-Farm Employment Data Shockingly Low, ""Recession Trading"" Causes Global Resonance""",negative,0.7947741746902466,-2,2,4,4
