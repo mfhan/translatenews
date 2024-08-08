@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Magical Chinese County Town | European Designers Invite Them to Open Shops in Europe""",positive,0.7201487421989441,3,2,4,4
-1,chinese,"""Intact Giant Panda Fossil Discovered in Hanzhong, Shaanxi""",neutral,0.7729421257972717,1,2,4,4
-2,chinese,"""National Highway 318, Interrupted by Kangding Mountain Flood and Debris Flow Disaster, Resumes Traffic""",negative,0.7314797639846802,-2,2,4,4
-3,chinese,"""Light and Shadow Years, Blossoming Flowers - Exploring the Road of Chinese Film in the New Era through the Hundred Flowers Awards""",positive,0.4874756634235382,2,2,4,4
-4,chinese,"""Daily Word | People-Centered New-Type Urbanization Strategy""",neutral,0.852122962474823,1,2,4,4
-5,chinese,"""Share and Save! After the Beginning of Autumn, North and South Have Different Emphases on Diet and Nutrition""",neutral,0.7474965453147888,1,2,4,4
-6,chinese,"""Pan Zhanle says don't broadcast this interview yet! ""46.80 seconds at the World Championships is just a smokescreen""""",negative,0.7319208383560181,-2,2,4,4
-7,chinese,"Former Australian Official: I Don't Believe the US Can Win in Competition with China, Should Treat China Equally",negative,0.7845262289047241,-2,2,4,4
-8,chinese,"""Cultural Journey in China | Beginning of Autumn""",neutral,0.8769059777259827,1,2,4,4
-9,chinese,"""US Non-Farm Employment Data Shockingly Low, ""Recession Trading"" Causes Global Resonance""",negative,0.7947741746902466,-2,2,4,4
+0,chinese,"""The most nostalgic is still Beijing 2008! Chatting about Olympic memories with Lang Lang in Paris""",neutral,0.4251030683517456,1,0,1,9
+1,chinese,"""Chinese Giant Pandas in the US Make an Appearance in San Diego, California Governor Declares August 8th as California Panda Day""",neutral,0.5535858273506165,1,0,1,9
+2,chinese,"""Progressive Standardization of Affordable Housing Management: ""Market + Guarantee"" System is Taking Shape""",neutral,0.684548556804657,1,0,1,9
+3,chinese,"""Three departments make major deployment regarding ""dual carbon""!""",neutral,0.4908096194267273,1,0,1,9
+4,chinese,"""World Meteorological Organization: Extreme High Temperatures in July Affect Hundreds of Millions of People Worldwide""",neutral,0.5169168710708618,1,0,1,9
+5,chinese,"""How to Acquire and Utilize Existing Housing through State-Owned Enterprises?""",neutral,0.7702447772026062,1,0,1,9
+6,chinese,"""Take a Stroll in the Ancient City of Barkhor this Summer""",neutral,0.5563145875930786,1,0,1,9
+7,chinese,"""Daily Word | High-Quality Development of Service Consumption""",neutral,0.5977145433425903,1,0,1,9
+8,chinese,"""International Observation: Why Has the Price of Japanese Rice Significantly Increased?""",negative,0.694803774356842,-1,0,1,9
+9,chinese,"""Massive Data Nurtures New Forces in the Industry""",neutral,0.6065354943275452,1,0,1,9
