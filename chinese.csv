@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""High-quality Development Research Trip | From Scarred Land to Flourishing Trees: Abandoned Mines ""Transform"" and Break Free""",neutral,0.6257216930389404,1,2,2,6
-1,chinese,"""2-Ton Payload Capacity! Successful Maiden Flight of Large-Scale Domestic Unmanned Transport Aircraft""",negative,0.616628110408783,-1,2,2,6
-2,chinese,"""Henan Luoyang: Flood Peak Moving Downstream, All Riverside Scenic Areas Closed""",negative,0.5666122436523438,-1,2,2,6
-3,chinese,"""Li Fabing and Ou Zixia to Serve as Flag Bearers for Chinese Delegation at Paris Olympics Closing Ceremony""",neutral,0.7279872894287109,1,2,2,6
-4,chinese,"""Paris Olympics | Basketball - Men's Finals: Team USA Wins Championship""",neutral,0.6579628586769104,1,2,2,6
-5,chinese,"""Paris Olympics | Liu Huanhua Wins Gold in 102kg Weightlifting, Creating Chinese Men's Olympic History""",positive,0.735920250415802,3,2,2,6
-6,chinese,"""Over 4,000 events and 37,000 sessions... Numbers speak of the ""high-energy"" cultural and tourism market this summer""",neutral,0.6523922681808472,1,2,2,6
-7,chinese,"""The International Olympic Committee will elect a new president in March 2025""",neutral,0.7834764122962952,1,2,2,6
-8,chinese,"""Hot Summer, New Ways to Play Ignite New Energy""",positive,0.7766016125679016,3,2,2,6
-9,chinese,"""Data Reveals China's Market Has Strong ""Magnetic Attraction""""",neutral,0.47386616468429565,1,2,2,6
+0,chinese,"""Former IMF Vice President Zhu Min: ""Decoupling"" and ""De-risking"" Are Not Feasible or Viable""",negative,0.8116377592086792,-2,4,3,3
+1,chinese,"""9th Anniversary of ""8·11"" Exchange Rate Reform: Significant Increase in RMB Exchange Rate Flexibility, Accelerated Internationalization Process""",positive,0.6787775158882141,2,4,3,3
+2,chinese,"""What are the key points to focus on when making five major financial strategies?""",neutral,0.7666940093040466,1,4,3,3
+3,chinese,"""Multiple Field Goals Set, Comprehensive Green Transformation Top-Level Design Document Released""",neutral,0.6275386214256287,1,4,3,3
+4,chinese,"""Fair Play and Evaluation | 2024 Paris Olympics Closing Ceremony: Striving for Excellence and Creating Outstanding Achievements, the Spirit of Sports Shines on the Field""",positive,0.8122607469558716,3,4,3,3
+5,chinese,"""Iranian President Criticizes the US and Other Western Countries for Adopting Double Standards""",negative,0.9043284058570862,-2,4,3,3
+6,chinese,"""Swedish Scholar: The Global South is Moving Closer to China""",neutral,0.634035050868988,1,4,3,3
+7,chinese,European Scholars: China's Comprehensive Deepening Reform Goals Align with the Concept of a Community with a Shared Future for Mankind,positive,0.5100141167640686,2,4,3,3
+8,chinese,"""Serious Water Pollution Found in Parts of Osaka, Japan - About 30% of Tested Individuals Show Abnormal Blood Test Results""",negative,0.535920262336731,-1,4,3,3
+9,chinese,"""Technology Empowers Ningxia's Dairy Industry""",positive,0.8114668130874634,3,4,3,3
