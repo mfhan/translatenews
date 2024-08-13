@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former IMF Vice President Zhu Min: ""Decoupling"" and ""De-risking"" Are Not Feasible or Viable""",negative,0.8116377592086792,-2,4,3,3
-1,chinese,"""9th Anniversary of ""8·11"" Exchange Rate Reform: Significant Increase in RMB Exchange Rate Flexibility, Accelerated Internationalization Process""",positive,0.6787775158882141,2,4,3,3
-2,chinese,"""What are the key points to focus on when making five major financial strategies?""",neutral,0.7666940093040466,1,4,3,3
-3,chinese,"""Multiple Field Goals Set, Comprehensive Green Transformation Top-Level Design Document Released""",neutral,0.6275386214256287,1,4,3,3
-4,chinese,"""Fair Play and Evaluation | 2024 Paris Olympics Closing Ceremony: Striving for Excellence and Creating Outstanding Achievements, the Spirit of Sports Shines on the Field""",positive,0.8122607469558716,3,4,3,3
-5,chinese,"""Iranian President Criticizes the US and Other Western Countries for Adopting Double Standards""",negative,0.9043284058570862,-2,4,3,3
-6,chinese,"""Swedish Scholar: The Global South is Moving Closer to China""",neutral,0.634035050868988,1,4,3,3
-7,chinese,European Scholars: China's Comprehensive Deepening Reform Goals Align with the Concept of a Community with a Shared Future for Mankind,positive,0.5100141167640686,2,4,3,3
-8,chinese,"""Serious Water Pollution Found in Parts of Osaka, Japan - About 30% of Tested Individuals Show Abnormal Blood Test Results""",negative,0.535920262336731,-1,4,3,3
-9,chinese,"""Technology Empowers Ningxia's Dairy Industry""",positive,0.8114668130874634,3,4,3,3
+0,chinese,"""Indian Scholar: China and India Should Learn from Each Other and Build a Multipolar World of Peace and Prosperity""",positive,0.4687960743904114,2,2,3,5
+1,chinese,"""Russia's Belgorod Oblast Evacuates 11,000 People""",negative,0.7966445088386536,-2,2,3,5
+2,chinese,"""US Claims Iran May Attack Israel ""Within This Week""""",negative,0.5774872303009033,-1,2,3,5
+3,chinese,"""The Economic Development Vitality and Resilience Behind 100 Billion Express Deliveries""",neutral,0.7319044470787048,1,2,3,5
+4,chinese,"""Rise in Popularity of ""Summer Escape"" and ""Study Tour"" Brings New Vitality to Summer Economy""",positive,0.8645371198654175,3,2,3,5
+5,chinese,"""Former member of Unit 731, Kiyoharu Shimizu, apologizes in front of the ""Monument of Apology and Non-War Peace""""",neutral,0.4642482399940491,1,2,3,5
+6,chinese,"""Kaspersky may establish a data center in Guizhou, China""",neutral,0.6782775521278381,1,2,3,5
+7,chinese,"""Mainland Affairs Council: Mainland China Returns 4 Crew Members of Taiwanese Fishing Vessel ""Da Jin Man 88"" According to Law on the 13th""",neutral,0.8738468289375305,1,2,3,5
+8,chinese,"""144-Hour Visa-Free Policy Boosts Influx of Tourists, Summer Market Booming""",neutral,0.6137754917144775,1,2,3,5
+9,chinese,"""Large Doses of Stimulants, Changing the Rules If Unable to Win - Foreigners Can't Stand Americans' Tactics Anymore""",negative,0.8963885307312012,-2,2,3,5
