@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Indian Scholar: China and India Should Learn from Each Other and Build a Multipolar World of Peace and Prosperity""",positive,0.4687960743904114,2,2,3,5
-1,chinese,"""Russia's Belgorod Oblast Evacuates 11,000 People""",negative,0.7966445088386536,-2,2,3,5
-2,chinese,"""US Claims Iran May Attack Israel ""Within This Week""""",negative,0.5774872303009033,-1,2,3,5
-3,chinese,"""The Economic Development Vitality and Resilience Behind 100 Billion Express Deliveries""",neutral,0.7319044470787048,1,2,3,5
-4,chinese,"""Rise in Popularity of ""Summer Escape"" and ""Study Tour"" Brings New Vitality to Summer Economy""",positive,0.8645371198654175,3,2,3,5
-5,chinese,"""Former member of Unit 731, Kiyoharu Shimizu, apologizes in front of the ""Monument of Apology and Non-War Peace""""",neutral,0.4642482399940491,1,2,3,5
-6,chinese,"""Kaspersky may establish a data center in Guizhou, China""",neutral,0.6782775521278381,1,2,3,5
-7,chinese,"""Mainland Affairs Council: Mainland China Returns 4 Crew Members of Taiwanese Fishing Vessel ""Da Jin Man 88"" According to Law on the 13th""",neutral,0.8738468289375305,1,2,3,5
-8,chinese,"""144-Hour Visa-Free Policy Boosts Influx of Tourists, Summer Market Booming""",neutral,0.6137754917144775,1,2,3,5
-9,chinese,"""Large Doses of Stimulants, Changing the Rules If Unable to Win - Foreigners Can't Stand Americans' Tactics Anymore""",negative,0.8963885307312012,-2,2,3,5
+0,chinese,"""European Political Landscape ""Shifts Direction"", Climate Cooperation between China and Europe Presents Both Challenges and Opportunities""",neutral,0.7479887008666992,1,1,3,6
+1,chinese,"""Pakistani Expert: Insufficient Resilience of US Economy Hinders Global Development""",negative,0.8412481546401978,-2,1,3,6
+2,chinese,"""Expert from Chinese Academy of Social Sciences predicts that housing prices in first and second-tier cities may stop falling in the second half of the year""",neutral,0.7386180758476257,1,1,3,6
+3,chinese,"""China's Journey through Henan | The City of Steel Tape Measures - The Most ""Rolled"" Place in the World""",neutral,0.4727701246738434,1,1,3,6
+4,chinese,"""Large-scale equipment upgrade project speeds up implementation, driving annual investment of about 5 trillion yuan""",positive,0.7693590521812439,3,1,3,6
+5,chinese,"""2645 Meters! Dagang Oilfield Breaks the Domestic Record for the Longest Side Drilling Casing""",neutral,0.5660836696624756,1,1,3,6
+6,chinese,"""Taiwan's Democratic Progressive Party Authorities Blindly Hand Over ""Protection Fees"" and Ultimately Cannot Escape the Consequences of Playing with Fire""",negative,0.8735865354537964,-2,1,3,6
+7,chinese,"""Exploring Henan, China | 30 Seconds to Experience the Ancient Capital Anyang""",neutral,0.49905622005462646,1,1,3,6
+8,chinese,"""Multiple Countries' Media Pay Attention to ""Ukraine's Intensified Border Offensive"", Some Commentators Claim ""The West Cannot Escape Blame""""",negative,0.7244243025779724,-2,1,3,6
+9,chinese,"""Will the Tense Situation in the Middle East Escalate Further? Various Media Outlets Focus and Express Opinions""",neutral,0.7712491154670715,1,1,3,6
