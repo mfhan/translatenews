@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""European Political Landscape ""Shifts Direction"", Climate Cooperation between China and Europe Presents Both Challenges and Opportunities""",neutral,0.7479887008666992,1,1,3,6
-1,chinese,"""Pakistani Expert: Insufficient Resilience of US Economy Hinders Global Development""",negative,0.8412481546401978,-2,1,3,6
-2,chinese,"""Expert from Chinese Academy of Social Sciences predicts that housing prices in first and second-tier cities may stop falling in the second half of the year""",neutral,0.7386180758476257,1,1,3,6
-3,chinese,"""China's Journey through Henan | The City of Steel Tape Measures - The Most ""Rolled"" Place in the World""",neutral,0.4727701246738434,1,1,3,6
-4,chinese,"""Large-scale equipment upgrade project speeds up implementation, driving annual investment of about 5 trillion yuan""",positive,0.7693590521812439,3,1,3,6
-5,chinese,"""2645 Meters! Dagang Oilfield Breaks the Domestic Record for the Longest Side Drilling Casing""",neutral,0.5660836696624756,1,1,3,6
-6,chinese,"""Taiwan's Democratic Progressive Party Authorities Blindly Hand Over ""Protection Fees"" and Ultimately Cannot Escape the Consequences of Playing with Fire""",negative,0.8735865354537964,-2,1,3,6
-7,chinese,"""Exploring Henan, China | 30 Seconds to Experience the Ancient Capital Anyang""",neutral,0.49905622005462646,1,1,3,6
-8,chinese,"""Multiple Countries' Media Pay Attention to ""Ukraine's Intensified Border Offensive"", Some Commentators Claim ""The West Cannot Escape Blame""""",negative,0.7244243025779724,-2,1,3,6
-9,chinese,"""Will the Tense Situation in the Middle East Escalate Further? Various Media Outlets Focus and Express Opinions""",neutral,0.7712491154670715,1,1,3,6
+0,chinese,"""Brazilian President: 50th Anniversary of Diplomatic Relations, Brazil-China Cooperation Continues to Forge Ahead for a New Chapter""",positive,0.7149218320846558,3,5,3,2
+1,chinese,"""Foreign Institutions Invest Real Gold and Silver to Show Confidence, Continuously Optimistic about Chinese Assets""",positive,0.5005959868431091,2,5,3,2
+2,chinese,"""Lifelong Nightmare: Yasuo Shimizu Apologizes for the 79-Year-Old Atrocities of the ""731 Unit"" in China, Evidence of Inhumane Crimes""",negative,0.9210925102233887,-2,5,3,2
+3,chinese,"""Overall Stable and Steady Progress in National Economic Performance in July""",positive,0.5144814252853394,2,5,3,2
+4,chinese,"""US Congressman Calls for Freezing New Round of Technology Export Restrictions to China""",negative,0.6292517185211182,-1,5,3,2
+5,chinese,"""China Daily Looks at Shanxi | Accelerating the Development of China-ASEAN Economic and Trade Cooperation""",positive,0.7594804167747498,3,5,3,2
+6,chinese,"""Chinese Coast Guard Lawfully Expels Japanese Vessels Illegally Entering Our Diaoyu Islands' Territorial Waters""",negative,0.6492826342582703,-1,5,3,2
+7,chinese,"Ministry of Public Security: 39,000 cases of drunk driving, street racing and other traffic violations have been investigated and dealt with.",neutral,0.539425253868103,1,5,3,2
+8,chinese,"""National Bureau of Statistics: Overall Steady and Steady Progress in National Economic Operation in July""",positive,0.633144736289978,2,5,3,2
+9,chinese,"""UN Experts: China Needs to Adapt to a New Stage of Slower but More Balanced Growth""",neutral,0.5276129245758057,1,5,3,2
