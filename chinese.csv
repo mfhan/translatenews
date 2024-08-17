@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian President: 50th Anniversary of Diplomatic Relations, Brazil-China Cooperation Continues to Forge New Chapters""",positive,0.6592511534690857,2,4,1,5
-1,chinese,"""New Energy Vehicles Lead the Green Transformation Across Milestones""",positive,0.6326496601104736,2,4,1,5
-2,chinese,"""By the end of June this year, the number of registered individual industrial and commercial households in the country reached 125 million.""",neutral,0.7775484323501587,1,4,1,5
-3,chinese,"""Exploring Henan, China: Experiencing the Ancient Capital City of Luoyang Through Flowers and Cuisine""",positive,0.5809130668640137,2,4,1,5
-4,chinese,Prayut Chan-o-cha Elected as Thailand's New Prime Minister,neutral,0.48561906814575195,1,4,1,5
-5,chinese,"""Difficulty in Booking Popular Tourist Attractions and Obtaining Tickets? Ministry of Culture and Tourism: Requires All Scenic Spots to Maintain Manual Ticketing Windows""",negative,0.49447324872016907,-1,4,1,5
-6,chinese,"""China's First Cross-border Freight Train to Europe Has Run 1335 Times in 9 Years""",neutral,0.6625893115997314,1,4,1,5
-7,chinese,"""[C Finance] Illustrated: ""Olympic Fever"" Boosts Consumer Market Temperature""",neutral,0.7100268006324768,1,4,1,5
-8,chinese,"""Teacher Jin, who has been ""seen"", takes ""Vibrant Campus"" to various parts of the country""",neutral,0.8427905440330505,1,4,1,5
-9,chinese,"""Exploring Henan, China | Tracing Time and Witnessing the Beauty of Intangible Cultural Heritage""",positive,0.7813425064086914,3,4,1,5
+0,chinese,"""Brazilian President: 50th Anniversary of Diplomatic Relations, Brazil-China Cooperation Continues to Forge Ahead for a New Chapter""",positive,0.7149218320846558,3,4,1,5
+1,chinese,"""Vietnamese Media: Vietnamese Leaders' Visit to China Holds Great Significance, Will Further Deepen the Comprehensive Strategic Partnership between Vietnam and China""",positive,0.7929953932762146,3,4,1,5
+2,chinese,"""UN Human Rights Agency: Over 40,000 Deaths in Gaza Strip is a ""Cruel Milestone""""",neutral,0.5169370770454407,1,4,1,5
+3,chinese,"""Subsidies Doubled: New Regulations for Car Trade-In Program Announced!""",neutral,0.7031727433204651,1,4,1,5
+4,chinese,"State Council Taiwan Affairs Office: DPP distorts punishment measures against ""independence"" and confuses illegal activities with normal cross-strait exchanges",negative,0.8631079196929932,-2,4,1,5
+5,chinese,"""Fun in Shenzhen! American guy Dewey's adventure in Luohu""",positive,0.6214247941970825,2,4,1,5
+6,chinese,"""Chinese Sports Delegation Established for the Paris Paralympic Games""",neutral,0.8619589805603027,1,4,1,5
+7,chinese,"""Giant Panda ""Ying Ying"" at Hong Kong Zoo Celebrates 19th Birthday and Upgrades to Become a Mother This Year!""",positive,0.6603569388389587,2,4,1,5
+8,chinese,"""Chongqing-Kunming High-Speed Railway Chongqing-Yichang Section Enters Operation Trial Stage""",neutral,0.8352094888687134,1,4,1,5
+9,chinese,"""142.6 Billion Pieces! China's Express Delivery Volume Increases by 22.2% Year-on-Year in July""",neutral,0.5156888961791992,1,4,1,5
