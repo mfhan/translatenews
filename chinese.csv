@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian President: 50th Anniversary of Diplomatic Relations, Brazil-China Cooperation Continues to Forge Ahead for a New Chapter""",positive,0.7149218320846558,3,4,1,5
-1,chinese,"""Vietnamese Media: Vietnamese Leaders' Visit to China Holds Great Significance, Will Further Deepen the Comprehensive Strategic Partnership between Vietnam and China""",positive,0.7929953932762146,3,4,1,5
-2,chinese,"""UN Human Rights Agency: Over 40,000 Deaths in Gaza Strip is a ""Cruel Milestone""""",neutral,0.5169370770454407,1,4,1,5
-3,chinese,"""Subsidies Doubled: New Regulations for Car Trade-In Program Announced!""",neutral,0.7031727433204651,1,4,1,5
-4,chinese,"State Council Taiwan Affairs Office: DPP distorts punishment measures against ""independence"" and confuses illegal activities with normal cross-strait exchanges",negative,0.8631079196929932,-2,4,1,5
-5,chinese,"""Fun in Shenzhen! American guy Dewey's adventure in Luohu""",positive,0.6214247941970825,2,4,1,5
-6,chinese,"""Chinese Sports Delegation Established for the Paris Paralympic Games""",neutral,0.8619589805603027,1,4,1,5
-7,chinese,"""Giant Panda ""Ying Ying"" at Hong Kong Zoo Celebrates 19th Birthday and Upgrades to Become a Mother This Year!""",positive,0.6603569388389587,2,4,1,5
-8,chinese,"""Chongqing-Kunming High-Speed Railway Chongqing-Yichang Section Enters Operation Trial Stage""",neutral,0.8352094888687134,1,4,1,5
-9,chinese,"""142.6 Billion Pieces! China's Express Delivery Volume Increases by 22.2% Year-on-Year in July""",neutral,0.5156888961791992,1,4,1,5
+0,chinese,"""Brazilian President: 50th Anniversary of Diplomatic Relations, Brazil-China Cooperation Continues to Forge a New Chapter""",positive,0.6647682189941406,2,4,1,5
+1,chinese,"""China's Intellectual Property Agency Industry is Developing Steadily""",positive,0.5981022119522095,2,4,1,5
+2,chinese,"""Current Round of Israeli-Palestinian Conflict Results in 40,074 Deaths in Gaza Strip""",neutral,0.5857720971107483,1,4,1,5
+3,chinese,"""National Development and Reform Commission and Three Other Departments Jointly Release New Policy""",neutral,0.7543614506721497,1,4,1,5
+4,chinese,"""Severe Rainfall Expected in Multiple Regions, Ministry of Water Resources Issues Targeted Warnings to 5 Provinces Including Hebei""",negative,0.6252655386924744,-1,4,1,5
+5,chinese,"""Chinese and Vietnamese border residents promote mutual understanding through diverse exchange activities""",positive,0.5561593174934387,2,4,1,5
+6,chinese,"""14.29 Million People, 5.24 Million Tons: The ""Happiness Line"" for the People""",neutral,0.7330189943313599,1,4,1,5
+7,chinese,"""High ""Green"" Content! ""Green"" Becomes Key Development Keyword for First Half of 2024 Economy""",positive,0.6289653182029724,2,4,1,5
+8,chinese,"""How to leverage more financial resources to support technological innovation in small and medium-sized enterprises?""",neutral,0.5192357301712036,1,4,1,5
+9,chinese,"""Implementing a Strong Combination of Proactive Fiscal Policies""",neutral,0.5326943397521973,1,4,1,5
