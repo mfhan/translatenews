@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Brazilian President: 50th Anniversary of Diplomatic Relations, Brazil-China Cooperation Continues to Forge a New Chapter""",positive,0.6647682189941406,2,4,1,5
-1,chinese,"""China's Intellectual Property Agency Industry is Developing Steadily""",positive,0.5981022119522095,2,4,1,5
-2,chinese,"""Current Round of Israeli-Palestinian Conflict Results in 40,074 Deaths in Gaza Strip""",neutral,0.5857720971107483,1,4,1,5
-3,chinese,"""National Development and Reform Commission and Three Other Departments Jointly Release New Policy""",neutral,0.7543614506721497,1,4,1,5
-4,chinese,"""Severe Rainfall Expected in Multiple Regions, Ministry of Water Resources Issues Targeted Warnings to 5 Provinces Including Hebei""",negative,0.6252655386924744,-1,4,1,5
-5,chinese,"""Chinese and Vietnamese border residents promote mutual understanding through diverse exchange activities""",positive,0.5561593174934387,2,4,1,5
-6,chinese,"""14.29 Million People, 5.24 Million Tons: The ""Happiness Line"" for the People""",neutral,0.7330189943313599,1,4,1,5
-7,chinese,"""High ""Green"" Content! ""Green"" Becomes Key Development Keyword for First Half of 2024 Economy""",positive,0.6289653182029724,2,4,1,5
-8,chinese,"""How to leverage more financial resources to support technological innovation in small and medium-sized enterprises?""",neutral,0.5192357301712036,1,4,1,5
-9,chinese,"""Implementing a Strong Combination of Proactive Fiscal Policies""",neutral,0.5326943397521973,1,4,1,5
+0,chinese,"""American Scholar: The Labels of ""Economic Recession"" and ""Overcapacity"" Cannot Be Blamed on China""",negative,0.8017232418060303,-2,2,3,5
+1,chinese,"""International Gold Price Hits Record High, Surpasses $2500 per Ounce Mark""",neutral,0.7343267202377319,1,2,3,5
+2,chinese,"""Sinking Market in High Demand: ""Small Town Tours"" Reflect New Trend of Urbanization""",neutral,0.7160587310791016,1,2,3,5
+3,chinese,"""144-Hour Transit Visa Exemption Policy Now Applies to 37 Ports and 54 Countries""",neutral,0.8615049123764038,1,2,3,5
+4,chinese,"""Attention Required for Travel! Central Meteorological Observatory Upgrades to Issue Yellow Rainstorm Warning Today""",neutral,0.6408146023750305,1,2,3,5
+5,chinese,"""Two departments allocate 115 million yuan in central funds for natural disaster relief in advance""",positive,0.4994123876094818,2,2,3,5
+6,chinese,"""Supreme Court: Increase Efforts to Crack Down on Money Laundering Crimes Involving Underground Banks, Virtual Currencies, and Gaming Currencies""",negative,0.7444432973861694,-2,2,3,5
+7,chinese,"""Australian Scholar Dai Ruo Gu Bi: NATO's Eastward Expansion in Asia-Pacific Will Only Bring Destruction and Turmoil""",negative,0.8304738402366638,-2,2,3,5
+8,chinese,"""Daily Word | Regulations on Subsidies and Benefits for Military Service Members""",neutral,0.87238609790802,1,2,3,5
+9,chinese,"""Foreigner Arrivals Increase by 129.9%! ""Three Visits"" Policy Boosts China's Inbound Tourism Market""",positive,0.6085373163223267,2,2,3,5
