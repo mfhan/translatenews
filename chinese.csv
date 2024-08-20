@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Scholar: The Labels of ""Economic Recession"" and ""Overcapacity"" Cannot Be Blamed on China""",negative,0.8017232418060303,-2,2,3,5
-1,chinese,"""International Gold Price Hits Record High, Surpasses $2500 per Ounce Mark""",neutral,0.7343267202377319,1,2,3,5
-2,chinese,"""Sinking Market in High Demand: ""Small Town Tours"" Reflect New Trend of Urbanization""",neutral,0.7160587310791016,1,2,3,5
-3,chinese,"""144-Hour Transit Visa Exemption Policy Now Applies to 37 Ports and 54 Countries""",neutral,0.8615049123764038,1,2,3,5
-4,chinese,"""Attention Required for Travel! Central Meteorological Observatory Upgrades to Issue Yellow Rainstorm Warning Today""",neutral,0.6408146023750305,1,2,3,5
-5,chinese,"""Two departments allocate 115 million yuan in central funds for natural disaster relief in advance""",positive,0.4994123876094818,2,2,3,5
-6,chinese,"""Supreme Court: Increase Efforts to Crack Down on Money Laundering Crimes Involving Underground Banks, Virtual Currencies, and Gaming Currencies""",negative,0.7444432973861694,-2,2,3,5
-7,chinese,"""Australian Scholar Dai Ruo Gu Bi: NATO's Eastward Expansion in Asia-Pacific Will Only Bring Destruction and Turmoil""",negative,0.8304738402366638,-2,2,3,5
-8,chinese,"""Daily Word | Regulations on Subsidies and Benefits for Military Service Members""",neutral,0.87238609790802,1,2,3,5
-9,chinese,"""Foreigner Arrivals Increase by 129.9%! ""Three Visits"" Policy Boosts China's Inbound Tourism Market""",positive,0.6085373163223267,2,2,3,5
+0,chinese,"""American Scholars: The Labels of ""Economic Recession"" and ""Excess Production Capacity"" Cannot Be Blamed on China""",negative,0.8595240116119385,-2,1,6,3
+1,chinese,"""Successful Hand-in-Hand! The Right Span of Hejiang Extra Large Bridge Successfully Achieves Closure""",positive,0.8663290739059448,3,1,6,3
+2,chinese,"""Communication Disrupted in 4 Villages in Huludao, Liaoning Province Due to Heavy Rainfall""",negative,0.8111140727996826,-2,1,6,3
+3,chinese,"""Hainan Province Haikou City Committee Former Standing Committee Member and Former Deputy Mayor Julei Expelled from Party Membership""",negative,0.5076449513435364,-1,1,6,3
+4,chinese,"""China-Laos Railway has transported over 38 million passengers in total""",neutral,0.6500030159950256,1,1,6,3
+5,chinese,"""Breaking Records! Hekou Weilu in Dongjuyan Lake has not dried up for 20 consecutive years""",negative,0.7597420811653137,-2,1,6,3
+6,chinese,"""Biden Supports Harris in Speech at Democratic National Convention""",neutral,0.6314139366149902,1,1,6,3
+7,chinese,"""Skylark"" to move towards the north, strong winds expected along the coast of Shanghai, Zhejiang, and other areas.",neutral,0.5595594644546509,1,1,6,3
+8,chinese,"Former Director of the Competition Department of the Chinese Football Association, Huang Song, Sentenced to Seven Years in First Instance for Bribery",negative,0.7187789082527161,-2,1,6,3
+9,chinese,"""First Test Flight Reveals Issues: Structural Cracks Found in American Boeing 777X Aircraft""",negative,0.6347413063049316,-1,1,6,3
