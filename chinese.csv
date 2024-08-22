@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""First in Our Country! This Document is Released""",neutral,0.5311463475227356,1,1,5,4
-1,chinese,"""South Korean Prosecutors Determine First Lady Has No Suspicions of Crime""",negative,0.6942960023880005,-1,1,5,4
-2,chinese,"""Renminbi Exchange Rate Maintains Basic Stability, What Will Its Future Direction Be?""",neutral,0.8587173223495483,1,1,5,4
-3,chinese,Ministry of Commerce Responds to EU's Disclosure of Final Ruling on Anti-Subsidy Investigation of Electric Vehicles in China,neutral,0.6095566153526306,1,1,5,4
-4,chinese,"""Japan's Sudden Outbreak! Dozens of People Experience Vomiting and Diarrhea""",negative,0.8327674269676208,-2,1,5,4
-5,chinese,"""Qatar's Prime Minister Holds Phone Call with US Secretary of State to Discuss the Situation in Palestine and Israel""",neutral,0.8349695205688477,1,1,5,4
-6,chinese,"""Fuzhou's Changle District Building Catches Fire, No Casualties Reported""",negative,0.5440307259559631,-1,1,5,4
-7,chinese,"""Israeli Airstrikes in Gaza Cause Multiple Casualties, Hamas Accuses US as Mastermind""",negative,0.8235745429992676,-2,1,5,4
-8,chinese,"""Russia claims US, UK and other intelligence agencies were involved in planning the operation in Kurilsk, Ukraine""",negative,0.5159769058227539,-1,1,5,4
-9,chinese,"""Night Economy Builds Diverse Consumption Scenes and Enriches Consumer Experience""",positive,0.7334678769111633,3,1,5,4
+0,chinese,"""Ugandan International Students Discuss How the Belt and Road Initiative Improves Transportation in Their Home Country""",positive,0.5877497792243958,2,4,3,3
+1,chinese,"""China-ASEAN Digital Education Alliance Holds Annual Meeting in 2024""",neutral,0.7913579344749451,1,4,3,3
+2,chinese,"""Embarking on a New Food Era Together: Establishment of the ""White Elephant Aerospace Food Joint Laboratory""""",neutral,0.6780064702033997,1,4,3,3
+3,chinese,"""Black Myth: Wukong"" sells globally, 27 out of 36 filming locations are from Shanxi, promoting the popularity of Shanxi's cultural tourism.",positive,0.5798436999320984,2,4,3,3
+4,chinese,"""RMB Loan Balance Increases by 13.5 Trillion Yuan at the End of July, Further Enhancing the Financial Capability to Serve the Real Economy""",positive,0.7334710955619812,3,4,3,3
+5,chinese,"""Timothy Walz Officially Accepts Nomination as Democratic Vice Presidential Candidate""",positive,0.4904239773750305,2,4,3,3
+6,chinese,"""1 Ton of Lunar Soil Expected to Produce Over 50 Kilograms of Water! Chinese Scientists Announce New Discoveries in Lunar Soil Research""",neutral,0.5940250754356384,1,4,3,3
+7,chinese,"""Israeli Military Claims Airstrikes on Multiple Hezbollah Strongholds, Hezbollah Vows to Retaliate Against Israeli Targets""",negative,0.6654519438743591,-1,4,3,3
+8,chinese,"""Indonesia's Lewotobi Volcano Erupts, Ash Column Reaches 1000 Meters""",negative,0.7856218218803406,-2,4,3,3
+9,chinese,"""Fairness and Justice | Investigation on Chinese Electric Vehicles Unfair: EU's Protectionism Doomed to ""Harm Others and Benefit Oneself""""",negative,0.9115455150604248,-2,4,3,3
