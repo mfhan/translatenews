@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Ugandan International Students Discuss How the Belt and Road Initiative Improves Transportation in Their Home Country""",positive,0.5877497792243958,2,4,3,3
-1,chinese,"""China-ASEAN Digital Education Alliance Holds Annual Meeting in 2024""",neutral,0.7913579344749451,1,4,3,3
-2,chinese,"""Embarking on a New Food Era Together: Establishment of the ""White Elephant Aerospace Food Joint Laboratory""""",neutral,0.6780064702033997,1,4,3,3
-3,chinese,"""Black Myth: Wukong"" sells globally, 27 out of 36 filming locations are from Shanxi, promoting the popularity of Shanxi's cultural tourism.",positive,0.5798436999320984,2,4,3,3
-4,chinese,"""RMB Loan Balance Increases by 13.5 Trillion Yuan at the End of July, Further Enhancing the Financial Capability to Serve the Real Economy""",positive,0.7334710955619812,3,4,3,3
-5,chinese,"""Timothy Walz Officially Accepts Nomination as Democratic Vice Presidential Candidate""",positive,0.4904239773750305,2,4,3,3
-6,chinese,"""1 Ton of Lunar Soil Expected to Produce Over 50 Kilograms of Water! Chinese Scientists Announce New Discoveries in Lunar Soil Research""",neutral,0.5940250754356384,1,4,3,3
-7,chinese,"""Israeli Military Claims Airstrikes on Multiple Hezbollah Strongholds, Hezbollah Vows to Retaliate Against Israeli Targets""",negative,0.6654519438743591,-1,4,3,3
-8,chinese,"""Indonesia's Lewotobi Volcano Erupts, Ash Column Reaches 1000 Meters""",negative,0.7856218218803406,-2,4,3,3
-9,chinese,"""Fairness and Justice | Investigation on Chinese Electric Vehicles Unfair: EU's Protectionism Doomed to ""Harm Others and Benefit Oneself""""",negative,0.9115455150604248,-2,4,3,3
+0,chinese,"""Indian Bus Carrying 40 People Falls into River in Dhanusha District, Nepal""",negative,0.6055710315704346,-1,2,4,4
+1,chinese,"""From ""Showmanship"" to ""Service"", Domestic Humanoid Robots ""Rush"" into the Future Industry Track""",neutral,0.8251426219940186,1,2,4,4
+2,chinese,"""Black Myth: Wukong"" Continues to Ignite the Market, Breaking Records for Domestic Game Sales",negative,0.7469260096549988,-2,2,4,4
+3,chinese,"""Caribbean Boy's First Experience with Ice and Snow""",neutral,0.7388051152229309,1,2,4,4
+4,chinese,"Mexican Scholar: The United States Plays the ""Safety Card"" and Forms ""Small Circles"", China-Latin America Cooperation Must Take a New Path",neutral,0.5883955359458923,1,2,4,4
+5,chinese,"""Australian Scholar: Houthis and Hamas Prove that Military Deterrence Cannot Bring Peace""",negative,0.828945517539978,-2,2,4,4
+6,chinese,"""US Makes Significant Adjustments to Foreign Trade Strategy, Sino-US Relationship Shifts from ""Anchor of Stability"" to ""Source of Turmoil""""",neutral,0.50021892786026,1,2,4,4
+7,chinese,"""Swedish Scholar: China's Advocacy Brings New Hope for Peace and Stability in the Middle East""",positive,0.782947838306427,3,2,4,4
+8,chinese,"""China Extradites a Major Economic Crime Suspect from Thailand""",negative,0.7103233337402344,-2,2,4,4
+9,chinese,"""US Vice President Harris Officially Accepts Democratic Party's Nomination for Presidential Candidate""",positive,0.5450640916824341,2,2,4,4
