@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Indian Bus Carrying 40 People Falls into River in Dhanusha District, Nepal""",negative,0.6055710315704346,-1,2,4,4
-1,chinese,"""From ""Showmanship"" to ""Service"", Domestic Humanoid Robots ""Rush"" into the Future Industry Track""",neutral,0.8251426219940186,1,2,4,4
-2,chinese,"""Black Myth: Wukong"" Continues to Ignite the Market, Breaking Records for Domestic Game Sales",negative,0.7469260096549988,-2,2,4,4
-3,chinese,"""Caribbean Boy's First Experience with Ice and Snow""",neutral,0.7388051152229309,1,2,4,4
-4,chinese,"Mexican Scholar: The United States Plays the ""Safety Card"" and Forms ""Small Circles"", China-Latin America Cooperation Must Take a New Path",neutral,0.5883955359458923,1,2,4,4
-5,chinese,"""Australian Scholar: Houthis and Hamas Prove that Military Deterrence Cannot Bring Peace""",negative,0.828945517539978,-2,2,4,4
-6,chinese,"""US Makes Significant Adjustments to Foreign Trade Strategy, Sino-US Relationship Shifts from ""Anchor of Stability"" to ""Source of Turmoil""""",neutral,0.50021892786026,1,2,4,4
-7,chinese,"""Swedish Scholar: China's Advocacy Brings New Hope for Peace and Stability in the Middle East""",positive,0.782947838306427,3,2,4,4
-8,chinese,"""China Extradites a Major Economic Crime Suspect from Thailand""",negative,0.7103233337402344,-2,2,4,4
-9,chinese,"""US Vice President Harris Officially Accepts Democratic Party's Nomination for Presidential Candidate""",positive,0.5450640916824341,2,2,4,4
+0,chinese,"""Yantai's Attraction: A City of Nostalgia and Career Hall in the Eyes of American Principals""",neutral,0.5071506500244141,1,4,2,4
+1,chinese,"""Ministry of Commerce Holds Meeting Regarding Tariffs on High-displacement Fuel Vehicles""",neutral,0.8419184684753418,1,4,2,4
+2,chinese,"""US National Security Advisor Sullivan to Visit China""",neutral,0.8702502250671387,1,4,2,4
+3,chinese,"""【Envoys in Hebei】Grenada's Ambassador to China Praises Chinese Electric Vehicles as a New Engine for Sustainable Development Ecosystem""",positive,0.7166691422462463,3,4,2,4
+4,chinese,"""Chinese Companies' Investment in Africa Report: Sino-African Investment Cooperation Boosts Industrialization in Africa""",positive,0.5990238785743713,2,4,2,4
+5,chinese,"""Knife Attack in Solingen, Germany Leaves at Least 3 Dead""",negative,0.745835542678833,-2,4,2,4
+6,chinese,"""Ministry of Foreign Affairs Responds to Fukushima Nuclear Contamination Water Discharge Issue: The More Transparent and Open Japan is, the More Helpful it is in Easing International Community Concerns""",positive,0.5045055150985718,2,4,2,4
+7,chinese,"""Reason for Plane Crash in Northern Loei Province, Thailand Still Under Investigation""",negative,0.6022415161132812,-1,4,2,4
+8,chinese,"""[China Story Creation Conference] Argentine Ambassador to China Falls in Love with Chinese Red Wine, Anticipates Great Potential in Red Wine Trade between China and Argentina""",positive,0.6757900714874268,2,4,2,4
+9,chinese,"""'Benevolence' Chosen as the 2024 Annual Chinese Character for 'Belt and Road'""",neutral,0.7551238536834717,1,4,2,4
