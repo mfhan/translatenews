@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Yantai's Attraction: A City of Nostalgia and Career Hall in the Eyes of American Principals""",neutral,0.5071506500244141,1,4,2,4
-1,chinese,"""Ministry of Commerce Holds Meeting Regarding Tariffs on High-displacement Fuel Vehicles""",neutral,0.8419184684753418,1,4,2,4
-2,chinese,"""US National Security Advisor Sullivan to Visit China""",neutral,0.8702502250671387,1,4,2,4
-3,chinese,"""【Envoys in Hebei】Grenada's Ambassador to China Praises Chinese Electric Vehicles as a New Engine for Sustainable Development Ecosystem""",positive,0.7166691422462463,3,4,2,4
-4,chinese,"""Chinese Companies' Investment in Africa Report: Sino-African Investment Cooperation Boosts Industrialization in Africa""",positive,0.5990238785743713,2,4,2,4
-5,chinese,"""Knife Attack in Solingen, Germany Leaves at Least 3 Dead""",negative,0.745835542678833,-2,4,2,4
-6,chinese,"""Ministry of Foreign Affairs Responds to Fukushima Nuclear Contamination Water Discharge Issue: The More Transparent and Open Japan is, the More Helpful it is in Easing International Community Concerns""",positive,0.5045055150985718,2,4,2,4
-7,chinese,"""Reason for Plane Crash in Northern Loei Province, Thailand Still Under Investigation""",negative,0.6022415161132812,-1,4,2,4
-8,chinese,"""[China Story Creation Conference] Argentine Ambassador to China Falls in Love with Chinese Red Wine, Anticipates Great Potential in Red Wine Trade between China and Argentina""",positive,0.6757900714874268,2,4,2,4
-9,chinese,"""'Benevolence' Chosen as the 2024 Annual Chinese Character for 'Belt and Road'""",neutral,0.7551238536834717,1,4,2,4
+0,chinese,"""The leader of the ""Four Famous Fish of Yunnan"", the disappeared Dianchi Golden Line Carp, has returned!""",neutral,0.4210040271282196,1,4,1,5
+1,chinese,"""Report Cards Released, Which Country Has the Strongest Economy in the Second Quarter?""",neutral,0.6656224131584167,1,4,1,5
+2,chinese,"""International Market Demand Rebounds, China's Household Appliance Export Situation Improves in the First Half of the Year""",positive,0.6258416175842285,2,4,1,5
+3,chinese,"""Explore Xinjiang"" Series of Field Trips: The Beauty of Aksu, Xinjiang Goes Beyond Aksu Apples",positive,0.6042617559432983,2,4,1,5
+4,chinese,"""Pakistani Internet Celebrity Travel Expert Checks in at Zhouning Jiulong River, Marveling at the Wonders of Nature""",neutral,0.4891022741794586,1,4,1,5
+5,chinese,"""Foreign Ministry Officials Discuss US National Security Advisor Sullivan's Visit to China""",neutral,0.8264437317848206,1,4,1,5
+6,chinese,"""I use a painting to witness the friendship between China and Africa: African friends say China and Africa are good brothers""",positive,0.6432778239250183,2,4,1,5
+7,chinese,"""First-hand Experience of the Thrilling Adventure of Parkour at Zhangjiajie Tianmen Mountain""",neutral,0.5529994368553162,1,4,1,5
+8,chinese,"""Green Waters and Blue Mountains Attract Visitors: The Ecological Practices of a 600-Year-Old Ancient Town""",positive,0.5373589396476746,2,4,1,5
+9,chinese,"""Russia and Ukraine Exchange Captured Personnel, Ukraine Accuses Russian Bombers of Attacking Southern Ukraine""",negative,0.8105010390281677,-2,4,1,5
