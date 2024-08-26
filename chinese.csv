@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The leader of the ""Four Famous Fish of Yunnan"", the disappeared Dianchi Golden Line Carp, has returned!""",neutral,0.4210040271282196,1,4,1,5
-1,chinese,"""Report Cards Released, Which Country Has the Strongest Economy in the Second Quarter?""",neutral,0.6656224131584167,1,4,1,5
-2,chinese,"""International Market Demand Rebounds, China's Household Appliance Export Situation Improves in the First Half of the Year""",positive,0.6258416175842285,2,4,1,5
-3,chinese,"""Explore Xinjiang"" Series of Field Trips: The Beauty of Aksu, Xinjiang Goes Beyond Aksu Apples",positive,0.6042617559432983,2,4,1,5
-4,chinese,"""Pakistani Internet Celebrity Travel Expert Checks in at Zhouning Jiulong River, Marveling at the Wonders of Nature""",neutral,0.4891022741794586,1,4,1,5
-5,chinese,"""Foreign Ministry Officials Discuss US National Security Advisor Sullivan's Visit to China""",neutral,0.8264437317848206,1,4,1,5
-6,chinese,"""I use a painting to witness the friendship between China and Africa: African friends say China and Africa are good brothers""",positive,0.6432778239250183,2,4,1,5
-7,chinese,"""First-hand Experience of the Thrilling Adventure of Parkour at Zhangjiajie Tianmen Mountain""",neutral,0.5529994368553162,1,4,1,5
-8,chinese,"""Green Waters and Blue Mountains Attract Visitors: The Ecological Practices of a 600-Year-Old Ancient Town""",positive,0.5373589396476746,2,4,1,5
-9,chinese,"""Russia and Ukraine Exchange Captured Personnel, Ukraine Accuses Russian Bombers of Attacking Southern Ukraine""",negative,0.8105010390281677,-2,4,1,5
+0,chinese,"""New Payment Standards for Residents' Medical Insurance Announced in 2024""",neutral,0.8057357668876648,1,3,1,6
+1,chinese,"""Inside the Beijing Paralympic Village: What's Inside Chinese Athletes' Suitcases?""",neutral,0.7917960286140442,1,3,1,6
+2,chinese,"""National Railway Welcomes Peak Student Passenger Flow, Estimated to Send 6.5 Million People""",positive,0.4827173054218292,2,3,1,6
+3,chinese,"""【Diplomatic Visit to Hebei by Ambassador of Suriname】Surinamese Ambassador to China: Grateful for China's ""Electric"" Brightening of the Lives of the Surinamese People""",positive,0.7835349440574646,3,3,1,6
+4,chinese,"""Guangxi People of All Ethnicities ""Swear to Protect"" the Southern Gateway of the Motherland""",neutral,0.42558521032333374,1,3,1,6
+5,chinese,"""Daily Word | ""Selected Compilation of the 20 Most Important Documents Since 20 Years Ago""""",neutral,0.8106205463409424,1,3,1,6
+6,chinese,"""From Heavy Makeup to Light Touch, the Mooncake Market Embraces the ""Simplicity Trend""""",neutral,0.5248868465423584,1,3,1,6
+7,chinese,"""Frequent Occurrence of Disastrous Weather, How to Ensure the ""Basket of Vegetables""?""",negative,0.7737095952033997,-2,3,1,6
+8,chinese,"""Chinese Team Wins 2024 U17 Women's Volleyball World Championship""",positive,0.5395457744598389,2,3,1,6
+9,chinese,"""Media Attention: China Discusses Raising Tariffs on Large Displacement Fuel Vehicles""",neutral,0.6925494074821472,1,3,1,6
