@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""New Payment Standards for Residents' Medical Insurance Announced in 2024""",neutral,0.8057357668876648,1,3,1,6
-1,chinese,"""Inside the Beijing Paralympic Village: What's Inside Chinese Athletes' Suitcases?""",neutral,0.7917960286140442,1,3,1,6
-2,chinese,"""National Railway Welcomes Peak Student Passenger Flow, Estimated to Send 6.5 Million People""",positive,0.4827173054218292,2,3,1,6
-3,chinese,"""【Diplomatic Visit to Hebei by Ambassador of Suriname】Surinamese Ambassador to China: Grateful for China's ""Electric"" Brightening of the Lives of the Surinamese People""",positive,0.7835349440574646,3,3,1,6
-4,chinese,"""Guangxi People of All Ethnicities ""Swear to Protect"" the Southern Gateway of the Motherland""",neutral,0.42558521032333374,1,3,1,6
-5,chinese,"""Daily Word | ""Selected Compilation of the 20 Most Important Documents Since 20 Years Ago""""",neutral,0.8106205463409424,1,3,1,6
-6,chinese,"""From Heavy Makeup to Light Touch, the Mooncake Market Embraces the ""Simplicity Trend""""",neutral,0.5248868465423584,1,3,1,6
-7,chinese,"""Frequent Occurrence of Disastrous Weather, How to Ensure the ""Basket of Vegetables""?""",negative,0.7737095952033997,-2,3,1,6
-8,chinese,"""Chinese Team Wins 2024 U17 Women's Volleyball World Championship""",positive,0.5395457744598389,2,3,1,6
-9,chinese,"""Media Attention: China Discusses Raising Tariffs on Large Displacement Fuel Vehicles""",neutral,0.6925494074821472,1,3,1,6
+0,chinese,"""【Envoys in Hebei】Tanzanian Ambassador to China: Looking Forward to More Cooperation between Tanzania and China in the Field of New Energy""",positive,0.5464385151863098,2,3,1,6
+1,chinese,"""Revised Compulsory Education Three-Subject Unified Textbooks to be Used in the Fall Semester of This Year""",neutral,0.8117541670799255,1,3,1,6
+2,chinese,"""From Domestic Market to Breaking into the International Industry - Observing the Development of China's Gaming Industry""",neutral,0.6943085193634033,1,3,1,6
+3,chinese,"""Flag Bearer Announced! Chinese Paralympic Delegation Ready for All Competitions at Paris Paralympic Games""",positive,0.4998833239078522,2,3,1,6
+4,chinese,"""Anticipation! 2025 Chengdu World Games Competition Schedule Released""",neutral,0.6972461342811584,1,3,1,6
+5,chinese,"""Peak Summer Electricity Supply Guaranteed with New Power System's ""Combo Punch""!""",positive,0.7480795383453369,3,3,1,6
+6,chinese,"""Multiple Customs Offices Seize Prohibited Entry of Waste - Blocking ""Foreign Garbage"" Outside the Country's Borders""",negative,0.8759303689002991,-2,3,1,6
+7,chinese,"""Daily Word | Service-oriented Social Assistance""",neutral,0.8663291335105896,1,3,1,6
+8,chinese,"""The 2,000-year-old Huashan rock paintings unfold a diverse and integrated picture scroll of the Chinese nation""",neutral,0.5996223092079163,1,3,1,6
+9,chinese,"""Hot Export of ""Made in China"" Sports Equipment""",neutral,0.7040895819664001,1,3,1,6
