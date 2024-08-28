@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""【Envoys in Hebei】Tanzanian Ambassador to China: Looking Forward to More Cooperation between Tanzania and China in the Field of New Energy""",positive,0.5464385151863098,2,3,1,6
-1,chinese,"""Revised Compulsory Education Three-Subject Unified Textbooks to be Used in the Fall Semester of This Year""",neutral,0.8117541670799255,1,3,1,6
-2,chinese,"""From Domestic Market to Breaking into the International Industry - Observing the Development of China's Gaming Industry""",neutral,0.6943085193634033,1,3,1,6
-3,chinese,"""Flag Bearer Announced! Chinese Paralympic Delegation Ready for All Competitions at Paris Paralympic Games""",positive,0.4998833239078522,2,3,1,6
-4,chinese,"""Anticipation! 2025 Chengdu World Games Competition Schedule Released""",neutral,0.6972461342811584,1,3,1,6
-5,chinese,"""Peak Summer Electricity Supply Guaranteed with New Power System's ""Combo Punch""!""",positive,0.7480795383453369,3,3,1,6
-6,chinese,"""Multiple Customs Offices Seize Prohibited Entry of Waste - Blocking ""Foreign Garbage"" Outside the Country's Borders""",negative,0.8759303689002991,-2,3,1,6
-7,chinese,"""Daily Word | Service-oriented Social Assistance""",neutral,0.8663291335105896,1,3,1,6
-8,chinese,"""The 2,000-year-old Huashan rock paintings unfold a diverse and integrated picture scroll of the Chinese nation""",neutral,0.5996223092079163,1,3,1,6
-9,chinese,"""Hot Export of ""Made in China"" Sports Equipment""",neutral,0.7040895819664001,1,3,1,6
+0,chinese,"""In July, securities and futures operating institutions jointly filed 878 private equity management products""",neutral,0.8332464694976807,1,2,0,8
+1,chinese,"""Vegetables Bought and Sold Nationwide, Prices Fall, ""Basket of Vegetables"" Ensures Stable Production and Supply""",neutral,0.5750092267990112,1,2,0,8
+2,chinese,"""Has Shanghai Square Dancing reached the next level? Silent Disco becomes popular.""",neutral,0.4915684759616852,1,2,0,8
+3,chinese,"""Ministry of Foreign Affairs: Participation of African Countries is a Beautiful Scenery in the High-Quality Co-construction of ""Belt and Road""""",positive,0.8831412196159363,3,2,0,8
+4,chinese,"""2024 China Internet Civilization Conference Opens Today in Chengdu, Sichuan""",neutral,0.8584346771240234,1,2,0,8
+5,chinese,"""Exploring the Story Behind the Revival of Cultural Relics at the Shenyang Imperial Palace in the Northeast Region: A Survey of China's New Era""",neutral,0.7299658060073853,1,2,0,8
+6,chinese,"French Scholar: From Sports Arena to International Stage, Olympic Spirit Provides Enlightenment for Building a Harmonious World",positive,0.7923479080200195,3,2,0,8
+7,chinese,"""Daily Word | Tibet Autonomous Region Glacier Protection Regulations""",neutral,0.8962442874908447,1,2,0,8
+8,chinese,"""Mexican President Announces ""Suspension"" of Relations with US Embassy in Mexico""",neutral,0.611711323261261,1,2,0,8
+9,chinese,"""Artificial Intelligence Drives New Professions: Demand for Approximately One Million Talents and Wide Range of Applications""",neutral,0.5937737226486206,1,2,0,8
