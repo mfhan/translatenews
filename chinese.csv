@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""In July, securities and futures operating institutions jointly filed 878 private equity management products""",neutral,0.8332464694976807,1,2,0,8
-1,chinese,"""Vegetables Bought and Sold Nationwide, Prices Fall, ""Basket of Vegetables"" Ensures Stable Production and Supply""",neutral,0.5750092267990112,1,2,0,8
-2,chinese,"""Has Shanghai Square Dancing reached the next level? Silent Disco becomes popular.""",neutral,0.4915684759616852,1,2,0,8
-3,chinese,"""Ministry of Foreign Affairs: Participation of African Countries is a Beautiful Scenery in the High-Quality Co-construction of ""Belt and Road""""",positive,0.8831412196159363,3,2,0,8
-4,chinese,"""2024 China Internet Civilization Conference Opens Today in Chengdu, Sichuan""",neutral,0.8584346771240234,1,2,0,8
-5,chinese,"""Exploring the Story Behind the Revival of Cultural Relics at the Shenyang Imperial Palace in the Northeast Region: A Survey of China's New Era""",neutral,0.7299658060073853,1,2,0,8
-6,chinese,"French Scholar: From Sports Arena to International Stage, Olympic Spirit Provides Enlightenment for Building a Harmonious World",positive,0.7923479080200195,3,2,0,8
-7,chinese,"""Daily Word | Tibet Autonomous Region Glacier Protection Regulations""",neutral,0.8962442874908447,1,2,0,8
-8,chinese,"""Mexican President Announces ""Suspension"" of Relations with US Embassy in Mexico""",neutral,0.611711323261261,1,2,0,8
-9,chinese,"""Artificial Intelligence Drives New Professions: Demand for Approximately One Million Talents and Wide Range of Applications""",neutral,0.5937737226486206,1,2,0,8
+0,chinese,"""China's Internet User Base Reaches Nearly 1.1 Billion, Teenagers and ""Silver-haired"" Population Become the Main Force of Growth""",neutral,0.47401413321495056,1,1,0,9
+1,chinese,"""China has maintained its position as Africa's top trading partner for 15 consecutive years""",positive,0.7178000807762146,3,1,0,9
+2,chinese,"""Foreign Youth and Popular Chinese-style Band Sing ""Chengdu"" Together in Kuanzhai Alley""",neutral,0.6034572124481201,1,1,0,9
+3,chinese,"""Daily Vocabulary | Humanoid Robot""",neutral,0.9085545539855957,1,1,0,9
+4,chinese,"""National Grand Theater's Production of ""Das Rheingold"" Premieres""",neutral,0.9255703687667847,1,1,0,9
+5,chinese,"""Can the Unique Skill of 'Duzhu Piao' in the Jianghu World Outrun Foreigners? Can You Also Become a Giant Panda in Chishui, Guizhou?""",neutral,0.4732324182987213,1,1,0,9
+6,chinese,"""Sullivan's First Visit to China During His Tenure, Almost All Accompanying Personnel Can Speak Chinese""",neutral,0.7020249366760254,1,1,0,9
+7,chinese,"""[C Finance] Illustrated: Domestic Games ""Breaking Boundaries"", Igniting Consumption in Multiple Fields""",neutral,0.7847889065742493,1,1,0,9
+8,chinese,"""Back to School Season, These Autumn Infectious Diseases Need to Be Noted | Science Popularization Time""",neutral,0.4772905707359314,1,1,0,9
+9,chinese,"""Number of New Energy Industry Related Enterprises in China Exceeds 2 Million""",neutral,0.813513994216919,1,1,0,9
