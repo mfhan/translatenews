@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Internet User Base Reaches Nearly 1.1 Billion, Teenagers and ""Silver-haired"" Population Become the Main Force of Growth""",neutral,0.47401413321495056,1,1,0,9
-1,chinese,"""China has maintained its position as Africa's top trading partner for 15 consecutive years""",positive,0.7178000807762146,3,1,0,9
-2,chinese,"""Foreign Youth and Popular Chinese-style Band Sing ""Chengdu"" Together in Kuanzhai Alley""",neutral,0.6034572124481201,1,1,0,9
-3,chinese,"""Daily Vocabulary | Humanoid Robot""",neutral,0.9085545539855957,1,1,0,9
-4,chinese,"""National Grand Theater's Production of ""Das Rheingold"" Premieres""",neutral,0.9255703687667847,1,1,0,9
-5,chinese,"""Can the Unique Skill of 'Duzhu Piao' in the Jianghu World Outrun Foreigners? Can You Also Become a Giant Panda in Chishui, Guizhou?""",neutral,0.4732324182987213,1,1,0,9
-6,chinese,"""Sullivan's First Visit to China During His Tenure, Almost All Accompanying Personnel Can Speak Chinese""",neutral,0.7020249366760254,1,1,0,9
-7,chinese,"""[C Finance] Illustrated: Domestic Games ""Breaking Boundaries"", Igniting Consumption in Multiple Fields""",neutral,0.7847889065742493,1,1,0,9
-8,chinese,"""Back to School Season, These Autumn Infectious Diseases Need to Be Noted | Science Popularization Time""",neutral,0.4772905707359314,1,1,0,9
-9,chinese,"""Number of New Energy Industry Related Enterprises in China Exceeds 2 Million""",neutral,0.813513994216919,1,1,0,9
+0,chinese,"""2024 China Internet Civilization Conference: International Exchange and Mutual Learning Forum Held in Chengdu""",neutral,0.837517499923706,1,2,2,6
+1,chinese,Confirmed! The break time for primary and secondary schools has been adjusted to 15 minutes.,neutral,0.7505872249603271,1,2,2,6
+2,chinese,"""Africa's Astonishing Chinese Constructions""",positive,0.39830249547958374,2,2,2,6
+3,chinese,"""Paris Paralympic Games | Li Zhangyu wins first gold medal for Chinese delegation at Paris Paralympic Games""",positive,0.6802993416786194,2,2,2,6
+4,chinese,"""Utterly Ridiculous! No American Has Been Able to Answer Such a Simple Question to This Day""",negative,0.9379428029060364,-2,2,2,6
+5,chinese,"""Sullivan Visits China for the Third Day, Ministry of Foreign Affairs Reiterates Stance""",neutral,0.8429784178733826,1,2,2,6
+6,chinese,"""Former Russian Deputy Defense Minister Detained, Ukraine Claims New Missile Has a Range of Up to 700 Kilometers""",negative,0.6569681763648987,-1,2,2,6
+7,chinese,"""Chinese Scientists Use AI Large Model for Lunar Exploration""",neutral,0.5475366711616516,1,2,2,6
+8,chinese,"""China's Energy Transition White Paper | State Council Information Office Releases ""China's Energy Transition"" White Paper""",neutral,0.9156816601753235,1,2,2,6
+9,chinese,Ministry of National Defense Spokesperson Answers Journalists' Questions on Recent Military Issues,neutral,0.7105187773704529,1,2,2,6
