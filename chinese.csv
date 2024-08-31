@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""2024 China Internet Civilization Conference: International Exchange and Mutual Learning Forum Held in Chengdu""",neutral,0.837517499923706,1,2,2,6
-1,chinese,Confirmed! The break time for primary and secondary schools has been adjusted to 15 minutes.,neutral,0.7505872249603271,1,2,2,6
-2,chinese,"""Africa's Astonishing Chinese Constructions""",positive,0.39830249547958374,2,2,2,6
-3,chinese,"""Paris Paralympic Games | Li Zhangyu wins first gold medal for Chinese delegation at Paris Paralympic Games""",positive,0.6802993416786194,2,2,2,6
-4,chinese,"""Utterly Ridiculous! No American Has Been Able to Answer Such a Simple Question to This Day""",negative,0.9379428029060364,-2,2,2,6
-5,chinese,"""Sullivan Visits China for the Third Day, Ministry of Foreign Affairs Reiterates Stance""",neutral,0.8429784178733826,1,2,2,6
-6,chinese,"""Former Russian Deputy Defense Minister Detained, Ukraine Claims New Missile Has a Range of Up to 700 Kilometers""",negative,0.6569681763648987,-1,2,2,6
-7,chinese,"""Chinese Scientists Use AI Large Model for Lunar Exploration""",neutral,0.5475366711616516,1,2,2,6
-8,chinese,"""China's Energy Transition White Paper | State Council Information Office Releases ""China's Energy Transition"" White Paper""",neutral,0.9156816601753235,1,2,2,6
-9,chinese,Ministry of National Defense Spokesperson Answers Journalists' Questions on Recent Military Issues,neutral,0.7105187773704529,1,2,2,6
+0,chinese,"""Boeing's ""Starliner"" spacecraft plans to return to Earth in early September without passengers""",neutral,0.7277039885520935,1,1,3,6
+1,chinese,"Shenzhen Stock Exchange: 2,160 Companies Have Disclosed First Half-Year Performance, Total Revenue Exceeds 7 Trillion Yuan",neutral,0.5061304569244385,1,1,3,6
+2,chinese,"""China's Manufacturing PMI for August is 49.1%""",neutral,0.840530276298523,1,1,3,6
+3,chinese,"""Foreign Journalists Expose the Hypocrisy of America: We Must Understand How to Fight Against the American Empire""",negative,0.893366813659668,-2,1,3,6
+4,chinese,"""Hungarian Media Personnel: The US Will Not Support Our Reporting on China, But the Power Defending Autonomy is Growing Stronger""",neutral,0.5436099171638489,1,1,3,6
+5,chinese,"""Chinese Representative: Advises US Not to Shift Blame and Create Confrontation""",negative,0.5528666973114014,-1,1,3,6
+6,chinese,"""Sullivan's Visit to China: Ministry of Foreign Affairs Emphasizes that the Taiwan Issue is the First and Unbreakable Red Line in US-China Relations""",negative,0.5402988195419312,-1,1,3,6
+7,chinese,"""How to Trade in Old Electric Bicycles for New Ones? What Subsidies are Available? All You Need to Know in One Article""",neutral,0.8667969703674316,1,1,3,6
+8,chinese,"""Starry Sky Rendezvous | September's ""Celestial Theater"": ""Super Moon"" to Make an Appearance""",neutral,0.8023372888565063,1,1,3,6
+9,chinese,"""Cultural Heritage of National Trends | Foreign Bloggers Visit Filming Location of ""Legend of the Black Myth: Wukong"" and Are Amazed""",positive,0.625896155834198,2,1,3,6
