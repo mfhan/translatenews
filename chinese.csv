@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Boeing's ""Starliner"" spacecraft plans to return to Earth in early September without passengers""",neutral,0.7277039885520935,1,1,3,6
-1,chinese,"Shenzhen Stock Exchange: 2,160 Companies Have Disclosed First Half-Year Performance, Total Revenue Exceeds 7 Trillion Yuan",neutral,0.5061304569244385,1,1,3,6
-2,chinese,"""China's Manufacturing PMI for August is 49.1%""",neutral,0.840530276298523,1,1,3,6
-3,chinese,"""Foreign Journalists Expose the Hypocrisy of America: We Must Understand How to Fight Against the American Empire""",negative,0.893366813659668,-2,1,3,6
-4,chinese,"""Hungarian Media Personnel: The US Will Not Support Our Reporting on China, But the Power Defending Autonomy is Growing Stronger""",neutral,0.5436099171638489,1,1,3,6
-5,chinese,"""Chinese Representative: Advises US Not to Shift Blame and Create Confrontation""",negative,0.5528666973114014,-1,1,3,6
-6,chinese,"""Sullivan's Visit to China: Ministry of Foreign Affairs Emphasizes that the Taiwan Issue is the First and Unbreakable Red Line in US-China Relations""",negative,0.5402988195419312,-1,1,3,6
-7,chinese,"""How to Trade in Old Electric Bicycles for New Ones? What Subsidies are Available? All You Need to Know in One Article""",neutral,0.8667969703674316,1,1,3,6
-8,chinese,"""Starry Sky Rendezvous | September's ""Celestial Theater"": ""Super Moon"" to Make an Appearance""",neutral,0.8023372888565063,1,1,3,6
-9,chinese,"""Cultural Heritage of National Trends | Foreign Bloggers Visit Filming Location of ""Legend of the Black Myth: Wukong"" and Are Amazed""",positive,0.625896155834198,2,1,3,6
+0,chinese,"""Over 700 billion, over 900 million! China-Africa Infrastructure Connects New Development Path for Africa""",positive,0.6112478375434875,2,6,1,3
+1,chinese,"""Chinese Cultural Trend in Cultural Relics | Explore Yangzhou's Dongguan Street and Experience Traditional Chinese Alleys""",neutral,0.6802927851676941,1,6,1,3
+2,chinese,"""China's Agricultural Green Development Level Steadily Improving""",positive,0.6469427943229675,2,6,1,3
+3,chinese,"""National Railway Operating Quality and Efficiency Steadily Improved in the First Half of the Year""",positive,0.814714789390564,3,6,1,3
+4,chinese,"""These sections are prohibited for vehicle traffic! Beijing Traffic Management Department issues travel tips for September 2nd""",negative,0.7416203618049622,-2,6,1,3
+5,chinese,"""China-Africa Capacity Building Yields Fruit in Various Aspects, Accumulating New Strength for Cooperation""",positive,0.7019081115722656,3,6,1,3
+6,chinese,"""The future chapter is no less glorious than the past: ""National Trend in Cultural Relics"" (Jiangsu) Creative Meeting Successfully Held""",positive,0.8503552079200745,3,6,1,3
+7,chinese,"""New Today, New Every Day, Start the Journey!""",positive,0.6488658785820007,2,6,1,3
+8,chinese,"""China's Economic Development New Momentum Index Reaches 119.5 in 2023, an Increase of 19.5% from the Previous Year""",neutral,0.6313139200210571,1,6,1,3
+9,chinese,"""China's Mainland Summer Box Office Comes to a Close in 2024""",neutral,0.8208802342414856,1,6,1,3
