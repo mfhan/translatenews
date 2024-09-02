@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Over 700 billion, over 900 million! China-Africa Infrastructure Connects New Development Path for Africa""",positive,0.6112478375434875,2,6,1,3
-1,chinese,"""Chinese Cultural Trend in Cultural Relics | Explore Yangzhou's Dongguan Street and Experience Traditional Chinese Alleys""",neutral,0.6802927851676941,1,6,1,3
-2,chinese,"""China's Agricultural Green Development Level Steadily Improving""",positive,0.6469427943229675,2,6,1,3
-3,chinese,"""National Railway Operating Quality and Efficiency Steadily Improved in the First Half of the Year""",positive,0.814714789390564,3,6,1,3
-4,chinese,"""These sections are prohibited for vehicle traffic! Beijing Traffic Management Department issues travel tips for September 2nd""",negative,0.7416203618049622,-2,6,1,3
-5,chinese,"""China-Africa Capacity Building Yields Fruit in Various Aspects, Accumulating New Strength for Cooperation""",positive,0.7019081115722656,3,6,1,3
-6,chinese,"""The future chapter is no less glorious than the past: ""National Trend in Cultural Relics"" (Jiangsu) Creative Meeting Successfully Held""",positive,0.8503552079200745,3,6,1,3
-7,chinese,"""New Today, New Every Day, Start the Journey!""",positive,0.6488658785820007,2,6,1,3
-8,chinese,"""China's Economic Development New Momentum Index Reaches 119.5 in 2023, an Increase of 19.5% from the Previous Year""",neutral,0.6313139200210571,1,6,1,3
-9,chinese,"""China's Mainland Summer Box Office Comes to a Close in 2024""",neutral,0.8208802342414856,1,6,1,3
+0,chinese,"""American Scholars Experience Chinese Intangible Cultural Heritage Lacquer Fans, Encouraging American Youth to Come to China and See for Themselves""",positive,0.5999764800071716,2,4,0,6
+1,chinese,"""Joining Hands and Advancing Together, Mutual Development: Interview with Bushiba, Chairman of the Morocco Africa-China Cooperation and Development Association""",neutral,0.5786803960800171,1,4,0,6
+2,chinese,"""Domestically Produced Large Aircraft C919 Carries Over 500,000 Passengers""",neutral,0.6520403027534485,1,4,0,6
+3,chinese,"""A-Share Listed Companies' Semi-Annual Report: Nearly 80% Achieved Profit""",neutral,0.7214803099632263,1,4,0,6
+4,chinese,"""Focus on ""China-Africa Trade"" Increases, Facilitation Measures Promote Growth in African Exports to China""",positive,0.6718875169754028,2,4,0,6
+5,chinese,"""Elegant Lacquerware Transmits Beauty in Time and Space""",positive,0.7735532522201538,3,4,0,6
+6,chinese,"""If you could time travel to ancient times, who would you want to become?""",neutral,0.6566801071166992,1,4,0,6
+7,chinese,"""The 19th China Changchun Film Festival Concludes, List of Golden Deer Award Winners Announced""",neutral,0.6885581016540527,1,4,0,6
+8,chinese,"""Nanjing City Wall: Exploring the Connection between the Wall and People through Systematic Preservation""",neutral,0.6659737229347229,1,4,0,6
+9,chinese,"""Summer Cultural Tourism Market is Full of ""Hot"" Energy""",positive,0.47871777415275574,2,4,0,6
