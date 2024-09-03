@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Scholars Experience Chinese Intangible Cultural Heritage Lacquer Fans, Encouraging American Youth to Come to China and See for Themselves""",positive,0.5999764800071716,2,4,0,6
-1,chinese,"""Joining Hands and Advancing Together, Mutual Development: Interview with Bushiba, Chairman of the Morocco Africa-China Cooperation and Development Association""",neutral,0.5786803960800171,1,4,0,6
-2,chinese,"""Domestically Produced Large Aircraft C919 Carries Over 500,000 Passengers""",neutral,0.6520403027534485,1,4,0,6
-3,chinese,"""A-Share Listed Companies' Semi-Annual Report: Nearly 80% Achieved Profit""",neutral,0.7214803099632263,1,4,0,6
-4,chinese,"""Focus on ""China-Africa Trade"" Increases, Facilitation Measures Promote Growth in African Exports to China""",positive,0.6718875169754028,2,4,0,6
-5,chinese,"""Elegant Lacquerware Transmits Beauty in Time and Space""",positive,0.7735532522201538,3,4,0,6
-6,chinese,"""If you could time travel to ancient times, who would you want to become?""",neutral,0.6566801071166992,1,4,0,6
-7,chinese,"""The 19th China Changchun Film Festival Concludes, List of Golden Deer Award Winners Announced""",neutral,0.6885581016540527,1,4,0,6
-8,chinese,"""Nanjing City Wall: Exploring the Connection between the Wall and People through Systematic Preservation""",neutral,0.6659737229347229,1,4,0,6
-9,chinese,"""Summer Cultural Tourism Market is Full of ""Hot"" Energy""",positive,0.47871777415275574,2,4,0,6
+0,chinese,"""Take History as a Lesson, Cherish Peace, Commemorate the 79th Anniversary of the Victory of the War of Resistance Against Japan""",positive,0.6425665020942688,2,3,1,6
+1,chinese,"""China in Focus: Kenyan President Uhuru Kenyatta: China-Africa Cooperation for Mutual Benefit, Looking Forward to Deepening Cooperation with China""",positive,0.6791853904724121,2,3,1,6
+2,chinese,"""China's Largest Oil and Gas Field's Cumulative Production Exceeds 1 Billion Tons of Oil and Gas Equivalent""",neutral,0.7389140129089355,1,3,1,6
+3,chinese,"""Second Batch of 100 World Geological Heritage Sites Announced, 3 Locations in China Selected""",neutral,0.7600682973861694,1,3,1,6
+4,chinese,"""China's Logistics Industry Prosperity Index for August Reaches 51.5%""",neutral,0.6467215418815613,1,3,1,6
+5,chinese,"""Various regions successively release latest foreign trade performance report""",neutral,0.7557783722877502,1,3,1,6
+6,chinese,"""2024 China-Africa Cooperation Forum News Center Begins Operation""",neutral,0.8894352316856384,1,3,1,6
+7,chinese,"""Full of opportunities, providing new momentum... International media positively evaluate the convening of the China-Africa Cooperation Forum Summit""",positive,0.8673529028892517,3,3,1,6
+8,chinese,"Expert: ""It is unlikely that iPhone 16 will not support WeChat""",neutral,0.5410215854644775,1,3,1,6
+9,chinese,"""Fairness and Reasoning | Disregarding Industry Demands, Imposing Tariffs on China Has Become a Selfish ""Political Show"" by American Politicians""",negative,0.8576679825782776,-2,3,1,6
