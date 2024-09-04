@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Take History as a Lesson, Cherish Peace, Commemorate the 79th Anniversary of the Victory of the War of Resistance Against Japan""",positive,0.6425665020942688,2,3,1,6
-1,chinese,"""China in Focus: Kenyan President Uhuru Kenyatta: China-Africa Cooperation for Mutual Benefit, Looking Forward to Deepening Cooperation with China""",positive,0.6791853904724121,2,3,1,6
-2,chinese,"""China's Largest Oil and Gas Field's Cumulative Production Exceeds 1 Billion Tons of Oil and Gas Equivalent""",neutral,0.7389140129089355,1,3,1,6
-3,chinese,"""Second Batch of 100 World Geological Heritage Sites Announced, 3 Locations in China Selected""",neutral,0.7600682973861694,1,3,1,6
-4,chinese,"""China's Logistics Industry Prosperity Index for August Reaches 51.5%""",neutral,0.6467215418815613,1,3,1,6
-5,chinese,"""Various regions successively release latest foreign trade performance report""",neutral,0.7557783722877502,1,3,1,6
-6,chinese,"""2024 China-Africa Cooperation Forum News Center Begins Operation""",neutral,0.8894352316856384,1,3,1,6
-7,chinese,"""Full of opportunities, providing new momentum... International media positively evaluate the convening of the China-Africa Cooperation Forum Summit""",positive,0.8673529028892517,3,3,1,6
-8,chinese,"Expert: ""It is unlikely that iPhone 16 will not support WeChat""",neutral,0.5410215854644775,1,3,1,6
-9,chinese,"""Fairness and Reasoning | Disregarding Industry Demands, Imposing Tariffs on China Has Become a Selfish ""Political Show"" by American Politicians""",negative,0.8576679825782776,-2,3,1,6
+0,chinese,"""Focus on the Forum on China-Africa Cooperation Summit: Working Together to Create a New Chapter of China-Africa Cooperation""",positive,0.6107275485992432,2,5,0,5
+1,chinese,"""【China's Affairs】Kenyan President Ruto: Win-Win Cooperation with China, Looking Forward to Deepening Cooperation with China""",positive,0.6844024658203125,2,5,0,5
+2,chinese,"""China Releases First List of 2590 American Anti-Japanese Aviation Martyrs to the Public""",neutral,0.7711231708526611,1,5,0,5
+3,chinese,"""Countdown to Delivery! China's First Dual-Power Dredger Completes All Sea Trials""",positive,0.6144647598266602,2,5,0,5
+4,chinese,"""Jiang Xiaojian: China Will Definitely Grow Faster in Opening Up""",positive,0.6851540207862854,2,5,0,5
+5,chinese,"""What! The most popular Chinese TV drama in Egypt is actually TA and TA?""",neutral,0.6398201584815979,1,5,0,5
+6,chinese,"""China Launches ""Anti-Discrimination Investigation"" into the Related Restrictions Imposed on Canada""",neutral,0.6907471418380737,1,5,0,5
+7,chinese,China to Launch Precise Monitoring and Investigation of Mobile Children,neutral,0.6908519864082336,1,5,0,5
+8,chinese,"""Mobile China"" showcases the vitality of economic and social development, with strong momentum from both ""main arteries"" and ""microcirculation""",positive,0.7470340728759766,3,5,0,5
+9,chinese,"""Examining the ""Depth"" and ""Intensity"" of Sino-African Economic and Trade Cooperation Through Numbers""",neutral,0.717517077922821,1,5,0,5
