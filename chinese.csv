@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Focus on the Forum on China-Africa Cooperation Summit: Working Together to Create a New Chapter of China-Africa Cooperation""",positive,0.6107275485992432,2,5,0,5
-1,chinese,"""【China's Affairs】Kenyan President Ruto: Win-Win Cooperation with China, Looking Forward to Deepening Cooperation with China""",positive,0.6844024658203125,2,5,0,5
-2,chinese,"""China Releases First List of 2590 American Anti-Japanese Aviation Martyrs to the Public""",neutral,0.7711231708526611,1,5,0,5
-3,chinese,"""Countdown to Delivery! China's First Dual-Power Dredger Completes All Sea Trials""",positive,0.6144647598266602,2,5,0,5
-4,chinese,"""Jiang Xiaojian: China Will Definitely Grow Faster in Opening Up""",positive,0.6851540207862854,2,5,0,5
-5,chinese,"""What! The most popular Chinese TV drama in Egypt is actually TA and TA?""",neutral,0.6398201584815979,1,5,0,5
-6,chinese,"""China Launches ""Anti-Discrimination Investigation"" into the Related Restrictions Imposed on Canada""",neutral,0.6907471418380737,1,5,0,5
-7,chinese,China to Launch Precise Monitoring and Investigation of Mobile Children,neutral,0.6908519864082336,1,5,0,5
-8,chinese,"""Mobile China"" showcases the vitality of economic and social development, with strong momentum from both ""main arteries"" and ""microcirculation""",positive,0.7470340728759766,3,5,0,5
-9,chinese,"""Examining the ""Depth"" and ""Intensity"" of Sino-African Economic and Trade Cooperation Through Numbers""",neutral,0.717517077922821,1,5,0,5
+0,chinese,Exclusive | Nigerian President: Welcome to Strengthen Cooperation with China in a Wider Range of Fields,positive,0.8220042586326599,3,4,1,5
+1,chinese,"""World Bank's Former Economist: Besides Infrastructure, the Next Generation's China-Africa Cooperation Has Three Major Tasks""",neutral,0.754132091999054,1,4,1,5
+2,chinese,"""[Overseas Perspective] Liberian Journalist Experiences Human-Machine Dialogue and Exclaims How Magical It Is""",positive,0.7372591495513916,3,4,1,5
+3,chinese,"Former Australian Senator: Used to Look at American Cars, Now Looking at Chinese Cars",neutral,0.7585229277610779,1,4,1,5
+4,chinese,"""Daily Word | ""Global South""""",neutral,0.9177024364471436,1,4,1,5
+5,chinese,"""A Quick Look at the Three Major Achievements of the Sino-African Cooperation in Building the ""Belt and Road""""",neutral,0.5529934763908386,1,4,1,5
+6,chinese,"""11 Departments Join Forces to Promote Coordinated Development of New Information Infrastructure""",positive,0.6533483266830444,2,4,1,5
+7,chinese,"""Former US Senator Praises Chinese People for Having Long-Term Vision""",positive,0.7652239799499512,3,4,1,5
+8,chinese,"""Cultural Trip in China: Singing Wuxi Opera, Tasting Morning Tea, Learning from the Book of Filial Piety... A Group of Seven International Friends Experience the ""Lanxi Lifestyle""""",neutral,0.6633201837539673,1,4,1,5
+9,chinese,"""Reasoning with Friends | Replacing China with ""Friendly Shores""? America's Scheme Will Only Be in Vain""",negative,0.6694976091384888,-1,4,1,5
