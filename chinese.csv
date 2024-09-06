@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Exclusive | Nigerian President: Welcome to Strengthen Cooperation with China in a Wider Range of Fields,positive,0.8220042586326599,3,4,1,5
-1,chinese,"""World Bank's Former Economist: Besides Infrastructure, the Next Generation's China-Africa Cooperation Has Three Major Tasks""",neutral,0.754132091999054,1,4,1,5
-2,chinese,"""[Overseas Perspective] Liberian Journalist Experiences Human-Machine Dialogue and Exclaims How Magical It Is""",positive,0.7372591495513916,3,4,1,5
-3,chinese,"Former Australian Senator: Used to Look at American Cars, Now Looking at Chinese Cars",neutral,0.7585229277610779,1,4,1,5
-4,chinese,"""Daily Word | ""Global South""""",neutral,0.9177024364471436,1,4,1,5
-5,chinese,"""A Quick Look at the Three Major Achievements of the Sino-African Cooperation in Building the ""Belt and Road""""",neutral,0.5529934763908386,1,4,1,5
-6,chinese,"""11 Departments Join Forces to Promote Coordinated Development of New Information Infrastructure""",positive,0.6533483266830444,2,4,1,5
-7,chinese,"""Former US Senator Praises Chinese People for Having Long-Term Vision""",positive,0.7652239799499512,3,4,1,5
-8,chinese,"""Cultural Trip in China: Singing Wuxi Opera, Tasting Morning Tea, Learning from the Book of Filial Piety... A Group of Seven International Friends Experience the ""Lanxi Lifestyle""""",neutral,0.6633201837539673,1,4,1,5
-9,chinese,"""Reasoning with Friends | Replacing China with ""Friendly Shores""? America's Scheme Will Only Be in Vain""",negative,0.6694976091384888,-1,4,1,5
+0,chinese,Exclusive | Nigerian President: Welcome to Strengthen Cooperation in a Wider Range of Areas between Nigeria and China,positive,0.8070632219314575,3,4,1,5
+1,chinese,"""Major Oil-Producing Countries Announce Extension of Voluntary Production Cuts until the End of November""",neutral,0.6564162373542786,1,4,1,5
+2,chinese,"Central Bank Responds to ""Cutting Reserve Ratio and Interest Rates"": Further Observation of Economic Trends Needed",neutral,0.7029634714126587,1,4,1,5
+3,chinese,Ministry of Justice: China has basically established an equal and inclusive public legal service system,positive,0.5001478791236877,2,4,1,5
+4,chinese,"""Sierra Leone Scholar: China-Africa Cooperation Forum Promotes Leapfrog Development of China-Africa Relations""",positive,0.6271138191223145,2,4,1,5
+5,chinese,"""List of National Model Teachers for 2024 Released""",neutral,0.9061653017997742,1,4,1,5
+6,chinese,"""Regulations for the Examination and Approval of Legislative Regulations to be Implemented on November 1st""",neutral,0.5747737288475037,1,4,1,5
+7,chinese,"""African friends are shocked: I actually checked in a fruit potted plant at the Great Hall of the People!""",negative,0.853199303150177,-2,4,1,5
+8,chinese,"""Capricorn"" Strongly Strikes, Strong Winds and Rain in South China, Temperatures in Northern Regions to Fluctuate and Decrease",positive,0.5965767502784729,2,4,1,5
+9,chinese,"""Joint Chinese-Foreign Research Team Decodes Ocean Microbial ""Gene Treasure""""",neutral,0.7035815715789795,1,4,1,5
