@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Exclusive | Nigerian President: Welcome to Strengthen Cooperation in a Wider Range of Areas between Nigeria and China,positive,0.8070632219314575,3,4,1,5
-1,chinese,"""Major Oil-Producing Countries Announce Extension of Voluntary Production Cuts until the End of November""",neutral,0.6564162373542786,1,4,1,5
-2,chinese,"Central Bank Responds to ""Cutting Reserve Ratio and Interest Rates"": Further Observation of Economic Trends Needed",neutral,0.7029634714126587,1,4,1,5
-3,chinese,Ministry of Justice: China has basically established an equal and inclusive public legal service system,positive,0.5001478791236877,2,4,1,5
-4,chinese,"""Sierra Leone Scholar: China-Africa Cooperation Forum Promotes Leapfrog Development of China-Africa Relations""",positive,0.6271138191223145,2,4,1,5
-5,chinese,"""List of National Model Teachers for 2024 Released""",neutral,0.9061653017997742,1,4,1,5
-6,chinese,"""Regulations for the Examination and Approval of Legislative Regulations to be Implemented on November 1st""",neutral,0.5747737288475037,1,4,1,5
-7,chinese,"""African friends are shocked: I actually checked in a fruit potted plant at the Great Hall of the People!""",negative,0.853199303150177,-2,4,1,5
-8,chinese,"""Capricorn"" Strongly Strikes, Strong Winds and Rain in South China, Temperatures in Northern Regions to Fluctuate and Decrease",positive,0.5965767502784729,2,4,1,5
-9,chinese,"""Joint Chinese-Foreign Research Team Decodes Ocean Microbial ""Gene Treasure""""",neutral,0.7035815715789795,1,4,1,5
+0,chinese,"""China Daily and Guangxi Zhuang Autonomous Region Party Committee Propaganda Department Sign Strategic Cooperation Agreement""",neutral,0.8112866878509521,1,2,3,5
+1,chinese,"""Spokesperson of the Foreign Ministry Office in Hong Kong: The excellent business environment in Hong Kong should not be slandered by the US""",negative,0.6046506762504578,-1,2,3,5
+2,chinese,"""Super Typhoon ""Capricorn"" Approaching China-Vietnam Border, Heavy Rain Expected in Yunnan and Guangxi for the Next Three Days""",negative,0.7437413334846497,-2,2,3,5
+3,chinese,"""Two Earthquakes Occur in Taiwan Today, Many Areas Felt Tremors""",negative,0.6790624260902405,-1,2,3,5
+4,chinese,"""Chinese Athlete Elected as Member of International Paralympic Committee Athletes' Commission for the First Time""",neutral,0.6731866002082825,1,2,3,5
+5,chinese,"""China's Foreign Exchange Reserves Remain Stable Above $3.2 Trillion for 9 Consecutive Months""",neutral,0.6499069333076477,1,2,3,5
+6,chinese,"""National Development and Reform Commission: Urgently Allocates 200 Million Yuan to Support Emergency Recovery after Typhoon Disaster""",neutral,0.572478711605072,1,2,3,5
+7,chinese,"""Total Import and Export Value in Qianhai Cooperation Zone Exceeds Trillion Yuan in First 7 Months of This Year""",neutral,0.6840454339981079,1,2,3,5
+8,chinese,"""Cultural China Tour | The Cat at Ying County's Wooden Tower Goes Viral, English Explanation: How Impressive is the World's Tallest Wooden Tower!""",positive,0.7817516326904297,3,2,3,5
+9,chinese,"""White Dew: Dew from tonight is white, the moon is bright in my hometown""",positive,0.5506628155708313,2,2,3,5
