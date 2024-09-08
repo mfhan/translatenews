@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China Daily and Guangxi Zhuang Autonomous Region Party Committee Propaganda Department Sign Strategic Cooperation Agreement""",neutral,0.8112866878509521,1,2,3,5
-1,chinese,"""Spokesperson of the Foreign Ministry Office in Hong Kong: The excellent business environment in Hong Kong should not be slandered by the US""",negative,0.6046506762504578,-1,2,3,5
-2,chinese,"""Super Typhoon ""Capricorn"" Approaching China-Vietnam Border, Heavy Rain Expected in Yunnan and Guangxi for the Next Three Days""",negative,0.7437413334846497,-2,2,3,5
-3,chinese,"""Two Earthquakes Occur in Taiwan Today, Many Areas Felt Tremors""",negative,0.6790624260902405,-1,2,3,5
-4,chinese,"""Chinese Athlete Elected as Member of International Paralympic Committee Athletes' Commission for the First Time""",neutral,0.6731866002082825,1,2,3,5
-5,chinese,"""China's Foreign Exchange Reserves Remain Stable Above $3.2 Trillion for 9 Consecutive Months""",neutral,0.6499069333076477,1,2,3,5
-6,chinese,"""National Development and Reform Commission: Urgently Allocates 200 Million Yuan to Support Emergency Recovery after Typhoon Disaster""",neutral,0.572478711605072,1,2,3,5
-7,chinese,"""Total Import and Export Value in Qianhai Cooperation Zone Exceeds Trillion Yuan in First 7 Months of This Year""",neutral,0.6840454339981079,1,2,3,5
-8,chinese,"""Cultural China Tour | The Cat at Ying County's Wooden Tower Goes Viral, English Explanation: How Impressive is the World's Tallest Wooden Tower!""",positive,0.7817516326904297,3,2,3,5
-9,chinese,"""White Dew: Dew from tonight is white, the moon is bright in my hometown""",positive,0.5506628155708313,2,2,3,5
+0,chinese,"""How to Make Money? Lei Jun Discusses How to Do Business in Africa""",neutral,0.8112521171569824,1,3,1,6
+1,chinese,"""Opening Ceremony of National Cybersecurity Awareness Week 2024 Held in Guangzhou, Series of Events to Take Place Across the Country""",neutral,0.763679027557373,1,3,1,6
+2,chinese,"""Welcome Inbound Flights! Haikou Meilan International Airport Resumes Flight Operations""",positive,0.5052271485328674,2,3,1,6
+3,chinese,"""China's First Import of African Lamb Products""",neutral,0.8444842100143433,1,3,1,6
+4,chinese,"""Preventing Infectious Diseases in Autumn - Attention All Parents""",neutral,0.6322668194770813,1,3,1,6
+5,chinese,"""London, UK Protests Erupt Demanding Government to Stop Supplying Weapons to Israel""",negative,0.8467778563499451,-2,3,1,6
+6,chinese,"""Cultural Heritage Meets National Trend: Traditional Mooncakes with Ancient Architectural Elements are the Hottest ""National Trend"" Treat for Mid-Autumn Festival!""",positive,0.8159471154212952,3,3,1,6
+7,chinese,"""Highlights of Summer Cultural and Tourism Consumption Bring New Vitality to Economic Development""",positive,0.8304057717323303,3,3,1,6
+8,chinese,"""China's Foreign Exchange Reserves Remain Stable Above $3.2 Trillion for 9 Consecutive Months""",neutral,0.6499069333076477,1,3,1,6
+9,chinese,"""Ministry of Commerce Responds to Netherlands' Expansion of Lithography Machine Control Scope: China Strongly Opposes""",neutral,0.42711228132247925,1,3,1,6
