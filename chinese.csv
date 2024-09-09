@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""How to Make Money? Lei Jun Discusses How to Do Business in Africa""",neutral,0.8112521171569824,1,3,1,6
-1,chinese,"""Opening Ceremony of National Cybersecurity Awareness Week 2024 Held in Guangzhou, Series of Events to Take Place Across the Country""",neutral,0.763679027557373,1,3,1,6
-2,chinese,"""Welcome Inbound Flights! Haikou Meilan International Airport Resumes Flight Operations""",positive,0.5052271485328674,2,3,1,6
-3,chinese,"""China's First Import of African Lamb Products""",neutral,0.8444842100143433,1,3,1,6
-4,chinese,"""Preventing Infectious Diseases in Autumn - Attention All Parents""",neutral,0.6322668194770813,1,3,1,6
-5,chinese,"""London, UK Protests Erupt Demanding Government to Stop Supplying Weapons to Israel""",negative,0.8467778563499451,-2,3,1,6
-6,chinese,"""Cultural Heritage Meets National Trend: Traditional Mooncakes with Ancient Architectural Elements are the Hottest ""National Trend"" Treat for Mid-Autumn Festival!""",positive,0.8159471154212952,3,3,1,6
-7,chinese,"""Highlights of Summer Cultural and Tourism Consumption Bring New Vitality to Economic Development""",positive,0.8304057717323303,3,3,1,6
-8,chinese,"""China's Foreign Exchange Reserves Remain Stable Above $3.2 Trillion for 9 Consecutive Months""",neutral,0.6499069333076477,1,3,1,6
-9,chinese,"""Ministry of Commerce Responds to Netherlands' Expansion of Lithography Machine Control Scope: China Strongly Opposes""",neutral,0.42711228132247925,1,3,1,6
+0,chinese,"""【Overseas Perspective】How Can ""Belt and Road"" Aid Africa's Modernization? Ministers from Gambia Share Their Views""",neutral,0.741563618183136,1,3,2,5
+1,chinese,"""Sour again? Why is Western media singing a different tune on China-Africa cooperation?""",negative,0.8780215978622437,-2,3,2,5
+2,chinese,"""Ministry of Commerce: Launches Anti-Dumping Investigation on Imported Canola Seeds from Canada""",neutral,0.5839489102363586,1,3,2,5
+3,chinese,"""Haikou has activated 37 emergency water supply wells, expected to resume water supply gradually tonight""",neutral,0.4950997531414032,1,3,2,5
+4,chinese,"""Deepening Reform and Starting Again | Huang Hanquan: It is Very Hopeful to Achieve the Annual Growth Target""",positive,0.8539809584617615,3,3,2,5
+5,chinese,"""Expert from Chinese Academy of Social Sciences: ""Infrastructure Mania"" and the Dual Rush to Africa""",neutral,0.8254881501197815,1,3,2,5
+6,chinese,"""World Talk: Urgent Need to Heal the Psychological Trauma Caused by Gun Violence Among American Minors - Experts Warn: Don't Wait Any Longer!""",negative,0.5834125876426697,-1,3,2,5
+7,chinese,"""National People's Congress Standing Committee Legal Work Committee: Enhancing Monitoring and Analysis Capabilities for New Money Laundering Risks""",neutral,0.721591055393219,1,3,2,5
+8,chinese,"""First in the Country! The ""Dedicated High-Speed Channel"" for Data Transmission has Arrived""",positive,0.6524320840835571,2,3,2,5
+9,chinese,"""Cameroonian Minister of Agriculture: Chinese Agricultural Technology Brings Significant Assistance""",positive,0.7591990828514099,3,3,2,5
