@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""The 40th Teachers' Day | Lightly Writing Words, Thickly Painting a Lifetime""",neutral,0.499422550201416,1,2,1,7
-1,chinese,"""【Overseas Perspective】How Can ""One Belt One Road"" Assist Africa's Modernization? Ministers from Gambia Share Their Thoughts""",neutral,0.6294525265693665,1,2,1,7
-2,chinese,"""Revised Anti-Money Laundering Law Under Second Review, Strengthening Monitoring of New Money Laundering Risks""",neutral,0.7572784423828125,1,2,1,7
-3,chinese,"""Are you ready for the upcoming Double Festival? Have you prepared your basket?""",neutral,0.8461416959762573,1,2,1,7
-4,chinese,"""[C Finance] High Expectations! China and Africa Join Hands to Take Economic and Trade Cooperation to a New Level""",positive,0.75373774766922,3,2,1,7
-5,chinese,"""Building a Community, Uniting the Chinese Family | 10,000 Acres of Quinoa Creates a ""Giant Painting""""",positive,0.734236478805542,3,2,1,7
-6,chinese,"""Chinese and American Military Hold Regional Leadership Telephone Call""",neutral,0.8865298628807068,1,2,1,7
-7,chinese,"""WADA Strongly Demands Complete Reform of US Anti-Doping Agency""",neutral,0.6755331754684448,1,2,1,7
-8,chinese,"""Cracking down on ""fake gambling and black market"" in professional football league, 44 individuals permanently banned from working in the football industry""",negative,0.878662109375,-2,2,1,7
-9,chinese,"""Full Efforts to Repair! Over 80% of Users Affected by Typhoon ""Capricorn"" Have Restored Electricity""",neutral,0.5357780456542969,1,2,1,7
+0,chinese,"""Vice Chairman of China-EU Chamber of Commerce: Shanghai is Striving to Once Again Become the Leader of Reform""",positive,0.5070534944534302,2,7,1,2
+1,chinese,"""The Bund Summit Tokyo Team Brings a Timeless ""Hug""""",positive,0.8483288884162903,3,7,1,2
+2,chinese,"""Three Ministries: Intensifying Efforts to Promote the Scrapping and Renewal of Old Agricultural Machinery, Accelerating the Restructuring of Agricultural Machinery""",positive,0.5615849494934082,2,7,1,2
+3,chinese,"""Listed Companies' Performance Improves Quarter by Quarter in the First Half of 2024""",positive,0.48393484950065613,2,7,1,2
+4,chinese,"""Huang Hanquan: We Must Tolerate the Decrease in Contribution of Real Estate to Economic Growth and Cultivate New Pillar Industries""",positive,0.5498917102813721,2,7,1,2
+5,chinese,"""Chinese Embassy Spokesperson Urges US to Immediately Stop Advancing Negative Hong Kong Bill""",negative,0.6870194673538208,-1,7,1,2
+6,chinese,"""High-level Foreign Expert Symposium Held in Chengdu""",neutral,0.8598355650901794,1,7,1,2
+7,chinese,"""National Campaign for Trading in Old Cars and Home Appliances Launched, How Can Consumers Participate?""",neutral,0.8194636106491089,1,7,1,2
+8,chinese,"""[Overseas Chinese Perspective] Tanzanian Foreign Minister Refutes ""Debt Trap Theory"": Successfully Repaying Chinese Loans Can Showcase Our National Strength and Growth""",positive,0.48903384804725647,2,7,1,2
+9,chinese,"""Monet's Painting of Water Lilies Makes First Appearance in the Market 125 Years Ago""",positive,0.5258190035820007,2,7,1,2
