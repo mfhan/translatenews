@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Vice Chairman of China-EU Chamber of Commerce: Shanghai is Striving to Once Again Become the Leader of Reform""",positive,0.5070534944534302,2,7,1,2
-1,chinese,"""The Bund Summit Tokyo Team Brings a Timeless ""Hug""""",positive,0.8483288884162903,3,7,1,2
-2,chinese,"""Three Ministries: Intensifying Efforts to Promote the Scrapping and Renewal of Old Agricultural Machinery, Accelerating the Restructuring of Agricultural Machinery""",positive,0.5615849494934082,2,7,1,2
-3,chinese,"""Listed Companies' Performance Improves Quarter by Quarter in the First Half of 2024""",positive,0.48393484950065613,2,7,1,2
-4,chinese,"""Huang Hanquan: We Must Tolerate the Decrease in Contribution of Real Estate to Economic Growth and Cultivate New Pillar Industries""",positive,0.5498917102813721,2,7,1,2
-5,chinese,"""Chinese Embassy Spokesperson Urges US to Immediately Stop Advancing Negative Hong Kong Bill""",negative,0.6870194673538208,-1,7,1,2
-6,chinese,"""High-level Foreign Expert Symposium Held in Chengdu""",neutral,0.8598355650901794,1,7,1,2
-7,chinese,"""National Campaign for Trading in Old Cars and Home Appliances Launched, How Can Consumers Participate?""",neutral,0.8194636106491089,1,7,1,2
-8,chinese,"""[Overseas Chinese Perspective] Tanzanian Foreign Minister Refutes ""Debt Trap Theory"": Successfully Repaying Chinese Loans Can Showcase Our National Strength and Growth""",positive,0.48903384804725647,2,7,1,2
-9,chinese,"""Monet's Painting of Water Lilies Makes First Appearance in the Market 125 Years Ago""",positive,0.5258190035820007,2,7,1,2
+0,chinese,"""Dialogue and Reasoning: To Attract Chinese Investment, India Needs to Offer More ""Olive Branches""""",neutral,0.497367262840271,1,4,0,6
+1,chinese,"""China Consumers Association reminds consumers - Prepaid Consumption Must Sign Written Contract""",neutral,0.7932108640670776,1,4,0,6
+2,chinese,"""List of ""2024 China Top 500 Enterprises"" Released, Companies on the List Invested Over 1.8 Trillion Yuan in Research and Development Last Year""",neutral,0.6795685291290283,1,4,0,6
+3,chinese,"""Cutting-edge Video Call Feature Debuts at 2024 Service Trade Fair, Unleashing a New AI Experience""",positive,0.5574215650558472,2,4,0,6
+4,chinese,"""[China News] Foreign Company Executives Praise Shanghai's New Openness Measures: Looking Forward to Building a Higher Level of Open Economy Together""",positive,0.8201160430908203,3,4,0,6
+5,chinese,"""Foreign Uncle Improvises Beatles Song at High-Speed Rail Station: ""300 km/h, Faster than German High-Speed Rail""""",neutral,0.7069692611694336,1,4,0,6
+6,chinese,"""China-Africa Agricultural Cooperation: Mutual Benefit, Mutual Gain, and Complementary""",neutral,0.6091320514678955,1,4,0,6
+7,chinese,"""Former Ethiopian Minister: Knowledge Cooperation Boosts Quality Upgrade of ""Belt and Road"" Construction""",positive,0.6515142321586609,2,4,0,6
+8,chinese,"British Influencer Visits Guizhou Ancient Village: ""Amazing! A Great Example of a Rural Community""",positive,0.8969248533248901,3,4,0,6
+9,chinese,"""Bohai Oilfield's Bohai South Oilfield Group's cumulative oil and gas production exceeds 100 million tons""",neutral,0.7095763683319092,1,4,0,6
