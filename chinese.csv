@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Dialogue and Reasoning: To Attract Chinese Investment, India Needs to Offer More ""Olive Branches""""",neutral,0.497367262840271,1,4,0,6
-1,chinese,"""China Consumers Association reminds consumers - Prepaid Consumption Must Sign Written Contract""",neutral,0.7932108640670776,1,4,0,6
-2,chinese,"""List of ""2024 China Top 500 Enterprises"" Released, Companies on the List Invested Over 1.8 Trillion Yuan in Research and Development Last Year""",neutral,0.6795685291290283,1,4,0,6
-3,chinese,"""Cutting-edge Video Call Feature Debuts at 2024 Service Trade Fair, Unleashing a New AI Experience""",positive,0.5574215650558472,2,4,0,6
-4,chinese,"""[China News] Foreign Company Executives Praise Shanghai's New Openness Measures: Looking Forward to Building a Higher Level of Open Economy Together""",positive,0.8201160430908203,3,4,0,6
-5,chinese,"""Foreign Uncle Improvises Beatles Song at High-Speed Rail Station: ""300 km/h, Faster than German High-Speed Rail""""",neutral,0.7069692611694336,1,4,0,6
-6,chinese,"""China-Africa Agricultural Cooperation: Mutual Benefit, Mutual Gain, and Complementary""",neutral,0.6091320514678955,1,4,0,6
-7,chinese,"""Former Ethiopian Minister: Knowledge Cooperation Boosts Quality Upgrade of ""Belt and Road"" Construction""",positive,0.6515142321586609,2,4,0,6
-8,chinese,"British Influencer Visits Guizhou Ancient Village: ""Amazing! A Great Example of a Rural Community""",positive,0.8969248533248901,3,4,0,6
-9,chinese,"""Bohai Oilfield's Bohai South Oilfield Group's cumulative oil and gas production exceeds 100 million tons""",neutral,0.7095763683319092,1,4,0,6
+0,chinese,"""Heritage and Development Join Hands Towards the Future: China Daily's ""New Era Lecture Hall"" Successfully Held in New York, USA""",positive,0.6549379825592041,2,4,1,5
+1,chinese,"""Our country will launch retirement reform to delay retirement""",neutral,0.5499796271324158,1,4,1,5
+2,chinese,"""International Communication Expert: Sino-African Relations to Become a Model for South-South Cooperation""",neutral,0.6902162432670593,1,4,1,5
+3,chinese,"""The Next Trillion-Dollar Market is Here, These Data Will Help You Understand!""",positive,0.5257132649421692,2,4,1,5
+4,chinese,"""Our country's autumn grain is about to see a large-scale harvest, many regions implement policies to ensure a bountiful harvest""",positive,0.6002684235572815,2,4,1,5
+5,chinese,"""China-US ""Generation Z"" Debate Exchange Successfully Held in New York, USA""",positive,0.5532258152961731,2,4,1,5
+6,chinese,"""Chinese Ambassador to the US Xie Feng: The Development of Sino-US Relations Concerns Everyone and Everyone Has a Responsibility""",neutral,0.6083393692970276,1,4,1,5
+7,chinese,"""Venezuela Condemns US for Imposing New Round of Sanctions on Venezuelan Officials""",negative,0.8830605149269104,-2,4,1,5
+8,chinese,"""Mei Lanfang's Traditional Chinese Opera Hand Gesture Exhibition Opens at the Prince Gong's Mansion""",neutral,0.7429928779602051,1,4,1,5
+9,chinese,"""During the White Dew Season, What Should the Elderly Pay Attention to? | Seasonal Changes and Health""",neutral,0.8039829730987549,1,4,1,5
