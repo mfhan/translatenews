@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Heritage and Development Join Hands Towards the Future: China Daily's ""New Era Lecture Hall"" Successfully Held in New York, USA""",positive,0.6549379825592041,2,4,1,5
-1,chinese,"""Our country will launch retirement reform to delay retirement""",neutral,0.5499796271324158,1,4,1,5
-2,chinese,"""International Communication Expert: Sino-African Relations to Become a Model for South-South Cooperation""",neutral,0.6902162432670593,1,4,1,5
-3,chinese,"""The Next Trillion-Dollar Market is Here, These Data Will Help You Understand!""",positive,0.5257132649421692,2,4,1,5
-4,chinese,"""Our country's autumn grain is about to see a large-scale harvest, many regions implement policies to ensure a bountiful harvest""",positive,0.6002684235572815,2,4,1,5
-5,chinese,"""China-US ""Generation Z"" Debate Exchange Successfully Held in New York, USA""",positive,0.5532258152961731,2,4,1,5
-6,chinese,"""Chinese Ambassador to the US Xie Feng: The Development of Sino-US Relations Concerns Everyone and Everyone Has a Responsibility""",neutral,0.6083393692970276,1,4,1,5
-7,chinese,"""Venezuela Condemns US for Imposing New Round of Sanctions on Venezuelan Officials""",negative,0.8830605149269104,-2,4,1,5
-8,chinese,"""Mei Lanfang's Traditional Chinese Opera Hand Gesture Exhibition Opens at the Prince Gong's Mansion""",neutral,0.7429928779602051,1,4,1,5
-9,chinese,"""During the White Dew Season, What Should the Elderly Pay Attention to? | Seasonal Changes and Health""",neutral,0.8039829730987549,1,4,1,5
+0,chinese,"""President Xi Jinping Signs Presidential Order to Award 15 Individuals National Medals and Honorary Titles on the 75th Anniversary of the Founding of the People's Republic of China""",positive,0.6085079908370972,2,2,2,6
+1,chinese,"""Heritage and Development Join Hands towards the Future: China Daily's ""New Era Lecture Hall"" Successfully Held in New York, USA""",positive,0.6482384204864502,2,2,2,6
+2,chinese,"""Decision of the Standing Committee of the National People's Congress on Implementing a Gradual Increase in the Statutory Retirement Age""",neutral,0.7621243596076965,1,2,2,6
+3,chinese,"""Central Meteorological Observatory Issues Typhoon Yellow Warning on September 14th at 06:00""",neutral,0.6300308108329773,1,2,2,6
+4,chinese,"""Former US State Department Diplomatic Security Bureau Official Admits Involvement in Capitol Hill Riot""",negative,0.6060851812362671,-1,2,2,6
+5,chinese,"""Japan Demands Railway Operators to Conduct Emergency Inspections on Wheels and Axles""",neutral,0.7972391843795776,1,2,2,6
+6,chinese,"""Foreign Media Reports that South Korean Company Samsung Electronics Plans Global Layoffs""",neutral,0.7766230702400208,1,2,2,6
+7,chinese,"""ECB Asymmetrically Cuts Three Major Interest Rates, Global Interest Rate Cuts Accelerate Again""",negative,0.4675171971321106,-1,2,2,6
+8,chinese,"""China's Renminbi Loans Increase by 14.43 Trillion Yuan in First 8 Months""",neutral,0.590135931968689,1,2,2,6
+9,chinese,"""Double Increase in Quantity and Speed of Rare Disease Medications on the Market Benefits the People in China""",neutral,0.5096595883369446,1,2,2,6
