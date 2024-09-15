@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""President Xi Jinping Signs Presidential Order to Award 15 Individuals National Medals and Honorary Titles on the 75th Anniversary of the Founding of the People's Republic of China""",positive,0.6085079908370972,2,2,2,6
-1,chinese,"""Heritage and Development Join Hands towards the Future: China Daily's ""New Era Lecture Hall"" Successfully Held in New York, USA""",positive,0.6482384204864502,2,2,2,6
-2,chinese,"""Decision of the Standing Committee of the National People's Congress on Implementing a Gradual Increase in the Statutory Retirement Age""",neutral,0.7621243596076965,1,2,2,6
-3,chinese,"""Central Meteorological Observatory Issues Typhoon Yellow Warning on September 14th at 06:00""",neutral,0.6300308108329773,1,2,2,6
-4,chinese,"""Former US State Department Diplomatic Security Bureau Official Admits Involvement in Capitol Hill Riot""",negative,0.6060851812362671,-1,2,2,6
-5,chinese,"""Japan Demands Railway Operators to Conduct Emergency Inspections on Wheels and Axles""",neutral,0.7972391843795776,1,2,2,6
-6,chinese,"""Foreign Media Reports that South Korean Company Samsung Electronics Plans Global Layoffs""",neutral,0.7766230702400208,1,2,2,6
-7,chinese,"""ECB Asymmetrically Cuts Three Major Interest Rates, Global Interest Rate Cuts Accelerate Again""",negative,0.4675171971321106,-1,2,2,6
-8,chinese,"""China's Renminbi Loans Increase by 14.43 Trillion Yuan in First 8 Months""",neutral,0.590135931968689,1,2,2,6
-9,chinese,"""Double Increase in Quantity and Speed of Rare Disease Medications on the Market Benefits the People in China""",neutral,0.5096595883369446,1,2,2,6
+0,chinese,"""New Era Lecture | Qu Yingpu: China-US Relations Can Only Be Improved, Not Damaged""",neutral,0.5471538305282593,1,4,1,5
+1,chinese,"""Mid-Autumn Holiday Approaching, Abundant Supply in Festival Market""",neutral,0.771588921546936,1,4,1,5
+2,chinese,"""Digital Technology Innovation Upgrade: New Service Trade Ecology Boosts Economic Acceleration""",positive,0.7106480598449707,3,4,1,5
+3,chinese,"""Discovering the Beauty of China: Exploring the Elegance and Charm of Anhui""",positive,0.8173884153366089,3,4,1,5
+4,chinese,"""American Designer Ventures into the Deep Mountains of Guizhou: ""This is My Favorite Ancient Village""""",positive,0.6476029753684998,2,4,1,5
+5,chinese,"""The 11th Beijing Xiangshan Forum Concluded in Beijing on September 14th""",neutral,0.9083170890808105,1,4,1,5
+6,chinese,"""Chinese Coast Guard: Philippine Illegally Detained Chinese Ship 9701 Evacuated from Xianbing Reef""",negative,0.48884615302085876,-1,4,1,5
+7,chinese,"""Researchers Discover a New Species of Spider in Jiangxi Province""",neutral,0.6336565017700195,1,4,1,5
+8,chinese,"""Cultural China Tour | Exploring Cultural Heritage and Celebrating Mid-Autumn Festival at 7:30 PM Tonight, Don't Miss It!""",positive,0.7298135757446289,3,4,1,5
+9,chinese,"""Cloud Exhibition"" Becomes the Norm, Live Streaming Makes Cultural Relics Accessible",neutral,0.5176056027412415,1,4,1,5
