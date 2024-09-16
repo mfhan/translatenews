@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""New Era Lecture | Qu Yingpu: China-US Relations Can Only Be Improved, Not Damaged""",neutral,0.5471538305282593,1,4,1,5
-1,chinese,"""Mid-Autumn Holiday Approaching, Abundant Supply in Festival Market""",neutral,0.771588921546936,1,4,1,5
-2,chinese,"""Digital Technology Innovation Upgrade: New Service Trade Ecology Boosts Economic Acceleration""",positive,0.7106480598449707,3,4,1,5
-3,chinese,"""Discovering the Beauty of China: Exploring the Elegance and Charm of Anhui""",positive,0.8173884153366089,3,4,1,5
-4,chinese,"""American Designer Ventures into the Deep Mountains of Guizhou: ""This is My Favorite Ancient Village""""",positive,0.6476029753684998,2,4,1,5
-5,chinese,"""The 11th Beijing Xiangshan Forum Concluded in Beijing on September 14th""",neutral,0.9083170890808105,1,4,1,5
-6,chinese,"""Chinese Coast Guard: Philippine Illegally Detained Chinese Ship 9701 Evacuated from Xianbing Reef""",negative,0.48884615302085876,-1,4,1,5
-7,chinese,"""Researchers Discover a New Species of Spider in Jiangxi Province""",neutral,0.6336565017700195,1,4,1,5
-8,chinese,"""Cultural China Tour | Exploring Cultural Heritage and Celebrating Mid-Autumn Festival at 7:30 PM Tonight, Don't Miss It!""",positive,0.7298135757446289,3,4,1,5
-9,chinese,"""Cloud Exhibition"" Becomes the Norm, Live Streaming Makes Cultural Relics Accessible",neutral,0.5176056027412415,1,4,1,5
+0,chinese,"""American Economic Community Believes Imposing Tariffs on China Will Bring Multiple Negative Consequences""",negative,0.6643559336662292,-1,2,2,6
+1,chinese,"""Four Measures Taken by the Department of Ecology and Environment to Support the Development of Private Economy""",neutral,0.5453668236732483,1,2,2,6
+2,chinese,"""China's Economy Maintains Steady and Progressive Development Trend""",positive,0.7660468816757202,3,2,2,6
+3,chinese,"""Biden: Will Ensure that the Secret Service Has All Necessary Resources to Protect Trump's Safety""",neutral,0.5403349995613098,1,2,2,6
+4,chinese,"""Extreme Madness: US House of Representatives Passes 25 Anti-China Bills During ""China Week""""",negative,0.8828464150428772,-2,2,2,6
+5,chinese,"""US Media: After Suspected Assassination Plot, Trump Reiterates ""My Determination Will Only Grow Stronger""""",neutral,0.5729691386222839,1,2,2,6
+6,chinese,"""Typhoon Prapiroon May Hit Jiangsu, Zhejiang, and Shanghai Again""",neutral,0.7676309943199158,1,2,2,6
+7,chinese,"""Social Financing Scale and RMB Loan Growth Maintains Above 8%, Supportive Monetary Policy Shows Effectiveness""",positive,0.48637354373931885,2,2,2,6
+8,chinese,"""Jordan's King Appoints Kafah Hassan to Form New Government""",neutral,0.4598279893398285,1,2,2,6
+9,chinese,"""New Era Lecture | ""Friend of Guling"" Mu Yanling: Exploring 8 Years in Guling, Like a Treasure Hunt""",neutral,0.5420205593109131,1,2,2,6
