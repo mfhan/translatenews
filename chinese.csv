@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Economic Community Believes Imposing Tariffs on China Will Bring Multiple Negative Consequences""",negative,0.6643559336662292,-1,2,2,6
-1,chinese,"""Four Measures Taken by the Department of Ecology and Environment to Support the Development of Private Economy""",neutral,0.5453668236732483,1,2,2,6
-2,chinese,"""China's Economy Maintains Steady and Progressive Development Trend""",positive,0.7660468816757202,3,2,2,6
-3,chinese,"""Biden: Will Ensure that the Secret Service Has All Necessary Resources to Protect Trump's Safety""",neutral,0.5403349995613098,1,2,2,6
-4,chinese,"""Extreme Madness: US House of Representatives Passes 25 Anti-China Bills During ""China Week""""",negative,0.8828464150428772,-2,2,2,6
-5,chinese,"""US Media: After Suspected Assassination Plot, Trump Reiterates ""My Determination Will Only Grow Stronger""""",neutral,0.5729691386222839,1,2,2,6
-6,chinese,"""Typhoon Prapiroon May Hit Jiangsu, Zhejiang, and Shanghai Again""",neutral,0.7676309943199158,1,2,2,6
-7,chinese,"""Social Financing Scale and RMB Loan Growth Maintains Above 8%, Supportive Monetary Policy Shows Effectiveness""",positive,0.48637354373931885,2,2,2,6
-8,chinese,"""Jordan's King Appoints Kafah Hassan to Form New Government""",neutral,0.4598279893398285,1,2,2,6
-9,chinese,"""New Era Lecture | ""Friend of Guling"" Mu Yanling: Exploring 8 Years in Guling, Like a Treasure Hunt""",neutral,0.5420205593109131,1,2,2,6
+0,chinese,"""Cultural Journey in China | Conversations about Mid-Autumn Festival in Chinese Painting""",neutral,0.8023781776428223,1,2,0,8
+1,chinese,"""Chinese Embassy in the United States Holds Mid-Autumn Festival Concert for Compatriots from Both Sides of the Taiwan Strait; Ambassador Xie Feng: May the Full Moon of China Bring Home the Wanderers""",neutral,0.5569996237754822,1,2,0,8
+2,chinese,"""Guo Shaochun: China-US Relations Return to Normalcy, Overseas Chinese Support is Invaluable""",positive,0.6892138719558716,2,2,0,8
+3,chinese,"""Swedish Scholar: Africa Does Not Lack Grand Blueprints, What is Lacking are Genuine Partnerships""",neutral,0.5179274678230286,1,2,0,8
+4,chinese,"""China-Africa Digital Technology Cooperation: The Core Force Driving Integration and Innovative Development in Africa""",neutral,0.5840742588043213,1,2,0,8
+5,chinese,"""Cultural Journey in China | Mid-Autumn Festival in Poetry and Painting""",neutral,0.8132660388946533,1,2,0,8
+6,chinese,"""How Can Green Waters and Blue Mountains Turn into Golden and Silver Mountains: A Yunnan Story Takes You on a Journey""",neutral,0.5674005746841431,1,2,0,8
+7,chinese,"""China Daily and Hengqin Guangdong-Macao In-depth Cooperation Zone Jointly Launch Eight-Section Special Edition""",neutral,0.7431025505065918,1,2,0,8
+8,chinese,"""From 27.7 billion to 4.7 trillion yuan, domestic market prospers and grows""",positive,0.6079052686691284,2,2,0,8
+9,chinese,"""New Observations on the 2024 Service Trade Fair: Supply Chain Services Creating a Global ""Win-Win Chain""""",neutral,0.5974405407905579,1,2,0,8
