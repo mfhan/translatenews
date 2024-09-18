@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Cultural Journey in China | Conversations about Mid-Autumn Festival in Chinese Painting""",neutral,0.8023781776428223,1,2,0,8
-1,chinese,"""Chinese Embassy in the United States Holds Mid-Autumn Festival Concert for Compatriots from Both Sides of the Taiwan Strait; Ambassador Xie Feng: May the Full Moon of China Bring Home the Wanderers""",neutral,0.5569996237754822,1,2,0,8
-2,chinese,"""Guo Shaochun: China-US Relations Return to Normalcy, Overseas Chinese Support is Invaluable""",positive,0.6892138719558716,2,2,0,8
-3,chinese,"""Swedish Scholar: Africa Does Not Lack Grand Blueprints, What is Lacking are Genuine Partnerships""",neutral,0.5179274678230286,1,2,0,8
-4,chinese,"""China-Africa Digital Technology Cooperation: The Core Force Driving Integration and Innovative Development in Africa""",neutral,0.5840742588043213,1,2,0,8
-5,chinese,"""Cultural Journey in China | Mid-Autumn Festival in Poetry and Painting""",neutral,0.8132660388946533,1,2,0,8
-6,chinese,"""How Can Green Waters and Blue Mountains Turn into Golden and Silver Mountains: A Yunnan Story Takes You on a Journey""",neutral,0.5674005746841431,1,2,0,8
-7,chinese,"""China Daily and Hengqin Guangdong-Macao In-depth Cooperation Zone Jointly Launch Eight-Section Special Edition""",neutral,0.7431025505065918,1,2,0,8
-8,chinese,"""From 27.7 billion to 4.7 trillion yuan, domestic market prospers and grows""",positive,0.6079052686691284,2,2,0,8
-9,chinese,"""New Observations on the 2024 Service Trade Fair: Supply Chain Services Creating a Global ""Win-Win Chain""""",neutral,0.5974405407905579,1,2,0,8
+0,chinese,"""Japan's Trade Deficit Reappears in August""",negative,0.5337188243865967,-1,2,4,4
+1,chinese,"""Latvia Discovers ""Unidentified Flying Object"" Crossing Borders, NATO Jets Scramble""",neutral,0.5695732235908508,1,2,4,4
+2,chinese,"""Study Shows Antibiotic Resistance May Cause 39 Million Deaths Globally in the Next 25 Years""",neutral,0.49959954619407654,1,2,4,4
+3,chinese,"""Lebanese Health Minister States Approximately 3000 Injured Patients Still in Hospital, Iraq Donates Medical Supplies to Lebanon""",neutral,0.5241159200668335,1,2,4,4
+4,chinese,"""Travel Enthusiasm Boosts Market, Policy Drives ""Trade-in for New"" - Examining Domestic Demand from Mid-Autumn Consumption""",positive,0.4947899281978607,2,2,4,4
+5,chinese,"""China's Car Sales Exceed 14 Million in the First Half of the Year, Over 80% of A-Share Listed Car Companies Achieve Profit""",positive,0.49162447452545166,2,2,4,4
+6,chinese,"""Forest Fire Rekindles in Northwest Paraguay, Nationwide Wildfire Area Reaches Nearly 190,000 Hectares""",neutral,0.6358072757720947,1,2,4,4
+7,chinese,"""Fire at Greek Oil Refinery Injures 4 People""",negative,0.8331084251403809,-2,2,4,4
+8,chinese,"""Chapter of Youth | Never Forget the September 18th Incident, Nankai University Rings the School Bell 14 Times""",negative,0.48298054933547974,-1,2,4,4
+9,chinese,"""700,000 Tons of Garbage Dumped into the Yellow River? Joint Investigation Team: False! Rumor Spreader Detained""",negative,0.7634248733520508,-2,2,4,4
