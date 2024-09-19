@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Japan's Trade Deficit Reappears in August""",negative,0.5337188243865967,-1,2,4,4
-1,chinese,"""Latvia Discovers ""Unidentified Flying Object"" Crossing Borders, NATO Jets Scramble""",neutral,0.5695732235908508,1,2,4,4
-2,chinese,"""Study Shows Antibiotic Resistance May Cause 39 Million Deaths Globally in the Next 25 Years""",neutral,0.49959954619407654,1,2,4,4
-3,chinese,"""Lebanese Health Minister States Approximately 3000 Injured Patients Still in Hospital, Iraq Donates Medical Supplies to Lebanon""",neutral,0.5241159200668335,1,2,4,4
-4,chinese,"""Travel Enthusiasm Boosts Market, Policy Drives ""Trade-in for New"" - Examining Domestic Demand from Mid-Autumn Consumption""",positive,0.4947899281978607,2,2,4,4
-5,chinese,"""China's Car Sales Exceed 14 Million in the First Half of the Year, Over 80% of A-Share Listed Car Companies Achieve Profit""",positive,0.49162447452545166,2,2,4,4
-6,chinese,"""Forest Fire Rekindles in Northwest Paraguay, Nationwide Wildfire Area Reaches Nearly 190,000 Hectares""",neutral,0.6358072757720947,1,2,4,4
-7,chinese,"""Fire at Greek Oil Refinery Injures 4 People""",negative,0.8331084251403809,-2,2,4,4
-8,chinese,"""Chapter of Youth | Never Forget the September 18th Incident, Nankai University Rings the School Bell 14 Times""",negative,0.48298054933547974,-1,2,4,4
-9,chinese,"""700,000 Tons of Garbage Dumped into the Yellow River? Joint Investigation Team: False! Rumor Spreader Detained""",negative,0.7634248733520508,-2,2,4,4
+0,chinese,"""Nighttime, Short-distance, and Cultural Travel - Observing the Cultural Tourism Market during the Mid-Autumn Holiday""",neutral,0.7869139313697815,1,2,1,7
+1,chinese,State Administration of Foreign Exchange: China's Foreign Exchange Market Will Continue to Maintain Stable Operation in the Future,positive,0.5512602925300598,2,2,1,7
+2,chinese,"""China's arable land increases by 17.58 million mu in 3 years""",neutral,0.6592745184898376,1,2,1,7
+3,chinese,"""Promoting Large-scale Equipment Upgrades in Transportation Across Regions to Stimulate New Development Momentum""",positive,0.6540246605873108,2,2,1,7
+4,chinese,"""Chapter of Youth | The Patriotic ""Tough Talk"" of Post-00s""",neutral,0.831279456615448,1,2,1,7
+5,chinese,"""Daily Word | Zero-Tariff Treatment""",neutral,0.9149466753005981,1,2,1,7
+6,chinese,"""Foreign Media: EU's Policy of Imposing Additional Tariffs on Electric Cars from China Faces Internal Opposition""",negative,0.637733519077301,-1,2,1,7
+7,chinese,"""United Nations Passes Resolution with High Votes!""",neutral,0.576036274433136,1,2,1,7
+8,chinese,"""Addressing the Challenge of Climate Change! 13 Departments Jointly Release a Health Adaptation Action Plan""",neutral,0.548905074596405,1,2,1,7
+9,chinese,"""Concern for New Forms of Employment: Workers Across the Country ""Crossing the Sea Like the Eight Immortals""""",neutral,0.4335562586784363,1,2,1,7
