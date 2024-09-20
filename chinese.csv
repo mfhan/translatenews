@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Nighttime, Short-distance, and Cultural Travel - Observing the Cultural Tourism Market during the Mid-Autumn Holiday""",neutral,0.7869139313697815,1,2,1,7
-1,chinese,State Administration of Foreign Exchange: China's Foreign Exchange Market Will Continue to Maintain Stable Operation in the Future,positive,0.5512602925300598,2,2,1,7
-2,chinese,"""China's arable land increases by 17.58 million mu in 3 years""",neutral,0.6592745184898376,1,2,1,7
-3,chinese,"""Promoting Large-scale Equipment Upgrades in Transportation Across Regions to Stimulate New Development Momentum""",positive,0.6540246605873108,2,2,1,7
-4,chinese,"""Chapter of Youth | The Patriotic ""Tough Talk"" of Post-00s""",neutral,0.831279456615448,1,2,1,7
-5,chinese,"""Daily Word | Zero-Tariff Treatment""",neutral,0.9149466753005981,1,2,1,7
-6,chinese,"""Foreign Media: EU's Policy of Imposing Additional Tariffs on Electric Cars from China Faces Internal Opposition""",negative,0.637733519077301,-1,2,1,7
-7,chinese,"""United Nations Passes Resolution with High Votes!""",neutral,0.576036274433136,1,2,1,7
-8,chinese,"""Addressing the Challenge of Climate Change! 13 Departments Jointly Release a Health Adaptation Action Plan""",neutral,0.548905074596405,1,2,1,7
-9,chinese,"""Concern for New Forms of Employment: Workers Across the Country ""Crossing the Sea Like the Eight Immortals""""",neutral,0.4335562586784363,1,2,1,7
+0,chinese,"""State Administration for Market Regulation Releases Key Measures to Improve Business Environment""",positive,0.6012945771217346,2,2,4,4
+1,chinese,"""September LPR Released: 1-year and 5-year+ Varieties Remain Unchanged""",neutral,0.9039723873138428,1,2,4,4
+2,chinese,"""Daily Word | World's Highest Altitude Beidou Sounding Station""",neutral,0.8400260806083679,1,2,4,4
+3,chinese,"Youthful Chapter | ""My Journey in Anxi to Make a Film"" Trailer",neutral,0.7562118172645569,1,2,4,4
+4,chinese,"""Multiple Positive Factors Dance Together to Boost China's Asset Attractiveness""",positive,0.6569118499755859,2,2,4,4
+5,chinese,"""First Case in the Country! Man Sentenced for Illegally Introducing Invasive Species""",negative,0.8753913044929504,-2,2,4,4
+6,chinese,"""Leader of Hezbollah: Israel has ""crossed all red lines""""",negative,0.6709799766540527,-1,2,4,4
+7,chinese,Exposure: Anger from India and Russia,negative,0.8798643350601196,-2,2,4,4
+8,chinese,"""Japan Hypes Liaoning Aircraft Carrier Training Activities, Ministry of National Defense Responds to Reporters""",neutral,0.5707398653030396,1,2,4,4
+9,chinese,"""Typhoon ""Prapiroon"" to make second landfall in Shanghai at 22:00 today, citizens advised to reduce going out""",negative,0.5942069292068481,-1,2,4,4
