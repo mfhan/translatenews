@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""State Administration for Market Regulation Releases Key Measures to Improve Business Environment""",positive,0.6012945771217346,2,2,4,4
-1,chinese,"""September LPR Released: 1-year and 5-year+ Varieties Remain Unchanged""",neutral,0.9039723873138428,1,2,4,4
-2,chinese,"""Daily Word | World's Highest Altitude Beidou Sounding Station""",neutral,0.8400260806083679,1,2,4,4
-3,chinese,"Youthful Chapter | ""My Journey in Anxi to Make a Film"" Trailer",neutral,0.7562118172645569,1,2,4,4
-4,chinese,"""Multiple Positive Factors Dance Together to Boost China's Asset Attractiveness""",positive,0.6569118499755859,2,2,4,4
-5,chinese,"""First Case in the Country! Man Sentenced for Illegally Introducing Invasive Species""",negative,0.8753913044929504,-2,2,4,4
-6,chinese,"""Leader of Hezbollah: Israel has ""crossed all red lines""""",negative,0.6709799766540527,-1,2,4,4
-7,chinese,Exposure: Anger from India and Russia,negative,0.8798643350601196,-2,2,4,4
-8,chinese,"""Japan Hypes Liaoning Aircraft Carrier Training Activities, Ministry of National Defense Responds to Reporters""",neutral,0.5707398653030396,1,2,4,4
-9,chinese,"""Typhoon ""Prapiroon"" to make second landfall in Shanghai at 22:00 today, citizens advised to reduce going out""",negative,0.5942069292068481,-1,2,4,4
+0,chinese,"""China-US Economic Working Group Holds Fifth Meeting""",neutral,0.8206401467323303,1,4,1,5
+1,chinese,"Youthful Chapter | Come and See! ""Rainbow Pier"" Smart Black Technology",neutral,0.6062419414520264,1,4,1,5
+2,chinese,"""China and Japan Reach Consensus on the Issue of Discharging Contaminated Water from Fukushima into the Sea""",negative,0.514528214931488,-1,4,1,5
+3,chinese,"""How to Take a Healthy Nap? Please Check Out These Small Tips""",neutral,0.5554271340370178,1,4,1,5
+4,chinese,"""Two Consecutive Wins! Phoenix Pair Advances to Mixed Doubles Final at Badminton Open""",positive,0.6794825792312622,2,4,1,5
+5,chinese,"""World Health Organization: Over 25,000 Cases of Monkeypox Reported in Africa This Year""",neutral,0.6444051861763,1,4,1,5
+6,chinese,"""Zheng Qinwen Returns Home, Leading Olympic Champions to Enter Huazhong University of Science and Technology""",positive,0.6000831723213196,2,4,1,5
+7,chinese,"""Manufacturing Industry Accelerates Transformation and Upgrading, Releasing New Momentum for High-Quality Development""",positive,0.8188103437423706,3,4,1,5
+8,chinese,"""Biggest Decrease in Oil Prices This Year: Save 14.5 Yuan When Filling Up with a Full Tank of 92 Octane Gasoline""",neutral,0.5224039554595947,1,4,1,5
+9,chinese,"""Guangdong Returned Overseas Students Launch Series of Activities to Celebrate the 75th Anniversary of the Founding of the People's Republic of China and Contribute to High-Quality Development""",positive,0.7017410397529602,3,4,1,5
