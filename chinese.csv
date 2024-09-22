@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China-US Economic Working Group Holds Fifth Meeting""",neutral,0.8206401467323303,1,4,1,5
-1,chinese,"Youthful Chapter | Come and See! ""Rainbow Pier"" Smart Black Technology",neutral,0.6062419414520264,1,4,1,5
-2,chinese,"""China and Japan Reach Consensus on the Issue of Discharging Contaminated Water from Fukushima into the Sea""",negative,0.514528214931488,-1,4,1,5
-3,chinese,"""How to Take a Healthy Nap? Please Check Out These Small Tips""",neutral,0.5554271340370178,1,4,1,5
-4,chinese,"""Two Consecutive Wins! Phoenix Pair Advances to Mixed Doubles Final at Badminton Open""",positive,0.6794825792312622,2,4,1,5
-5,chinese,"""World Health Organization: Over 25,000 Cases of Monkeypox Reported in Africa This Year""",neutral,0.6444051861763,1,4,1,5
-6,chinese,"""Zheng Qinwen Returns Home, Leading Olympic Champions to Enter Huazhong University of Science and Technology""",positive,0.6000831723213196,2,4,1,5
-7,chinese,"""Manufacturing Industry Accelerates Transformation and Upgrading, Releasing New Momentum for High-Quality Development""",positive,0.8188103437423706,3,4,1,5
-8,chinese,"""Biggest Decrease in Oil Prices This Year: Save 14.5 Yuan When Filling Up with a Full Tank of 92 Octane Gasoline""",neutral,0.5224039554595947,1,4,1,5
-9,chinese,"""Guangdong Returned Overseas Students Launch Series of Activities to Celebrate the 75th Anniversary of the Founding of the People's Republic of China and Contribute to High-Quality Development""",positive,0.7017410397529602,3,4,1,5
+0,chinese,"""Chapter of Youth | We are not in a time of peace, but in a peaceful country""",neutral,0.5017730593681335,1,2,3,5
+1,chinese,"""Gunshot incident in Birmingham, USA leaves 4 dead and dozens injured""",negative,0.7999498844146729,-2,2,3,5
+2,chinese,Death toll in Iran Tabas coal mine explosion rises to 28 people.,negative,0.7298824191093445,-2,2,3,5
+3,chinese,"""Hezbollah Launches Rockets at Israeli Military Base in Response to Communication Equipment Explosion""",neutral,0.523117184638977,1,2,3,5
+4,chinese,"""Beijing High School Qualification Exam Revision Plan Released: Some Subjects Have Shortened Exam Duration, Changes in Foreign Language Listening Group Exam Format""",neutral,0.7845566868782043,1,2,3,5
+5,chinese,"""US State Department Urges American Citizens to Evacuate Lebanon""",negative,0.5145663022994995,-1,2,3,5
+6,chinese,"""The 11th Silk Road International Film Festival Opens in Xi'an""",neutral,0.7791827917098999,1,2,3,5
+7,chinese,"""40,000 Participants Join the 2024 Taiyuan Marathon Race""",neutral,0.7845649123191833,1,2,3,5
+8,chinese,"""Chapter of Youth | Chinese and American Youth Play Famous Songs with Hulusi""",positive,0.5129475593566895,2,2,3,5
+9,chinese,"""Adidas Proposes Plan for Shanghai: Empowering Global Renowned Sports City with Technology""",positive,0.7521097660064697,3,2,3,5
