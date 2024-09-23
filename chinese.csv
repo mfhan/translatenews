@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chapter of Youth | We are not in a time of peace, but in a peaceful country""",neutral,0.5017730593681335,1,2,3,5
-1,chinese,"""Gunshot incident in Birmingham, USA leaves 4 dead and dozens injured""",negative,0.7999498844146729,-2,2,3,5
-2,chinese,Death toll in Iran Tabas coal mine explosion rises to 28 people.,negative,0.7298824191093445,-2,2,3,5
-3,chinese,"""Hezbollah Launches Rockets at Israeli Military Base in Response to Communication Equipment Explosion""",neutral,0.523117184638977,1,2,3,5
-4,chinese,"""Beijing High School Qualification Exam Revision Plan Released: Some Subjects Have Shortened Exam Duration, Changes in Foreign Language Listening Group Exam Format""",neutral,0.7845566868782043,1,2,3,5
-5,chinese,"""US State Department Urges American Citizens to Evacuate Lebanon""",negative,0.5145663022994995,-1,2,3,5
-6,chinese,"""The 11th Silk Road International Film Festival Opens in Xi'an""",neutral,0.7791827917098999,1,2,3,5
-7,chinese,"""40,000 Participants Join the 2024 Taiyuan Marathon Race""",neutral,0.7845649123191833,1,2,3,5
-8,chinese,"""Chapter of Youth | Chinese and American Youth Play Famous Songs with Hulusi""",positive,0.5129475593566895,2,2,3,5
-9,chinese,"""Adidas Proposes Plan for Shanghai: Empowering Global Renowned Sports City with Technology""",positive,0.7521097660064697,3,2,3,5
+0,chinese,"""World Gold Council CEO: Optimistic about the Prospects of China's High Net Worth Individuals' Demand for Gold""",positive,0.6960012316703796,2,4,2,4
+1,chinese,"""Trade-in Program Drives Rapid Growth in Consumption""",positive,0.625278890132904,2,4,2,4
+2,chinese,"""Purifying the Capital Market Environment: Multiple Departments Join Forces to Cut Off the ""Small Composition"" Profit Chain""",neutral,0.45938655734062195,1,4,2,4
+3,chinese,"""US, Japan, India, and Australia's ""Quad Summit"" Provokes Confrontation, Continuously Stirs Up ""China Threat Theory""""",negative,0.7577828764915466,-2,4,2,4
+4,chinese,"""United Nations Future Summit Opens, Promoting Development through ""Future Covenant""""",positive,0.5704299211502075,2,4,2,4
+5,chinese,"Ministry of Civil Affairs: Never Released or Authorized the Release of ""China Pension Insurance"" App",neutral,0.7098146080970764,1,4,2,4
+6,chinese,"""Multiple Deaths and Injuries in Traffic Accident on Lusong Bridge in Zhuzhou, Hunan""",negative,0.7402480840682983,-2,4,2,4
+7,chinese,"""China Story Creation Conference: Colorful Guizhou - Blossoming Cultural Tourism Industry and Welcoming Guests with Magnificent Scenery""",positive,0.8159915208816528,3,4,2,4
+8,chinese,"""National Energy Administration Releases National Electricity Industry Statistics for January-August 2024""",neutral,0.9010164141654968,1,4,2,4
+9,chinese,"""Universities Hold Autumn Job Fairs in Multiple Cities, Are You Ready?""",neutral,0.6900525689125061,1,4,2,4
