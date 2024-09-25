@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Foreigners Finally Get to See the ""Lion Dance Factory"" - A Stunning and Highly Praised Experience""",positive,0.9193674921989441,3,5,0,5
-1,chinese,"""Financial Policy ""Strengthens"" to Form a Joint Force, Continuously Supporting High-Quality Economic Development""",positive,0.7516058683395386,3,5,0,5
-2,chinese,"""Research Trip on High-Quality Development: Chongqing Highway Logistics Base Deeply Integrates into the New Western Land-Sea Corridor""",positive,0.5348659157752991,2,5,0,5
-3,chinese,"""China's Manufacturing Enterprises Surpass 6 Million in Total Number""",neutral,0.5834344029426575,1,5,0,5
-4,chinese,"""Financial Regulatory Authority: National Plan to Increase Capital for Six Large Commercial Banks""",neutral,0.6204032301902771,1,5,0,5
-5,chinese,"""Cultural Journey through China | Dunhuang Art Exhibition Opens in Shanghai""",neutral,0.7241892218589783,1,5,0,5
-6,chinese,"""Chinese Embassy in Lebanon: Special Reminder for Chinese Citizens to Strengthen Security Measures""",positive,0.5409808158874512,2,5,0,5
-7,chinese,"""China's Super Large ""Cross-City Subway"" Network Accelerates Formation""",neutral,0.6043111085891724,1,5,0,5
-8,chinese,"""Gold Medal Rankings and Medal Rankings Take First Place Together: The World Witnesses the New Strength of ""Skillful China""""",positive,0.5650401711463928,2,5,0,5
-9,chinese,"""Booking Required for National Day Holiday Flag-Raising Ceremony at Tiananmen Square""",neutral,0.8921326994895935,1,5,0,5
+0,chinese,"""Outside Perspective: Danish Social Media Influencer: China's ""Tea Culture"" Brings People Closer Together""",positive,0.5693206191062927,2,4,3,3
+1,chinese,"Former UN official: China has become a leader in green innovation, while the West is still lagging behind.",negative,0.40598931908607483,-1,4,3,3
+2,chinese,"""Hezbollah Launches a Ballistic Missile at Mossad Headquarters in Lebanon""",neutral,0.6452339291572571,1,4,3,3
+3,chinese,"""Railway 12306 Launches Same-Train Connection Feature, Providing More Options for Travelers""",positive,0.6344078183174133,2,4,3,3
+4,chinese,"""CSRC Releases ""Six Regulations on Mergers and Acquisitions"" to Support Listed Companies Injecting High-Quality Assets""",neutral,0.6278906464576721,1,4,3,3
+5,chinese,"""The Struggle for the ""Middle Ground"" Behind the Competition of China and the US in the ""Belt and Road"" Initiative""",negative,0.6670665740966797,-1,4,3,3
+6,chinese,"North Korea condemns the US for using ""Quad Security Dialogue"" to promote camp confrontation.",negative,0.8887778520584106,-2,4,3,3
+7,chinese,"""China Story Creation Conference | German Guy Raves About Beautiful Scenery in Guizhou""",positive,0.6185637712478638,2,4,3,3
+8,chinese,"""Fenglin Buyi Scenic Area Showcases the Ultimate Traditional Oriental Aesthetic, Foreign Freelance Media Personnel Praise Endlessly""",positive,0.8133642077445984,3,4,3,3
+9,chinese,"""Renminbi Surges Above 7 Against US Dollar!""",neutral,0.5568382740020752,1,4,3,3
