@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Outside Perspective: Danish Social Media Influencer: China's ""Tea Culture"" Brings People Closer Together""",positive,0.5693206191062927,2,4,3,3
-1,chinese,"Former UN official: China has become a leader in green innovation, while the West is still lagging behind.",negative,0.40598931908607483,-1,4,3,3
-2,chinese,"""Hezbollah Launches a Ballistic Missile at Mossad Headquarters in Lebanon""",neutral,0.6452339291572571,1,4,3,3
-3,chinese,"""Railway 12306 Launches Same-Train Connection Feature, Providing More Options for Travelers""",positive,0.6344078183174133,2,4,3,3
-4,chinese,"""CSRC Releases ""Six Regulations on Mergers and Acquisitions"" to Support Listed Companies Injecting High-Quality Assets""",neutral,0.6278906464576721,1,4,3,3
-5,chinese,"""The Struggle for the ""Middle Ground"" Behind the Competition of China and the US in the ""Belt and Road"" Initiative""",negative,0.6670665740966797,-1,4,3,3
-6,chinese,"North Korea condemns the US for using ""Quad Security Dialogue"" to promote camp confrontation.",negative,0.8887778520584106,-2,4,3,3
-7,chinese,"""China Story Creation Conference | German Guy Raves About Beautiful Scenery in Guizhou""",positive,0.6185637712478638,2,4,3,3
-8,chinese,"""Fenglin Buyi Scenic Area Showcases the Ultimate Traditional Oriental Aesthetic, Foreign Freelance Media Personnel Praise Endlessly""",positive,0.8133642077445984,3,4,3,3
-9,chinese,"""Renminbi Surges Above 7 Against US Dollar!""",neutral,0.5568382740020752,1,4,3,3
+0,chinese,"Former UN Official: China Has Become a Leader in Green Innovation, While the West is Still ""Falling Behind""",neutral,0.4820660650730133,1,3,0,7
+1,chinese,"""Former French Prime Minister Devillepin: The Spirit of Cooperation is an Urgent Need of the Times""",neutral,0.5104604959487915,1,3,0,7
+2,chinese,"""Strengthening the Community of a United China | Come and Join Ruisibai, the Uyghur Girl Who Spins 100 Times!""",neutral,0.3999100625514984,1,3,0,7
+3,chinese,"""Yangshan Peach on the High-speed Rail Journey of the Yangtze River Delta Super Loop""",neutral,0.7634336948394775,1,3,0,7
+4,chinese,"""Research Trip for High-Quality Development: Yongchuan, Chongqing Creates One-Stop Service Platform for Film and Television Production to Promote High-Quality Development of the Industry""",positive,0.6156222820281982,2,3,0,7
+5,chinese,"""Taste Wuxi on the High-Speed Rail Journey of the Yangtze River Delta Super Loop""",neutral,0.8171142339706421,1,3,0,7
+6,chinese,"""Foreign Media Encounters Rare Chinese White Dolphins: China's Protection of the Ecological Environment is Touching""",positive,0.3586822748184204,2,3,0,7
+7,chinese,"""Daily Vocabulary | Multimodal Geographic Science Large Model""",neutral,0.9246339201927185,1,3,0,7
+8,chinese,"""Micro China | Humans and Robots, Who is the ""Tumbler""?""",neutral,0.861212432384491,1,3,0,7
+9,chinese,"""Multinational Companies Gather in Henan to Create a New Blueprint for Cooperation""",positive,0.674068808555603,2,3,0,7
