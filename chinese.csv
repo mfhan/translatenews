@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Former UN Official: China Has Become a Leader in Green Innovation, While the West is Still ""Falling Behind""",neutral,0.4820660650730133,1,3,0,7
-1,chinese,"""Former French Prime Minister Devillepin: The Spirit of Cooperation is an Urgent Need of the Times""",neutral,0.5104604959487915,1,3,0,7
-2,chinese,"""Strengthening the Community of a United China | Come and Join Ruisibai, the Uyghur Girl Who Spins 100 Times!""",neutral,0.3999100625514984,1,3,0,7
-3,chinese,"""Yangshan Peach on the High-speed Rail Journey of the Yangtze River Delta Super Loop""",neutral,0.7634336948394775,1,3,0,7
-4,chinese,"""Research Trip for High-Quality Development: Yongchuan, Chongqing Creates One-Stop Service Platform for Film and Television Production to Promote High-Quality Development of the Industry""",positive,0.6156222820281982,2,3,0,7
-5,chinese,"""Taste Wuxi on the High-Speed Rail Journey of the Yangtze River Delta Super Loop""",neutral,0.8171142339706421,1,3,0,7
-6,chinese,"""Foreign Media Encounters Rare Chinese White Dolphins: China's Protection of the Ecological Environment is Touching""",positive,0.3586822748184204,2,3,0,7
-7,chinese,"""Daily Vocabulary | Multimodal Geographic Science Large Model""",neutral,0.9246339201927185,1,3,0,7
-8,chinese,"""Micro China | Humans and Robots, Who is the ""Tumbler""?""",neutral,0.861212432384491,1,3,0,7
-9,chinese,"""Multinational Companies Gather in Henan to Create a New Blueprint for Cooperation""",positive,0.674068808555603,2,3,0,7
+0,chinese,"Former UN Official: China Has Become a Leader in Green Innovation, While the West is Still ""Falling Behind""",neutral,0.4820660650730133,1,4,0,6
+1,chinese,"""Malaysian Scholar: China's Influence in the Middle East is Growing, Not Limited to Economic Factors""",neutral,0.6624279618263245,1,4,0,6
+2,chinese,"""National Bureau of Statistics: Encouraging Leading Companies in Industries and Internet Platforms to Open Up Data""",positive,0.6409118175506592,2,4,0,6
+3,chinese,"""National Profits of Large-Scale Industrial Enterprises Increase by 0.5% from January to August""",neutral,0.5892373323440552,1,4,0,6
+4,chinese,"""Shinzo Abe Elected as New President of Japan's Liberal Democratic Party""",neutral,0.664098858833313,1,4,0,6
+5,chinese,"""Micro China | Can you believe it? Even robot dogs can carry people and run now!""",positive,0.439022421836853,2,4,0,6
+6,chinese,"Bijie, Guizhou: East-West Cooperation to Fill Medical Shortcomings",neutral,0.7028923630714417,1,4,0,6
+7,chinese,"""Building a Solid Community: North and South of the Tianshan Mountains Sing a New Song | Come to the Clear and Sunny Sayram Lake After the Rain to See the Swans, Super Healing!""",positive,0.7666745781898499,3,4,0,6
+8,chinese,"Ministry of Public Security: Over 700 cases related to ""fan circle"" chaos have been investigated since the beginning of this year.",neutral,0.6318742036819458,1,4,0,6
+9,chinese,"""[C Finance] High-quality construction of ""Belt and Road"" continues to show results""",positive,0.6205348968505859,2,4,0,6
