@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Former UN Official: China Has Become a Leader in Green Innovation, While the West is Still ""Falling Behind""",neutral,0.4820660650730133,1,4,0,6
-1,chinese,"""Malaysian Scholar: China's Influence in the Middle East is Growing, Not Limited to Economic Factors""",neutral,0.6624279618263245,1,4,0,6
-2,chinese,"""National Bureau of Statistics: Encouraging Leading Companies in Industries and Internet Platforms to Open Up Data""",positive,0.6409118175506592,2,4,0,6
-3,chinese,"""National Profits of Large-Scale Industrial Enterprises Increase by 0.5% from January to August""",neutral,0.5892373323440552,1,4,0,6
-4,chinese,"""Shinzo Abe Elected as New President of Japan's Liberal Democratic Party""",neutral,0.664098858833313,1,4,0,6
-5,chinese,"""Micro China | Can you believe it? Even robot dogs can carry people and run now!""",positive,0.439022421836853,2,4,0,6
-6,chinese,"Bijie, Guizhou: East-West Cooperation to Fill Medical Shortcomings",neutral,0.7028923630714417,1,4,0,6
-7,chinese,"""Building a Solid Community: North and South of the Tianshan Mountains Sing a New Song | Come to the Clear and Sunny Sayram Lake After the Rain to See the Swans, Super Healing!""",positive,0.7666745781898499,3,4,0,6
-8,chinese,"Ministry of Public Security: Over 700 cases related to ""fan circle"" chaos have been investigated since the beginning of this year.",neutral,0.6318742036819458,1,4,0,6
-9,chinese,"""[C Finance] High-quality construction of ""Belt and Road"" continues to show results""",positive,0.6205348968505859,2,4,0,6
+0,chinese,"""National Total of 32.95 Million Poverty-Stricken People Employed in Workforce""",negative,0.6272715330123901,-1,2,2,6
+1,chinese,"""Over 40,000 People Attend the First Public Open Day of China-ASEAN Expo""",neutral,0.6309779286384583,1,2,2,6
+2,chinese,"""Hurricane ""Heleni"" Sweeps Through Southeastern United States, Causing at Least 45 Deaths""",negative,0.7433825135231018,-2,2,2,6
+3,chinese,"""International Observation: Chinese Elements Shine at Tokyo Game Show""",neutral,0.7149902582168579,1,2,2,6
+4,chinese,"""Building a Strong Community: North and South of Tianshan Sing a New Song"" | What Does the Must-Try Cold Water Fish in Xinjiang Look Like?",neutral,0.6043486595153809,1,2,2,6
+5,chinese,"""Long-distance travel becomes the mainstream booking trend during the National Day holiday""",neutral,0.7527433633804321,1,2,2,6
+6,chinese,"""New Technology Expands New Scenarios, Low-altitude Economy Enters Rapid Development Stage""",positive,0.5351634621620178,2,2,2,6
+7,chinese,"""National Day China Trip | ""Warm City"" Ordos, Everywhere Filled with Chinese Red""",neutral,0.6067631840705872,1,2,2,6
+8,chinese,"""Cultural Journey in China: Exploring Colorful China | The Super Ring High-Speed Train Trip in the Yangtze River Delta Region: Zhuo Wen's Small Cafeteria""",neutral,0.6365829706192017,1,2,2,6
+9,chinese,"""Cultural Tour of China: Experience the Colorful Guizhou with Immersive Rock Climbing""",positive,0.5485708713531494,2,2,2,6
