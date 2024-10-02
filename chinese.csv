@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""75th Anniversary Celebration of the Founding of the People's Republic of China! Flag-raising Ceremony Held at Tiananmen Square""",positive,0.6332642436027527,2,7,1,2
-1,chinese,"""Supporting the Quality and Efficiency Improvement of the Real Economy: China Maintains Stable Structure of Foreign Debt""",positive,0.4412394165992737,2,7,1,2
-2,chinese,"""China's Current Account Surplus Reaches $93.7 Billion in the First Half of the Year, Maintaining Independent Balance of International Payments""",neutral,0.700147271156311,1,7,1,2
-3,chinese,"""4 AM Gathering at Tiananmen Square to Welcome National Day, Enthusiastic Scene Shocks French People""",negative,0.5961175560951233,-1,7,1,2
-4,chinese,"""South African Ambassador to China: China's Strength Makes Us Stronger Together""",positive,0.7159957885742188,3,7,1,2
-5,chinese,"""From Pursuing a Degree at a Top 985 University to Changing Careers as a Chef, Hoping to Make Chinese Cuisine a Universal Language""",positive,0.48839181661605835,2,7,1,2
-6,chinese,"""Congratulations on National Day: Adding Splendor to China, the Neon Lights Illuminate the Fragrant River""",positive,0.9067529439926147,3,7,1,2
-7,chinese,"""Foreign Bloggers Showcase Their Hometown Dialects, Creative Wishes for China's ""Happy Birthday""""",positive,0.6369067430496216,2,7,1,2
-8,chinese,"""Israeli Military: Limited Ground Operations Against Hezbollah Targets Have Begun""",neutral,0.6162512898445129,1,7,1,2
-9,chinese,"""Check Out This Holiday Weather Forecast!""",positive,0.4895542562007904,2,7,1,2
+0,chinese,"""China's Current Account Surplus Reaches 669 Billion Yuan in the First Half of the Year""",neutral,0.6959326267242432,1,1,1,8
+1,chinese,"""AIIB Membership Increases to 110""",neutral,0.7003946304321289,1,1,1,8
+2,chinese,"""Embark on a Better Life | The First Contemporary Urban Drama Set in Tibet, ""City of Sunshine"", Premieres Today""",neutral,0.6122772693634033,1,1,1,8
+3,chinese,"""Embassy in the United States Holds 75th National Day Reception, Ambassador Xie Feng: Overcoming Obstacles to Forge a Bright Future""",positive,0.5655898451805115,2,1,1,8
+4,chinese,"""China's First Medical Team to Aid the Federated States of Micronesia Sets Off""",neutral,0.6538788676261902,1,1,1,8
+5,chinese,"""Olympic Shooter Sheng Lihao Leads Champion Sports Class ""Into the Campus""",neutral,0.657389760017395,1,1,1,8
+6,chinese,"""Newly Appointed Japanese Prime Minister Shizo Abe Forms Cabinet""",neutral,0.6520048379898071,1,1,1,8
+7,chinese,"""French TV Hosts Sing Birthday Song for 75th Anniversary of the Founding of New China""",neutral,0.5658046007156372,1,1,1,8
+8,chinese,"""6 Dead, 17 Injured in Shooting Incident in Tel Aviv, Israel""",negative,0.728686511516571,-2,1,1,8
+9,chinese,"""China Strongly Opposes! Will Take All Necessary Measures""",neutral,0.4880521893501282,1,1,1,8
