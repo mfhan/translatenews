@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""China's Current Account Surplus Reaches 669 Billion Yuan in the First Half of the Year""",neutral,0.6959326267242432,1,1,1,8
-1,chinese,"""AIIB Membership Increases to 110""",neutral,0.7003946304321289,1,1,1,8
-2,chinese,"""Embark on a Better Life | The First Contemporary Urban Drama Set in Tibet, ""City of Sunshine"", Premieres Today""",neutral,0.6122772693634033,1,1,1,8
-3,chinese,"""Embassy in the United States Holds 75th National Day Reception, Ambassador Xie Feng: Overcoming Obstacles to Forge a Bright Future""",positive,0.5655898451805115,2,1,1,8
-4,chinese,"""China's First Medical Team to Aid the Federated States of Micronesia Sets Off""",neutral,0.6538788676261902,1,1,1,8
-5,chinese,"""Olympic Shooter Sheng Lihao Leads Champion Sports Class ""Into the Campus""",neutral,0.657389760017395,1,1,1,8
-6,chinese,"""Newly Appointed Japanese Prime Minister Shizo Abe Forms Cabinet""",neutral,0.6520048379898071,1,1,1,8
-7,chinese,"""French TV Hosts Sing Birthday Song for 75th Anniversary of the Founding of New China""",neutral,0.5658046007156372,1,1,1,8
-8,chinese,"""6 Dead, 17 Injured in Shooting Incident in Tel Aviv, Israel""",negative,0.728686511516571,-2,1,1,8
-9,chinese,"""China Strongly Opposes! Will Take All Necessary Measures""",neutral,0.4880521893501282,1,1,1,8
+0,chinese,"""Third Day of National Day Holiday, High Passenger Traffic Continues on Yangtze River Delta Railway""",neutral,0.7325620651245117,1,1,2,7
+1,chinese,"""China's Digital Economy Maintains Steady Growth, Laying a Solid Foundation for Digital Trade""",positive,0.8212229609489441,3,1,2,7
+2,chinese,"""Continuation and Entrustment: A Revelation of Rural Revitalization in Ningxia""",neutral,0.7824721336364746,1,1,2,7
+3,chinese,"""UN Ambassador: ""Four Key Words"" Discuss China's Development Process""",neutral,0.7858877778053284,1,1,2,7
+4,chinese,"""Escalating Conflict in Libya Causes Fear of People Fleeing Their Homes: Airstrikes Leave Children Feeling Afraid""",negative,0.845111072063446,-2,1,2,7
+5,chinese,"""China Urges the UN Security Council to Promote Immediate De-escalation of the Situation in Lebanon and Israel""",neutral,0.6020448207855225,1,1,2,7
+6,chinese,"""National Civil Aviation Passenger Volume Expected to Exceed 2.1 Million Today""",neutral,0.78596031665802,1,1,2,7
+7,chinese,"""Small Plane Crashes in Colombia, Casualties Yet to be Announced""",negative,0.6643735766410828,-1,1,2,7
+8,chinese,"""China's Solution: The Pakistani Bean Adventure of Hong Kong Agricultural Scientists""",neutral,0.6804719567298889,1,1,2,7
+9,chinese,"""China-Thailand Ice Hockey Friendship Match to be Held in Bangkok this Week""",neutral,0.7943827509880066,1,1,2,7
