@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Continuation and Entrustment: Inner Mongolia's Ongoing Green Development""",neutral,0.5415278673171997,1,3,4,3
-1,chinese,"""Chinese Macroeconomic Policies Show Results, International Institutions Increase Allocation of Chinese Assets""",neutral,0.5518640875816345,1,3,4,3
-2,chinese,"""Approximately 45,000 Americans Go on Strike, Half of International Shipping Paralyzed""",negative,0.701280951499939,-2,3,4,3
-3,chinese,"""Israeli Army Says Hamas Senior Member Mousa Had Died in Airstrike""",negative,0.7115021347999573,-2,3,4,3
-4,chinese,"""That year, a white crane flew over Emperor Huizong's head""",negative,0.5704073905944824,-1,3,4,3
-5,chinese,"""Significant Progress Made in Deepening and Enhancing Reforms of State-Owned Enterprises""",positive,0.8662692308425903,3,3,4,3
-6,chinese,"""New National Standard for Heart Pacemakers Released""",neutral,0.7792290449142456,1,3,4,3
-7,chinese,"""Crackdown on Ticket Scalping, Ministry of Public Security Takes Action!""",negative,0.6817708611488342,-1,3,4,3
-8,chinese,"""China Successfully Achieves Kilometer-Level Terahertz Wireless Communication Transmission Based on Superconducting Receivers""",positive,0.6682302951812744,2,3,4,3
-9,chinese,"""Chartered Flight Reverses Course: 146 Chinese Citizens Safely Return to Their Homeland from Lebanon""",positive,0.5325387120246887,2,3,4,3
+0,chinese,"""News Reports Claim Senior Leader of Hezbollah, Hashem Safieddine, Has Died, No Response from Hezbollah Yet""",negative,0.7582259178161621,-2,1,3,6
+1,chinese,"""Practice a Healthy Lifestyle, Be Your Own Primary Responsibility for Health""",neutral,0.639879047870636,1,1,3,6
+2,chinese,"""China Council for the Promotion of International Trade: Hopes to Resolve China-EU Electric Vehicle Trade Dispute through Price Commitments and Other Means""",neutral,0.6787648797035217,1,1,3,6
+3,chinese,"""Russian Side Decides to Remove Taliban from List of Terrorist Organizations""",negative,0.5329024195671082,-1,1,3,6
+4,chinese,"""Over Half of National Day Holiday, Shenzhen Airport Port Sees 58.1% Increase in Inbound and Outbound Passengers""",neutral,0.6471395492553711,1,1,3,6
+5,chinese,"""Iranian Foreign Minister Arrives in Syrian Capital Damascus""",neutral,0.8304702043533325,1,1,3,6
+6,chinese,"""China's Agricultural Green Development Level Steadily Improving""",positive,0.6469429135322571,2,1,3,6
+7,chinese,"""China's Manufacturing Enterprises Surpass 6 Million in Total""",neutral,0.655820906162262,1,1,3,6
+8,chinese,"""Protests and Rallies Held in Multiple Locations in Yemen to Protest Against Israel's Atrocities in the Middle East""",negative,0.6632625460624695,-1,1,3,6
+9,chinese,"""US-UK Coalition Launches Another Airstrike on Yemen's Hodeidah Province""",neutral,0.5755279064178467,1,1,3,6
