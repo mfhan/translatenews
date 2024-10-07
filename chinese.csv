@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Pro-Palestinian Demonstration Held Outside the White House in the US, Man Self-Immolates at the Scene""",negative,0.5703166723251343,-1,0,3,7
-1,chinese,"""Top Photographer: People Need to Learn to Make Peace with Themselves""",neutral,0.5941666960716248,1,0,3,7
-2,chinese,"""Pakistani military kills 8 terrorists in the country's northwest""",negative,0.8569440245628357,-2,0,3,7
-3,chinese,"""Israeli Military Attacks Mosque in Gaza Strip, Death Toll Rises to 24""",negative,0.7160565257072449,-2,0,3,7
-4,chinese,"""A set of data shows China's transformation from ""Bicycle Nation"" to ""Cycling Nation""""",neutral,0.8108384013175964,1,0,3,7
-5,chinese,"""Countdown to the 7th Import Expo: Which Import Goods Are Worth Looking Forward to?""",neutral,0.8334863781929016,1,0,3,7
-6,chinese,"""Slow Disease Management During Holidays, Health Tips Look Here""",neutral,0.8091117143630981,1,0,3,7
-7,chinese,"""Record High! Hong Kong-Zhuhai-Macau Bridge Records 22,600 Vehicles Entering and Exiting in a Single Day""",neutral,0.8352246284484863,1,0,3,7
-8,chinese,"""Hezbollah Claims Launching Rockets with Precise Hits on Israeli Military Gathering Site""",neutral,0.7914626598358154,1,0,3,7
-9,chinese,Poll Shows Nearly One-Quarter of Israelis Considering Leaving the Country,neutral,0.5901257991790771,1,0,3,7
+0,chinese,"""Tense Situation in the Red Sea: Egypt's Suez Canal Revenues Down 60% Since the Beginning of the Year""",negative,0.7162453532218933,-2,2,4,4
+1,chinese,"""National Day holiday on the sixth day, overall stability of national road traffic""",positive,0.6808997988700867,2,2,4,4
+2,chinese,"""Over 980,000 Mainland Tourists Visited Hong Kong in the First 5 Days of the National Day Holiday, a 35% Increase Compared to Last Year""",neutral,0.5017473697662354,1,2,4,4
+3,chinese,"""State Administration of Foreign Exchange: As of the end of September, China's foreign exchange reserves reached $3.3164 trillion""",neutral,0.7400010824203491,1,2,4,4
+4,chinese,"""Shanghai Tourism Festival Concludes: Receives 38.7674 Million Visitors, Showcasing the City's International Image""",positive,0.6692191362380981,2,2,4,4
+5,chinese,"""3.1 Magnitude Earthquake Occurs in Hunyuan County, Datong City, Shanxi Province""",neutral,0.5046479105949402,1,2,4,4
+6,chinese,"""Syrian Military: Israeli Air Strikes Hit Multiple Military Locations in Central Syria""",negative,0.51714688539505,-1,2,4,4
+7,chinese,"""Iran Civil Aviation Organization announces resumption of domestic flights""",neutral,0.6309970021247864,1,2,4,4
+8,chinese,"""Two Chinese Nationals Killed in Terrorist Attack in Pakistan""",negative,0.7753174901008606,-2,2,4,4
+9,chinese,Russian Foreign Minister: Confrontation and Hegemony Cannot Solve Any Global Issues,negative,0.8474361896514893,-2,2,4,4
