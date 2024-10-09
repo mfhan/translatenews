@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""New Round of Israeli-Palestinian Conflict Reaches One Year Mark, Israeli Military Releases Action Report""",neutral,0.6667948961257935,1,3,1,6
-1,chinese,"""National Development and Reform Commission Further Clarifies Three Measures for Controlling Total Energy Consumption and Intensity""",neutral,0.6482436060905457,1,3,1,6
-2,chinese,"""Express Delivery Business Revenue Exceeds 1 Trillion Yuan in 9 Months""",neutral,0.7406554818153381,1,3,1,6
-3,chinese,"""National Dragon Boat Team to Debut New ""Battle Armor"" on International Stage""",neutral,0.6343646049499512,1,3,1,6
-4,chinese,"""[C Finance] Intensifying Efforts to Launch a Package of Incremental Policies to Promote Sustained Economic Recovery and Improvement""",positive,0.6322894096374512,2,3,1,6
-5,chinese,"""[C Finance] National Development and Reform Commission: Confident in Achieving Annual Economic and Social Development Goals""",positive,0.6684612035751343,2,3,1,6
-6,chinese,"""Russian Bride Olga Accepts Interview and Shares Her Experience of Traditional Chinese Wedding""",neutral,0.6047089099884033,1,3,1,6
-7,chinese,"""Is it true or false that H. pylori is incurable and can develop into stomach cancer?""",negative,0.6898419260978699,-1,3,1,6
-8,chinese,"""National Day Holiday Consumption Market Continues to Heat Up""",neutral,0.5764869451522827,1,3,1,6
-9,chinese,"""Grand Celebration of the 70th Anniversary of the Establishment of Xinjiang Production and Construction Corps Held, Congratulatory Letter from the Central Committee of the Communist Party of China, the State Council, and the Central Military Commission""",positive,0.6573952436447144,2,3,1,6
+0,chinese,"""Significant Project Construction Accelerates to Promote Stable Economic Growth through Effective Investment""",positive,0.8203367590904236,3,4,2,4
+1,chinese,"""Expected Month-on-Month Growth in New Credit and Social Financing in September""",neutral,0.7091664671897888,1,4,2,4
+2,chinese,"""Slovenian Car Companies Seek to Strengthen Cooperation Opportunities with China""",positive,0.6081030964851379,2,4,2,4
+3,chinese,"""UN Security Council Strongly Condemns Terrorist Attack in Karachi, Pakistan""",negative,0.5539189577102661,-1,4,2,4
+4,chinese,"""Ministry of National Defense spokesperson responds to questions from journalists regarding US military aid to Taiwan""",neutral,0.7533202171325684,1,4,2,4
+5,chinese,"""North Korean People's Army General Staff: North Korea to Completely Cut Off Road and Rail Connections with South Korea""",negative,0.6736221313476562,-1,4,2,4
+6,chinese,"""[C Finance] Infographic | Golden Week Ends with a Bang, Tourism Market Booms""",neutral,0.6017821431159973,1,4,2,4
+7,chinese,"""Promoting Recovery and Advancing towards High-Quality Development: A Comprehensive Package of Policies in China""",neutral,0.5419687628746033,1,4,2,4
+8,chinese,"""Security based on peaceful development is the true security""",positive,0.5289101600646973,2,4,2,4
+9,chinese,"""Putin: The Authority of the Commonwealth of Independent States as a Regional Integration Organization Continues to Strengthen""",positive,0.6339626908302307,2,4,2,4
