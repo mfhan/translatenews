@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Significant Project Construction Accelerates to Promote Stable Economic Growth through Effective Investment""",positive,0.8203367590904236,3,4,2,4
-1,chinese,"""Expected Month-on-Month Growth in New Credit and Social Financing in September""",neutral,0.7091664671897888,1,4,2,4
-2,chinese,"""Slovenian Car Companies Seek to Strengthen Cooperation Opportunities with China""",positive,0.6081030964851379,2,4,2,4
-3,chinese,"""UN Security Council Strongly Condemns Terrorist Attack in Karachi, Pakistan""",negative,0.5539189577102661,-1,4,2,4
-4,chinese,"""Ministry of National Defense spokesperson responds to questions from journalists regarding US military aid to Taiwan""",neutral,0.7533202171325684,1,4,2,4
-5,chinese,"""North Korean People's Army General Staff: North Korea to Completely Cut Off Road and Rail Connections with South Korea""",negative,0.6736221313476562,-1,4,2,4
-6,chinese,"""[C Finance] Infographic | Golden Week Ends with a Bang, Tourism Market Booms""",neutral,0.6017821431159973,1,4,2,4
-7,chinese,"""Promoting Recovery and Advancing towards High-Quality Development: A Comprehensive Package of Policies in China""",neutral,0.5419687628746033,1,4,2,4
-8,chinese,"""Security based on peaceful development is the true security""",positive,0.5289101600646973,2,4,2,4
-9,chinese,"""Putin: The Authority of the Commonwealth of Independent States as a Regional Integration Organization Continues to Strengthen""",positive,0.6339626908302307,2,4,2,4
+0,chinese,"""Hurricane ""Milton"" Hits Florida, US in a Life-or-Death Situation, While Both Parties Blame Each Other""",negative,0.7721323370933533,-2,1,4,5
+1,chinese,"""Foreign Media: US Department of Justice Considers ""Breaking Up"" Google, Google Responds""",neutral,0.769763708114624,1,1,4,5
+2,chinese,"""Hungarian Prime Minister: EU's Imposition of Tariffs on Chinese Electric Cars Will Backfire""",negative,0.8616301417350769,-2,1,4,5
+3,chinese,"""[C Finance] Using Digitization to Support High-Quality Economic and Social Development""",neutral,0.5348746180534363,1,1,4,5
+4,chinese,"""Sudden Incident! Turkish Airlines Captain Dies During Flight""",negative,0.7232386469841003,-2,1,4,5
+5,chinese,"""Gaza has become a living hell"" China urges Israel to stop further escalation of the situation",negative,0.9250333905220032,-2,1,4,5
+6,chinese,"""Daily Vocabulary | Regulations for Network Data Security Management""",neutral,0.9091638922691345,1,1,4,5
+7,chinese,"""People's Bank of China: Securities, Fund, and Insurance Companies to Facilitate Interchange (SFISF) Now Accepting Applications""",neutral,0.611126720905304,1,1,4,5
+8,chinese,"""Over 100 countries support China's resolution at the UN Human Rights Council to commemorate the 30th anniversary of the Beijing Declaration and Platform for Action""",positive,0.6477318406105042,2,1,4,5
+9,chinese,"""US and Israeli Leaders Discuss Middle East Situation and Other Issues in Phone Call""",neutral,0.8728744387626648,1,1,4,5
