@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Malaysian Minister: The US, Which Has Enjoyed 70 Years of ""Privilege,"" Should Learn to Accept the New Reality""",positive,0.41205066442489624,2,4,0,6
-1,chinese,"""More than half of the national autumn harvest has been completed, and the autumn harvest work in some major producing areas has basically ended""",neutral,0.5119901299476624,1,4,0,6
-2,chinese,"""Latest Trends in Digital RMB!""",neutral,0.7992028594017029,1,4,0,6
-3,chinese,"""What impact will the possible geomagnetic storm in the next two nights have on us?""",neutral,0.7959477305412292,1,4,0,6
-4,chinese,"""Railway Scroll Invites the World to Appreciate the Dynamic China""",positive,0.7146830558776855,3,4,0,6
-5,chinese,"""Yavam High-Speed Railway: The Bridge Connecting Present and Future Indonesia""",neutral,0.7428890466690063,1,4,0,6
-6,chinese,"""UN Deputy Secretary-General Calls for Both Sides of Lebanon to Give ""Diplomacy"" a Chance""",neutral,0.6105371117591858,1,4,0,6
-7,chinese,"""Belgian Expert: No Fundamental Conflict of Interests between China and Europe, Still Plenty of Opportunities for Cooperation""",neutral,0.5277346968650818,1,4,0,6
-8,chinese,"""Zheng Qianwen and Wang Xinyu Advance Together to the Quarterfinals of Wuhan Open""",positive,0.4880707263946533,2,4,0,6
-9,chinese,"""Package of Favorable Policies Implemented, Real Estate Market Begins to Rebound in October""",positive,0.7588475942611694,3,4,0,6
+0,chinese,Ministry of Finance: Will Introduce a Series of Targeted Incremental Policy Measures in the Near Future,neutral,0.6713884472846985,1,4,0,6
+1,chinese,"""Former German Chancellor's Chief Economic Advisor: Release the ""Cooperation Crane"" and Cultivate a New Type of Sino-Western Dialogue""",neutral,0.6094922423362732,1,4,0,6
+2,chinese,"""Temporary Air Traffic Control Implemented at Kazan Airport in Russia""",neutral,0.8935191631317139,1,4,0,6
+3,chinese,"""[C Finance] Ministry of Finance: China's finances can achieve balance between income and expenditure, completing the annual budget target.""",positive,0.6672385334968567,2,4,0,6
+4,chinese,"""China's ""Case Study"" on Protecting Biodiversity Receives Praise from People of Multiple Countries""",positive,0.7488270998001099,3,4,0,6
+5,chinese,"""China Calls for Assistance to Help Least Developed Countries Improve Technological Innovation Capability""",positive,0.6721930503845215,2,4,0,6
+6,chinese,Ministry of Finance: Package of Incremental Policy Measures to be Launched Soon,neutral,0.6354112029075623,1,4,0,6
+7,chinese,"""Going to College"" Becomes the New Trend for China's Silver-haired Generation",neutral,0.6523093581199646,1,4,0,6
+8,chinese,"""Southern Rainfall Extends, Northeastern Regions to Experience Noticeably Higher Temperatures""",positive,0.48184481263160706,2,4,0,6
+9,chinese,"""Three Years After the Establishment of National Parks, What Changes Have Occurred in the Wild Animal Population? Let's Take a Look at the ""Report Card""""",neutral,0.8139334321022034,1,4,0,6
