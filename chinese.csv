@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,Ministry of Finance: Will Introduce a Series of Targeted Incremental Policy Measures in the Near Future,neutral,0.6713884472846985,1,4,0,6
-1,chinese,"""Former German Chancellor's Chief Economic Advisor: Release the ""Cooperation Crane"" and Cultivate a New Type of Sino-Western Dialogue""",neutral,0.6094922423362732,1,4,0,6
-2,chinese,"""Temporary Air Traffic Control Implemented at Kazan Airport in Russia""",neutral,0.8935191631317139,1,4,0,6
-3,chinese,"""[C Finance] Ministry of Finance: China's finances can achieve balance between income and expenditure, completing the annual budget target.""",positive,0.6672385334968567,2,4,0,6
-4,chinese,"""China's ""Case Study"" on Protecting Biodiversity Receives Praise from People of Multiple Countries""",positive,0.7488270998001099,3,4,0,6
-5,chinese,"""China Calls for Assistance to Help Least Developed Countries Improve Technological Innovation Capability""",positive,0.6721930503845215,2,4,0,6
-6,chinese,Ministry of Finance: Package of Incremental Policy Measures to be Launched Soon,neutral,0.6354112029075623,1,4,0,6
-7,chinese,"""Going to College"" Becomes the New Trend for China's Silver-haired Generation",neutral,0.6523093581199646,1,4,0,6
-8,chinese,"""Southern Rainfall Extends, Northeastern Regions to Experience Noticeably Higher Temperatures""",positive,0.48184481263160706,2,4,0,6
-9,chinese,"""Three Years After the Establishment of National Parks, What Changes Have Occurred in the Wild Animal Population? Let's Take a Look at the ""Report Card""""",neutral,0.8139334321022034,1,4,0,6
+0,chinese,"""Eastern Theater Command Releases Training Micro-Video ""Stay Vigilant and Prepared""""",neutral,0.8421729207038879,1,3,3,4
+1,chinese,"""All on duty, in good condition! China's peacekeeping forces respond effectively as conflict in Lebanon intensifies""",positive,0.6427397131919861,2,3,3,4
+2,chinese,"""Russian An-3 Plane Makes Emergency Landing, 1 Person Dead""",negative,0.7372003197669983,-2,3,3,4
+3,chinese,"""State Council Hong Kong and Macao Affairs Office Congratulates Ho Iat Seng on Being Elected as the Sixth Chief Executive-Designate of Macao Special Administrative Region""",positive,0.6849616169929504,2,3,3,4
+4,chinese,"""Ministry of Commerce: Officially Invites European Side to Continue Consultations in China on Anti-Subsidy Case for Electric Vehicles""",neutral,0.6137606501579285,1,3,3,4
+5,chinese,"""Another UN peacekeeper injured in Lebanon, Hezbollah accuses Israel of using civilian homes to invade Lebanon""",negative,0.8747565150260925,-2,3,3,4
+6,chinese,"""Iraqi Militia Armed Forces Release Statement Claiming Drone Attacks on Israeli Targets""",negative,0.6687412261962891,-1,3,3,4
+7,chinese,"""US Space Exploration Technology Company 'Starship' Receives Fifth Flight Permit""",positive,0.4880586862564087,2,3,3,4
+8,chinese,"""US White House Releases Harris' Physical Examination Report, States Her Good Health Condition""",neutral,0.7768130898475647,1,3,3,4
+9,chinese,"""CSI 100 Index to be Renamed as CSI A100 Index""",neutral,0.8865241408348083,1,3,3,4
