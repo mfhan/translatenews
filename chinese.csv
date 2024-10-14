@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Eastern Theater Command Releases Training Micro-Video ""Stay Vigilant and Prepared""""",neutral,0.8421729207038879,1,3,3,4
-1,chinese,"""All on duty, in good condition! China's peacekeeping forces respond effectively as conflict in Lebanon intensifies""",positive,0.6427397131919861,2,3,3,4
-2,chinese,"""Russian An-3 Plane Makes Emergency Landing, 1 Person Dead""",negative,0.7372003197669983,-2,3,3,4
-3,chinese,"""State Council Hong Kong and Macao Affairs Office Congratulates Ho Iat Seng on Being Elected as the Sixth Chief Executive-Designate of Macao Special Administrative Region""",positive,0.6849616169929504,2,3,3,4
-4,chinese,"""Ministry of Commerce: Officially Invites European Side to Continue Consultations in China on Anti-Subsidy Case for Electric Vehicles""",neutral,0.6137606501579285,1,3,3,4
-5,chinese,"""Another UN peacekeeper injured in Lebanon, Hezbollah accuses Israel of using civilian homes to invade Lebanon""",negative,0.8747565150260925,-2,3,3,4
-6,chinese,"""Iraqi Militia Armed Forces Release Statement Claiming Drone Attacks on Israeli Targets""",negative,0.6687412261962891,-1,3,3,4
-7,chinese,"""US Space Exploration Technology Company 'Starship' Receives Fifth Flight Permit""",positive,0.4880586862564087,2,3,3,4
-8,chinese,"""US White House Releases Harris' Physical Examination Report, States Her Good Health Condition""",neutral,0.7768130898475647,1,3,3,4
-9,chinese,"""CSI 100 Index to be Renamed as CSI A100 Index""",neutral,0.8865241408348083,1,3,3,4
+0,chinese,"""Liaoning Aircraft Carrier Formation Participates in ""Joint Sword-2024B"" Exercise East of Taiwan Island""",neutral,0.8167375326156616,1,4,2,4
+1,chinese,"""Friend circle"" of Canton Fair continues to expand, injecting vigorous energy into foreign trade development",positive,0.7739134430885315,3,4,2,4
+2,chinese,"""Pakistan Senate President: China-Pakistan Economic Corridor Greatly Improves Pakistan's Development Outlook""",positive,0.7974569797515869,3,4,2,4
+3,chinese,"""US Continuously Politicizes Tracing of Cyber Attacks, So-called ""Voteforce Typhoon"" is Just a Political Farce""",negative,0.9175809621810913,-2,4,2,4
+4,chinese,"""UN Secretary-General: UN Peacekeeping Forces Will Continue to Hold Their Ground""",neutral,0.5713414549827576,1,4,2,4
+5,chinese,"""Mass Adjustment of Existing Mortgage Interest Rates Imminent, Some Banks' Apps Updated with Query Function""",neutral,0.7810865640640259,1,4,2,4
+6,chinese,"""What is your perspective on the upcoming strongest debt reduction measures in recent years?""",neutral,0.6507241725921631,1,4,2,4
+7,chinese,"""[C Finance] Greater Efforts to Stimulate the Vitality of Business Entities! This Press Conference Releases Multiple Important Signals for Supporting Enterprises""",positive,0.7945445775985718,3,4,2,4
+8,chinese,"""Loaded and Ready for the Skies! Eastern Theater Air Force Deploys Multiple Types of Fighter Jets Armed and Ready to Strike Near Taiwan Island""",positive,0.5593360066413879,2,4,2,4
+9,chinese,"""State Council Taiwan Affairs Office Announces Legal Punishment Against Shen Boyang, Cao Xingcheng, and ""Black Bear Academy""""",negative,0.8115827441215515,-2,4,2,4
