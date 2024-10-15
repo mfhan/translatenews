@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Liaoning Aircraft Carrier Formation Participates in ""Joint Sword-2024B"" Exercise East of Taiwan Island""",neutral,0.8167375326156616,1,4,2,4
-1,chinese,"""Friend circle"" of Canton Fair continues to expand, injecting vigorous energy into foreign trade development",positive,0.7739134430885315,3,4,2,4
-2,chinese,"""Pakistan Senate President: China-Pakistan Economic Corridor Greatly Improves Pakistan's Development Outlook""",positive,0.7974569797515869,3,4,2,4
-3,chinese,"""US Continuously Politicizes Tracing of Cyber Attacks, So-called ""Voteforce Typhoon"" is Just a Political Farce""",negative,0.9175809621810913,-2,4,2,4
-4,chinese,"""UN Secretary-General: UN Peacekeeping Forces Will Continue to Hold Their Ground""",neutral,0.5713414549827576,1,4,2,4
-5,chinese,"""Mass Adjustment of Existing Mortgage Interest Rates Imminent, Some Banks' Apps Updated with Query Function""",neutral,0.7810865640640259,1,4,2,4
-6,chinese,"""What is your perspective on the upcoming strongest debt reduction measures in recent years?""",neutral,0.6507241725921631,1,4,2,4
-7,chinese,"""[C Finance] Greater Efforts to Stimulate the Vitality of Business Entities! This Press Conference Releases Multiple Important Signals for Supporting Enterprises""",positive,0.7945445775985718,3,4,2,4
-8,chinese,"""Loaded and Ready for the Skies! Eastern Theater Air Force Deploys Multiple Types of Fighter Jets Armed and Ready to Strike Near Taiwan Island""",positive,0.5593360066413879,2,4,2,4
-9,chinese,"""State Council Taiwan Affairs Office Announces Legal Punishment Against Shen Boyang, Cao Xingcheng, and ""Black Bear Academy""""",negative,0.8115827441215515,-2,4,2,4
+0,chinese,"""UNESCO Representative: Protecting Natural and Cultural Heritage is Not Just About Remembering the Past""",neutral,0.6713860630989075,1,0,4,6
+1,chinese,"""Russian Experts: The Success of China's Economy Lies in Skilfully Using ""Two Hands""""",neutral,0.5977925658226013,1,0,4,6
+2,chinese,"""Chang'e-5 Lunar Sample Study Reveals: Volcanic Activity on the Moon 120 Million Years Ago""",neutral,0.8273691534996033,1,0,4,6
+3,chinese,"""South Korean Military Conducts Response Firing Towards the Military Demarcation Line with North Korea""",negative,0.48765209317207336,-1,0,4,6
+4,chinese,"""US Media: Netanyahu Informs US that He Will Not Strike Iranian Nuclear and Oil Facilities""",neutral,0.4901371896266937,1,0,4,6
+5,chinese,"""Space Agency Responds to US Officials' Accusations of China Using Space Cooperation to Monitor Other Countries: Judging Others by One's Own Standards""",neutral,0.5689764618873596,1,0,4,6
+6,chinese,"""Significant Effect of Raising Tax Threshold: Those with Annual Income Below 100,000 Yuan No Longer Need to Pay Personal Income Tax""",negative,0.4789275825023651,-1,0,4,6
+7,chinese,"""South Korean Media: North Korea Destroys Part of the Road at the Border Between North and South Korea""",negative,0.8761799335479736,-2,0,4,6
+8,chinese,"""German Citizens: Protectionism is Unpopular! EU Should Avoid Provoking Trade War""",negative,0.8213947415351868,-2,0,4,6
+9,chinese,"""Chang'e 7 and Chang'e 8 to Form the Basic Model of a Lunar Research Station""",neutral,0.7602701783180237,1,0,4,6
