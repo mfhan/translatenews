@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Russian Experts: The Success of China's Economy Lies in Skilfully Using ""Two Hands""""",neutral,0.5977925658226013,1,1,1,8
-1,chinese,"""State Council Taiwan Affairs Office: Has Received Hundreds of Reports on Stubborn Pro-Taiwan Independence Elements""",neutral,0.6768350005149841,1,1,1,8
-2,chinese,"""Giant Pandas ""Bao Li"" and ""Qing Bao"" Arrive at Washington National Zoo in the United States""",neutral,0.7667902112007141,1,1,1,8
-3,chinese,"""KCNA: Over 1.4 million North Korean youth nationwide sign up for military service or return to the army""",neutral,0.7870344519615173,1,1,1,8
-4,chinese,"""2025 College Entrance Exam Registration Begins Gradually, Many Regions Require Strict Qualification Review""",neutral,0.7957062125205994,1,1,1,8
-5,chinese,"""350 People Have Died in the Northern Gaza Strip in the Past 11 Days""",negative,0.6372841596603394,-1,1,1,8
-6,chinese,"""Retired President of Julia College, Polixi: Using Music to Promote Stable and Long-lasting Sino-US Relations""",neutral,0.587703287601471,1,1,1,8
-7,chinese,"""FAO Director-General Qu Dongyu: Urgent Action Needed to Fully Implement ""Right to Food"" and Build a New Pattern of Healthy, Nutritious, and Affordable Dietary System""",neutral,0.48361390829086304,1,1,1,8
-8,chinese,"""Explore a City by Visiting a Museum! Bangladeshi Journalist Visits Inner Mongolia Museum""",neutral,0.5276314616203308,1,1,1,8
-9,chinese,"""Former Mongolian Ambassador to China: After 75 Years of Diplomatic Relations, Sino-Mongolian Relations Enter the Best Period in History""",positive,0.7753086090087891,3,1,1,8
+0,chinese,"Ministry of Housing and Urban-Rural Development: In order to meet the needs of having a second child, support local governments in increasing the housing area for eligible individuals.",neutral,0.47972843050956726,1,1,2,7
+1,chinese,Ministry of Natural Resources: Will Work with Relevant Departments to Study the Establishment of Special Loans for Purchasing Stock Land,neutral,0.652341365814209,1,1,2,7
+2,chinese,"""Yawan High-speed Railway Celebrates One Year Anniversary with 5.79 Million Passengers""",positive,0.6518309116363525,2,1,2,7
+3,chinese,Ministry of Housing and Urban-Rural Development: 1 million new units for urban village and dilapidated housing renovation,neutral,0.5765219926834106,1,1,2,7
+4,chinese,"""How can ""Fingertip Skills"" be transformed into ""Fingertip Economy""? ""Intangible Cultural Heritage Handicrafts"" have something to say""",neutral,0.4886987507343292,1,1,2,7
+5,chinese,"Ministry of Housing and Urban-Rural Development: ""White List"" to Increase to 4 Trillion Yuan by the End of the Year",neutral,0.7424352169036865,1,1,2,7
+6,chinese,"""Chinese Coast Guard Lawfully Expels Japanese Vessels Illegally Entering Our Diaoyu Islands' Territorial Waters""",negative,0.6492823958396912,-1,1,2,7
+7,chinese,"""Challenge the Art at Your Fingertips! ""Viewing China from the Outside"" First Experience of Noodles in Inner Mongolia""",neutral,0.5137655138969421,1,1,2,7
+8,chinese,"""China-Vietnam Cross-Border Trade Booming: Dongxing Milk Tea and Vietnamese Coffee Breaking into Both Markets""",neutral,0.7311831712722778,1,1,2,7
+9,chinese,North Korea Confirms Complete Closure of Roads and Railways Connecting South Korea's Southern Border,negative,0.6657689809799194,-1,1,2,7
