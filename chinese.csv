@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"Ministry of Housing and Urban-Rural Development: In order to meet the needs of having a second child, support local governments in increasing the housing area for eligible individuals.",neutral,0.47972843050956726,1,1,2,7
-1,chinese,Ministry of Natural Resources: Will Work with Relevant Departments to Study the Establishment of Special Loans for Purchasing Stock Land,neutral,0.652341365814209,1,1,2,7
-2,chinese,"""Yawan High-speed Railway Celebrates One Year Anniversary with 5.79 Million Passengers""",positive,0.6518309116363525,2,1,2,7
-3,chinese,Ministry of Housing and Urban-Rural Development: 1 million new units for urban village and dilapidated housing renovation,neutral,0.5765219926834106,1,1,2,7
-4,chinese,"""How can ""Fingertip Skills"" be transformed into ""Fingertip Economy""? ""Intangible Cultural Heritage Handicrafts"" have something to say""",neutral,0.4886987507343292,1,1,2,7
-5,chinese,"Ministry of Housing and Urban-Rural Development: ""White List"" to Increase to 4 Trillion Yuan by the End of the Year",neutral,0.7424352169036865,1,1,2,7
-6,chinese,"""Chinese Coast Guard Lawfully Expels Japanese Vessels Illegally Entering Our Diaoyu Islands' Territorial Waters""",negative,0.6492823958396912,-1,1,2,7
-7,chinese,"""Challenge the Art at Your Fingertips! ""Viewing China from the Outside"" First Experience of Noodles in Inner Mongolia""",neutral,0.5137655138969421,1,1,2,7
-8,chinese,"""China-Vietnam Cross-Border Trade Booming: Dongxing Milk Tea and Vietnamese Coffee Breaking into Both Markets""",neutral,0.7311831712722778,1,1,2,7
-9,chinese,North Korea Confirms Complete Closure of Roads and Railways Connecting South Korea's Southern Border,negative,0.6657689809799194,-1,1,2,7
+0,chinese,"""Exclusive Interview with Millsheimer: ""Democracy"" is just a rhetoric used by American elites to compete with China""",neutral,0.5120391845703125,1,4,1,5
+1,chinese,"""Over 3,000 Ancient Tombs and 30 Horse and Chariot Pits Unearthed at an Archaeological Site in Xi'an""",neutral,0.5871385931968689,1,4,1,5
+2,chinese,"""Strong Cold Air Arrives! Temperatures in Northern Regions Expected to Hit New Lows Since the Beginning of Autumn, Strong Rainfall Continues in Shandong and Other Areas""",positive,0.5751697421073914,2,4,1,5
+3,chinese,"""Top Four Men's Teams Revealed in National Table Tennis Championships, These Teams Successfully Advance""",positive,0.815441906452179,3,4,1,5
+4,chinese,"""Death toll rises to 36 in Bihar, India due to consumption of fake alcohol""",negative,0.7989815473556519,-2,4,1,5
+5,chinese,"""Exploring China from an Outsider's Perspective: Visiting the Wooden Pagoda and Hanging Monastery in Ying County to Experience the Beauty of Shanxi's Ancient Architecture""",positive,0.6779580116271973,2,4,1,5
+6,chinese,National Bureau of Statistics: Overall Stabilization in Month-on-Month Decrease of Sales Prices of Commodity Residential Buildings in September,neutral,0.7120611071586609,1,4,1,5
+7,chinese,"""Central Bank Discusses Cutting Reserve Requirement and Interest Rates: Will Further Reduce by 0.25 to 0.5 Percentage Points Before the End of the Year""",neutral,0.7390308976173401,1,4,1,5
+8,chinese,"""[C Finance] National economy maintains steady growth in the first three quarters of 2024, with increasing positive factors accumulating""",positive,0.7484939098358154,3,4,1,5
+9,chinese,"""China's Online Shopping User Base Surpasses 900 Million, Digital Consumption Drives New Consumer Hotspots""",neutral,0.6582866311073303,1,4,1,5
