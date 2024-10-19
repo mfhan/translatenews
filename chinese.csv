@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Exclusive Interview with Millsheimer: ""Democracy"" is just a rhetoric used by American elites to compete with China""",neutral,0.5120391845703125,1,4,1,5
-1,chinese,"""Over 3,000 Ancient Tombs and 30 Horse and Chariot Pits Unearthed at an Archaeological Site in Xi'an""",neutral,0.5871385931968689,1,4,1,5
-2,chinese,"""Strong Cold Air Arrives! Temperatures in Northern Regions Expected to Hit New Lows Since the Beginning of Autumn, Strong Rainfall Continues in Shandong and Other Areas""",positive,0.5751697421073914,2,4,1,5
-3,chinese,"""Top Four Men's Teams Revealed in National Table Tennis Championships, These Teams Successfully Advance""",positive,0.815441906452179,3,4,1,5
-4,chinese,"""Death toll rises to 36 in Bihar, India due to consumption of fake alcohol""",negative,0.7989815473556519,-2,4,1,5
-5,chinese,"""Exploring China from an Outsider's Perspective: Visiting the Wooden Pagoda and Hanging Monastery in Ying County to Experience the Beauty of Shanxi's Ancient Architecture""",positive,0.6779580116271973,2,4,1,5
-6,chinese,National Bureau of Statistics: Overall Stabilization in Month-on-Month Decrease of Sales Prices of Commodity Residential Buildings in September,neutral,0.7120611071586609,1,4,1,5
-7,chinese,"""Central Bank Discusses Cutting Reserve Requirement and Interest Rates: Will Further Reduce by 0.25 to 0.5 Percentage Points Before the End of the Year""",neutral,0.7390308976173401,1,4,1,5
-8,chinese,"""[C Finance] National economy maintains steady growth in the first three quarters of 2024, with increasing positive factors accumulating""",positive,0.7484939098358154,3,4,1,5
-9,chinese,"""China's Online Shopping User Base Surpasses 900 Million, Digital Consumption Drives New Consumer Hotspots""",neutral,0.6582866311073303,1,4,1,5
+0,chinese,"""Balancing Economic Value and Functional Value: Central Enterprises Empower Strategic Emerging Industries""",positive,0.616045355796814,2,3,2,5
+1,chinese,"""State Administration of Foreign Exchange: China's Foreign Exchange Market Shows Strong Resilience""",positive,0.6564711332321167,2,3,2,5
+2,chinese,"""China-Laos Railway's ""Beijing-Kunming-Lancang-Mekong Line"" International Freight Train Runs for the First Time!""",neutral,0.7190388441085815,1,3,2,5
+3,chinese,"""Fire in Panji District, Huainan City, Anhui Province has resulted in 7 deaths and 2 missing""",negative,0.7673550248146057,-2,3,2,5
+4,chinese,"""【Overseas Perspective】Swiss Embassy Launches ""Art Pool"" Project, Showcasing Cultural and Artistic Exchange between Switzerland and China""",neutral,0.6851961016654968,1,3,2,5
+5,chinese,"""Japanese Man Throws Incendiary Device at Liberal Democratic Party Headquarters and Drives into Prime Minister's Residence""",neutral,0.6800511479377747,1,3,2,5
+6,chinese,"""National Railway Sends 3.33 Billion Passengers from January to September, Setting a New Historical Record for the Same Period""",neutral,0.5703204274177551,1,3,2,5
+7,chinese,"""China Emphasizes that International Legislation is not the Privilege of a Few Countries""",negative,0.7547956109046936,-2,3,2,5
+8,chinese,"""Expansion of Smart Connected Cars' ""Circle of Friends"": More International Partners Join to Make Friends with China""",positive,0.5708003640174866,2,3,2,5
+9,chinese,"""Severe Yellow Wind Warning: Over 10 Provinces to Experience Strong Winds in the Next Two Days""",neutral,0.4792553782463074,1,3,2,5
