@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""My grandparents walked the Long March""",neutral,0.7553797960281372,1,4,0,6
-1,chinese,"""He increased the average annual income of villagers by nearly 40 times in over 20 years""",positive,0.4829489588737488,2,4,0,6
-2,chinese,"""First Batch of 23 Companies' Repurchase and Increase of Loans Successfully Implemented, Total Amount Exceeds 10 Billion Yuan""",positive,0.6075184941291809,2,4,0,6
-3,chinese,"""Lu Shengmei: I am like a kite, the string always in the hands of the common people""",neutral,0.6269089579582214,1,4,0,6
-4,chinese,"""Third LPR adjustment of the year, what impact will it have? Expert interpretation""",neutral,0.8979070782661438,1,4,0,6
-5,chinese,"""[C Finance] Package of Incremental Policies Promote Continuous Recovery and Improvement of Chinese Economy""",positive,0.7479733824729919,3,4,0,6
-6,chinese,"""Follow 'Black Myth: Wukong' and check in at the Thousand-Year Wooden Tower!""",neutral,0.7895896434783936,1,4,0,6
-7,chinese,"""The Wonderful Experience of Shopping with Chinese Yuan in Russia: Xiaopeng Warmed by Train Attendant!""",positive,0.8165968656539917,3,4,0,6
-8,chinese,"""Total Electricity Consumption in September 2024 Increases by 8.5% Compared to Previous Year""",neutral,0.7048063278198242,1,4,0,6
-9,chinese,"""16 million people entered and exited foreign countries without a visa in the third quarter, 4.885 million of whom entered the country.""",neutral,0.5370317101478577,1,4,0,6
+0,chinese,"""【China Connects】Colombian Video Blogger Explores Aksu, Xinjiang and Interacts with Enthusiastic Children: I Am from China""",neutral,0.5912348628044128,1,5,1,4
+1,chinese,"""Youth Has Power, Making the World a Better Place - The 6th ""Belt and Road"" English Speech Contest Series Successfully Held""",positive,0.8301597237586975,3,5,1,4
+2,chinese,"""Japanese Prime Minister's Official Residence Attacked: Investigation Reveals Suspect's Discontent with Election Deposit System""",negative,0.8434748649597168,-2,5,1,4
+3,chinese,"""Russian Girl's Admiration for Chinese Culture: Committed to Promoting People-to-People Exchange between China and Russia""",positive,0.5975602269172668,2,5,1,4
+4,chinese,"""LPR welcomes biggest historical drop, some local mortgage rates will enter the ""2-digit"" range""",neutral,0.5531591176986694,1,5,1,4
+5,chinese,"""Major Projects Begin Construction in Multiple Regions, Investment Expected to Accelerate in the Fourth Quarter""",positive,0.5225202441215515,2,5,1,4
+6,chinese,"""Starting Again from Yan'an | An'sai Paper-cutting: Skillfully Creating a Beautiful New Life""",positive,0.7692155838012695,3,5,1,4
+7,chinese,"""China's Promise: ""Returning to the Countryside"" at the Foot of Tian Shan Mountains - Tazhou Village Tourism Boosts Rural Revitalization""",positive,0.5570307374000549,2,5,1,4
+8,chinese,"""Ningxia Yaohe Source Site Discovers Phenomenon of Horses Giving Birth After Death""",neutral,0.5749754905700684,1,5,1,4
+9,chinese,"""Fuzhou conducts live-fire training in Ke Men waterway, Maritime department issues navigation warning""",neutral,0.5241448283195496,1,5,1,4
