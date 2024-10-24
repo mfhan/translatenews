@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""BRICS Plus"" is an important driving force for building a new type of international relations.",positive,0.7987316250801086,3,4,0,6
-1,chinese,"""Little Peng Vlog | Heartwarming Details of the Kazan Airport Pickup Scene""",positive,0.6926277279853821,2,4,0,6
-2,chinese,"""Foreign Holdings of Domestic Renminbi Bonds Reach Historic High""",neutral,0.590684711933136,1,4,0,6
-3,chinese,"""The 7th China International Import Expo to be held in Shanghai from November 5th to 10th""",neutral,0.8590232133865356,1,4,0,6
-4,chinese,"""10 Seconds to Verify and Confirm: Shanghai Customs First Launches ""Buy Now, Verify Now"" Departure Tax Refund""",neutral,0.8164918422698975,1,4,0,6
-5,chinese,"""Flavorful Elderly Restaurant""",neutral,0.7542020082473755,1,4,0,6
-6,chinese,"""Illustrated Story: The World Looks at Guizhou""",neutral,0.8318055868148804,1,4,0,6
-7,chinese,"""Art Q&A | Exploring the Art of Lacquer: Eastern Luxury Goods""",neutral,0.8095225691795349,1,4,0,6
-8,chinese,"""Tesla's First Batch Joins the Fleet! China Officially Launches Pilot Program for Opening Up Value-Added Telecommunications Services""",positive,0.6715269088745117,2,4,0,6
-9,chinese,"""[China Has an Appointment] Foreign Media Personnel Gather at Kuche's Big Naan City to Perform the Most Dazzling Ethnic Dance Together""",positive,0.661401093006134,2,4,0,6
+0,chinese,"""BRICS Russia Year"" promotes ""Greater BRICS"" cooperation",positive,0.7056053876876831,3,3,2,5
+1,chinese,"""Xiao Peng Vlog | Must-Try Food Recommendations in Kazan! Leaders from Various Countries Will All Try This Dessert Upon Arrival...""",neutral,0.5027989149093628,1,3,2,5
+2,chinese,"""FBI investigates plan by Israel to retaliate against Iran's disclosure""",negative,0.7398741245269775,-2,3,2,5
+3,chinese,"""IMF: Global Public Debt to Exceed Trillions of Dollars This Year""",neutral,0.5481008291244507,1,3,2,5
+4,chinese,"""Daily Word | National-Level Master Artisans""",neutral,0.8346393704414368,1,3,2,5
+5,chinese,"""Treasures of Chinese Culture | A Scroll of the Times""",negative,0.5483868718147278,-1,3,2,5
+6,chinese,"""China has an appointment: Venezuelan self-media person: China's use of technology to protect cultural roots is worth learning, can't wait to share this unforgettable experience with fans""",positive,0.8212941288948059,3,3,2,5
+7,chinese,"""Automotive Industry Performs Well in the First Three Quarters, with a Year-on-Year Increase of 31.7% and 32.5% in Production and Sales of New Energy Vehicles""",positive,0.8160741925239563,3,3,2,5
+8,chinese,"""China and Japan Hold 17th Round of High-Level Consultation on Maritime Affairs Mechanism""",neutral,0.7133663296699524,1,3,2,5
+9,chinese,"""State Administration for Market Regulation: Overall Stability Maintained in Enterprise Credit Level in the First Three Quarters""",neutral,0.7888563275337219,1,3,2,5
