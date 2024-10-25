@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""BRICS Russia Year"" promotes ""Greater BRICS"" cooperation",positive,0.7056053876876831,3,3,2,5
-1,chinese,"""Xiao Peng Vlog | Must-Try Food Recommendations in Kazan! Leaders from Various Countries Will All Try This Dessert Upon Arrival...""",neutral,0.5027989149093628,1,3,2,5
-2,chinese,"""FBI investigates plan by Israel to retaliate against Iran's disclosure""",negative,0.7398741245269775,-2,3,2,5
-3,chinese,"""IMF: Global Public Debt to Exceed Trillions of Dollars This Year""",neutral,0.5481008291244507,1,3,2,5
-4,chinese,"""Daily Word | National-Level Master Artisans""",neutral,0.8346393704414368,1,3,2,5
-5,chinese,"""Treasures of Chinese Culture | A Scroll of the Times""",negative,0.5483868718147278,-1,3,2,5
-6,chinese,"""China has an appointment: Venezuelan self-media person: China's use of technology to protect cultural roots is worth learning, can't wait to share this unforgettable experience with fans""",positive,0.8212941288948059,3,3,2,5
-7,chinese,"""Automotive Industry Performs Well in the First Three Quarters, with a Year-on-Year Increase of 31.7% and 32.5% in Production and Sales of New Energy Vehicles""",positive,0.8160741925239563,3,3,2,5
-8,chinese,"""China and Japan Hold 17th Round of High-Level Consultation on Maritime Affairs Mechanism""",neutral,0.7133663296699524,1,3,2,5
-9,chinese,"""State Administration for Market Regulation: Overall Stability Maintained in Enterprise Credit Level in the First Three Quarters""",neutral,0.7888563275337219,1,3,2,5
+0,chinese,"""Harmony and Reasoning | Gathering the ""BRICS Strength"" to Unite the ""Global South"": Working Together to Build a More Fair and Just New International Development Order""",positive,0.6088931560516357,2,1,4,5
+1,chinese,"""BRICS and the ""Global South"" Cannot Be Absent in Global Security Governance Issues""",neutral,0.4948112368583679,1,1,4,5
+2,chinese,"""IMF Warns of Global Economy Facing Risks of Falling into a Low Growth High Debt Path""",negative,0.6653746962547302,-1,1,4,5
+3,chinese,"""First Day of Incheon Station of Swimming World Cup: Pan Zhanle Wins 400m Freestyle Championship""",neutral,0.5176982283592224,1,1,4,5
+4,chinese,"""7 People Dead in Violent Clash Between Crime Groups in Southern Mexico""",negative,0.7982651591300964,-2,1,4,5
+5,chinese,"""Super Typhoon ""Tammy"" Causes Over 2 Million People in the Philippines to be Affected by Disaster""",negative,0.8709083795547485,-2,1,4,5
+6,chinese,"""Prosecutors File Charges Against Zhong Ziran for Suspected Bribery and Intentional Disclosure of State Secrets According to Law""",negative,0.7366312146186829,-2,1,4,5
+7,chinese,"""Daily Word | The BRICS Mechanism""",neutral,0.8883426189422607,1,1,4,5
+8,chinese,"""Yu Hua Ying's retrial for child trafficking case to be announced today""",neutral,0.7167964577674866,1,1,4,5
+9,chinese,"""2024 World Internet Conference Wuzhen Summit Press Conference Held in Beijing""",neutral,0.9103241562843323,1,1,4,5
