@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Harmony and Reasoning | Gathering the ""BRICS Strength"" to Unite the ""Global South"": Working Together to Build a More Fair and Just New International Development Order""",positive,0.6088931560516357,2,1,4,5
-1,chinese,"""BRICS and the ""Global South"" Cannot Be Absent in Global Security Governance Issues""",neutral,0.4948112368583679,1,1,4,5
-2,chinese,"""IMF Warns of Global Economy Facing Risks of Falling into a Low Growth High Debt Path""",negative,0.6653746962547302,-1,1,4,5
-3,chinese,"""First Day of Incheon Station of Swimming World Cup: Pan Zhanle Wins 400m Freestyle Championship""",neutral,0.5176982283592224,1,1,4,5
-4,chinese,"""7 People Dead in Violent Clash Between Crime Groups in Southern Mexico""",negative,0.7982651591300964,-2,1,4,5
-5,chinese,"""Super Typhoon ""Tammy"" Causes Over 2 Million People in the Philippines to be Affected by Disaster""",negative,0.8709083795547485,-2,1,4,5
-6,chinese,"""Prosecutors File Charges Against Zhong Ziran for Suspected Bribery and Intentional Disclosure of State Secrets According to Law""",negative,0.7366312146186829,-2,1,4,5
-7,chinese,"""Daily Word | The BRICS Mechanism""",neutral,0.8883426189422607,1,1,4,5
-8,chinese,"""Yu Hua Ying's retrial for child trafficking case to be announced today""",neutral,0.7167964577674866,1,1,4,5
-9,chinese,"""2024 World Internet Conference Wuzhen Summit Press Conference Held in Beijing""",neutral,0.9103241562843323,1,1,4,5
+0,chinese,"""Harmony and Justice | Gathering the ""BRICS Power"" to Unite the ""Global South"": Joining Hands to Build a More Fair and Just New International Development Order""",positive,0.620569109916687,2,2,3,5
+1,chinese,"""BRICS and the Global South Cannot Be Absent in Global Security Governance Issues""",neutral,0.5730099081993103,1,2,3,5
+2,chinese,"""Former Director of East Asia Research Institute at New National University States China Sets an Example as a Major Power in its Conduct""",neutral,0.6569094061851501,1,2,3,5
+3,chinese,"""Xinjiang Little Boy's Dance Charms with Radiant Energy""",neutral,0.5464692115783691,1,2,3,5
+4,chinese,"""Taiwan Affairs Office: Lai Ching-te and his ilk deliberately avoid discussing the historical fact of Taiwan's return to China, exposing their nature of seeking independence and appeasing foreign powers""",negative,0.8764230012893677,-2,2,3,5
+5,chinese,"""Former World Bank Economist: Claims of China creating a debt trap in Africa are absurd""",negative,0.8608601689338684,-2,2,3,5
+6,chinese,"""National Absorption of Foreign Investment Reaches 640.6 Billion Yuan""",neutral,0.7452472448348999,1,2,3,5
+7,chinese,"""Steady Operation of Industrial Economy in the First Three Quarters""",positive,0.5735596418380737,2,2,3,5
+8,chinese,Italian Professor: Close Connections between Countries are an Important Force in Dealing with Economic Shocks,neutral,0.4569236934185028,1,2,3,5
+9,chinese,"""Zhao Jinping: No Winners in Trade Protectionism, Large Countries' Intervention Increases Business Costs""",negative,0.7482205629348755,-2,2,3,5
