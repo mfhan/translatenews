@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""[China Now] American Expert from China Daily: The Harmonious Coexistence of All Ethnic Groups in Xinjiang is Heartwarming""",positive,0.7744992971420288,3,3,4,3
-1,chinese,"""Japanese Election Voting Begins, Focus on Whether Ruling Coalition Can Secure Majority Seats""",neutral,0.7365542054176331,1,3,4,3
-2,chinese,"""Biden Responds to Israel's Attack on Iran: Hopes This is the End""",negative,0.6484377980232239,-1,3,4,3
-3,chinese,"""Total exceeds 640 billion US dollars! Increase in foreign investment in RMB bonds shows confidence""",positive,0.7153208255767822,3,3,4,3
-4,chinese,"""China's Large-scale Industrial Enterprises Achieve Profits Exceeding 5 Trillion Yuan in the First 9 Months""",positive,0.6197959780693054,2,3,4,3
-5,chinese,"""Is it true or false that eating too much protein can harm the liver and kidneys? | Debunking the Rumor""",negative,0.8141442537307739,-2,3,4,3
-6,chinese,"""Israeli Army Claims to Have Detected Approximately 190 Rockets Fired from Lebanon towards Israel""",neutral,0.5794904232025146,1,3,4,3
-7,chinese,"""Iran claims 4 soldiers killed in Israeli air strike, some areas suffer ""limited damage""""",negative,0.7717000246047974,-2,3,4,3
-8,chinese,"""Pakistan Checkpoint Targeted by Suicide Bombing Attack""",negative,0.7459515333175659,-2,3,4,3
-9,chinese,"""Zheng Qianwen Advances to the WTA500 Tokyo Final""",neutral,0.7351610064506531,1,3,4,3
+0,chinese,"""All Winter Games Railway Infrastructure Renovation Projects Completed""",neutral,0.5449178218841553,1,1,2,7
+1,chinese,"""Central Bank: Open Market Reverse Repurchase Operations Tool to be Implemented Starting Today""",neutral,0.621681272983551,1,1,2,7
+2,chinese,"""World Opinion: US Media: Polls Repeatedly Show Majority of Americans Support Sensible Gun Laws, But Gun Violence Continues to be Overshadowed by Other Issues""",negative,0.5878108739852905,-1,1,2,7
+3,chinese,"""Accelerating the Exchange of Old for New to Continue Releasing Policy Dividends""",neutral,0.6129260063171387,1,1,2,7
+4,chinese,"""Shi Pomo apologizes for ""black gold"" scandal, accepts criticism from the public and results of congressional election""",negative,0.6741347312927246,-1,1,2,7
+5,chinese,"""Shenzhou-19 Launch Imminent, All Systems Ready""",neutral,0.6500656008720398,1,1,2,7
+6,chinese,"""Navigation Warning! Live Fire Exercises to be Conducted in Parts of Bohai Sea on the 29th and 30th""",neutral,0.8556822538375854,1,1,2,7
+7,chinese,"""Restart of Experimental Removal of Residual Nuclear Fuel from Unit 2 of Fukushima Daiichi Nuclear Power Plant""",neutral,0.8724126815795898,1,1,2,7
+8,chinese,"""National Industrial Enterprises with Annual Revenue Exceeding 5 Trillion Yuan in the First 9 Months""",neutral,0.5377098321914673,1,1,2,7
+9,chinese,"""Multiple Measures to Boost the Vitality of the Ice and Snow Economy, Industry Scale Expected to Exceed One Trillion Yuan Next Year""",positive,0.6616148352622986,2,1,2,7
