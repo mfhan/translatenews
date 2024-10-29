@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""All Winter Games Railway Infrastructure Renovation Projects Completed""",neutral,0.5449178218841553,1,1,2,7
-1,chinese,"""Central Bank: Open Market Reverse Repurchase Operations Tool to be Implemented Starting Today""",neutral,0.621681272983551,1,1,2,7
-2,chinese,"""World Opinion: US Media: Polls Repeatedly Show Majority of Americans Support Sensible Gun Laws, But Gun Violence Continues to be Overshadowed by Other Issues""",negative,0.5878108739852905,-1,1,2,7
-3,chinese,"""Accelerating the Exchange of Old for New to Continue Releasing Policy Dividends""",neutral,0.6129260063171387,1,1,2,7
-4,chinese,"""Shi Pomo apologizes for ""black gold"" scandal, accepts criticism from the public and results of congressional election""",negative,0.6741347312927246,-1,1,2,7
-5,chinese,"""Shenzhou-19 Launch Imminent, All Systems Ready""",neutral,0.6500656008720398,1,1,2,7
-6,chinese,"""Navigation Warning! Live Fire Exercises to be Conducted in Parts of Bohai Sea on the 29th and 30th""",neutral,0.8556822538375854,1,1,2,7
-7,chinese,"""Restart of Experimental Removal of Residual Nuclear Fuel from Unit 2 of Fukushima Daiichi Nuclear Power Plant""",neutral,0.8724126815795898,1,1,2,7
-8,chinese,"""National Industrial Enterprises with Annual Revenue Exceeding 5 Trillion Yuan in the First 9 Months""",neutral,0.5377098321914673,1,1,2,7
-9,chinese,"""Multiple Measures to Boost the Vitality of the Ice and Snow Economy, Industry Scale Expected to Exceed One Trillion Yuan Next Year""",positive,0.6616148352622986,2,1,2,7
+0,chinese,"""Israeli Military Attacks Building in Northern Gaza Strip, Death Toll Rises to 62""",negative,0.6691016554832458,-1,1,3,6
+1,chinese,"""National Autumn Harvest Approaching Its End, Main Production Areas Organizing Grain Collection and Storage Work in an Orderly Manner""",neutral,0.7177798748016357,1,1,3,6
+2,chinese,"""Promoting the Stabilization of the Real Estate Market and Intensifying the Optimization of Policies such as Housing Provident Fund""",positive,0.6713550090789795,2,1,3,6
+3,chinese,"""Nanjing Railway Station: Mechanic of Train D5515 Killed by Collision with Adjacent Train""",negative,0.6896703243255615,-1,1,3,6
+4,chinese,"""Israeli Parliament Passes Two Bills, UN Secretary-General: ""Unacceptable""""",negative,0.8907049298286438,-2,1,3,6
+5,chinese,"""Space Gardens and Smart Homes: What are the ""Little Partners"" Going to the Space Station Together?""",neutral,0.8555352687835693,1,1,3,6
+6,chinese,"""324 Meters! Puruogangri Ice Cap Drilling Obtains the Longest Ice Core from Glaciers in the World's Mid-Low Latitudes""",neutral,0.5527311563491821,1,1,3,6
+7,chinese,"""Shanghai Elderly Health Home Favored by Silver-haired Generation""",neutral,0.5058364868164062,1,1,3,6
+8,chinese,"""Crab Industry's ""Prominent Packaging"" - White Jade Crabs Welcome Mass Production""",neutral,0.7110632061958313,1,1,3,6
+9,chinese,"""Shenzhou 19 Manned Spaceflight Mission: Astronauts Meet with Reporters""",neutral,0.8270813226699829,1,1,3,6
