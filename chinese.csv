@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Israeli Military Attacks Building in Northern Gaza Strip, Death Toll Rises to 62""",negative,0.6691016554832458,-1,1,3,6
-1,chinese,"""National Autumn Harvest Approaching Its End, Main Production Areas Organizing Grain Collection and Storage Work in an Orderly Manner""",neutral,0.7177798748016357,1,1,3,6
-2,chinese,"""Promoting the Stabilization of the Real Estate Market and Intensifying the Optimization of Policies such as Housing Provident Fund""",positive,0.6713550090789795,2,1,3,6
-3,chinese,"""Nanjing Railway Station: Mechanic of Train D5515 Killed by Collision with Adjacent Train""",negative,0.6896703243255615,-1,1,3,6
-4,chinese,"""Israeli Parliament Passes Two Bills, UN Secretary-General: ""Unacceptable""""",negative,0.8907049298286438,-2,1,3,6
-5,chinese,"""Space Gardens and Smart Homes: What are the ""Little Partners"" Going to the Space Station Together?""",neutral,0.8555352687835693,1,1,3,6
-6,chinese,"""324 Meters! Puruogangri Ice Cap Drilling Obtains the Longest Ice Core from Glaciers in the World's Mid-Low Latitudes""",neutral,0.5527311563491821,1,1,3,6
-7,chinese,"""Shanghai Elderly Health Home Favored by Silver-haired Generation""",neutral,0.5058364868164062,1,1,3,6
-8,chinese,"""Crab Industry's ""Prominent Packaging"" - White Jade Crabs Welcome Mass Production""",neutral,0.7110632061958313,1,1,3,6
-9,chinese,"""Shenzhou 19 Manned Spaceflight Mission: Astronauts Meet with Reporters""",neutral,0.8270813226699829,1,1,3,6
+0,chinese,"""Shenzhou 19 Manned Spaceship Successfully Completes Autonomous Fast Rendezvous and Docking with Space Station Module""",positive,0.5205350518226624,2,1,5,4
+1,chinese,"""Countdown of 100 Days until the 9th Asian Winter Games: National Training Teams from Various Countries Actively Prepare""",neutral,0.7536797523498535,1,1,5,4
+2,chinese,"""British Nuclear Submarine Shipyard Catches Fire, Thick Smoke Seen at the Scene""",negative,0.4750763773918152,-1,1,5,4
+3,chinese,"""Japanese Poll Shows Support for Ishiba Cabinet Drops to 51%""",neutral,0.6538944840431213,1,1,5,4
+4,chinese,"""Renovation and Upgrades of Venues for Asian Winter Games Have All Passed Inspection""",neutral,0.8543766140937805,1,1,5,4
+5,chinese,"""Taiwan Affairs Office: Lai Ching-te's Administration's Intensified ""Preparation for Independence"" Will Only Bring Greater Danger to Taiwan""",negative,0.7419361472129822,-2,1,5,4
+6,chinese,"""Chinese Representative Calls for the US to Lift Sanctions on Cuba""",negative,0.5707566738128662,-1,1,5,4
+7,chinese,"""Israeli Army Claims Airstrike on Gaza Khan Younis ""Humanitarian Zone"" Targets Armed Personnel""",negative,0.636023998260498,-1,1,5,4
+8,chinese,"""Transport Canada Lifts Restrictions on Mainland Chinese Airlines""",negative,0.5105619430541992,-1,1,5,4
+9,chinese,"""Son of Prototype Guo Gangtang in Movie ""Lost and Love"" Kidnapping Case to be Retried Today""",neutral,0.49869051575660706,1,1,5,4
