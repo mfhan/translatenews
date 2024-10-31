@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Shenzhou 19 Manned Spaceship Successfully Completes Autonomous Fast Rendezvous and Docking with Space Station Module""",positive,0.5205350518226624,2,1,5,4
-1,chinese,"""Countdown of 100 Days until the 9th Asian Winter Games: National Training Teams from Various Countries Actively Prepare""",neutral,0.7536797523498535,1,1,5,4
-2,chinese,"""British Nuclear Submarine Shipyard Catches Fire, Thick Smoke Seen at the Scene""",negative,0.4750763773918152,-1,1,5,4
-3,chinese,"""Japanese Poll Shows Support for Ishiba Cabinet Drops to 51%""",neutral,0.6538944840431213,1,1,5,4
-4,chinese,"""Renovation and Upgrades of Venues for Asian Winter Games Have All Passed Inspection""",neutral,0.8543766140937805,1,1,5,4
-5,chinese,"""Taiwan Affairs Office: Lai Ching-te's Administration's Intensified ""Preparation for Independence"" Will Only Bring Greater Danger to Taiwan""",negative,0.7419361472129822,-2,1,5,4
-6,chinese,"""Chinese Representative Calls for the US to Lift Sanctions on Cuba""",negative,0.5707566738128662,-1,1,5,4
-7,chinese,"""Israeli Army Claims Airstrike on Gaza Khan Younis ""Humanitarian Zone"" Targets Armed Personnel""",negative,0.636023998260498,-1,1,5,4
-8,chinese,"""Transport Canada Lifts Restrictions on Mainland Chinese Airlines""",negative,0.5105619430541992,-1,1,5,4
-9,chinese,"""Son of Prototype Guo Gangtang in Movie ""Lost and Love"" Kidnapping Case to be Retried Today""",neutral,0.49869051575660706,1,1,5,4
+0,chinese,"""Have You Visited These Famous Chinese Scenic Spots? | The Scroll of Time""",neutral,0.7359461784362793,1,0,4,6
+1,chinese,"""New Leader of Hezbollah Makes First Statement: Will Accept Ceasefire When Conditions Are Suitable""",neutral,0.6763775944709778,1,0,4,6
+2,chinese,"Foreign Media: US and UK Airstrikes Hit Yemen, ""Missiles Strike Near University Area""",negative,0.6843472719192505,-1,0,4,6
+3,chinese,"""Choosing Protectionism is a Wrong Path, EU Will Miss the Future of Green Transformation""",negative,0.9071817398071289,-2,0,4,6
+4,chinese,"""World Gold Council: Global Gold Demand Reaches Record High in Third Quarter""",neutral,0.6005985736846924,1,0,4,6
+5,chinese,"""New Standards for Delisting A-Share Market Value Implemented Since Yesterday, Emphasizing Key Points of Value Investment""",neutral,0.5913442373275757,1,0,4,6
+6,chinese,"""Global Vision Masters: Traveling Through Guizhou is Like Entering a Fairy Tale World""",neutral,0.6261565685272217,1,0,4,6
+7,chinese,"""Kadyrov: Russia has retaliated against Ukrainian military in response to the attack on Chechen military school""",negative,0.8497995734214783,-2,0,4,6
+8,chinese,"""US Military Parts Cost Nearly 80 Times More Than Market Price? Boeing Company in Trouble Again!""",negative,0.8700907230377197,-2,0,4,6
+9,chinese,"""Cultural Relics of National Trend | Enter the Sui and Tang Grand Canal Cultural Museum, Learn about the City of Luoyang, a Glimpse of a Thousand Years""",neutral,0.6471486687660217,1,0,4,6
