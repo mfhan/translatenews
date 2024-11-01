@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Have You Visited These Famous Chinese Scenic Spots? | The Scroll of Time""",neutral,0.7359461784362793,1,0,4,6
-1,chinese,"""New Leader of Hezbollah Makes First Statement: Will Accept Ceasefire When Conditions Are Suitable""",neutral,0.6763775944709778,1,0,4,6
-2,chinese,"Foreign Media: US and UK Airstrikes Hit Yemen, ""Missiles Strike Near University Area""",negative,0.6843472719192505,-1,0,4,6
-3,chinese,"""Choosing Protectionism is a Wrong Path, EU Will Miss the Future of Green Transformation""",negative,0.9071817398071289,-2,0,4,6
-4,chinese,"""World Gold Council: Global Gold Demand Reaches Record High in Third Quarter""",neutral,0.6005985736846924,1,0,4,6
-5,chinese,"""New Standards for Delisting A-Share Market Value Implemented Since Yesterday, Emphasizing Key Points of Value Investment""",neutral,0.5913442373275757,1,0,4,6
-6,chinese,"""Global Vision Masters: Traveling Through Guizhou is Like Entering a Fairy Tale World""",neutral,0.6261565685272217,1,0,4,6
-7,chinese,"""Kadyrov: Russia has retaliated against Ukrainian military in response to the attack on Chechen military school""",negative,0.8497995734214783,-2,0,4,6
-8,chinese,"""US Military Parts Cost Nearly 80 Times More Than Market Price? Boeing Company in Trouble Again!""",negative,0.8700907230377197,-2,0,4,6
-9,chinese,"""Cultural Relics of National Trend | Enter the Sui and Tang Grand Canal Cultural Museum, Learn about the City of Luoyang, a Glimpse of a Thousand Years""",neutral,0.6471486687660217,1,0,4,6
+0,chinese,"""American Scholar: Why is Marxism in China More ""Flexible""?""",negative,0.6900324821472168,-1,3,4,3
+1,chinese,"""New Pricing Mechanism to be Implemented for Commercial Personal Housing Loan Interest Rates""",neutral,0.7786697149276733,1,3,4,3
+2,chinese,"""69.16 Billion People Covered by Medical Insurance Settlement in the First Three Quarters, Safeguarding the Bottom Line of People's Livelihood""",positive,0.6946331858634949,2,3,4,3
+3,chinese,"""Electronic Train Ticket Invoices are Here! Summary: Procedures → Deadline → Replacement → Precautions → Transition Period""",neutral,0.9278604388237,1,3,4,3
+4,chinese,"Greek Experts: ""Little Europe"" with Closed Attitude towards Russia, Suspicion towards America, and Negative Attitude towards China May Face Isolation",negative,0.8786053657531738,-2,3,4,3
+5,chinese,"""[C Finance] China's Economic Development Improves, Achieving Annual Growth Target is Feasible""",positive,0.7970423698425293,3,3,4,3
+6,chinese,"""EU Imposes Additional Tariffs on Electric Cars from China, European Auto Giants ""Fully Devoted"" to Opposing""",negative,0.7079447507858276,-2,3,4,3
+7,chinese,"Finnish President Visits Shanghai: Looking Forward to Deepening Cooperation with China in Green Energy, Trade, and Other Fields",positive,0.7334011793136597,3,3,4,3
+8,chinese,"Typhoon ""Conni"" has caused 3 deaths in Taiwan.",negative,0.7868465185165405,-2,3,4,3
+9,chinese,"""Recap of China's Participation in United Nations Peacekeeping Operations""",neutral,0.7823231220245361,1,3,4,3
