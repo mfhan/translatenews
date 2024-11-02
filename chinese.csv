@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""American Scholar: Why is Marxism in China More ""Flexible""?""",negative,0.6900324821472168,-1,3,4,3
-1,chinese,"""New Pricing Mechanism to be Implemented for Commercial Personal Housing Loan Interest Rates""",neutral,0.7786697149276733,1,3,4,3
-2,chinese,"""69.16 Billion People Covered by Medical Insurance Settlement in the First Three Quarters, Safeguarding the Bottom Line of People's Livelihood""",positive,0.6946331858634949,2,3,4,3
-3,chinese,"""Electronic Train Ticket Invoices are Here! Summary: Procedures → Deadline → Replacement → Precautions → Transition Period""",neutral,0.9278604388237,1,3,4,3
-4,chinese,"Greek Experts: ""Little Europe"" with Closed Attitude towards Russia, Suspicion towards America, and Negative Attitude towards China May Face Isolation",negative,0.8786053657531738,-2,3,4,3
-5,chinese,"""[C Finance] China's Economic Development Improves, Achieving Annual Growth Target is Feasible""",positive,0.7970423698425293,3,3,4,3
-6,chinese,"""EU Imposes Additional Tariffs on Electric Cars from China, European Auto Giants ""Fully Devoted"" to Opposing""",negative,0.7079447507858276,-2,3,4,3
-7,chinese,"Finnish President Visits Shanghai: Looking Forward to Deepening Cooperation with China in Green Energy, Trade, and Other Fields",positive,0.7334011793136597,3,3,4,3
-8,chinese,"Typhoon ""Conni"" has caused 3 deaths in Taiwan.",negative,0.7868465185165405,-2,3,4,3
-9,chinese,"""Recap of China's Participation in United Nations Peacekeeping Operations""",neutral,0.7823231220245361,1,3,4,3
+0,chinese,"""In the New Era, I am in China | Foreign Fans Travel to Gansu and Encounter the Dual Charm of Nature and Culture""",positive,0.563057541847229,2,3,2,5
+1,chinese,"""Medical Insurance Drug Traceability Code Makes Its Debut, Targeting Counterfeit and Recirculated Medicines""",neutral,0.5335227251052856,1,3,2,5
+2,chinese,"""256 Listed Companies on the North Stock Exchange Disclose Third Quarter Reports: Over 80% Profit, Small and Medium Enterprises Show Strong Resilience""",positive,0.5828704833984375,2,3,2,5
+3,chinese,Ministry of Commerce responds to EU sending representatives to China for negotiations on price commitments in anti-subsidy case for electric vehicles.,neutral,0.6116834282875061,1,3,2,5
+4,chinese,"""US Deploys B-52 Bombers and Destroyers to the Middle East""",neutral,0.5013201236724854,1,3,2,5
+5,chinese,"""Residue of Nuclear Fuel from Unit 2 of Japan's Fukushima Daiichi Nuclear Power Plant Removed for the First Time""",neutral,0.5869211554527283,1,3,2,5
+6,chinese,"""UK has no plans to impose tariffs on Chinese electric cars, industry insiders say EU's move is ""short-sighted""""",negative,0.58803391456604,-1,3,2,5
+7,chinese,"""Expert Analysis: Fundamental Differences in Stances of Both Sides in Israeli-Palestinian Conflict, US Mediation Criticized as Superficial""",negative,0.5695059895515442,-1,3,2,5
+8,chinese,"""Pan Zhanle and Tang Qianting advance to the finals! Guide to watching the Singapore leg of the Swimming World Cup today""",positive,0.582240641117096,2,3,2,5
+9,chinese,"""Replacing SMS ""Disguises"" to Bypass Intercepting and ""Bombarding"" Consumers - How to Solve the Problem of Marketing SMS Harassment?""",neutral,0.5358203053474426,1,3,2,5
