@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""In the New Era, I am in China | Foreign Fans Travel to Gansu and Encounter the Dual Charm of Nature and Culture""",positive,0.563057541847229,2,3,2,5
-1,chinese,"""Medical Insurance Drug Traceability Code Makes Its Debut, Targeting Counterfeit and Recirculated Medicines""",neutral,0.5335227251052856,1,3,2,5
-2,chinese,"""256 Listed Companies on the North Stock Exchange Disclose Third Quarter Reports: Over 80% Profit, Small and Medium Enterprises Show Strong Resilience""",positive,0.5828704833984375,2,3,2,5
-3,chinese,Ministry of Commerce responds to EU sending representatives to China for negotiations on price commitments in anti-subsidy case for electric vehicles.,neutral,0.6116834282875061,1,3,2,5
-4,chinese,"""US Deploys B-52 Bombers and Destroyers to the Middle East""",neutral,0.5013201236724854,1,3,2,5
-5,chinese,"""Residue of Nuclear Fuel from Unit 2 of Japan's Fukushima Daiichi Nuclear Power Plant Removed for the First Time""",neutral,0.5869211554527283,1,3,2,5
-6,chinese,"""UK has no plans to impose tariffs on Chinese electric cars, industry insiders say EU's move is ""short-sighted""""",negative,0.58803391456604,-1,3,2,5
-7,chinese,"""Expert Analysis: Fundamental Differences in Stances of Both Sides in Israeli-Palestinian Conflict, US Mediation Criticized as Superficial""",negative,0.5695059895515442,-1,3,2,5
-8,chinese,"""Pan Zhanle and Tang Qianting advance to the finals! Guide to watching the Singapore leg of the Swimming World Cup today""",positive,0.582240641117096,2,3,2,5
-9,chinese,"""Replacing SMS ""Disguises"" to Bypass Intercepting and ""Bombarding"" Consumers - How to Solve the Problem of Marketing SMS Harassment?""",neutral,0.5358203053474426,1,3,2,5
+0,chinese,"""China and the World in Building a High-Level Socialist Market Economy System - The 90th China Reform International Forum Held""",neutral,0.6937918663024902,1,3,2,5
+1,chinese,"""Beijing Zoo's Giant Panda Pavilion Upgrade Completed, Meng Lan Moves into New Home""",neutral,0.48698776960372925,1,3,2,5
+2,chinese,"""Domestically Produced Fruits Gain Popularity in the Market with Strong Performance""",positive,0.8283560872077942,3,3,2,5
+3,chinese,"""Artificial Intelligence: A Double-Edged Sword, How to Ensure ""Security""?""",neutral,0.8374707698822021,1,3,2,5
+4,chinese,"""Former Secretary of the Wan'an County Committee in Shangrao City, Mao Qi, Dismissed from Party Membership and Public Office for Serious Violations of Discipline and Law""",negative,0.7850797176361084,-2,3,2,5
+5,chinese,"""Successful Completion of ""Foreign Media Visits Xi'an"" Event""",positive,0.8423750400543213,3,3,2,5
+6,chinese,"""Successful Release and Stable Life: China Gradually Restores and Rebuilds the Wild Population of Przewalski's Horse, Achieving Fruitful Results""",positive,0.8332198262214661,3,3,2,5
+7,chinese,"""Strong cold air to affect regions north of the middle and lower reaches of the Yangtze River, fog and haze in North China, Huang-Huai and other areas will weaken and dissipate""",negative,0.8179163932800293,-2,3,2,5
+8,chinese,"""South Korea, US, and Japan Hold Joint Air Exercise with Participation of US B-1B Strategic Bombers""",neutral,0.7336567640304565,1,3,2,5
+9,chinese,"""Attention Drivers: New Changes in Electronic Vehicle Registration to be Implemented in Three Phases Nationwide""",neutral,0.8421216607093811,1,3,2,5
