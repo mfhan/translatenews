@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Experts suggest steadily expanding institutionalized opening-up""",neutral,0.5136117935180664,1,5,0,5
-1,chinese,"""Exclusive Interview with Zhang Bin: How to Support the Healthy Recovery of the Capital Market?""",neutral,0.7035184502601624,1,5,0,5
-2,chinese,"""World Looks to CIIE: ""Joining Hands at CIIE, Sharing Opportunities"" - CIIE Helps More Least Developed Countries Integrate into Global Development""",positive,0.681111216545105,2,5,0,5
-3,chinese,"""National Autumn Grain Purchase Intensifies, Steady Progress in Autumn-Winter Planting in Main Production Areas""",positive,0.7062572240829468,3,5,0,5
-4,chinese,"""Monetary Policy Provides Strong Support for Economic Recovery and Improvement""",positive,0.7918295860290527,3,5,0,5
-5,chinese,"""Preview of Shanghai Pavilion at the China International Import Expo""",neutral,0.8924108743667603,1,5,0,5
-6,chinese,"""Approximately 34.6 kilograms! Shenzhou-18 brings back ""space specialties"" involving 28 scientific experiments""",positive,0.4970599412918091,2,5,0,5
-7,chinese,"""China Plans to Amend Laws to Expand the Scope of Kindergarten Enrollment for Children""",neutral,0.48201557993888855,1,5,0,5
-8,chinese,"""Excellent Traditional Culture Breaks Boundaries: How Traditional Opera Attracts Young People in Universities""",positive,0.5852599143981934,2,5,0,5
-9,chinese,"""Ministry of Public Security: Electronic Motor Vehicle Driving Licenses to be Fully Promoted in 3 Batches Nationwide Starting from the 4th""",neutral,0.6927093863487244,1,5,0,5
+0,chinese,"""New and old friends attend the Import Expo as scheduled""",neutral,0.7631881833076477,1,2,0,8
+1,chinese,"""Policy and Market Work Together to Drive Growth in Silver-Age Consumer Market""",positive,0.5560296177864075,2,2,0,8
+2,chinese,"""[C Finance] Meet at the 7th China International Import Expo, Chinese and foreign exhibitors discuss new opportunities in China""",neutral,0.6828387379646301,1,2,0,8
+3,chinese,"""The Key to Solving the Problem Lies in the Hands of the United States""",neutral,0.618158221244812,1,2,0,8
+4,chinese,"""Voting Begins on Election Day for 2024 US Presidential Election""",neutral,0.861985445022583,1,2,0,8
+5,chinese,"""The Import Expo to Share China's Vast Market Opportunities with the World and Promote Mutual Benefit and Win-Win for All Countries""",positive,0.661037266254425,2,2,0,8
+6,chinese,"""J-35A Stealth Multirole Fighter Jet to Debut at Air Show""",neutral,0.7277377247810364,1,2,0,8
+7,chinese,"""At least 7? South Korea and Japan claim North Korea launched ballistic missiles""",neutral,0.5341421365737915,1,2,0,8
+8,chinese,"""Chinese-style Modernization and Cultural Inheritance Development Seminar Held in Beijing""",neutral,0.8413940668106079,1,2,0,8
+9,chinese,"""High-level Political Dialogue between China and Japan Held in Beijing""",neutral,0.7134367823600769,1,2,0,8
