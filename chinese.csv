@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""New and old friends attend the Import Expo as scheduled""",neutral,0.7631881833076477,1,2,0,8
-1,chinese,"""Policy and Market Work Together to Drive Growth in Silver-Age Consumer Market""",positive,0.5560296177864075,2,2,0,8
-2,chinese,"""[C Finance] Meet at the 7th China International Import Expo, Chinese and foreign exhibitors discuss new opportunities in China""",neutral,0.6828387379646301,1,2,0,8
-3,chinese,"""The Key to Solving the Problem Lies in the Hands of the United States""",neutral,0.618158221244812,1,2,0,8
-4,chinese,"""Voting Begins on Election Day for 2024 US Presidential Election""",neutral,0.861985445022583,1,2,0,8
-5,chinese,"""The Import Expo to Share China's Vast Market Opportunities with the World and Promote Mutual Benefit and Win-Win for All Countries""",positive,0.661037266254425,2,2,0,8
-6,chinese,"""J-35A Stealth Multirole Fighter Jet to Debut at Air Show""",neutral,0.7277377247810364,1,2,0,8
-7,chinese,"""At least 7? South Korea and Japan claim North Korea launched ballistic missiles""",neutral,0.5341421365737915,1,2,0,8
-8,chinese,"""Chinese-style Modernization and Cultural Inheritance Development Seminar Held in Beijing""",neutral,0.8413940668106079,1,2,0,8
-9,chinese,"""High-level Political Dialogue between China and Japan Held in Beijing""",neutral,0.7134367823600769,1,2,0,8
+0,chinese,"""Foreigners invite you to visit the CIIE: China is the source of innovation and inspiration""",positive,0.8127849698066711,3,5,1,4
+1,chinese,"""Former Chilean Ambassador to China: BRICS Mechanism Provides Platform for Promoting International System Reform""",neutral,0.5147988796234131,1,5,1,4
+2,chinese,"""Discovery of Geothermal Resources with Temperature Exceeding 188℃: China's Deepest Geothermal Scientific Exploration Well Completed""",positive,0.6463404297828674,2,5,1,4
+3,chinese,"""US Media Estimates Trump Has Secured At Least 270 Electoral Votes""",neutral,0.691044807434082,1,5,1,4
+4,chinese,"""World Looks to CIIE: Meeting at the ""Four-Leaf Clover"" to Share a New Future - Global Exhibitors Excited for China's Open Market""",positive,0.7427425980567932,3,5,1,4
+5,chinese,"""[C Finance] New Expectations for the ""Perfect Attendance"" at the Import Expo""",positive,0.61053866147995,2,5,1,4
+6,chinese,"""China's First National Ecological Conservation and Restoration Report Released Today""",neutral,0.7276676893234253,1,5,1,4
+7,chinese,"""Continued Improvement: Logistics Prosperity Index Rises Month-on-Month in October""",positive,0.5043227076530457,2,5,1,4
+8,chinese,"""China's Private Economy Grows Over 4 Times in 10 Years""",neutral,0.5986886024475098,1,5,1,4
+9,chinese,"""Software Malfunction Occurs: Partial Ballots in Pennsylvania, USA Changed to Manual Counting""",negative,0.6028580069541931,-1,5,1,4
