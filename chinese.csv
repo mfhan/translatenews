@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Foreigners invite you to visit the CIIE: China is the source of innovation and inspiration""",positive,0.8127849698066711,3,5,1,4
-1,chinese,"""Former Chilean Ambassador to China: BRICS Mechanism Provides Platform for Promoting International System Reform""",neutral,0.5147988796234131,1,5,1,4
-2,chinese,"""Discovery of Geothermal Resources with Temperature Exceeding 188℃: China's Deepest Geothermal Scientific Exploration Well Completed""",positive,0.6463404297828674,2,5,1,4
-3,chinese,"""US Media Estimates Trump Has Secured At Least 270 Electoral Votes""",neutral,0.691044807434082,1,5,1,4
-4,chinese,"""World Looks to CIIE: Meeting at the ""Four-Leaf Clover"" to Share a New Future - Global Exhibitors Excited for China's Open Market""",positive,0.7427425980567932,3,5,1,4
-5,chinese,"""[C Finance] New Expectations for the ""Perfect Attendance"" at the Import Expo""",positive,0.61053866147995,2,5,1,4
-6,chinese,"""China's First National Ecological Conservation and Restoration Report Released Today""",neutral,0.7276676893234253,1,5,1,4
-7,chinese,"""Continued Improvement: Logistics Prosperity Index Rises Month-on-Month in October""",positive,0.5043227076530457,2,5,1,4
-8,chinese,"""China's Private Economy Grows Over 4 Times in 10 Years""",neutral,0.5986886024475098,1,5,1,4
-9,chinese,"""Software Malfunction Occurs: Partial Ballots in Pennsylvania, USA Changed to Manual Counting""",negative,0.6028580069541931,-1,5,1,4
+0,chinese,"""Foreigners invite you to visit the China International Import Expo: China is the source of innovation and inspiration""",positive,0.8303307890892029,3,4,1,5
+1,chinese,"""Former Chilean Ambassador to China: BRICS Mechanism Provides Platform for Promoting International System Reform""",neutral,0.5147988796234131,1,4,1,5
+2,chinese,"""UN Committee Passes China's ""Peaceful Utilization of Technology"" Resolution with High Votes Again""",positive,0.48046398162841797,2,4,1,5
+3,chinese,Greek Scholar: Experiencing the Cultural Connections between China and the West in Chinese Archaeological Museums,neutral,0.7159832715988159,1,4,1,5
+4,chinese,"""The Results of the 34th China News Awards and the 18th Yangtze River Taofen Awards Selection Revealed""",neutral,0.9051274657249451,1,4,1,5
+5,chinese,Tickets for the 12th National Traditional Ethnic Minority Sports Games are now on sale.,neutral,0.7813013195991516,1,4,1,5
+6,chinese,"""EU Institutions: 2024 to Become the Hottest Year on Record""",positive,0.7572923302650452,3,4,1,5
+7,chinese,"""Wearing the Five-Star Red Flag, C919 Domestic Large Aircraft Makes Its First Appearance in Macau""",positive,0.5786243081092834,2,4,1,5
+8,chinese,"""Former Secretary of the Party Committee of Shangfang Township, Wannian County, Jiangxi Province, Li Peixia's Case to be Tried Today""",neutral,0.8037095665931702,1,4,1,5
+9,chinese,"""German Free Democratic Party Withdraws from Coalition Government""",negative,0.7213813662528992,-2,4,1,5
