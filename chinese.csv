@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Foreigners invite you to visit the China International Import Expo: China is the source of innovation and inspiration""",positive,0.8303307890892029,3,4,1,5
-1,chinese,"""Former Chilean Ambassador to China: BRICS Mechanism Provides Platform for Promoting International System Reform""",neutral,0.5147988796234131,1,4,1,5
-2,chinese,"""UN Committee Passes China's ""Peaceful Utilization of Technology"" Resolution with High Votes Again""",positive,0.48046398162841797,2,4,1,5
-3,chinese,Greek Scholar: Experiencing the Cultural Connections between China and the West in Chinese Archaeological Museums,neutral,0.7159832715988159,1,4,1,5
-4,chinese,"""The Results of the 34th China News Awards and the 18th Yangtze River Taofen Awards Selection Revealed""",neutral,0.9051274657249451,1,4,1,5
-5,chinese,Tickets for the 12th National Traditional Ethnic Minority Sports Games are now on sale.,neutral,0.7813013195991516,1,4,1,5
-6,chinese,"""EU Institutions: 2024 to Become the Hottest Year on Record""",positive,0.7572923302650452,3,4,1,5
-7,chinese,"""Wearing the Five-Star Red Flag, C919 Domestic Large Aircraft Makes Its First Appearance in Macau""",positive,0.5786243081092834,2,4,1,5
-8,chinese,"""Former Secretary of the Party Committee of Shangfang Township, Wannian County, Jiangxi Province, Li Peixia's Case to be Tried Today""",neutral,0.8037095665931702,1,4,1,5
-9,chinese,"""German Free Democratic Party Withdraws from Coalition Government""",negative,0.7213813662528992,-2,4,1,5
+0,chinese,"""Journalist's Day | Congratulations to Them for Winning the Yangtze River Excellence Award""",positive,0.8944249153137207,3,2,1,7
+1,chinese,"""Former Chilean Ambassador to China: BRICS Mechanism Provides Platform for Promoting International System Reform""",neutral,0.5147988796234131,1,2,1,7
+2,chinese,"""The 15th China International Aviation & Aerospace Exhibition Promo Video is Here!""",neutral,0.8421527743339539,1,2,1,7
+3,chinese,"""Infographic: Hot Demand, Snow and Ice Tours Booked and Ready to Go""",neutral,0.526351273059845,1,2,1,7
+4,chinese,"""Chinese Coast Guard Fleet Conducts Patrol in Diaoyu Islands Territorial Waters on November 8th""",neutral,0.8259685635566711,1,2,1,7
+5,chinese,"""Partial Tickets Sold Out, What Other Tickets Can You Buy at the China Airshow Venue? Guide →""",neutral,0.888254702091217,1,2,1,7
+6,chinese,"""Japanese ruling coalition suffers defeat in House of Representatives election, political situation in turmoil as Shinzo Abe's administration faces challenges""",negative,0.8956269025802612,-2,2,1,7
+7,chinese,"""National Enterprise Sales Revenue Increases by 1.3 Percentage Points Month-on-Month in October""",neutral,0.5065924525260925,1,2,1,7
+8,chinese,"""Winter has arrived, what new opportunities will there be for the ice and snow economy this year?""",positive,0.4801599085330963,2,2,1,7
+9,chinese,"""Federal Reserve Lowers Federal Funds Rate Target Range by 25 Basis Points""",neutral,0.5093075633049011,1,2,1,7
