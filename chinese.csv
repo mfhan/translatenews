@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Journalist's Day | Congratulations to Them for Winning the Yangtze River Excellence Award""",positive,0.8944249153137207,3,2,1,7
-1,chinese,"""Former Chilean Ambassador to China: BRICS Mechanism Provides Platform for Promoting International System Reform""",neutral,0.5147988796234131,1,2,1,7
-2,chinese,"""The 15th China International Aviation & Aerospace Exhibition Promo Video is Here!""",neutral,0.8421527743339539,1,2,1,7
-3,chinese,"""Infographic: Hot Demand, Snow and Ice Tours Booked and Ready to Go""",neutral,0.526351273059845,1,2,1,7
-4,chinese,"""Chinese Coast Guard Fleet Conducts Patrol in Diaoyu Islands Territorial Waters on November 8th""",neutral,0.8259685635566711,1,2,1,7
-5,chinese,"""Partial Tickets Sold Out, What Other Tickets Can You Buy at the China Airshow Venue? Guide →""",neutral,0.888254702091217,1,2,1,7
-6,chinese,"""Japanese ruling coalition suffers defeat in House of Representatives election, political situation in turmoil as Shinzo Abe's administration faces challenges""",negative,0.8956269025802612,-2,2,1,7
-7,chinese,"""National Enterprise Sales Revenue Increases by 1.3 Percentage Points Month-on-Month in October""",neutral,0.5065924525260925,1,2,1,7
-8,chinese,"""Winter has arrived, what new opportunities will there be for the ice and snow economy this year?""",positive,0.4801599085330963,2,2,1,7
-9,chinese,"""Federal Reserve Lowers Federal Funds Rate Target Range by 25 Basis Points""",neutral,0.5093075633049011,1,2,1,7
+0,chinese,"""Journalist's Day | Congratulations to Them for Winning the Yangtze River Courageous Award""",positive,0.8850400447845459,3,2,1,7
+1,chinese,"""Former Deputy Prime Minister of Poland: China's Economic System is Effective, While the West is Still Waiting for its ""Collapse""""",neutral,0.4694131314754486,1,2,1,7
+2,chinese,"""Navy to Organize First Participation in China International Aviation and Aerospace Exhibition, Multiple Types of In-Service Equipment to Make First Public Appearance""",neutral,0.5287740230560303,1,2,1,7
+3,chinese,"""National Household Appliance Trade-In Program Surpasses 20 Million Participants and 30 Million Purchased Units""",neutral,0.7014681696891785,1,2,1,7
+4,chinese,"""Exciting End to the China International Import Expo as Companies Sign Deals for Purchasing""",positive,0.7575505971908569,3,2,1,7
+5,chinese,"""National Cultural Heritage Administration: 56 Lost Cultural Relics and Artworks Returned to the Motherland""",neutral,0.5396207571029663,1,2,1,7
+6,chinese,"""Explosion at a Train Station in Pakistan Leaves 24 Dead""",negative,0.7706483006477356,-2,2,1,7
+7,chinese,"""Long March 8 Rocket Expected to Carry Out First Flight Mission by the End of the Year""",neutral,0.7082076072692871,1,2,1,7
+8,chinese,"""The Only Flight Performance Team Using Heavy Fighter Jets! Russia's ""Warriors"" Conduct First Adaptability Training""",neutral,0.49280837178230286,1,2,1,7
+9,chinese,"""77,000 Fires Reported Nationwide from January to October This Year, with a Higher Incidence of Residential Fires in Self-built Houses""",neutral,0.6231696605682373,1,2,1,7
