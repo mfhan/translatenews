@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Journalist's Day | Congratulations to Them for Winning the Yangtze River Courageous Award""",positive,0.8850400447845459,3,2,1,7
-1,chinese,"""Former Deputy Prime Minister of Poland: China's Economic System is Effective, While the West is Still Waiting for its ""Collapse""""",neutral,0.4694131314754486,1,2,1,7
-2,chinese,"""Navy to Organize First Participation in China International Aviation and Aerospace Exhibition, Multiple Types of In-Service Equipment to Make First Public Appearance""",neutral,0.5287740230560303,1,2,1,7
-3,chinese,"""National Household Appliance Trade-In Program Surpasses 20 Million Participants and 30 Million Purchased Units""",neutral,0.7014681696891785,1,2,1,7
-4,chinese,"""Exciting End to the China International Import Expo as Companies Sign Deals for Purchasing""",positive,0.7575505971908569,3,2,1,7
-5,chinese,"""National Cultural Heritage Administration: 56 Lost Cultural Relics and Artworks Returned to the Motherland""",neutral,0.5396207571029663,1,2,1,7
-6,chinese,"""Explosion at a Train Station in Pakistan Leaves 24 Dead""",negative,0.7706483006477356,-2,2,1,7
-7,chinese,"""Long March 8 Rocket Expected to Carry Out First Flight Mission by the End of the Year""",neutral,0.7082076072692871,1,2,1,7
-8,chinese,"""The Only Flight Performance Team Using Heavy Fighter Jets! Russia's ""Warriors"" Conduct First Adaptability Training""",neutral,0.49280837178230286,1,2,1,7
-9,chinese,"""77,000 Fires Reported Nationwide from January to October This Year, with a Higher Incidence of Residential Fires in Self-built Houses""",neutral,0.6231696605682373,1,2,1,7
+0,chinese,"""Former Polish Deputy Prime Minister: China's Economic System Proven Effective, While the West is Still Waiting for its ""Collapse""""",negative,0.4670533537864685,-1,2,2,6
+1,chinese,"""First Public Release! Standard Names of Some Islands and Reefs in the South China Sea Announced in China""",neutral,0.8423332571983337,1,2,2,6
+2,chinese,"""15th China International Aviation and Aerospace Exhibition to Open Soon, Multiple Fighter Jets to Have Intense ""Warm-up""""",neutral,0.49100372195243835,1,2,2,6
+3,chinese,"""Swiss Ambassador to China: Economic and Trade Cooperation between Switzerland and China Will Become Even Closer""",positive,0.5576170086860657,2,2,2,6
+4,chinese,"""Researchers in China discover new species in Guizhou""",neutral,0.553195059299469,1,2,2,6
+5,chinese,"""Expo Cultural Exchange Activities Showcase Area Reaches Record High""",neutral,0.6793656945228577,1,2,2,6
+6,chinese,"German Media: China-EU Electric Car Tariff Negotiations ""Make Technical Progress""",positive,0.5278728008270264,2,2,2,6
+7,chinese,"""Deposit Interest Rates Fall Below 2%: Are Large Bank Deposits Still Attractive?""",neutral,0.6709223985671997,1,2,2,6
+8,chinese,"""Fifteenth National Games Releases Slogan, Emblem, and Mascot""",neutral,0.8512591123580933,1,2,2,6
+9,chinese,"""National Fire Safety Month | Beware of Electric Bicycles with ""Explosive Temperament"" Batteries""",negative,0.5677051544189453,-1,2,2,6
