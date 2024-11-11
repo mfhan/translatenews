@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Polish Deputy Prime Minister: China's Economic System Proven Effective, While the West is Still Waiting for its ""Collapse""""",negative,0.4670533537864685,-1,2,2,6
-1,chinese,"""First Public Release! Standard Names of Some Islands and Reefs in the South China Sea Announced in China""",neutral,0.8423332571983337,1,2,2,6
-2,chinese,"""15th China International Aviation and Aerospace Exhibition to Open Soon, Multiple Fighter Jets to Have Intense ""Warm-up""""",neutral,0.49100372195243835,1,2,2,6
-3,chinese,"""Swiss Ambassador to China: Economic and Trade Cooperation between Switzerland and China Will Become Even Closer""",positive,0.5576170086860657,2,2,2,6
-4,chinese,"""Researchers in China discover new species in Guizhou""",neutral,0.553195059299469,1,2,2,6
-5,chinese,"""Expo Cultural Exchange Activities Showcase Area Reaches Record High""",neutral,0.6793656945228577,1,2,2,6
-6,chinese,"German Media: China-EU Electric Car Tariff Negotiations ""Make Technical Progress""",positive,0.5278728008270264,2,2,2,6
-7,chinese,"""Deposit Interest Rates Fall Below 2%: Are Large Bank Deposits Still Attractive?""",neutral,0.6709223985671997,1,2,2,6
-8,chinese,"""Fifteenth National Games Releases Slogan, Emblem, and Mascot""",neutral,0.8512591123580933,1,2,2,6
-9,chinese,"""National Fire Safety Month | Beware of Electric Bicycles with ""Explosive Temperament"" Batteries""",negative,0.5677051544189453,-1,2,2,6
+0,chinese,"""Former Deputy Prime Minister of Poland: China's Economic System is Effective, While the West is Still Waiting for its ""Collapse""""",neutral,0.4694131314754486,1,4,0,6
+1,chinese,"""China's Green Loans Maintain Rapid Growth in the First Three Quarters""",positive,0.6810247302055359,2,4,0,6
+2,chinese,"""Economy Rebounds in the Fourth Quarter, High-Frequency Data Shows Increase in Investment and Consumption""",neutral,0.6064881682395935,1,4,0,6
+3,chinese,"""[C Finance] Chinese and foreign exhibitors reap multiple benefits: Expanding ""circle of friends"" and strengthening ""business circle""""",positive,0.7656302452087402,3,4,0,6
+4,chinese,"""Chinese Version of Spacecraft Appears at China International Aviation and Aerospace Exhibition""",neutral,0.8883318901062012,1,4,0,6
+5,chinese,"""Pre-school Education Law to be Implemented Next Year, Ministry of Education Interprets!""",neutral,0.6823556423187256,1,4,0,6
+6,chinese,"""Our country's research team successfully developed an environmentally friendly generator rapid circuit breaker""",positive,0.7639167308807373,3,4,0,6
+7,chinese,"""One Belt, One Road"" Joint Construction Project Lands in Algeria, Chinese Enterprises Build Railway Sleeper Factory Officially Put into Production",neutral,0.618873655796051,1,4,0,6
+8,chinese,"""The 15th China International Aviation Exhibition: ""Rainbow Family"" Continues to Expand""",neutral,0.6231075525283813,1,4,0,6
+9,chinese,"""Summer Palace showcases its collection of colorful glazed porcelain""",positive,0.6545347571372986,2,4,0,6
