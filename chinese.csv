@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Former Deputy Prime Minister of Poland: China's Economic System is Effective, While the West is Still Waiting for its ""Collapse""""",neutral,0.4694131314754486,1,4,0,6
-1,chinese,"""China's Green Loans Maintain Rapid Growth in the First Three Quarters""",positive,0.6810247302055359,2,4,0,6
-2,chinese,"""Economy Rebounds in the Fourth Quarter, High-Frequency Data Shows Increase in Investment and Consumption""",neutral,0.6064881682395935,1,4,0,6
-3,chinese,"""[C Finance] Chinese and foreign exhibitors reap multiple benefits: Expanding ""circle of friends"" and strengthening ""business circle""""",positive,0.7656302452087402,3,4,0,6
-4,chinese,"""Chinese Version of Spacecraft Appears at China International Aviation and Aerospace Exhibition""",neutral,0.8883318901062012,1,4,0,6
-5,chinese,"""Pre-school Education Law to be Implemented Next Year, Ministry of Education Interprets!""",neutral,0.6823556423187256,1,4,0,6
-6,chinese,"""Our country's research team successfully developed an environmentally friendly generator rapid circuit breaker""",positive,0.7639167308807373,3,4,0,6
-7,chinese,"""One Belt, One Road"" Joint Construction Project Lands in Algeria, Chinese Enterprises Build Railway Sleeper Factory Officially Put into Production",neutral,0.618873655796051,1,4,0,6
-8,chinese,"""The 15th China International Aviation Exhibition: ""Rainbow Family"" Continues to Expand""",neutral,0.6231075525283813,1,4,0,6
-9,chinese,"""Summer Palace showcases its collection of colorful glazed porcelain""",positive,0.6545347571372986,2,4,0,6
+0,chinese,"""[C Finance] ""Double 11"" in 16 years: New Connotation, New Engine, New Momentum""",neutral,0.5669382810592651,1,3,2,5
+1,chinese,"""The Ancient Bronze Lion of Venice is Very Chinese""",negative,0.5660679340362549,-1,3,2,5
+2,chinese,"""Schulz Hopes to Hold Dialogue with Putin as Soon as Possible, Russia Responds""",neutral,0.5440235137939453,1,3,2,5
+3,chinese,"""Kim Jong Un Approves North Korea-Russia Comprehensive Strategic Partnership Treaty""",positive,0.5720271468162537,2,3,2,5
+4,chinese,"""Focusing on New Productive Forces: Many Regions Targeting High-Demand Talent in Emerging Industries for Fall Recruitment""",positive,0.502792239189148,2,3,2,5
+5,chinese,"""First-home mortgage interest rates in some regions return to the ""3"" digit range""",neutral,0.6941686272621155,1,3,2,5
+6,chinese,"""Memorial Service for Legendary Chinese Actress Cheng Pei-pei to be Held in New York""",positive,0.5530660152435303,2,3,2,5
+7,chinese,"""Air China and Commercial Aircraft Corporation of China sign global first user framework agreement for C929 aircraft""",neutral,0.6414070129394531,1,3,2,5
+8,chinese,"""What Peruvian Foods are Available at Chinese Supermarkets?""",neutral,0.8703930377960205,1,3,2,5
+9,chinese,"""The ancient bronze lion in Venice is very Chinese""",negative,0.5106769800186157,-1,3,2,5
