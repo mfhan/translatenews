@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Strong APEC Atmosphere on the Streets of Lima, Peru""",neutral,0.47809886932373047,1,2,1,7
-1,chinese,"""New ""Light Arrow"" and ""Sky Shield"" series of laser security equipment unveiled at Zhuhai Airshow""",neutral,0.7019968032836914,1,2,1,7
-2,chinese,"""New Special Bond Issuance Reaches 3.9 Trillion, Supporting Investment Expansion for People's Livelihood""",positive,0.6591960787773132,2,2,1,7
-3,chinese,"""Meeting the New Demand for Consumption: ""Ice and Snow+"" Model Ignites ""Hot Economy"" in Multiple Areas""",neutral,0.5343475341796875,1,2,1,7
-4,chinese,"""Chang'e 6 Lunar Soil Samples Debut at China International Aviation and Aerospace Exhibition, First Time Displayed to Domestic Audience""",neutral,0.7294737100601196,1,2,1,7
-5,chinese,"""Lunar Bricks to Travel to Space! Conducting Space Exposure Experiment, Returning to Earth by the End of 2025""",neutral,0.6761916875839233,1,2,1,7
-6,chinese,"""Peruvian Cuisine Turns Out to Have Chinese Flavors?""",neutral,0.6020147204399109,1,2,1,7
-7,chinese,"""Efficiently Implementing the ""Outstanding Teacher Program"" for Employment of Teacher Candidates""",positive,0.7665679454803467,3,2,1,7
-8,chinese,"""Widespread Rainfall in Central and Eastern China, Unusual Warmth in Southern Regions""",negative,0.5514427423477173,-1,2,1,7
-9,chinese,"""Concerning A-shares! Intensive Regulatory Voices, What Signals?""",neutral,0.7736919522285461,1,2,1,7
+0,chinese,"""Chinese Coast Guard Conducts Law Enforcement Patrols in the Waters Surrounding China's Huangyan Island""",neutral,0.5974135994911194,1,3,0,7
+1,chinese,"""Discussing Future Currency Cooperation: ""Global South"" Currency Financing and Innovation Seminar Held in Brazil""",neutral,0.8674488663673401,1,3,0,7
+2,chinese,"""China's Express Delivery Development Index Increases by 21.1% Year-on-Year in October""",neutral,0.6767924427986145,1,3,0,7
+3,chinese,"""Multiple Tax Policy Adjustments Benefit Real Estate Market""",neutral,0.9014585018157959,1,3,0,7
+4,chinese,"""Fujian Investment No.1 Leads the New Trend of Marine Economy""",positive,0.7123492956161499,3,3,0,7
+5,chinese,"""Peruvian Youth: Fascinated by the Fusion of Tradition and Modernity in Beijing""",positive,0.6959554553031921,2,3,0,7
+6,chinese,"""Through the Lens of Comics: Focusing on Climate Change""",neutral,0.823876142501831,1,3,0,7
+7,chinese,"""From Qian Kai to Shanghai, let's get to know this port""",neutral,0.5270445346832275,1,3,0,7
+8,chinese,"""Multiple Tax Policies Adjusted! Promoting Stable and Healthy Development of the Real Estate Market""",positive,0.5973027944564819,2,3,0,7
+9,chinese,"""China's Express Delivery Development Index Increases by 21.1% in October""",neutral,0.6640236973762512,1,3,0,7
