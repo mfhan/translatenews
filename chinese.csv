@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Coast Guard Conducts Law Enforcement Patrols in the Waters Surrounding China's Huangyan Island""",neutral,0.5974135994911194,1,3,0,7
-1,chinese,"""Discussing Future Currency Cooperation: ""Global South"" Currency Financing and Innovation Seminar Held in Brazil""",neutral,0.8674488663673401,1,3,0,7
-2,chinese,"""China's Express Delivery Development Index Increases by 21.1% Year-on-Year in October""",neutral,0.6767924427986145,1,3,0,7
-3,chinese,"""Multiple Tax Policy Adjustments Benefit Real Estate Market""",neutral,0.9014585018157959,1,3,0,7
-4,chinese,"""Fujian Investment No.1 Leads the New Trend of Marine Economy""",positive,0.7123492956161499,3,3,0,7
-5,chinese,"""Peruvian Youth: Fascinated by the Fusion of Tradition and Modernity in Beijing""",positive,0.6959554553031921,2,3,0,7
-6,chinese,"""Through the Lens of Comics: Focusing on Climate Change""",neutral,0.823876142501831,1,3,0,7
-7,chinese,"""From Qian Kai to Shanghai, let's get to know this port""",neutral,0.5270445346832275,1,3,0,7
-8,chinese,"""Multiple Tax Policies Adjusted! Promoting Stable and Healthy Development of the Real Estate Market""",positive,0.5973027944564819,2,3,0,7
-9,chinese,"""China's Express Delivery Development Index Increases by 21.1% in October""",neutral,0.6640236973762512,1,3,0,7
+0,chinese,"Peruvian Youth: Enchanting Beijing, a Fusion of Tradition and Modernity",positive,0.8448243141174316,3,3,0,7
+1,chinese,"""Peruvian Economist Identifies Key Points for China-Peru Cooperation""",neutral,0.6275436282157898,1,3,0,7
+2,chinese,"""[C Finance] Policy Effects Boost Confidence and Effectively Promote Economic Recovery and Improvement""",positive,0.7345563173294067,3,3,0,7
+3,chinese,"""[C Finance] National Economy Shows Steady Progress in October, Main Economic Indicators See Significant Improvement""",positive,0.7927356362342834,3,3,0,7
+4,chinese,"""Exploring the Infinite Possibilities of Dehua White Porcelain through the Myriad Weather of Fujian""",neutral,0.5186004638671875,1,3,0,7
+5,chinese,"""Cultural Fusion between China and Peru: Chifa Blends More than Just Delicious Flavors""",neutral,0.6363846063613892,1,3,0,7
+6,chinese,"""Over 100,000 Trains of China-Europe Freight Train Services Launched, Delivering More Than 11 Million TEUs of Goods""",neutral,0.5107648372650146,1,3,0,7
+7,chinese,"""What are the highlights of the economy in October? National Bureau of Statistics: Three rebounds, two stabilizations, one boost""",neutral,0.583283007144928,1,3,0,7
+8,chinese,"""Total Issuance Reaches 1 Trillion Yuan! Ministry of Finance Issues Third Round of Ultra-Long-Term Special Bonds for the Sixth Time This Year""",neutral,0.7167060971260071,1,3,0,7
+9,chinese,"""Urban Village Renovation Policy Support Expanded to Nearly 300 Prefecture-level and Above Cities""",neutral,0.5292326807975769,1,3,0,7
