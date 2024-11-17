@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Blending of Chinese and Peruvian Cultures: Peruvians Also Celebrate Spring Festival""",neutral,0.6080978512763977,1,2,2,6
-1,chinese,"""Lebanon Conflict Continues, Iran Expresses Support for Any Ceasefire Decision by Lebanon""",negative,0.4904855787754059,-1,2,2,6
-2,chinese,"""International Atomic Energy Agency Director General Grossi Visits Iranian Nuclear Facilities""",neutral,0.8407009243965149,1,2,2,6
-3,chinese,"""China Federation of Logistics and Purchasing: China Remains the World's Largest Market for Logistics Demand""",positive,0.489903062582016,2,2,2,6
-4,chinese,"""Is drinking cola effective for dissolving stomach stones? | Science popularization time""",neutral,0.7561384439468384,1,2,2,6
-5,chinese,"""Daily Word | International Zero Carbon Island Cooperation Initiative""",neutral,0.858160138130188,1,2,2,6
-6,chinese,"""Blending of Chinese and Peruvian Cultures: Chinese Peruvians Referred to as ""Native-born""""",neutral,0.6348749995231628,1,2,2,6
-7,chinese,"""Tropical Storm ""Sara"" Strikes, Honduras Declares National Emergency""",negative,0.7995520830154419,-2,2,2,6
-8,chinese,"""Trump Announces Caroline Levitt as the Youngest White House Press Secretary in History""",positive,0.5061286687850952,2,2,2,6
-9,chinese,"""Scandinavian Airlines Plane Encounters Severe Turbulence, Plummets About 2500 Meters""",neutral,0.5275506973266602,1,2,2,6
+0,chinese,"""Chinese Electric Bikes are Popular in South America! Miss: Students Can Also Get Them Cheap""",positive,0.5829624533653259,2,4,3,3
+1,chinese,"""Foreign Ministry Introduces Details of China-US Presidential Meeting: Both Sides Continue to Contribute to the Building of the China-US Relationship""",positive,0.5675899386405945,2,4,3,3
+2,chinese,"""Israeli Military Attacks Gaza and Lebanon, Lebanese Government to Respond to Latest Ceasefire Proposal Next Week""",negative,0.6263754367828369,-1,4,3,3
+3,chinese,"""Trump Nominates Chris Wright as Energy Secretary""",neutral,0.6360688805580139,1,4,3,3
+4,chinese,"""Comprehensive Measures in Real Estate Policies Show Results""",neutral,0.7824286818504333,1,4,3,3
+5,chinese,"""Two Innovative Tools Enhance the Intrinsic Stability of the Capital Market""",positive,0.6457117795944214,2,4,3,3
+6,chinese,"""How to Choose Soy Products? | Eat Your Way to Health""",neutral,0.8340739607810974,1,4,3,3
+7,chinese,"""Traffic Accident in Taipei City Leaves 1 Dead and Over 20 Injured""",negative,0.7389375567436218,-2,4,3,3
+8,chinese,"""New Energy Surpasses Coal Power, Becomes the Largest Source of Electricity in Jiangsu""",positive,0.6907740831375122,2,4,3,3
+9,chinese,"""Explosion Heard in Kiev, Ukraine""",negative,0.5354800224304199,-1,4,3,3
