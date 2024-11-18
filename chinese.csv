@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Electric Bikes are Popular in South America! Miss: Students Can Also Get Them Cheap""",positive,0.5829624533653259,2,4,3,3
-1,chinese,"""Foreign Ministry Introduces Details of China-US Presidential Meeting: Both Sides Continue to Contribute to the Building of the China-US Relationship""",positive,0.5675899386405945,2,4,3,3
-2,chinese,"""Israeli Military Attacks Gaza and Lebanon, Lebanese Government to Respond to Latest Ceasefire Proposal Next Week""",negative,0.6263754367828369,-1,4,3,3
-3,chinese,"""Trump Nominates Chris Wright as Energy Secretary""",neutral,0.6360688805580139,1,4,3,3
-4,chinese,"""Comprehensive Measures in Real Estate Policies Show Results""",neutral,0.7824286818504333,1,4,3,3
-5,chinese,"""Two Innovative Tools Enhance the Intrinsic Stability of the Capital Market""",positive,0.6457117795944214,2,4,3,3
-6,chinese,"""How to Choose Soy Products? | Eat Your Way to Health""",neutral,0.8340739607810974,1,4,3,3
-7,chinese,"""Traffic Accident in Taipei City Leaves 1 Dead and Over 20 Injured""",negative,0.7389375567436218,-2,4,3,3
-8,chinese,"""New Energy Surpasses Coal Power, Becomes the Largest Source of Electricity in Jiangsu""",positive,0.6907740831375122,2,4,3,3
-9,chinese,"""Explosion Heard in Kiev, Ukraine""",negative,0.5354800224304199,-1,4,3,3
+0,chinese,"""Surprisingly, Guangzhou's Ship Found Among Historical Relics in Sino-Pakistani Relations!""",positive,0.626492977142334,2,4,2,4
+1,chinese,"""How much do Brazilians know about China? This street interview video will surprise you.""",neutral,0.5865707397460938,1,4,2,4
+2,chinese,"""Japanese Prime Minister Absent from APEC 'Family Photo', Reason is...""",negative,0.7500587105751038,-2,4,2,4
+3,chinese,"""This president can handle it! He personally delivers midnight snacks to Chinese workers""",positive,0.6458530426025391,2,4,2,4
+4,chinese,"""Snowy Owls Migrate to Xin Barhu Youqi for Winter, Attracting Attention with Hunting and Playful Scenes""",positive,0.5491705536842346,2,4,2,4
+5,chinese,"""Russia-China Mutual Cooperation ""Blossoming"" Forum Focuses on Deepening Cooperation""",neutral,0.6770492196083069,1,4,2,4
+6,chinese,"""【Overseas Perspective】Brazilian Confucius Institute Director: Looking Forward to Great Success at G20 Summit""",positive,0.7265415191650391,3,4,2,4
+7,chinese,"""20th Anniversary Commemoration Conference of Confucius Institute Held in Beijing""",neutral,0.7765044569969177,1,4,2,4
+8,chinese,"""Severe Crackdown on Refusal to Carry Out Criminal Acts, ""Two Highs"" Jointly Issue Judicial Interpretation""",negative,0.8383193016052246,-2,4,2,4
+9,chinese,"""China's Express Delivery Volume Exceeds 150 Billion for the First Time in a Year - Did You Contribute?""",neutral,0.6613314151763916,1,4,2,4
