@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Surprisingly, Guangzhou's Ship Found Among Historical Relics in Sino-Pakistani Relations!""",positive,0.626492977142334,2,4,2,4
-1,chinese,"""How much do Brazilians know about China? This street interview video will surprise you.""",neutral,0.5865707397460938,1,4,2,4
-2,chinese,"""Japanese Prime Minister Absent from APEC 'Family Photo', Reason is...""",negative,0.7500587105751038,-2,4,2,4
-3,chinese,"""This president can handle it! He personally delivers midnight snacks to Chinese workers""",positive,0.6458530426025391,2,4,2,4
-4,chinese,"""Snowy Owls Migrate to Xin Barhu Youqi for Winter, Attracting Attention with Hunting and Playful Scenes""",positive,0.5491705536842346,2,4,2,4
-5,chinese,"""Russia-China Mutual Cooperation ""Blossoming"" Forum Focuses on Deepening Cooperation""",neutral,0.6770492196083069,1,4,2,4
-6,chinese,"""【Overseas Perspective】Brazilian Confucius Institute Director: Looking Forward to Great Success at G20 Summit""",positive,0.7265415191650391,3,4,2,4
-7,chinese,"""20th Anniversary Commemoration Conference of Confucius Institute Held in Beijing""",neutral,0.7765044569969177,1,4,2,4
-8,chinese,"""Severe Crackdown on Refusal to Carry Out Criminal Acts, ""Two Highs"" Jointly Issue Judicial Interpretation""",negative,0.8383193016052246,-2,4,2,4
-9,chinese,"""China's Express Delivery Volume Exceeds 150 Billion for the First Time in a Year - Did You Contribute?""",neutral,0.6613314151763916,1,4,2,4
+0,chinese,"""Chinese Red on the Beaches of Rio""",neutral,0.8139340877532959,1,2,1,7
+1,chinese,"""How well do Brazilians know China? This street interview video will surprise you.""",neutral,0.43787336349487305,1,2,1,7
+2,chinese,"""Master Shiyongxin: Providing Zen Wisdom for Global Climate Action""",positive,0.6120575070381165,2,2,1,7
+3,chinese,"""2024 China Tennis Tour ""Aoyu Comprehensive"" Professional Level Finals and National Tennis Singles Championship Officially Opens""",neutral,0.8090996742248535,1,2,1,7
+4,chinese,"""Liu Zhenmin: China Upholds the Stance of Developing Countries and Multilateralism""",positive,0.5743096470832825,2,2,1,7
+5,chinese,"""Junior Children's Football Friendship Tournament Held in Beijing by Foreign Diplomatic Delegation""",neutral,0.856654703617096,1,2,1,7
+6,chinese,"""Can't Take Medicine Before Physical Examination... Is It True or False? | Rumor Debunked""",neutral,0.5511154532432556,1,2,1,7
+7,chinese,"""Beijing City Cancels Standards for Ordinary and Non-Ordinary Housing""",negative,0.7802163362503052,-2,2,1,7
+8,chinese,"""Urban Village Renovation Policy Expands to Cover Nearly 300 Prefecture-level and Above Cities""",neutral,0.5581369996070862,1,2,1,7
+9,chinese,"""Daily Word | Inclusive and Beneficial Economic Globalization""",neutral,0.7304350137710571,1,2,1,7
