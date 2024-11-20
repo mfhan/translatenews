@@ -1,11 +1,11 @@
 ,language,text,label,score,categ_score,positive,negative,neutral
-0,chinese,"""Chinese Red on the Beaches of Rio""",neutral,0.8139340877532959,1,2,1,7
-1,chinese,"""How well do Brazilians know China? This street interview video will surprise you.""",neutral,0.43787336349487305,1,2,1,7
-2,chinese,"""Master Shiyongxin: Providing Zen Wisdom for Global Climate Action""",positive,0.6120575070381165,2,2,1,7
-3,chinese,"""2024 China Tennis Tour ""Aoyu Comprehensive"" Professional Level Finals and National Tennis Singles Championship Officially Opens""",neutral,0.8090996742248535,1,2,1,7
-4,chinese,"""Liu Zhenmin: China Upholds the Stance of Developing Countries and Multilateralism""",positive,0.5743096470832825,2,2,1,7
-5,chinese,"""Junior Children's Football Friendship Tournament Held in Beijing by Foreign Diplomatic Delegation""",neutral,0.856654703617096,1,2,1,7
-6,chinese,"""Can't Take Medicine Before Physical Examination... Is It True or False? | Rumor Debunked""",neutral,0.5511154532432556,1,2,1,7
-7,chinese,"""Beijing City Cancels Standards for Ordinary and Non-Ordinary Housing""",negative,0.7802163362503052,-2,2,1,7
-8,chinese,"""Urban Village Renovation Policy Expands to Cover Nearly 300 Prefecture-level and Above Cities""",neutral,0.5581369996070862,1,2,1,7
-9,chinese,"""Daily Word | Inclusive and Beneficial Economic Globalization""",neutral,0.7304350137710571,1,2,1,7
+0,chinese,"""US Embassy in Kyiv: Possible Major Airstrike Alert, Embassy to Close""",negative,0.5143225789070129,-1,4,3,3
+1,chinese,"""5.1 Magnitude Earthquake Strikes Aomori Prefecture, Japan, Strongly Felt in Multiple Areas""",negative,0.6795769333839417,-1,4,3,3
+2,chinese,"""Economic Major Province Accelerates Implementation of Incremental Policies for Visible Results""",positive,0.6486051678657532,2,4,3,3
+3,chinese,"""Beijing, Shanghai, and Shenzhen Cancel General and Non-General Housing Standards""",neutral,0.6922447085380554,1,4,3,3
+4,chinese,"""Winners of the ""World Internet Conference Outstanding Contribution Award"" Announced""",positive,0.575567364692688,2,4,3,3
+5,chinese,"""Winners of the ""World Internet Conference Outstanding Contribution Award"" Revealed""",neutral,0.5260869264602661,1,4,3,3
+6,chinese,"""Ukrainian Military First Uses US Army Tactical Missiles to Attack Russian Mainland, Russian Defense Ministry: 5 Missiles Shot Down""",negative,0.7462783455848694,-2,4,3,3
+7,chinese,"""Gathering in Langfang, Together Creating a New Chapter of Culture in Beijing-Tianjin-Hebei""",positive,0.5238022208213806,2,4,3,3
+8,chinese,"""Daily Word | Deep-Ocean Drilling Vessel""",neutral,0.8422466516494751,1,4,3,3
+9,chinese,"""China calls on international community to respect Libya's judicial sovereignty and promote peace and stability""",positive,0.449571818113327,2,4,3,3
